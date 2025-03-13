@@ -1,0 +1,34 @@
+For Ukrainian:
+
+from transliterate import translit
+
+text = "Новим міністром Великої Британії у Brexit став Стівен Барклі, повідомили у п'ятницю в уряді країни. Королева була рада схвалити призначення Стівена Барклі на посаду міністра із виходу з Європейського союзу, - йдеться в повідомленні, опублікованому на офіційній сторінці британського уряду в Twitter. На цій посаді він замінив Домініка Рабе, який пішов з посади через розбіжності щодо проекту Brexit угоди. С.Барклі досі обіймав посаду в міністерстві охорони здоров'я Великобританії."
+romanized_text = translit(text, 'uk', reversed=True)
+print(romanized_text)
+
+Output:
+
+Novym ministrom Velykoyi Brytaniyi u Brexit stav Stiven Barkli, povidomyly u p'jatnytsju v urjadi krayiny. Koroleva bula rada skhvalyty pryznachennja Stivena Barkli na posadu ministra iz vykhodu z Yevropejs'koho sojuzu, - jdet'sja v povidomlenni, opublikovanomu na ofitsijnij storintsi brytans'koho urjadu v Twitter. Na tsij posadi vin zaminyv Dominika Rabe, jakyj pishov z posady cherez rozbizhnosti shchodo proektu Brexit uhody. S.Barkli dosi obijmav posadu v ministerstvi okhorony zdorov'ja Velykobrytaniyi.
+
+
+For Bulgarian
+
+Version with transliterate:
+
+from transliterate import translit
+
+text = "цитира германското външно министерство да казва, че води преговори с пакистанските власти да позволи на Биби и на семейството й да напуснат страната. Тя бе осъдена на смърт от окръжен съд през 2010 г. за предполагаемо изричане на богохулни слова по време на кавга с мюсюлманка. Върховният съд я оправда на 31 октомври и нареди за незабавното й освобождаване. Съдебното решение предизвика тридневни протести в няколко града, организирани от ислямистката партия Техрик-и-лабаик. Биби не може да напусне Пакистан, тъй като е внесена подписка за преразглеждане на присъдата."
+romanized_text = translit(text, 'bg', reversed=True)
+print(romanized_text)
+
+Output:
+
+tsitira germanskoto vanshno ministerstvo da kazva, che vodi pregovori s pakistanskite vlasti da pozvoli na Bibi i na semeystvoto y da napusnat stranata. Tya be osadena na smart ot okrazhen sad prez 2010 g. za predpolagaemo izrichane na bogohulni slova po vreme na kavga s myusyulmanka. Varhovniyat sad ya opravda na 31 oktomvri i naredi za nezabavnoto y osvobozhdavane. Sadebnoto reshenie predizvika tridnevni protesti v nyakolko grada, organizirani ot islyamistkata partiya Tehrik-i-labaik. Bibi ne mozhe da napusne Pakistan, tay kato e vnesena podpiska za prerazglezhdane na prisadata.
+
+Version with pytils:
+from pytils.translit import translify
+
+Output:
+tsitira germanskoto v`nshno ministerstvo da kazva, che vodi pregovori s pakistanskite vlasti da pozvoli na Bibi i na semejstvoto j da napusnat stranata. Tya be os`dena na sm`rt ot okr`zhen s`d prez 2010 g. za predpolagaemo izrichane na bogohulni slova po vreme na kavga s myusyulmanka. V`rhovniyat s`d ya opravda na 31 oktomvri i naredi za nezabavnoto j osvobozhdavane. S`debnoto reshenie predizvika tridnevni protesti v nyakolko grada, organizirani ot islyamistkata partiya Tehrik-i-labaik. Bibi ne mozhe da napusne Pakistan, t`j kato e vnesena podpiska za prerazglezhdane na pris`data.
+
+

@@ -1,0 +1,9 @@
+https://bsnlp.cs.helsinki.fi/bsnlp-2021/shared-task.html - Link to the origin of the data
+
+
+
+ChatGPT responses for research question for
+Plan A:
+"How does cross-lingual transfer performance vary between Eastern and Southern Slavic languages, and how does it compare to a baseline model?"
+Plan B: 
+"How does the performance of models trained on English and Slavic languages (Cyrillic and Latin-based) compare, and what impact does the alphabet have on their performance?"
