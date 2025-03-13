@@ -1,0 +1,46 @@
+067
+Америка	Америка	LOC	GPE-USA
+Американците	американци	PER	GPE-USA
+Америката	Америка	LOC	GPE-USA
+Америки	Америки	LOC	GPE-USA
+Аризона	Аризона	LOC	GPE-Arizona
+БНР	БНР	ORG	ORG-Bulgarian-National-Radio
+Байдън	Байдън	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+България	България	LOC	GPE-Bulgaria
+Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Европа	Европа	LOC	LOC-Europe
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Западна	Западна Европа	LOC	LOC-Western-Europe
+Иван Кръстев	Иван Кръстев	PER	PER-Ivan-Krastev
+Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+Института по по хуманитарни и социални науки във Виена	Институт по хуманитарни и социални науки във Виена	ORG	ORG-Vienna-Institute-for-Human-Sciences
+Иран	Иран	LOC	GPE-Iran
+Китай	Китай	LOC	GPE-China
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Политически некоректно	Политически некоректно	PRO	PRO-Politicheski-Nekorektno
+Полша	Полша	LOC	GPE-Poland
+Първата световна война	Първа световна война	EVT	EVT-World-War-I
+Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+Републиканската	Републиканска	ORG	ORG-Republican-Party-USA
+САЩ	САЩ	LOC	GPE-USA
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Сената	Сенат	ORG	ORG-United-States-Senate
+Сенатът	Сенат	ORG	ORG-United-States-Senate
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Унгария	Унгария	LOC	GPE-Hungary
+Уолстрийт джърнъл	Уолстрийт джърнъл	PRO	PRO-Wall-Street-Journal
+Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+Хилъри Клинтън	Хилъри Клинтън	PER	PER-Hillary-Clinton
+Центъра за либерални стратегии	Център за либерални стратегии	ORG	ORG-Center-for-Liberal-Strategies-BG
+американци	американци	PER	GPE-USA
+американците	американци	PER	GPE-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+коронавируса	коронавирус	EVT	EVT-Covid-19
+президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+републиканците	републиканци	PER	ORG-Republican-Party-USA

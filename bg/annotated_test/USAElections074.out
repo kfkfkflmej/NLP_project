@@ -1,0 +1,26 @@
+074
+Байдън	Байдън	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Белия дом	Белия дом	LOC	LOC-White-House
+Валери Джарет	Валери Джарет	PER	PER-Valerie-Jarrett
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Голямата стара партия	Голяма стара партия	ORG	ORG-Republican-Party-USA
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+Сената	Сенат	ORG	ORG-United-States-Senate
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Туитър	Туитър	PRO	PRO-Twitter
+Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+Холивуд	Холивуд	LOC	GPE-Hollywood
+американци	американци	PER	GPE-USA
+американците	американци	PER	GPE-USA
+горната камара	Горна камара	ORG	ORG-United-States-Senate
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+либералите	либерали	PER	ORG-Democratic-Party-USA
+републиканци	републиканци	PER	ORG-Republican-Party-USA
+републиканците	републиканци	PER	ORG-Republican-Party-USA
+центристите	центристи	PER	ORG-Republican-Party-USA

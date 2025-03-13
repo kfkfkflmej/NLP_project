@@ -1,0 +1,17 @@
+053
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Белия дом	LOC	LOC-White-House
+Вашингтон пост	Вашингтон пост	PRO	PRO-Washington-Post
+Джоузеф Байдън	Джоузеф Байдън	PER	PER-Joe-Biden
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Изборите в САЩ	избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+Камарата на представителите на САЩ	Камара на представителите на САЩ	ORG	ORG-House-of-Representatives(USA)
+Конгреса	Конгрес	ORG	ORG-United-States-Congress
+САЩ	САЩ	LOC	GPE-USA
+Сената	Сенат	ORG	ORG-United-States-Senate
+Тръмп	Тръмп	PER	PER-Donald-Trump
+демократа	демократ	PER	ORG-Democratic-Party-USA
+избирателната колегия	избирателна колегия	ORG	ORG-United-States-Electoral-College
+президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+републиканецът	републиканец	PER	ORG-Republican-Party-USA
+републиканци	републиканци	PER	ORG-Republican-Party-USA

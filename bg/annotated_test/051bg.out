@@ -1,0 +1,30 @@
+051
+B.1.1.7	B.1.1.7	EVT	EVT-B.1.1.7
+PCR тест	PCR тест	PRO	PRO-PCR-Test
+Австралия	Австралия	LOC	GPE-Australia
+Антонио Зпатеро	Антонио Запатеро	PER	PER-Antonio-Zapatero
+Баден-Вюртемберг	Баден-Вюртемберг	LOC	GPE-Baden-Württemberg
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Германия	Германия	LOC	GPE-Germany
+Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+Запатеро	Запатеро	PER	PER-Antonio-Zapatero
+Испания	Испания	LOC	GPE-Spain
+Ковид-19	КОВИД-19	EVT	EVT-Covid-19
+Лондон	Лондон	LOC	GPE-London
+Мадрид	Мадрид	LOC	GPE-Madrid
+Никей	Никей	PRO	PRO-Nikkei
+Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+Родриго Дутерте	Родриго Дутерте	PER	PER-Rodrigo-Duterte
+Сингапур	Сингапур	LOC	GPE-Singapore
+Средиземно море	Средиземно море	LOC	LOC-Mediterranean-Sea
+Тур	Тур	LOC	GPE-Tours
+Филипините	Филипини	LOC	GPE-Republic-of-the-Philippines
+Фор дьо Брегансон	Фор дьо Брегансон	LOC	LOC-Fort-de-Brégançon
+Франкфурт на Майн	Франкфурт на Майн	LOC	GPE-Frankfurt-am-Main
+Франция	Франция	LOC	GPE-France
+Хонконг	Хонконг	LOC	GPE-Hong-Kong
+Швеция	Швеция	LOC	GPE-Sweden
+Япония	Япония	LOC	GPE-Japan
+здравното министерство в Париж	Здравно министерство в Париж	ORG	ORG-Ministry-of-Health-France
+коронавируса	коронавирус	EVT	EVT-Covid-19
+шведското здравно министерство	шведско здравно министерство	ORG	ORG-Ministry-of-Health-and-Social-Affairs-Sweden

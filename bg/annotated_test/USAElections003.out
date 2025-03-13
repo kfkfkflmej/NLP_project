@@ -1,0 +1,37 @@
+003
+Асошиейтед прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+Атланта	Атланта	LOC	GPE-Atlanta
+Байдън	Байдън	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Белия дом	Белия дом	LOC	LOC-White-House
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Ипсос	Ипсос	ORG	ORG-Ipsos-Institute
+Китай	Китай	LOC	GPE-China
+Лансинг	Лансинг	LOC	GPE-Lansing
+Майкъл Макдоналд	Майкъл Макдоналд	PER	PER-Michael-McDonald
+Мичиган	Мичиган	LOC	GPE-Michigan
+НАФТА	НАФТА	PRO	PRO-North-American-Free-Trade-Agreement
+Небраска	Небраска	LOC	GPE-Nebraska
+Обама	Обама	PER	PER-Barack-Obama
+Орландо	Орландо	LOC	GPE-Orlando
+Проекта "Американски избори"	Проект "Американски избори"	PRO	PRO-United-States-Elections-Project
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+САЩ	САЩ	LOC	GPE-USA
+СТО	СТО	ORG	ORG-WTO-World-Trade-Organization
+Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+Северноамериканското споразумение за свободна търговия	Северноамериканско споразумение за свободна търговия	PRO	PRO-North-American-Free-Trade-Agreement
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+Университета на Флорида	Университет на Флорида	ORG	ORG-University-of-Florida
+Уорм Спрингс	Уорм Спрингс	LOC	GPE-Warm-Springs
+Флорида	Флорида	LOC	GPE-Florida
+демократ	демократ	PER	ORG-Democratic-Party-USA
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+коронавирус	коронавирус	EVT	EVT-Covid-19
+републиканец	републиканец	PER	ORG-Republican-Party-USA
+републиканци	републиканци	PER	ORG-Republican-Party-USA
+републиканците	републиканци	PER	ORG-Republican-Party-USA

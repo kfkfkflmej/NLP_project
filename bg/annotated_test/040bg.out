@@ -1,0 +1,11 @@
+040
+COVID-19	COVID-19	EVT	EVT-Covid-19
+PCR тест	PCR тест	PRO	PRO-PCR-Test
+Гърция	Гърция	LOC	GPE-Greece
+НАП	НАП	ORG	ORG-National-Revenue-Agency-of-the-Republic-of-Bulgaria
+Националната агенция за приходите (НАП)	Национална агенция за приходите (НАП)	ORG	ORG-National-Revenue-Agency-of-the-Republic-of-Bulgaria
+българското посолство в Атина	българско посолство в Атина	ORG	ORG-Embassy-of-Bulgaria-in-Athens
+здравното министерство	здравно министерство	ORG	ORG-Ministry-of-Health-Bulgaria
+коронавирус	коронавирус	EVT	EVT-Covid-19
+приходната агенция	приходна агенция	ORG	ORG-National-Revenue-Agency-of-the-Republic-of-Bulgaria
+формуляр за локализиране на пътници (PLF)	формуляр за локализиране на пътници (PLF)	PRO	PRO-Passenger-Locator-Form

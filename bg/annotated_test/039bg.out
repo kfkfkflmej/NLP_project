@@ -1,0 +1,22 @@
+039
+COVID-19	COVID-19	EVT	EVT-Covid-19
+PCR теста	PCR теста	PRO	PRO-PCR-Test
+PCR	PCR	PRO	PRO-PCR-Test
+Бойко Борисов	Бойко Борисов	PER	PER-Boyko-Borisov
+Борисов	Борисов	PER	PER-Boyko-Borisov
+България	България	LOC	GPE-Bulgaria
+Венцислав Мутафчийски	Венцислав Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+Европейския съюз (ЕС)	Европейски съюз (ЕС)	ORG	ORG-European-Union
+Испания	Испания	LOC	GPE-Spain
+Министерски съвет	Министерски съвет	ORG	ORG-Council-of-Ministers-Bulgaria
+Министерството на здравеопазването	Министерство на здравеопазването	ORG	ORG-Ministry-of-Health-Bulgaria
+Мутафчийски	Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+Националния оперативен щаб	Национален оперативен щаб	ORG	ORG-National-operational-quaters-Bulgaria
+Националният оперативен щаб	Национален оперативен щаб	ORG	ORG-National-operational-quaters-Bulgaria
+САЩ	САЩ	LOC	GPE-USA
+Сливен	Сливен	LOC	GPE-Sliven
+Тодор Кантарджиев	Тодор Кантарджиев	PER	PER-Todor-Kantardzhiev
+Швеция	Швеция	LOC	GPE-Sweden
+Щаба	Щаб	ORG	ORG-National-operational-quaters-Bulgaria
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19

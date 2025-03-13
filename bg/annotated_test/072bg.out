@@ -1,0 +1,28 @@
+072
+АП	АП	ORG	ORG-AP-The-Associated-Press
+АФП	АФП	ORG	ORG-France-Presse
+Англия	Англия	LOC	GPE-England
+Астра Зенека	Астра Зенека	ORG	ORG-AstraZeneca
+Бионтех	Бионтех	ORG	ORG-BioNTech
+Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+Британците	британци	PER	GPE-Great-Britain
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Гоув	Гоув	PER	PER-Michael-Gove
+ДПА	ДПА	ORG	ORG-DPA
+Джонсън	Джонсън	PER	PER-Boris-Johnson
+КОВИД-19	КОВИД-19	EVT	EVT-Covid-19
+Ковид-19	КОВИД-19	EVT	EVT-Covid-19
+Ковид	КОВИД-19	EVT	EVT-Covid-19
+Майкъл Гоув	Майкъл Гоув	PER	PER-Michael-Gove
+Националната здравна служба	Национална здравна служба	ORG	ORG-National-Health-Service-UK
+Никола Стърджън	Никола Стърджън	PER	PER-Nicola-Sturgeon
+Оксфордския университет	Оксфордски университет	ORG	ORG-University-of-Oxford
+Пфайзер	Пфайзер	ORG	ORG-Pfizer
+Риши Сунак	Риши Сунак	PER	PER-Rishi-Sunak
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Уелс	Уелс	LOC	GPE-Wales
+Франс прес	Франс прес	ORG	ORG-France-Presse
+Шотландия	Шотландия	LOC	GPE-Scotland
+британците	британци	PER	GPE-Great-Britain
+коронавируса	коронавирус	EVT	EVT-Covid-19

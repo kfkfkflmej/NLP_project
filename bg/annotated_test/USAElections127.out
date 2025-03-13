@@ -1,0 +1,35 @@
+127
+Twitter	Twitter	PRO	PRO-Twitter
+Белия дом	Белия дом	LOC	LOC-White-House
+Брок Пиърс	Брок Пиърс	PER	PER-Brock-Pierce
+Върмонт	Върмонт	LOC	GPE-Vermont
+Гари Джонсън	Гари Джонсън	PER	PER-Gary-Johnson
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Деня на независимостта на Америка	Ден на независимостта на Америка	EVT	EVT-Independence-Day
+Джил Стайн	Джил Стайн	PER	PER-Jill-Stein
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джо Йоргенсен	Джо Йоргенсен	PER	PER-Jo-Jorgensen
+Дон Бланкеншип	Дон Бланкеншип	PER	PER-Don-Blankenship
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Зелената партия	Зелена партия	ORG	ORG-Green-Party-of-the-United-States
+Кание Уест	Кание Уест	PER	PER-Kanye-West
+Ким Кардашиян	Ким Кардашиян	PER	PER-Kim-Kardashian
+Колорадо	Колорадо	LOC	GPE-Colorado
+Либертарианската партия	Либертарианска партия	ORG	ORG-Libertarian-Party-USA
+Мичиган	Мичиган	LOC	GPE-Michigan
+Могъщите патици	Могъщите патици	PRO	PRO-The-Mighty-Ducks
+Ню Мексико	Ню Мексико	LOC	GPE-New-Mexico
+Партията за социализъм и освобождение	Партия за социализъм и освобождение	ORG	ORG-Party-for-Socialism-and-Liberation
+Партията на алианса	Партия на алианса	ORG	ORG-Alliance-Party-USA
+Партията на конституцията	Партия на конституцията	ORG	ORG-Constitution-Party-USA
+Партията на сухия режим	Партия на сухия режим	ORG	ORG-Prohibition-Party-USA
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Първо дете	Първо дете	PRO	PRO-First-Kid
+САЩ	САЩ	LOC	GPE-USA
+Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+Фил Колинс	Фил Колинс	PER	PER-Phil-Collins
+Хауи Хокинс	Хауи Хокинс	PER	PER-Howie-Hawkins
+Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+демократите	демократи	PER	ORG-Democratic-Party-USA
+калифорниец	калифорниец	PER	GPE-California
+републиканците	републиканци	PER	ORG-Republican-Party-USA

@@ -1,0 +1,30 @@
+056
+BioNTech	BioNTech	ORG	ORG-BioNTech
+FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+Pfizer	Pfizer	ORG	ORG-Pfizer
+mRNA	mRNA	PRO	PRO-mRNA-Vaccine
+Агенцията за контрол на храните и лекарствата FDA	Агенция за контрол на храните и лекарствата FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+Агенцията за контрол на храните и лекарствата	Агенция за контрол на храните и лекарствата	ORG	ORG-FDA-Food-and-Drug-Administration
+Американската агенция за контрол на храните и лекарствата (FDA)	Американска агенция за контрол на храните и лекарствата (FDA)	ORG	ORG-FDA-Food-and-Drug-Administration
+Американците	американци	PER	GPE-USA
+Байдън	Байдън	PER	PER-Joe-Biden
+Бахрейн	Бахрейн	LOC	GPE-Kingdom-of-Bahrain
+Белият дом	Белият дом	LOC	LOC-White-House
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+ЕС	ЕС	ORG	ORG-European-Union
+Европейската агенция по лекарствата (Ema)	Европейска агенция по лекарствата (Ema)	ORG	ORG-EMA-European-Medicines-Agency
+Канада	Канада	LOC	GPE-Canada
+Мексико	Мексико	LOC	GPE-Мexico
+Ню Йорк Таймс	Ню Йорк Таймс	PRO	PRO-The-New-York-Times
+Пърл Харбър	Пърл Харбър	LOC	LOC-Pearl-Harbor
+САЩ	САЩ	LOC	GPE-USA
+Саудитска Арабия	Саудитска Арабия	LOC	GPE-Saudi-Arabia
+Стивън Хан	Стивън Хан	PER	PER-Stephen-Hahn
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Туитър	Туитър	PRO	PRO-Twitter
+Хан	Хан	PER	PER-Stephen-Hahn
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+университетът "Джонс Хопкинс"	университет "Джонс Хопкинс"	ORG	ORG-Johns-Hopkins-University

@@ -1,0 +1,19 @@
+086
+CNN	CNN	PRO	PRO-CNN
+Fox News	Fox News	PRO	PRO-Fox-News
+news.bg	news.bg	PRO	PRO-News.bg
+Андрю Бейтс	Андрю Бейтс	PER	PER-Andrew-Bates
+Аризона	Аризона	LOC	GPE-Arizona
+Асошиейтед прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Белия дом	LOC	LOC-White-House
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Мат Морган	Мат Морган	PER	PER-Matt-Morgan
+Морган	Морган	PER	PER-Matt-Morgan
+Невада	Невада	LOC	GPE-Nevada
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+САЩ	САЩ	LOC	GPE-USA
+Тръмп	Тръмп	PER	PER-Donald-Trump
+президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election

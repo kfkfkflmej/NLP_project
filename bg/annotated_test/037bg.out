@@ -1,0 +1,27 @@
+037
+Financial Times	Financial Times	PRO	PRO-Financial-Times
+Volvo Cars	Volvo Cars	ORG	ORG-Volvo-Cars
+Volvo Trucks	Volvo Trucks	ORG	ORG-Volvo-Trucks
+Австралия	Австралия	LOC	GPE-Australia
+Андерс Тегнел	Андерс Тегнел	PER	PER-Anders-Tegnell
+Белгия	Белгия	LOC	GPE-Belgium
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Голямата пандемия от 2020 г.	Голяма пандемия от 2020 г.	EVT	EVT-Pandemic
+Дания	Дания	LOC	GPE-Denmark
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Испания	Испания	LOC	GPE-Spain
+Италия	Италия	LOC	GPE-Italy
+Нова Зеландия	Нова Зеландия	LOC	GPE-New-Zealand
+Норвегия	Норвегия	LOC	GPE-Norway
+Стокхолм	Стокхолм	LOC	GPE-Stockholm
+Тайван	Тайван	LOC	GPE-Taiwan
+Финландия	Финландия	LOC	GPE-Finland
+Франция	Франция	LOC	GPE-France
+Шведите	шведи	PER	GPE-Sweden
+Швеция	Швеция	LOC	GPE-Sweden
+Южна Корея	Южна Корея	LOC	GPE-South-Korea
+втора вълна на инфекцията	втора вълна на инфекцията	EVT	EVT-COVID-19-second-wave
+коронавируса	коронавирус	EVT	EVT-Covid-19
+южноевропейците	южноевропейци	PER	GPE-South-Europe

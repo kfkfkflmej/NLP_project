@@ -1,0 +1,14 @@
+048
+Белия дом	Белия дом	LOC	LOC-White-House
+Демократите	демократи	PER	ORG-Democratic-Party-USA
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+САЩ	САЩ	LOC	GPE-USA
+Тръмп	Тръмп	PER	PER-Donald-Trump
+американските избиратели	американски избиратели	PER	GPE-USA
+американският народ	американски народ	PER	GPE-USA
+американци	американци	PER	GPE-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+коронавирус	коронавирус	EVT	EVT-Covid-19
+пандемия	пандемия	EVT	EVT-Pandemic
+републиканците	републиканци	PER	ORG-Republican-Party-USA
+смъртоносният вирус	смъртоносен вирус	EVT	EVT-Covid-19

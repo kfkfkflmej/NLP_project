@@ -1,0 +1,20 @@
+061
+Американци	американци	PER	GPE-USA
+Аризона	Аризона	LOC	GPE-Arizona
+Атланта	Атланта	LOC	GPE-Atlanta
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Белия дом	LOC	LOC-White-House
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+ДПА	ДПА	ORG	ORG-DPA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Маями	Маями	LOC	GPE-Miami
+Невада	Невада	LOC	GPE-Nevada
+Ню Йорк	Ню Йорк	LOC	GPE-New-York
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+Филаделфия	Филаделфия	LOC	GPE-Philadelphia
+Фрийдъм Тауър	Фрийдъм Тауър	LOC	LOC-Freedom-Tower
+демократа	демократ	PER	ORG-Democratic-Party-USA
+президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election

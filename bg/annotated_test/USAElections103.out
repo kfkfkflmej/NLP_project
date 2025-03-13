@@ -1,0 +1,48 @@
+103
+Breitbrat	Breitbrat	PRO	PRO-Breitbart-News
+Covid-19	COVID-19	EVT	EVT-Covid-19
+Fox News Channel (Фокс Нюз)	Fox News Channel (Фокс Нюз)	PRO	PRO-Fox-News
+Fox News Channel	Fox News Channel	PRO	PRO-Fox-News
+Hannity	Hannity	PRO	PRO-Hannity
+MSNBC	MSNBC	PRO	PRO-MSNBC-TV
+Pew Research Center	Pew Research Center	ORG	ORG-Pew-research-center
+RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+Special Report with Bret Baier	Special Report with Bret Baier	PRO	PRO-Special-Report-with-Bret-Baier
+The Five	The Five	PRO	PRO-The-Five
+The Ingraham Angle	The Ingraham Angle	PRO	PRO-The-Ingraham-Angle
+The Rachel Maddow Show	The Rachel Maddow Show	PRO	PRO-The-Rachel-Maddow-Show
+Tucker Carlson Tonight	Tucker Carlson Tonight	PRO	PER-Tucker-Carlson-Tonight
+Wall Street Journal	Wall Street Journal	PRO	PRO-Wall-Street-Journal
+Америка	Америка	LOC	GPE-USA
+Байдън	Байдън	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Белия дом	Белия дом	LOC	LOC-White-House
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Джаред Къшнър	Джаред Къшнър	PER	PER-Jared-Kushner
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Държавния департамент	Държавен департамент	ORG	ORG-Department-of-State-USA
+Иран	Иран	LOC	GPE-Iran
+Карлсън	Карлсън	PER	PER-Tucker-Carlson
+Китай	Китай	LOC	GPE-China
+Клинтън	Клинтън	PER	PER-Hillary-Clinton
+Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+Мартин Табаков	Мартин Табаков	PER	PER-Martin-Tabakov
+Мексико	Мексико	LOC	GPE-Мexico
+Нийл Кавуто	Нийл Кавуто	PER	PER-Neil-Cavuto
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+Русия	Русия	LOC	GPE-Russia
+Ръш Лимбо	Ръш Лимбо	PER	PER-Rush-Limbaugh
+САЩ	САЩ	LOC	GPE-USA
+Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Тъкър Карлсън	Тъкър Карлсън	PER	PER-Tucker-Carlson
+Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+Фокс	Фокс	PRO	PRO-Fox-News
+Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+демократа	демократ	PER	ORG-Democratic-Party-USA
+демократи	демократи	PER	ORG-Democratic-Party-USA
+републиканеца	републиканец	PER	ORG-Republican-Party-USA
+републиканци	републиканци	PER	ORG-Republican-Party-USA
+туитър	Туитър	PRO	PRO-Twitter

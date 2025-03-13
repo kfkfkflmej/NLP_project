@@ -1,0 +1,20 @@
+078
+Covid-19	COVID-19	EVT	EVT-Covid-19
+БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+Белгия	Белгия	LOC	GPE-Belgium
+Босна	Босна	LOC	GPE-Bosnia-and-Herzegovina
+Бразилия	Бразилия	LOC	GPE-Brazil
+Европа	Европа	LOC	LOC-Europe
+Индия	Индия	LOC	GPE-India
+Италия	Италия	LOC	GPE-Italy
+Канада	Канада	LOC	GPE-Canada
+Карибите	Кариби	LOC	GPE-Caribbean
+Латинска Америка	Латинска Америка	LOC	LOC-Latin-America
+Мексико	Мексико	LOC	GPE-Мexico
+Република Северна Македония	Република Северна Македония	LOC	GPE-North-Macedonia
+САЩ	САЩ	LOC	GPE-USA
+Северна Америка	Северна Америка	LOC	LOC-North-America
+Словения	Словения	LOC	GPE-Slovenia
+Франс прес	Франс прес	ORG	ORG-France-Presse
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19

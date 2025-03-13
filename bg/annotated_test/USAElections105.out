@@ -1,0 +1,26 @@
+105
+Америка	Америка	LOC	GPE-USA
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Белия дом	LOC	LOC-White-House
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джон Рокфелер	Джон Рокфелер	PER	PER-John-Rockefeler
+Джулиан Асанж	Джулиан Асанж	PER	PER-Julian-Assange
+Дмитрий Минин	Дмитрий Минин	PER	PER-Dmitrii-Minin
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Поглед.инфо	Поглед.инфо	PRO	PRO-Pogled.info
+Пол Манафорт	Пол Манафорт	PER	PER-Paul-Manafort
+Путин	Путин	PER	PER-Vladimir-Putin
+Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+Републиканците	републиканци	PER	ORG-Republican-Party-USA
+САЩ	САЩ	LOC	GPE-USA
+Стандарт Ойл	Стандарт Ойл	ORG	ORG-Standard-Oil
+Съединените щати	Съединени щати	LOC	GPE-USA
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Уикилийкс	Уикилийкс	PRO	PRO-Wikileaks
+Фейсбук	Фейсбук	PRO	PRO-Facebook
+Фокс Нюз	Фокс Нюз	PRO	PRO-Fox-News
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+коронавируса	коронавирус	EVT	EVT-Covid-19
+републиканците	републиканци	PER	ORG-Republican-Party-USA

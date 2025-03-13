@@ -1,0 +1,20 @@
+029
+Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+Covid-19	COVID-19	EVT	EVT-Covid-19
+Агенцията за гражданска защита	Агенция за гражданска защита	ORG	ORG-Agency-for-civil-protection
+Берлин	Берлин	LOC	GPE-Berlin
+Германците	германци	PER	GPE-Germany
+Джулио Галера	Джулио Галера	PER	PER-Giulio-Galera
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Европейския механизъм за стабилност	Европейски механизъм за стабилност	PRO	PRO-EU-mechanism-for-stability
+Италия	Италия	LOC	GPE-Italy
+Ломбардия	Ломбардия	LOC	GPE-Lombardy
+Националния здравен институт на Италия	Национален здравен институт на Италия	ORG	ORG-National-health-institute-Italy
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+Силвио Брусаферо	Силвио Брусаферо	PER	PER-Silvio-Brusafero
+еврозоната	Еврозона	LOC	LOC-Eurozone
+епидемия от респираторното заболяване	епидемия от респираторното заболяване	EVT	EVT-Epidemic
+епидемията	епидемия	EVT	EVT-Epidemic
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусната епидемия	коронавирусна епидемия	EVT	EVT-Covid-19
+спасителния фонд на еврозоната	спасителен фонд на еврозоната	PRO	PRO-Rescue-Fund-EU

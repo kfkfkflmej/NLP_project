@@ -1,0 +1,22 @@
+074
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+Novavax	Novavax	ORG	ORG-Novavax
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Германия	Германия	LOC	GPE-Germany
+ЕК	ЕК	ORG	ORG-European-Commission
+ЕС	ЕС	ORG	ORG-European-Union
+Европейската агенция по лекарствата	Европейска агенция по лекарствата	ORG	ORG-EMA-European-Medicines-Agency
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Йозлем Тюреджи	Йозлем Тюреджи	PER	PER-Ozlem-Tureci
+Комисията	Комисия	ORG	ORG-European-Commission
+Меркел	Меркел	PER	PER-Angela-Merkel
+САЩ	САЩ	LOC	GPE-USA
+Угур Шахин	Угур Шахин	PER	PER-Ugur-Sahin
+Урсула фон дер Лайен	Урсула фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+ковид	КОВИД-19	EVT	EVT-Covid-19
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19

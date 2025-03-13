@@ -1,0 +1,48 @@
+095
+Айова	Айова	LOC	GPE-Iowa
+Алабама	Алабама	LOC	GPE-USA-Alabama
+Америка	Америка	LOC	GPE-USA
+Аризона	Аризона	LOC	GPE-Arizona
+Арканзас	Арканзас	LOC	GPE-Arkansas
+Байдън	Байдън	PER	PER-Joe-Biden
+Вирджиния	Вирджиния	LOC	GPE-Virginia
+Върмонт	Върмонт	LOC	GPE-Vermont
+Горната камара на Конгреса	Горна камара на Конгреса	ORG	ORG-United-States-Senate
+Делауер	Делауер	LOC	GPE-Delaware
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Долната камара на Конгреса	Долна камара на Конгреса	ORG	ORG-House-of-Representatives(USA)
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Западна Вирджиния	Западна Вирджиния	LOC	GPE-West-Virginia
+Илинойс	Илинойс	LOC	GPE-Illinois
+Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+Канзас	Канзас	LOC	GPE-Kansas
+Кентъки	Кентъки	LOC	GPE-Kentucky
+Колорадо	Колорадо	LOC	GPE-Colorado
+Конгреса	Конгрес	ORG	ORG-United-States-Congress
+Кънектикът	Кънектикът	LOC	GPE-Connecticut
+Луизиана	Луизиана	LOC	GPE-Louisiana
+Масачузетс	Масачузетс	LOC	GPE-Massachusetts
+Мериленд	Мериленд	LOC	GPE-Maryland
+Мисисипи	Мисисипи	LOC	GPE-Mississippi
+Небраска	Небраска	LOC	GPE-Nebraska
+Ню Джърси	Ню Джърси	LOC	GPE-New-Jersey
+Ню Йорк	Ню Йорк	LOC	GPE-New-York
+Ню Мексико	Ню Мексико	LOC	GPE-New-Mexico
+Оклахома	Оклахома	LOC	GPE-Oklahoma
+Роуд Айланд	Роуд Айланд	LOC	GPE-Rhode-Island
+САЩ	САЩ	LOC	GPE-USA
+Сената	Сенат	ORG	ORG-United-States-Senate
+Тексас	Тексас	LOC	GPE-Texas
+Тенеси	Тенеси	LOC	GPE-Tennessee
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Уайоминг	Уайоминг	LOC	GPE-Wyoming
+Федерален окръг Колумбия	Федерален окръг Колумбия	LOC	GPE-District-of-Columbia
+Флорида	Флорида	LOC	GPE-Florida
+Южна Дакота	Южна Дакота	LOC	GPE-South-Dakota-US-State
+Южна Каролина	Южна Каролина	LOC	GPE-South-Carolina-US-State
+американците	американци	PER	GPE-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+изборите за Белия дом	избори за Белия дом	EVT	EVT-2020-United-States-Presidential-Election
+президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+републиканците	републиканци	PER	ORG-Republican-Party-USA

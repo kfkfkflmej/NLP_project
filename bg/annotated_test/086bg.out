@@ -1,0 +1,33 @@
+086
+Astra Zeneka	Astra Zeneka	ORG	ORG-AstraZeneca
+BioNTech	BioNTech	ORG	ORG-BioNTech
+BioNtech	BioNТech	ORG	ORG-BioNTech
+COVID-19 пандемията	COVID-19 пандемия	EVT	EVT-Covid-19
+COVID-19	COVID-19	EVT	EVT-Covid-19
+FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+GSK	GSK	ORG	ORG-GSK
+Janssen-Cilag	Janssen-Cilag	ORG	ORG-Janssen-Pharmaceutica
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+SARS-Cov-2	SARS-Cov-2	EVT	EVT-Covid-19
+Sanofi	Sanofi	ORG	ORG-Sanofi
+Vector	Vector	PRO	PRO-Vector-Vaccine
+БАН	БАН	ORG	ORG-Bulgarian-Academy-of-Sciences
+България	България	LOC	GPE-Bulgaria
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕМА	ЕМА	ORG	ORG-EMA-European-Medicines-Agency
+ЕС	ЕС	ORG	ORG-European-Union
+Европейската медицинска агенция (ЕМА)	Европейска медицинска агенция (ЕМА)	ORG	ORG-EMA-European-Medicines-Agency
+Европейския съюз (ЕС)	Европейски съюз (ЕС)	ORG	ORG-European-Union
+Китай	Китай	LOC	GPE-China
+Министерство на здравеопазването	Министерство на здравеопазването	ORG	ORG-Ministry-of-Health-Bulgaria
+Русия	Русия	LOC	GPE-Russia
+Руската федерация	Руска федерация	LOC	GPE-Russia
+САЩ	САЩ	LOC	GPE-USA
+СЗО	СЗО	ORG	ORG-WHO
+Спутник V	Спутник V	PRO	PRO-Sputnik-V
+Спутник	Спутник	PRO	PRO-Sputnik-V
+корона вируса	коронавирус	EVT	EVT-Covid-19
+корона-вирусната пандемия	коронавирусна пандемия	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусната инфекция	коронавирусна инфекция	EVT	EVT-Covid-19

@@ -1,0 +1,22 @@
+128
+Nature Medicine	Nature Medicine	PRO	PRO-Nature-Medicine
+Австрия	Австрия	LOC	GPE-Austria
+Бенджамин Коулинг	Бенджамин Коулинг	PER	PER-Benjamin-Cowling
+България	България	LOC	GPE-Bulgaria
+Европа	Европа	LOC	LOC-Europe
+Женева	Женева	LOC	GPE-Geneva
+Майк Райън	Майк Райън	PER	PER-Michael-Ryan
+Райън	Райън	PER	PER-Michael-Ryan
+Реджеп Ердоган	Реджеп Ердоган	PER	PER-Recep-Tayyip-Erdoğan
+СЗО	СЗО	ORG	ORG-WHO
+Световната здравна организация (СЗО)	Световна здравна организация (СЗО)	ORG	ORG-WHO
+Словения	Словения	LOC	GPE-Slovenia
+Турция	Турция	LOC	GPE-Turkey
+Центъра на СЗО по контрол на разпространението на епидемията в Хонконг	Център на СЗО по контрол на разпространението на епидемията в Хонконг	ORG	ORG-Centers-for-Disease-Control
+Чехия	Чехия	LOC	GPE-Czech-Republic
+епидемията	епидемия	EVT	EVT-Epidemic
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавируси	коронавирус	EVT	EVT-Covid-19
+пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Covid-19
+програмата на СЗО за извънредни ситуации в здравеопазването	програма на СЗО за извънредни ситуации в здравеопазването	PRO	PRO-Program-of-WHO-for-health-emergency

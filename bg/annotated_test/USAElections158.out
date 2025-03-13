@@ -1,0 +1,25 @@
+158
+CNN	CNN	PRO	PRO-CNN
+GSA	GSA	ORG	ORG-General-Services-Administration
+Twitter	Twitter	PRO	PRO-Twitter
+Агенцията по общите въпроси на администрацията	Агенция по общите въпроси на администрацията	ORG	ORG-General-Services-Administration
+БГНЕС	БГНЕС	PRO	PRO-BGNES
+Байдън	Байдън	PER	PER-Joe-Biden
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джоселин Бенсън	Джоселин Бенсън	PER	PER-Jocelyn-Benson
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Емили Мърфи	Емили Мърфи	PER	PER-Emily-Murphy
+Емили	Емили	PER	PER-Emily-Murphy
+Ивайло Ачев	Ивайло Ачев	PER	PER-Ivaylo-Achev
+Мичиган	Мичиган	LOC	GPE-Michigan
+Мърфи	Мърфи	PER	PER-Emily-Murphy
+Охайо	Охайо	LOC	GPE-Ohio
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+Роб Портман	Роб Портман	PER	PER-Rob-Portman
+САЩ	САЩ	LOC	GPE-USA
+Тръмп	Тръмп	PER	PER-Donald-Trump
+демократите	демократи	PER	ORG-Democratic-Party-USA
+републиканец	републиканец	PER	ORG-Republican-Party-USA
+републиканците	републиканци	PER	ORG-Republican-Party-USA

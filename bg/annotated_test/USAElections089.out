@@ -1,0 +1,24 @@
+089
+АП	АП	ORG	ORG-AP-The-Associated-Press
+Айова	Айова	LOC	GPE-Iowa
+Аризона	Аризона	LOC	GPE-Arizona
+Байдън	Байдън	PER	PER-Joe-Biden
+Бил Клинтън	Бил Клинтън	PER	PER-Bill-Clinton
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Иван Гуляшки	Иван Гуляшки	PER	GPE-Ivan-Gulyashki
+Охайо	Охайо	LOC	GPE-Ohio
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Републиканците	републиканци	PER	ORG-Republican-Party-USA
+САЩ	САЩ	LOC	GPE-USA
+Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+Тексас	Тексас	LOC	GPE-Texas
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+Флорида	Флорида	LOC	GPE-Florida
+Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+демократ	демократ	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+избирателната колегия	избирателна колегия	ORG	ORG-United-States-Electoral-College
+републиканец	републиканец	PER	ORG-Republican-Party-USA
+републиканците	републиканци	PER	ORG-Republican-Party-USA

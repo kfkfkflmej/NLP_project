@@ -1,0 +1,48 @@
+078
+bntnews	bntnews	PRO	PRO-bntnews-app
+Айова	Айова	LOC	GPE-Iowa
+Александър Марков	Александър Марков	PER	PER-Aleksandar-Markov
+Аляска	Аляска	LOC	GPE-Alaska
+Аризона	Аризона	LOC	GPE-Arizona
+Атанас Атанасов	Атанас Атанасов	PER	PER-Atanas-Atanasov
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Белия дом	LOC	LOC-White-House
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Владимир Богдански	Владимир Богдански	PER	PER-Vladimir-Bogdanski
+Делауеър	Делауеър	LOC	GPE-Delaware
+Демократите	демократи	PER	ORG-Democratic-Party-USA
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Денят започва	Денят започва	PRO	PRO-Deniat-zapochva
+Джил	Джил	PER	PER-Jill-Biden
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Електоралната колегия	Електорална колегия	ORG	ORG-United-States-Electoral-College
+Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+Калифорния	Калифорния	LOC	GPE-California
+Клинтън	Клинтън	PER	PER-Hillary-Clinton
+Колегията	Колегия	ORG	ORG-United-States-Electoral-College
+Мичиган	Мичиган	LOC	GPE-Michigan
+Монтана	Монтана	LOC	GPE-Montana-US-State
+Невада	Невада	LOC	GPE-Nevada
+Океана	Океан	LOC	LOC-Atlantic-Ocean
+Охайо	Охайо	LOC	GPE-Ohio
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Републиканците	републиканци	PER	ORG-Republican-Party-USA
+САЩ	САЩ	LOC	GPE-USA
+Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+Стария континент	Стар континент	LOC	LOC-Europe
+Тексас	Тексас	LOC	GPE-Texas
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Уайоминг	Уайоминг	LOC	GPE-Wyoming
+Уилмингтън	Уилмингтън	LOC	GPE-Wilmington
+Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+Флорида	Флорида	LOC	GPE-Florida
+Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+Цветелина Йорданова	Цветелина Йорданова	PER	PER-Tsvetelina-Yordanova
+американци	американци	PER	GPE-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+демократът	демократ	PER	ORG-Democratic-Party-USA
+електоралната колегия	Електорална колегия	ORG	ORG-United-States-Electoral-College
+изборите за президент на Съединените щати	избори за президент на Съединените щати	EVT	EVT-2020-United-States-Presidential-Election
+републиканеца	републиканец	PER	ORG-Republican-Party-USA

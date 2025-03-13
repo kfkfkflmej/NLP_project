@@ -1,0 +1,58 @@
+104
+BBC	BBC	PRO	PRO-BBC
+COVID-19	COVID-19	EVT	EVT-Covid-19
+QAnon	QAnon	PRO	PRO-QAnon-theory
+Алабама	Алабама	LOC	GPE-USA-Alabama
+Александрия Окасио-Кортез	Александрия Окасио-Кортез	PER	PER-Alexandria-Ocasio-Cortez
+Аризона	Аризона	LOC	GPE-Arizona
+Аяна Пресли	Аяна Пресли	PER	PER-Ayanna-Pressley
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Белия дом	LOC	LOC-White-House
+Грузия	Джорджия	LOC	GPE-Georgia-US-state
+Делауеър	Делауеър	LOC	GPE-Delaware
+Демократите	демократи	PER	ORG-Democratic-Party-USA
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джон Хикенлупър	Джон Хикенлупър	PER	PER-John-Hickenlooper
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Диана Тодорова	Диана Тодорова	PER	PER-Diana-Todorova
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Дъг Джоунс	Дъг Джоунс	PER	PER-Doug-Jones
+Илхан Омар	Илхан Омар	PER	PER-Ilhan-Omar
+Камара	Камара	ORG	ORG-House-of-Representatives(USA)
+Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+Камарата	Камара	ORG	ORG-House-of-Representatives(USA)
+Кендра Хорн	Кендра Хорн	PER	PER-Kendra-Horn
+Кентъки	Кентъки	LOC	GPE-Kentucky
+Колорадо	Колорадо	LOC	GPE-Colorado
+Конгрес	Конгрес	ORG	ORG-United-States-Congress
+Конгреса	Конгрес	ORG	ORG-United-States-Congress
+Кори Гарднър	Кори Гарднър	PER	PER-Cory-Gardner
+Линдзи Греъм	Линдзи Греъм	PER	PER-Lindsey-Graham
+Марджори Тейлър Грийн	Марджори Тейлър Грийн	PER	PER-Marjorie-Taylor-Greene
+Марк Кели	Марк Кели	PER	PER-Mark-Kelly
+Марта Максали	Марта Максали	PER	PER-Martha-McSally
+Мич Макконъл	Мич Макконъл	PER	PER-Mitch-McConnell
+Мондър Джоунс	Мондър Джоунс	PER	PER-Mondaire-Jones
+Ню Йорк	Ню Йорк	LOC	GPE-New-York
+Оклахома	Оклахома	LOC	GPE-Oklahoma
+Рашида Тлайб	Рашида Тлайб	PER	PER-Rashida-Tlaib
+Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+Републиканците	републиканци	PER	ORG-Republican-Party-USA
+Ричи Торес	Ричи Торес	PER	PER-Ritchie-Torres
+САЩ	САЩ	LOC	GPE-USA
+Сара Макбрайд	Сара Макбрайд	PER	PER-Sarah-McBride
+Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Сената	Сенат	ORG	ORG-United-States-Senate
+Стефани Бис	Стефани Бис	PER	PER-Stephanie-Bice
+Томи Тъбървил	Томи Тъбървил	PER	PER-Tommy-Tuberville
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Хикенлупър	Хикенлупър	PER	PER-John-Hickenlooper
+Южна Каролина	Южна Каролина	LOC	GPE-South-Carolina-US-State
+горната камара на Конгреса	Горна камара на Конгреса	ORG	ORG-United-States-Senate
+демократа	демократ	PER	ORG-Democratic-Party-USA
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+долната камара	Долна камара	ORG	ORG-House-of-Representatives(USA)
+републиканците	републиканци	PER	ORG-Republican-Party-USA

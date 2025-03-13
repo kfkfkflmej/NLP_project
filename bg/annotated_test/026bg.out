@@ -1,0 +1,13 @@
+026
+Covid-19	COVID-19	EVT	EVT-Covid-19
+Facebook	Facebook	PRO	PRO-Facebook
+Wall Street Journal	Wall Street Journal	PRO	PRO-Wall-Street-Journal
+Калифорния	Калифорния	LOC	GPE-California
+Минесота	Минесота	LOC	GPE-Minnesota
+Мичиган	Мичиган	LOC	GPE-Michigan
+Небраска	Небраска	LOC	GPE-Nebraska
+Ню Джърси	Ню Джърси	LOC	GPE-New-Jersey
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+САЩ	САЩ	LOC	GPE-USA
+коронавируса	коронавирус	EVT	EVT-Covid-19
+пандемията от коронавируса	пандемия от коронавируса	EVT	EVT-Covid-19

@@ -1,0 +1,53 @@
+073
+Covid-19	COVID-19	EVT	EVT-Covid-19
+NextGenerationEU	Next Generation EU	PRO	PRO-Next-Generation-EU
+Re-open EU	Re-open EU	PRO	PRO-Re-open-EU
+Австрия	Австрия	LOC	GPE-Austria
+Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+България	България	LOC	GPE-Bulgaria
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Втората световна война	Втора световна война	EVT	EVT-World-War-II
+Германия	Германия	LOC	GPE-Germany
+Гърция	Гърция	LOC	GPE-Greece
+Дания	Дания	LOC	GPE-Denmark
+ЕК	ЕК	ORG	ORG-European-Commission
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европейска инвестиционна банка (ЕИБ)	Европейска инвестиционна банка (ЕИБ)	ORG	ORG-European-Investment-Bank
+Европейската агенция по лекарствата	Европейска агенция по лекарствата	ORG	ORG-EMA-European-Medicines-Agency
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Европейския механизъм за стабилност (ЕМС)	Европейски механизъм за стабилност (ЕМС)	ORG	ORG-European-Stability-Mechanism
+Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Европейският парламент	Европейски парламент	ORG	ORG-European-Parliament
+Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+Ирландия	Ирландия	LOC	GPE-Ireland
+Испания	Испания	LOC	GPE-Spain
+Италия	Италия	LOC	GPE-Italy
+Ковид-19	КОВИД-19	EVT	EVT-Covid-19
+Ковид	КОВИД-19	EVT	EVT-Covid-19
+Коледа	Коледа	EVT	EVT-Christmas
+Комисията	Комисия	ORG	ORG-European-Commission
+Кохезионния фонд	Кохезионен фонд	PRO	PRO-Cohesion-Fund
+Люксембург	Люксембург	LOC	GPE-Luxembourg
+Малта	Малта	LOC	GPE-Malta
+Механизма за гражданска защита на ЕС	Механизъм за гражданска защита на ЕС	PRO	PRO-EU-Civil-Protection-Mechanism
+Национален план за възстановяване и развитие	Национален план за възстановяване и развитие	PRO	PRO-Plan-for-National-Recovery-and-Development
+Пандемията Covid-19	пандемия Covid-19	EVT	EVT-Pandemic
+Полша	Полша	LOC	GPE-Poland
+Рего	Рего	ORG	ORG-Institute-Rego
+Румъния	Румъния	LOC	GPE-Romania
+Словакия	Словакия	LOC	GPE-Slovakia
+Словения	Словения	LOC	GPE-Slovenia
+Съюза	Съюз	ORG	ORG-European-Union
+Унгария	Унгария	LOC	GPE-Hungary
+Финландия	Финландия	LOC	GPE-Finland
+Франция	Франция	LOC	GPE-France
+Холандия	Холандия	LOC	GPE-Holland
+Чехия	Чехия	LOC	GPE-Czech-Republic
+Швеция	Швеция	LOC	GPE-Sweden
+Шотландия	Шотландия	LOC	GPE-Scotland
+европейци	европейци	PER	LOC-Europe
+институт „Рего“	Институт "Рего"	ORG	ORG-Institute-Rego
+институт „Рего“	Институт "Рего"	ORG	ORG-Institute-Rego
+коронавируса	коронавирус	EVT	EVT-Covid-19

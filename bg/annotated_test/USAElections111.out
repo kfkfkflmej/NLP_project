@@ -1,0 +1,39 @@
+111
+Байдън	Байдън	PER	PER-Joe-Biden
+Балканите	Балкани	LOC	LOC-Balkans
+Балкански поток	Балкански поток	PRO	PRO-Balkan-Stream
+България	България	LOC	GPE-Bulgaria
+ВМРО-ДПМНЕ	ВМРО-ДПМНЕ	ORG	ORG-VMRO-DPMNE
+Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+Гърция	Гърция	LOC	GPE-Greece
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+ЕК	ЕК	ORG	ORG-European-Commission
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европейския съюз/ЕС/	Европейски съюз /ЕС/	ORG	ORG-European-Union
+Конгреса	Конгрес	ORG	ORG-United-States-Congress
+Кремъл	Кремъл	LOC	LOC-Kremlin
+Милен Керемедчиев	Милен Керемедчиев	PER	PER-Milen-Keremedchiev
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Република Северна Македония	Република Северна Македония	LOC	GPE-North-Macedonia
+Рудолф Джулиани	Рудолф Джулиани	PER	PER-Rudolph-Giuliani
+Русия	Русия	LOC	GPE-Russia
+САЩ	САЩ	LOC	GPE-USA
+Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+Северна Македония	Северна Македония	LOC	GPE-North-Macedonia
+Сената	Сенат	ORG	ORG-United-States-Senate
+Сърбия	Сърбия	LOC	GPE-Serbia
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+Черна гора	Черна гора	LOC	GPE-Montenegro
+американците	американци	PER	GPE-USA
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+европейци	европейци	PER	LOC-Europe
+канадци	канадци	PER	GPE-Canada
+мексиканци	мексиканци	PER	GPE-Mexico
+пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Covid-19
+републиканци	републиканци	PER	ORG-Republican-Party-USA
+републиканците	републиканци	PER	ORG-Republican-Party-USA

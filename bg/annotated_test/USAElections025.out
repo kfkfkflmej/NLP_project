@@ -1,0 +1,24 @@
+025
+Covid-19	COVID-19	EVT	EVT-Covid-19
+Байдън	Байдън	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Белия дом	Белия дом	LOC	LOC-White-House
+Брус Рийд	Брус Рийд	PER	PER-Bruce-Reed
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+Клейн	Клейн	PER	PER-Ron-Klain
+Обама	Обама	PER	PER-Barack-Obama
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+Роналд (Рон) Клейн	Роналд (Рон) Клейн	PER	PER-Ron-Klain
+Роналд Клейн	Роналд Клейн	PER	PER-Ron-Klain
+САЩ	САЩ	LOC	GPE-USA
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Стив Ричети	Стив Ричети	PER	PER-Steve-Richetti
+демократа	демократ	PER	ORG-Democratic-Party-USA
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+епидемията от ебола	епидемия от ебола	EVT	EVT-Ebola
+пандемията	пандемия	EVT	EVT-Pandemic

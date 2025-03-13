@@ -1,0 +1,11 @@
+152
+Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+Covid-19	COVID-19	EVT	EVT-Covid-19
+Roche Holding	Roche Holding	ORG	ORG-Roche-Holding
+Roche	Roche Holding	ORG	ORG-Roche-Holding
+Американската агенция за контрол на храните и лекарствата	Американска агенция за контрол на храните и лекарствата	ORG	ORG-FDA-Food-and-Drug-Administration
+Европа	Европа	LOC	LOC-Europe
+САЩ	САЩ	LOC	GPE-USA
+Томас Шинекер	Томас Шинекер	PER	PER-Thomas-Schinecker
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19

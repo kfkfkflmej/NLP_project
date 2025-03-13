@@ -1,0 +1,24 @@
+030
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Агенция по заетостта	Агенция по заетостта	ORG	ORG-Agency-of-Labor
+Банско	Банско	LOC	GPE-Bansko
+Благоевград	Благоевград	LOC	GPE-Blagoevgrad
+Бургас	Бургас	LOC	GPE-Burgas
+Бюро по труда	Бюро по труда	ORG	ORG-Labor-Quarters
+Велико Търново	Велико Търново	LOC	GPE-Veliko-Tarnovo
+Габрово	Габрово	LOC	GPE-Gabrovo
+Димитровград	Димитровград	LOC	GPE-Dimitrovgrad
+Дупница	Дупница	LOC	GPE-Dupnitsa
+КНСБ	КНСБ	ORG	ORG-KNSB-Bulgaria
+Казанлък	Казанлък	LOC	GPE-Kazanlak
+Перник	Перник	LOC	GPE-Pernik
+Разлог	Разлог	LOC	GPE-Razlog
+Русе	Русе	LOC	GPE-Ruse
+Сливен	Сливен	LOC	GPE-Sliven
+Стара Загора	Стара Загора	LOC	GPE-Stara-Zagora
+Язаки	Язаки	ORG	ORG-Yazaki
+Ямбол	Ямбол	LOC	GPE-Yambol
+глобалната пандемия с COVID-19	глобална пандемия с COVID-19	EVT	EVT-Covid-19
+извънредно положение	извънредно положение	EVT	EVT-State-of-Emergency
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19

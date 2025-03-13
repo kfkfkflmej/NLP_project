@@ -1,0 +1,32 @@
+112
+Америка	Америка	LOC	GPE-USA
+Америка	Америка	LOC	GPE-USA
+Бил Гейтс	Бил Гейтс	PER	PER-Bill-Gates
+Брюксел	Брюксел	LOC	GPE-Brussles
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Германия	Германия	LOC	GPE-Germany
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джордж Сорос	Джордж Сорос	PER	PER-George-Soros
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Животът на черните се брои	Животът на черните се брои	ORG	ORG-Black-Lives-Matter
+Иран	Иран	LOC	GPE-Iran
+Исидорос КАРДЕРИНИС	Исидорос Кардеринис	PER	PER-Isidoros-Karderinis
+Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+Китай	Китай	LOC	GPE-China
+НАТО	НАТО	ORG	ORG-NATO
+ООН	ООН	ORG	ORG-United-Nations
+Овалния кабинет	Овален кабинет	LOC	LOC-Oval-Office
+Парижкия договор за климата	Парижки договор за климата	PRO	PRO-Paris-Agreement
+Президентските избори на 3 ноември 2020 г.	Президентски избори на 3 ноември 2020 г.	EVT	EVT-2020-United-States-Presidential-Election
+САЩ	САЩ	LOC	GPE-USA
+Сената	Сенат	ORG	ORG-United-States-Senate
+Съединените щати	Съединени щати	LOC	GPE-USA
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Холивуд	Холивуд	LOC	GPE-Hollywood
+американци	американци	PER	GPE-USA
+афро-американците	афро-американци	PER	GPE-USA
+латиноамериканци	латиноамериканци	PER	GPE-USA
+пандемията на коронавируса	пандемия на коронавирус	EVT	EVT-Covid-19
+президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+републиканците	републиканци	PER	ORG-Republican-Party-USA

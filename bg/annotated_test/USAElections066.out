@@ -1,0 +1,34 @@
+066
+Алабама	Алабама	LOC	GPE-USA-Alabama
+Аризона	Аризона	LOC	GPE-Arizona
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Белия дом	LOC	LOC-White-House
+Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+Демократи	демократи	PER	ORG-Democratic-Party-USA
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джон Хикенлопър	Джон Хикенлопър	PER	PER-John-Hickenlooper
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Кели Лофлер	Кели Лофлер	PER	PER-Kelly-Loeffler
+Колорадо	Колорадо	LOC	GPE-Colorado
+Кори Гарднър	Кори Гарднър	PER	PER-Cory-Gardner
+Линдзи Греъм	Линдзи Греъм	PER	PER-Lindsey-Graham
+Марк Кели	Марк Кели	PER	PER-Mark-Kelly
+Марта МакСали	Марта МакСали	PER	PER-Martha-McSally
+Мич Макконъл	Мич Макконъл	PER	PER-Mitch-McConnell
+Мичиган	Мичиган	LOC	GPE-Michigan
+Рафаел Уарнок	Рафаел Уарнок	PER	PER-Raphael-Warnock
+Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+Сената	Сенат	ORG	ORG-United-States-Senate
+Сенатът на САЩ	Сенат на САЩ	ORG	ORG-United-States-Senate
+Сенатът	Сенат	ORG	ORG-United-States-Senate
+Синята вълна	Синя вълна	EVT	EVT-Blue-Wave-US
+горната камара	Горна камара	ORG	ORG-United-States-Senate
+демократа	демократ	PER	ORG-Democratic-Party-USA
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+републиканката	републиканка	PER	ORG-Republican-Party-USA
+републиканци	републиканци	PER	ORG-Republican-Party-USA
+републиканците	републиканци	PER	ORG-Republican-Party-USA
+юридическата комисия към горната камара	Юридическа комисия към Горната камара	ORG	ORG-US-Senate-Judiciary-Committee

@@ -1,0 +1,24 @@
+027
+DPA	DPA	ORG	ORG-DPA
+Америка	Америка	LOC	GPE-USA
+Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+Атлантическия океан	Атлантически океан	LOC	LOC-Atlantic-Ocean
+Байдън	Байдън	PER	PER-Joe-Biden
+Берлинската стена	Берлинска стена	LOC	LOC-Berlin-Wall
+Германия	Германия	LOC	GPE-Germany
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Европа	Европа	LOC	LOC-Europe
+Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+Меркел	Меркел	PER	PER-Angela-Merkel
+НАТО	НАТО	ORG	ORG-NATO
+САЩ	САЩ	LOC	GPE-USA
+Съединените американски щати	Съединени американски щати	LOC	GPE-USA
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Харис	Харис	PER	PER-Kamala-Harris
+Шоа	Шоа	EVT	EVT-Holokost
+американците	американци	PER	GPE-USA
+германците	германци	PER	GPE-Germany
+демократи	демократи	PER	ORG-Democratic-Party-USA
+европейците	европейци	PER	LOC-Europe
+изборите в САЩ	избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+пандемията на коронавируса	пандемия на коронавирус	EVT	EVT-Covid-19

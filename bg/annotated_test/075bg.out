@@ -1,0 +1,21 @@
+075
+Covid-19	COVID-19	EVT	EVT-Covid-19
+DPA	DPA	ORG	ORG-DPA
+PCR теста	PCR тест	PRO	PRO-PCR-Test
+БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+Бразилия	Бразилия	LOC	GPE-Brazil
+България	България	LOC	GPE-Bulgaria
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ДПА	ДПА	ORG	ORG-DPA
+Европа	Европа	LOC	LOC-Europe
+Ковид-19	КОВИД-19	EVT	EVT-Covid-19
+Марсело Кривела	Марсело Кривела	PER	PER-Marcelo-Crivella
+Рио де Жанейро	Рио де Жанейро	LOC	GPE-Rio-de-Janeiro
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+САЩ	САЩ	LOC	GPE-USA
+СЗО	СЗО	ORG	ORG-WHO
+Световната здравна организация (СЗО)	Световна здравна организация (СЗО)	ORG	ORG-WHO
+ТАСС	ТАСС	ORG	ORG-TASS-Agency
+Франция	Франция	LOC	GPE-France
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19

@@ -1,0 +1,59 @@
+113
+Алабама	Алабама	LOC	GPE-USA-Alabama
+Арканзас	Арканзас	LOC	GPE-Arkansas
+Асошиейтед  прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Белия дом	LOC	LOC-White-House
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вирджиния	Вирджиния	LOC	GPE-Virginia
+Върмънт	Върмонт	LOC	GPE-Vermont
+Делауеър	Делауеър	LOC	GPE-Delaware
+Демократът	демократ	PER	ORG-Democratic-Party-USA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Доналд Тръм	Доналд Тръмп	PER	PER-Donald-Trump
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Доналд	Доналд	PER	PER-Donald-Trump
+Дума	Дума	PRO	PRO-Duma
+Западна Вирджиния	Западна Вирджиния	LOC	GPE-West-Virginia
+Избирателната коегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+Илинойс	Илинойс	LOC	GPE-Illinois
+Индиана	Индиана	LOC	GPE-Indiana
+Калифорния	Калифорния	LOC	GPE-California
+Канзас	Канзас	LOC	GPE-Kansas
+Кентъки	Кентъки	LOC	GPE-Kentucky
+Колорадо	Колорадо	LOC	GPE-Colorado
+Кънектикът	Кънектикът	LOC	GPE-Connecticut
+Луизиана	Луизиана	LOC	GPE-Louisiana
+Массачусетс	Масачузетс	LOC	GPE-Massachusetts
+Мисисипи	Мисисипи	LOC	GPE-Mississippi
+Мисури	Мисури	LOC	GPE-Missouri
+Мэриленд	Мериленд	LOC	GPE-Maryland
+Ню Джърси	Ню Джърси	LOC	GPE-New-Jersey
+Ню Йорк	Ню Йорк	LOC	GPE-New-York
+Ню Мексико	Ню Мексико	LOC	GPE-New-Mexico
+Ню Хемпшир	Ню Хемпшир	LOC	GPE-New-Hampshire
+Оклахома	Оклахома	LOC	GPE-Oklahoma
+Охайо	Охайо	LOC	GPE-Ohio
+Род-Айлйнд	Роуд Айлънд	LOC	GPE-Rhode-Island
+САЩ	САЩ	LOC	GPE-USA
+Северна Дакота	Северна Дакота	LOC	GPE-North-Dakota
+Съединенити щати	Съединени щати	LOC	GPE-USA
+ТАСС	ТАСС	ORG	ORG-TASS-Agency
+Тексас	Тексас	LOC	GPE-Texas
+Тенеси	Тенеси	LOC	GPE-Tennessee
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Туитър	Туитър	PRO	PRO-Twitter
+Уайоминг	Уайоминг	LOC	GPE-Wyoming
+Флорида	Флорида	LOC	GPE-Florida
+Южна Дакота	Южна Дакота	LOC	GPE-South-Dakota-US-State
+Южна Каролина	Южна Каролина	LOC	GPE-South-Carolina-US-State
+Юта	Юта	LOC	GPE-Utah
+американци	американци	PER	GPE-USA
+американците	американци	PER	GPE-USA
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+посолството на България във Вашингтон	Посолство на България във Вашингтон	ORG	ORG-Embassy-of-Bulgaria-in-Washington
+президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+републиканци	републиканци	PER	ORG-Republican-Party-USA
+федералиня окръг окръг Колумбия	федерален окръг Колумбия	LOC	GPE-District-of-Columbia

@@ -1,0 +1,23 @@
+138
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Economy.bg	Economy.bg	PRO	PRO-Economy.bg
+Nature	Nature	PRO	PRO-Nature-(journal)
+New York Times	New York Times	PRO	PRO-The-New-York-Times
+Science	Science	PRO	PRO-Science-journal
+The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+Австралия	Австралия	LOC	GPE-Australia
+Исландия	Исландия	LOC	GPE-Iceland
+Италия	Италия	LOC	GPE-Italy
+Пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Covid-19
+САРС	САРС	EVT	EVT-SARS
+САЩ	САЩ	LOC	GPE-USA
+Световната здравна организация	Световна здравна организация	ORG	ORG-WHO
+Сингапур	Сингапур	LOC	GPE-Singapore
+Тара Смит	Тара Смит	PER	PER-Tara-Smith
+Тара	Тара	PER	PER-Tara-Smith
+Южна Корея	Южна Корея	LOC	GPE-South-Korea
+държавния университет Кент в Охайо, САЩ	държавен университет Кент в Охайо, САЩ	ORG	ORG-Kent State University
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+пандемията от COVID-19	пандемия от COVID-19	EVT	EVT-Covid-19
+пандемията от испански грип от 1918	пандемия от испански грип от 1918	EVT	EVT-Influenza-Pandemic-1918

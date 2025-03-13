@@ -1,0 +1,13 @@
+095
+New York Times	New York Times	PRO	PRO-The-New-York-Times
+Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Европа	Европа	LOC	LOC-Europe
+Испания	Испания	LOC	GPE-Spain
+Италия	Италия	LOC	GPE-Italy
+Мадрид	Мадрид	LOC	GPE-Madrid
+Мюнхен	Мюнхен	LOC	GPE-München
+Уелс	Уелс	LOC	GPE-Wales
+Франция	Франция	LOC	GPE-France
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19

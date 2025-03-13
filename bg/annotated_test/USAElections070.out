@@ -1,0 +1,16 @@
+070
+Twitter	Twitter	PRO	PRO-Twitter
+Аризона	Аризона	LOC	GPE-Arizona
+Байдън	Байдън	PER	PER-Joe-Biden
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Невада	Невада	LOC	GPE-Nevada
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Тръмп	Тръмп	PER	PER-Donald-Trump
+американците	американци	PER	GPE-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+републиканците	републиканци	PER	ORG-Republican-Party-USA

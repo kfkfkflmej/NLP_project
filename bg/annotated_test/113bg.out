@@ -1,0 +1,15 @@
+113
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Барли	Барли	PER	PER-Katarina-Barley
+ЕП	ЕП	ORG	ORG-European-Parliament
+ЕС	ЕС	ORG	ORG-European-Union
+ЕЦБ	ЕЦБ	ORG	ORG-European-Central-Bank
+Европейската комисията	Европейска комисия	ORG	ORG-European-Commission
+Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Карас	Карас	PER	PER-Othmar-Karas
+Катарина Барли	Катарина Барли	PER	PER-Katarina-Barley
+Отмар Карас	Отмар Карас	PER	PER-Othmar-Karas
+У. фон дер Лайен	Урсула фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+коронавируса	коронавирус	EVT	EVT-Covid-19
+пандемията от коронавируса	пандемия от коронавирус	EVT	EVT-Covid-19

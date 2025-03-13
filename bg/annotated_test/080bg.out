@@ -1,0 +1,24 @@
+080
+BionTech	BionTech	ORG	ORG-BioNTech
+COVID	COVID	EVT	EVT-Covid-19
+Dnes.bg	Dnes.bg	PRO	PRO-Dnes-bg
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Ани Кирова	Ани Кирова	PER	PER-Ani-Kirova
+Бургас	Бургас	LOC	GPE-Burgas
+ВМА-София	ВМА-София	LOC	LOC-Military-medicine-academia-hospital-Sofia
+Венцислав Мутафчийски	Венцислав Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+Военномедицинска академия – София (ВМА)	Военномедицинска академия – София (ВМА)	LOC	LOC-Military-medicine-academia-hospital-Sofia
+ЕС	ЕС	ORG	ORG-European-Union
+Клиниката по анестезиология и интензивно лечение	Клиника по анестезиология и интензивно лечение	LOC	LOC-Anesthesiology-and-Intensive-Care-Clinic-St.-Anna
+Клиниката по вътрешни болести	Клиника по вътрешни болести	LOC	LOC-Internal-Diseases-Clinic-St.-Anna-Hospital
+Комплексния онкологичен център	Комплексен онкологичен център	LOC	LOC-Oncology-Complex-Center-Burgas
+Костадин Ангелов	Костадин Ангелов	PER	PER-Kostadin-Angelov
+Мутафчийски	Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+Окръжна болница	Окръжна болница	LOC	LOC-University-Hospital-St-Anna
+Пловдив	Пловдив	LOC	GPE-Plovdiv
+Рада Прокопова	Рада Прокопова	PER	PER-Rada-Prokopova
+Св. Анна	Св. Анна	LOC	LOC-University-Hospital-St-Anna
+Фокус	Фокус	ORG	ORG-Focus-News-Agency
+коронаверус	коронавирус	EVT	EVT-Covid-19
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19

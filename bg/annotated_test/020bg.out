@@ -1,0 +1,22 @@
+020
+COVID	COVID-19	EVT	EVT-Covid-19
+Politico	Politico	PRO	PRO-Politico
+Бепе Грило	Бепе Грило	PER	PER-Bepe-Grilo
+Грило	Грило	PER	PER-Bepe-Grilo
+Европа	Европа	LOC	LOC-Europe
+Италианците	италианци	PER	GPE-Italy
+Италия	Италия	LOC	GPE-Italy
+Паола Таверна	Паола Таверна	PER	PER-Paola-Taverna
+Пет звезди	Пет звезди	ORG	ORG-Five-stars-Italy
+Пиерпаоло Силери	Пиерпаоло Силери	PER	PER-Pierrepaolo-Sileri
+Роберто Буриони	Роберто Буриони	PER	PER-Roberto-Burioni
+Силери	Силери	PER	PER-Pierrepaolo-Sileri
+Таверна	Таверна	PER	PER-Paola-Taverna
+втората вълна на заболяването	втора вълна на заболяването	EVT	EVT-COVID-19-second-wave
+долната камара на италианския парламент	долна камара на италианския парламент	ORG	ORG-Lower-Chamber-Italian-Parliament
+италианците	италианци	PER	GPE-Italy
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+пандемията от коронавируса	пандемия от коронавируса	EVT	EVT-Covid-19
+румънците	румънци	PER	GPE-Romania
+французите	французи	PER	GPE-France

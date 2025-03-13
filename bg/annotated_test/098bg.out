@@ -1,0 +1,11 @@
+098
+COVID-19	COVID-19	EVT	EVT-Covid-19
+L-cov	L-cov	EVT	EVT-L-cov
+S-cov	S-cov	EVT	EVT-S-cov
+Китай	Китай	LOC	GPE-China
+Коронавирусът	коронавирус	EVT	EVT-Covid-19
+СЗО	СЗО	ORG	ORG-WHO
+Ухан	Ухан	LOC	GPE-Wuhan
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусът	коронавирус	EVT	EVT-Covid-19

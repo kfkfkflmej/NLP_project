@@ -1,0 +1,41 @@
+136
+CNN	CNN	PRO	PRO-CNN
+COVID-19	COVID-19	EVT	EVT-Covid-19
+COVID-кризата	COVID-криза	EVT	EVT-Covid-19
+New York Post	New York Post	PRO	PRO-New-York-Post
+Webcafe	Webcafe	PRO	PRO-Webcafe.bg
+Америка	Америка	LOC	GPE-USA
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Белия дом	LOC	LOC-White-House
+Белият дом	Белият дом	LOC	LOC-White-House
+Бурисма	Бурисма	ORG	ORG-Burisma
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Ейбрахам Линкълн	Ейбрахам Линкълн	PER	PER-Abraham-Lincoln
+Иран	Иран	LOC	GPE-Iran
+Китай	Китай	LOC	GPE-China
+Коронавирусът	коронавирус	EVT	EVT-Covid-19
+Кремъл	Кремъл	LOC	LOC-Kremlin
+НАТО	НАТО	ORG	ORG-NATO
+Обама	Обама	PER	PER-Barack-Obama
+Оклахома	Оклахома	LOC	GPE-Oklahoma
+Охайо	Охайо	LOC	GPE-Ohio
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Рудолф Джулиани	Рудолф Джулиани	PER	PER-Rudolph-Giuliani
+Русия	Русия	LOC	GPE-Russia
+САЩ	САЩ	LOC	GPE-USA
+Съединените щати	Съединени щати	LOC	GPE-USA
+Тексас	Тексас	LOC	GPE-Texas
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Украйна	Украйна	LOC	GPE-Ukraine
+ФБР	ФБР	ORG	ORG-FBI
+Хънтър Байдън	Хънтър Байдън	PER	PER-Hunter-Biden
+Хънтър	Хънтър	PER	PER-Hunter-Biden
+американци	американци	PER	GPE-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+демократът	демократ	PER	ORG-Democratic-Party-USA
+коронавируса	коронавирус	EVT	EVT-Covid-19
+пандемията от коронавируса	пандемия от коронавирус	EVT	EVT-Covid-19
+републиканецът	републиканец	PER	ORG-Republican-Party-USA
+републиканците	републиканци	PER	ORG-Republican-Party-USA

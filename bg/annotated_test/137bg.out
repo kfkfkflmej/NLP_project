@@ -1,0 +1,15 @@
+137
+CNN	CNN	PRO	PRO-CNN
+Small business Administration – SBA	Small business Administration	ORG	ORG-Small-Business-Administration-SBA
+Администрацията за малкия бизнес	Администрация за малкия бизнес	ORG	ORG-Small-Business-Administration-SBA
+Европа	Европа	LOC	LOC-Europe
+Конгреса	Конгрес	ORG	ORG-United-States-Congress
+Маргарет Харис	Маргарет Харис	PER	PER-Margaret-Harris
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+САЩ	САЩ	LOC	GPE-USA
+СЗО	СЗО	ORG	ORG-WHO
+Световната здравна организация (СЗО)	Световна здравна организация (СЗО)	ORG	ORG-WHO
+Сенатът	Сенат	ORG	ORG-United-States-Senate
+Тръмп	Тръмп	PER	PER-Donald-Trump
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусът	коронавирус	EVT	EVT-Covid-19

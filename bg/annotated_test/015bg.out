@@ -1,0 +1,18 @@
+015
+COVID-19	COVID-19	EVT	EVT-Covid-19
+NOVA	NOVA	ORG	ORG-NOVA-TV-Bulgaria
+PCR теста	PCR тест	PRO	PRO-PCR-Test
+PCR тестовете	PCR тест	PRO	PRO-PCR-Test
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Варна	Варна	LOC	GPE-Varna
+Видин	Видин	LOC	GPE-Vidin
+Единния информационен портал	Единен информационен портал	PRO	PRO-Unified-Information-Portal-Bulgaria
+Костадин Ангелов	Костадин Ангелов	PER	PER-Kostadin-Angelov
+Летище София	Летище София	LOC	LOC-Sofia-airport
+Пловдив	Пловдив	LOC	GPE-Plovdiv
+РЗИ	РЗИ	ORG	ORG-Regional-Health-Inspectorate-Bulgaria
+Смолян	Смолян	LOC	GPE-Smolyan
+София-град	София-град	LOC	GPE-Sofia
+Търговище	Търговище	LOC	GPE-Targovishte
+коронавирус	коронавирус	EVT	EVT-Covid-19
+пандемията	пандемия	EVT	EVT-Pandemic

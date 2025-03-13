@@ -1,0 +1,23 @@
+011
+Biontech	Biontech	ORG	ORG-BioNTech
+Cornell University	Cornell University	ORG	ORG-Cornell-University
+Newsmax	Newsmax	PRO	PRO-Newsmax
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Белия дом	Белия дом	LOC	LOC-White-House
+Германия	Германия	LOC	GPE-Germany
+Германия	Германия	LOC	GPE-Germany
+Германският институт "Паул Ерлих"	Германски институт "Паул Ерлих"	ORG	ORG-Paul-Ehrlich-Institute
+Емералд Робинсън	Емералд Робинсън	PER	PER-Emerald-Robinson
+Инстаграм	Инстаграм	PRO	PRO-Instagram
+Йозлем Тюречи	Йозлем Тюречи	PER	PER-Özlem-Türeci
+Ковид-19	Ковид-19	EVT	EVT-Covid-19
+Марк Линас	Марк Линас	PER	PER-Mark-Lynas
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+САЩ	САЩ	LOC	GPE-USA
+Туитър	Туитър	PRO	PRO-Twitter
+Тюречи	Тюречи	PER	PER-Özlem-Türeci
+Угур Шахин	Угур Шахин	PER	PER-Ugur-Sahin
+закон за защита от инфекции	закон за защита от инфекции	PRO	PRO-Regulation-for-protection-from-infections
+коронавируса	коронавирус	EVT	EVT-Covid-19
+мРНК	мРНК	PRO	PRO-mRNK-technology
+пандемията	пандемия	EVT	EVT-Pandemic

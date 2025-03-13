@@ -1,0 +1,29 @@
+004
+Америка	Америка	LOC	GPE-USA
+Андрю Бейтс	Андрю Бейтс	PER	PER-Andrew-Bates
+Байдън	Байдън	PER	PER-Joe-Biden
+Делауеър	Делауеър	LOC	GPE-Delaware
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джо Джуниър	Джо Джуниър	PER	PER-Joe-Biden
+Джо Старши	Джо Старши	PER	PER-Joe-Biden-sr
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Минеаполис	Минеаполис	LOC	GPE-Minneapolis
+Олд Фордж	Олд Фордж	LOC	GPE-Old-Forge
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Питсбърг	Питсбърг	LOC	GPE-Pittsburgh
+Портланд	Портланд	LOC	GPE-Portland
+САЩ	САЩ	LOC	GPE-USA
+Скрантон	Скрентън	LOC	GPE-Scranton
+Скрантън	Скрентън	LOC	GPE-Scranton
+Скрентън	Скрентън	LOC	GPE-Scranton
+Том Уолф	Том Уолф	PER	PER-Tom-Wolf
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Уолф	Уолф	PER	PER-Tom-Wolf
+Филаделфия	Филаделфия	LOC	GPE-Philadelphia
+Чикаго	Чикаго	LOC	GPE-Chicago
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+демократичната партия	Демократична партия	ORG	ORG-Democratic-Party-USA
+демократът	демократ	PER	ORG-Democratic-Party-USA
+коронавируса	коронавирус	EVT	EVT-Covid-19
+републиканци	републиканци	PER	ORG-Republican-Party-USA

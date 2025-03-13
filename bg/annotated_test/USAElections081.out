@@ -1,0 +1,46 @@
+081
+Америка	Америка	LOC	GPE-USA
+Аризона	Аризона	LOC	GPE-Arizona
+Байдън	Байдън	PER	PER-Joe-Biden
+Байъдън	Байдън	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Белия дом	Белия дом	LOC	LOC-White-House
+Бил Клинтън	Бил Клинтън	PER	PER-Bill-Clinton
+Бреона Тейлър	Бреона Тейлър	PER	PER-Breonna-Taylor
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Демократът	демократ	PER	ORG-Democratic-Party-USA
+Джейкъб Блейк	Джейкъб Блейк	PER	PER-Jacob-Blake
+Джими Картър	Джими Картър	PER	PER-Jimmy-Carter
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джо	Джо	PER	PER-Joe-Biden
+Джордж Флойд	Джордж Флойд	PER	PER-George-Floyd
+Джордж Хърбърт Уокър Буш	Джордж Хърбърт Уокър Буш	PER	PER-George-Bush-Sr
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+ЕС	ЕС	ORG	ORG-European-Union
+Ен Би Си	Ен Би Си	ORG	ORG-National-Broadcasting-Company
+Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+Мичиган	Мичиган	LOC	GPE-Michigan
+Невада	Невада	LOC	GPE-Nevada
+Ню Йорк таймс	Ню Йорк таймс	PRO	PRO-The-New-York-Times
+Обама	Обама	PER	PER-Barack-Obama
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+САЩ	САЩ	LOC	GPE-USA
+Си Ен Ен	Си Ен Ен	PRO	PRO-CNN
+Съединените американски щати	Съединени американски щати	LOC	GPE-USA
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+Харис	Харис	PER	PER-Kamala-Harris
+Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+американец	американец	PER	GPE-USA
+американци	американци	PER	GPE-USA
+афроамериканци	афроамериканци	PER	GPE-USA
+афроамериканците	афроамериканци	PER	GPE-USA
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+електоралната комисия	Електорална комисия	ORG	ORG-United-States-Electoral-College
+пандемията от Covid-19	пандемия от Covid-19	EVT	EVT-Covid-19
+републиканец	републиканец	PER	ORG-Republican-Party-USA
+републиканецът	републиканец	PER	ORG-Republican-Party-USA

@@ -1,0 +1,41 @@
+133
+Webcafe	Webcafe	PRO	PRO-Webcafe.bg
+Аляска	Аляска	LOC	GPE-Alaska
+Ашли	Ашли	PER	PER-Ashley-Biden
+Байдън	Байдън	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Бо	Бо	PER	PER-Beau-Biden
+Бърни Сандърс	Бърни Сандърс	PER	PER-Bernie-Sanders
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Делауеър	Делауеър	LOC	GPE-Delaware
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Дж. Калеб Богс	Дж. Калеб Богс	PER	PER-J-Caleb-Boggs
+Джил Байдън	Джил Байдън	PER	PER-Jill-Biden
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джон МакКейн	Джон МакКейн	PER	PER-John-McCain
+Джон Ф. Кенеди	Джон Ф. Кенеди	PER	PER-John-F-Kennedy
+Джоузеф Робинет Байдън-младши	Джоузеф Робинет Байдън-младши	PER	PER-Joe-Biden
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+Комисията по външни отношения	Комисия по външни отношения	ORG	ORG-Senate-Foreign-Relations-Committee
+Мит Ромни	Мит Ромни	PER	PER-Mitt-Romney
+Наоми	Наоми	PER	PER-Naomi-Biden
+Нейлия Хънтър	Нейлия Хънтър	PER	PER-Neilia-Hunter
+Ню Касъл	Ню Касъл	LOC	GPE-New-Castle-County
+Обама	Обама	PER	PER-Barack-Obama
+Обамакеър	Обамакеър	PRO	PRO-Obamacare
+Пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Covid-19
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Пол Райън	Пол Райън	PER	PER-Paul-Ryan
+САЩ	САЩ	LOC	GPE-USA
+Сара Пейлин	Сара Пейлин	PER	PER-Sarah-Palin
+Сената на САЩ	Сената на САЩ	ORG	ORG-United-States-Senate
+Сенатор	Сенат	ORG	ORG-United-States-Senate
+Сиракуза	Сиракуза	LOC	GPE-Syracuse
+Скрантън	Скрентън	LOC	GPE-Scranton
+Юридическия факултет в Сиракуза	Юридически факултет в Сиракуза	ORG	ORG-College-of-Law-Syracuse-University
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+републиканеца	републиканец	PER	ORG-Republican-Party-USA
+републиканците	републиканци	PER	ORG-Republican-Party-USA
+университета в Делауеър	Университет в Делауеър	ORG	ORG-University-of-Delaware

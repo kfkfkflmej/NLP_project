@@ -1,0 +1,13 @@
+097
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Америка	Америка	LOC	GPE-USA
+Байдън	Байдън	PER	PER-Joe-Biden
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Конгреса	Конгрес	ORG	ORG-United-States-Congress
+Президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+САЩ	САЩ	LOC	GPE-USA
+Труд	Труд	PRO	PRO-Trud
+Тръмп	Тръмп	PER	PER-Donald-Trump

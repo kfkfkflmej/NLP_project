@@ -1,0 +1,20 @@
+107
+Covid-19	COVID-19	EVT	EVT-Covid-19
+South China Morning Post	South China Morning Post	PRO	PRO-South-China-Morning-Post
+Бен Каулинг	Бен Каулинг	PER	PER-Benjamin-Cowling
+Епидемиология и биостатистика в Училището по здравеопазване на Университета Хонконг	Епидемиология и биостатистика в Училището по здравеопазване на Университета Хонконг	ORG	ORG-School-of-Public-Health-of-the-University-of-Hong-Kong
+Китай	Китай	LOC	GPE-China
+Лиаонинг	Лиаонинг	LOC	GPE-Liaoning
+Пекин	Пекин	LOC	GPE-Beijing
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+Синфади	Синфади	LOC	LOC-Xinfadi
+Ухан	Ухан	LOC	GPE-Wuhan
+Фенгтай	Фенгтай	LOC	GPE-Fengtai
+Хубей	Хубей	LOC	GPE-Hubei
+втора вълна на вируса	втора вълна на вируса	EVT	EVT-COVID-19-second-wave
+втора вълна на коронавируса	втора вълна на коронавируса	EVT	EVT-COVID-19-second-wave
+епидемия	епидемия	EVT	EVT-Epidemic
+здравното бюро в Пекин	здравното бюро в Пекин	ORG	ORG-Health-Quarters-China
+китайската Национална здравна комисия	китайската Национална здравна комисия	ORG	ORG-National-Health-Commission-China
+китайската столица	китайската столица	LOC	GPE-Beijing
+коронавирус	коронавирус	EVT	EVT-Covid-19

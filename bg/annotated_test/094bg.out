@@ -1,0 +1,46 @@
+094
+Covid-19	COVID-19	EVT	EVT-Covid-19
+New York Times	New York Times	PRO	PRO-The-New-York-Times
+Айдахо	Айдахо	LOC	GPE-Idaho
+Аляска	Аляска	LOC	GPE-Alaska
+Аржентина	Аржентина	LOC	GPE-Argentina
+Белия дом	Белия дом	LOC	LOC-White-House
+Бразилия	Бразилия	LOC	GPE-Brazil
+Бразилия	Бразилия	LOC	GPE-Brazil
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Горния Среден Запад	Горен Среден Запад	LOC	LOC-Upper-Midwest
+Европа	Европа	LOC	LOC-Europe
+Индиана	Индиана	LOC	GPE-Indiana
+Индия	Индия	LOC	GPE-India
+Индия	Индия	LOC	GPE-India
+Иран	Иран	LOC	GPE-Iran
+Испания	Испания	LOC	GPE-Spain
+Италия	Италия	LOC	GPE-Italy
+Колорадо	Колорадо	LOC	GPE-Colorado
+Колумбия	Колумбия	LOC	GPE-Colombia
+Мексико	Мексико	LOC	GPE-Мexico
+Минесота	Минесота	LOC	GPE-Minnesota
+Мисури	Мисури	LOC	GPE-Missouri
+Монтана	Монтана	LOC	GPE-Montana-US-State
+Непал	Непал	LOC	GPE-Nepal
+Непал	Непал	LOC	GPE-Nepal
+Ню Йорк	Ню Йорк	LOC	GPE-New-York
+Ню Мексико	Ню Мексико	LOC	GPE-New Mexico
+Оклахома	Оклахома	LOC	GPE-Oklahoma
+Перу	Перу	LOC	GPE-Peru
+Русия	Русия	LOC	GPE-Russia
+САЩ	САЩ	LOC	GPE-USA
+САЩ	САЩ	LOC	GPE-USA
+Северна Дакота	Северна Дакота	LOC	GPE-North-Dakota
+Скалистите планини	Скалисти планини	LOC	LOC-Rocky-Mountains
+Съединените щати	Съединени щати	LOC	GPE-USA
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+Франция	Франция	LOC	GPE-France
+Южна Америка	Южна Америка	LOC	LOC-South-America
+Южна Дакота	Южна Дакота	LOC	GPE-South-Dakota-US-State
+Юта	Юта	LOC	GPE-Utah
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусни инфекции	коронавирусна инфекция	EVT	EVT-Covid-19
+университета „Джнс Хопкинс“	Университет „Джонс Хопкинс“	ORG	ORG-John-Hopkins-University

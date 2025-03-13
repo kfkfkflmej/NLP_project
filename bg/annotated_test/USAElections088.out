@@ -1,0 +1,69 @@
+088
+CBS	CBS	PRO	PRO-CBS-TV
+АРКАНЗАС	Арканзас	LOC	GPE-Arkansas
+АФП	АФП	ORG	ORG-France-Presse
+Айдахо	Айдахо	LOC	GPE-Idaho
+Айова	Айова	LOC	GPE-Iowa
+Алабама	Алабама	LOC	GPE-USA-Alabama
+Аризона	Аризона	LOC	GPE-Arizona
+Арканзас	Арканзас	LOC	GPE-Arkansas
+Байдън	Байдън	PER	PER-Joe-Biden
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вирджиния	Вирджиния	LOC	GPE-Virginia
+Върмонт	Върмонт	LOC	GPE-Vermont
+ДЖОРДЖИЯ	Джорджия	LOC	GPE-Georgia-US-state
+Делауеър	Делауеър	LOC	GPE-Delaware
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Западна Вирджиния	Западна Вирджиния	LOC	GPE-West-Virginia
+Илинойс	Илинойс	LOC	GPE-Illinois
+Индиана	Индиана	LOC	GPE-Indiana
+Калифорния	Калифорния	LOC	GPE-California
+Канзас	Канзас	LOC	GPE-Kansas
+Кентъки	Кентъки	LOC	GPE-Kentucky
+Колорадо	Колорадо	LOC	GPE-Colorado
+Кънектикът	Кънектикът	LOC	GPE-Connecticut
+Луизиана	Луизиана	LOC	GPE-Louisiana
+МИЧИГАН	Мичиган	LOC	GPE-Michigan
+Масачузетс	Масачузетс	LOC	GPE-Massachusetts
+Мейн	Мейн	LOC	GPE-Maine
+Мериленд	Мериленд	LOC	GPE-Maryland
+Минесота	Минесота	LOC	GPE-Minnesota
+Мисисипи	Мисисипи	LOC	GPE-Mississippi
+Мисури	Мисури	LOC	GPE-Missouri
+Мичиган	Мичиган	LOC	GPE-Michigan
+Монтана	Монтана	LOC	GPE-Montana-US-State
+НЕВАДА	Невада	LOC	GPE-Nevada
+Небраска	Небраска	LOC	GPE-Nebraska
+Невада	Невада	LOC	GPE-Nevada
+Ню Джърси	Ню Джърси	LOC	GPE-New-Jersey
+Ню Йорк	Ню Йорк	LOC	GPE-New-York
+Ню Мексико	Ню Мексико	LOC	GPE-New-Mexico
+Ню Хемпшър	Ню Хемпшър	LOC	GPE-New-Hampshire
+Оклахома	Оклахома	LOC	GPE-Oklahoma
+Орегон	Орегон	LOC	GPE-Oregon
+Охайо	Охайо	LOC	GPE-Ohio
+ПЕНСИЛВАНИЯ	Пенсилвания	LOC	GPE-Pennsylvania
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Роуд айлънд	Роуд Айлънд	LOC	GPE-Rhode-Island
+СЕВЕРНА КАРОЛИНА	Северна Каролина	LOC	GPE-North-Carolina-US-State
+Северна Дакота	Северна Дакота	LOC	GPE-North-Dakota
+Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+Тексас	Тексас	LOC	GPE-Texas
+Тенеси	Тенеси	LOC	GPE-Tennessee
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Туитър	Туитър	PRO	PRO-Twitter
+УИСКОНСИН	Уисконсин	LOC	GPE-Wisconsin
+Уайоминг	Уайоминг	LOC	GPE-Wyoming
+Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+Флорида	Флорида	LOC	GPE-Florida
+Франс прес	Франс прес	ORG	ORG-France-Presse
+Хавай	Хаваи	LOC	GPE-Hawaii
+Южна Дакота	Южна Дакота	LOC	GPE-South-Dakota-US-State
+Южна Каролина	Южна Каролина	LOC	GPE-South-Carolina-US-State
+Юта	Юта	LOC	GPE-Utah
+демократът	демократ	PER	ORG-Democratic-Party-USA
+президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+републиканецът	републиканец	PER	ORG-Republican-Party-USA
+федерален окръг Вашингтон	федерален окръг Колумбия	LOC	GPE-District-of-Columbia

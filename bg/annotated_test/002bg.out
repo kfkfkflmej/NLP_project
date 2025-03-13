@@ -1,0 +1,9 @@
+002
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Opson	Opson	EVT	EVT-Opson
+Азия	Азия	LOC	LOC-Asia
+Интерпол	Интерпол	ORG	ORG-Interpol
+Южна Африка	Южна Африка	LOC	GPE-Republic-of-South-Africa
+Юрген Щок	Юрген Щок	PER	PER-Yurgen-Shtok
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19

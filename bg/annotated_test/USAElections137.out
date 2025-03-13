@@ -1,0 +1,44 @@
+137
+BLM	BLM	ORG	ORG-Black-Lives-Matter
+Black Lives Matter	Black Lives Matter	ORG	ORG-Black-Lives-Matter
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Facebook	Facebook	PRO	PRO-Facebook
+NBC	NBC	PRO	PRO-National-Broadcasting-Company
+QAnon	QAnon	PRO	PRO-QAnon-theory
+Twitter	Twitter	PRO	PRO-Twitter
+Webcafe	Webcafe	PRO	PRO-Webcafe.bg
+Американската конституция	Американска конституция	PRO	PRO-The-USA-Constitution
+Антифа	Антифа	ORG	ORG-Antifa-USA
+Белия дом	Белия дом	LOC	LOC-White-House
+Брайън Левин	Брайън Левин	PER	PER-Brian-Levin
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Втората поправка	Втора поправка	PRO	PRO-Second-Amendment
+Горди момчета	Горди момчета	ORG	ORG-the-Proud-Boys
+Гретчен Уитмър	Гретчен Уитмър	PER	PER-Gretchen-Whitmer
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Джош Елис	Джош Елис	PER	PER-Josh-Ellis
+Доналд Тръмп-младши	Доналд Тръмп-младши	PER	PER-Donald-Trump-Jr.
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Елис	Елис	PER	PER-Josh-Ellis
+Индиана	Индиана	LOC	GPE-Indiana
+Калифорния	Калифорния	LOC	GPE-California
+Кеноша	Кеноша	LOC	GPE-Kenosha
+Кентъки	Кентъки	LOC	GPE-Kentucky
+Ку-Клукс-Клан	Ку-Клукс-Клан	ORG	ORG-Ku-Klux-Klan
+Мичиган	Мичиган	LOC	GPE-Michigan
+Орегон	Орегон	LOC	GPE-Oregon
+Пазители на росомахата	Пазители на росомахата	ORG	ORG-Wolverine-Watchmen
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+САЩ	САЩ	LOC	GPE-USA
+Савана Гудри	Савана Гудри	PER	PER-Savannah-Guthrie
+Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+ФБР	ФБР	ORG	ORG-FBI
+Файненшъл таймс	Файненшъл таймс	PRO	PRO-Financial-Times
+Холивуд	Холивуд	LOC	GPE-Hollywood
+Южна Каролина	Южна Каролина	LOC	GPE-South-Carolina-US-State
+американците	американци	PER	GPE-USA
+коронавируса	коронавирус	EVT	EVT-Covid-19
+щатския университет на Калифорния в Сан Бернардино	щатски университет на Калифорния в Сан Бернардино	ORG	ORG-California-State-University-San-Bernardino

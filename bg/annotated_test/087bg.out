@@ -1,0 +1,14 @@
+087
+Covid-19	COVID-19	EVT	EVT-Covid-19
+Англия	Англия	LOC	GPE-England
+Англия	Англия	LOC	GPE-England
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Есекс	Есекс	LOC	GPE-Essex
+Кент	Кент	LOC	GPE-Kent
+Лондон	Лондон	LOC	GPE-London
+Мат Ханкок	Мат Ханкок	PER	PER-Matthew-Hancock
+Острова	Остров	LOC	GPE-Great-Britain
+СЗО	СЗО	ORG	ORG-WHO
+Ханкок	Ханкок	PER	PER-Matthew-Hancock
+Хертфордшир	Хартфордшир	LOC	GPE-Hertfordshire
+коронавируса	коронавирус	EVT	EVT-Covid-19

@@ -1,0 +1,22 @@
+031
+Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+Байдън	Байдън	PER	PER-Joe-Biden
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Върховния съд на САЩ	Върховен съд на САЩ	ORG	ORG-Supreme-Court-of-the-United-States
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+Изборната колегия	Изборна колегия	ORG	ORG-United-States-Electoral-College
+Конгреса	Конгрес	ORG	ORG-United-States-Congress
+САЩ	САЩ	LOC	GPE-USA
+Сената на САЩ	Сенат на САЩ	ORG	ORG-United-States-Senate
+Сената	Сенат	ORG	ORG-United-States-Senate
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Хаваи	Хаваи	LOC	GPE-Hawaii
+Хавай	Хаваи	LOC	GPE-Hawaii
+американците	американци	PER	GPE-USA
+пандемията на коронавируса	пандемия на коронавирус	EVT	EVT-Covid-19
+президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+републиканци	републиканци	PER	ORG-Republican-Party-USA
+републиканците	републиканци	PER	ORG-Republican-Party-USA

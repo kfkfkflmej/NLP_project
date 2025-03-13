@@ -1,0 +1,15 @@
+133
+Covid-19	COVID-19	EVT	EVT-Covid-19
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+SARS-Cov-2	SARS-Cov-2	EVT	EVT-Covid-19
+Европейския център по заразни болести и контрол (ECDC)	Европейски център по заразни болести и контрол (ECDC)	ORG	ORG-European-Centre-for-Disease-Prevention-and-Control
+Китай	Китай	LOC	GPE-China
+Международният валутен фонд (МВФ)	Международен валутен фонд (МВФ)	ORG	ORG-International-Monetary-Fund
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+СЗО	СЗО	ORG	ORG-WHO
+Световната здравна организация (СЗО)	Световна здравна организация (СЗО)	ORG	ORG-WHO
+Ухан	Ухан	LOC	GPE-Wuhan
+Хубей	Хубей	LOC	GPE-Hubei
+американската централната банка	Американска централната банка	ORG	ORG-Federal-Reserve-System
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19

@@ -1,0 +1,25 @@
+110
+БВП	БВП	PRO	PRO-GDP
+България	България	LOC	GPE-Bulgaria
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Германия	Германия	LOC	GPE-Germany
+Грегорж Шилевич	Грегорж Шилевич	PER	PER-Grzegorz-Sielewicz
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+Италия	Италия	LOC	GPE-Italy
+Китай	Китай	LOC	GPE-China
+Кофас груп	Кофас груп	ORG	ORG-Coface-Group
+Кофас	Кофас	ORG	ORG-Coface-Group
+Последиците от COVID-19 върху икономиката	Последиците от COVID-19 върху икономиката	PRO	PRO-Consequences-of-COVID-19-on-economics
+Румъния	Румъния	LOC	GPE-Romania
+САЩ	САЩ	LOC	GPE-USA
+Словакия	Словакия	LOC	GPE-Slovakia
+Франция	Франция	LOC	GPE-France
+Хърватия	Хърватия	LOC	GPE-Croatia
+Централна	Централна	LOC	LOC-Central-Europe
+Шилевич	Шилевич	PER	PER-Grzegorz-Sielewicz
+втора вълна на вируса	втора вълна на вируса	EVT	EVT-COVID-19-second-wave
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+пандемията	пандемия	EVT	EVT-Pandemic

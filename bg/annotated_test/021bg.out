@@ -1,0 +1,17 @@
+021
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+Беларус	Беларус	LOC	GPE-Belarus
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Източна Украйна	Източна Украйна	LOC	LOC-East-Ukraine
+Киев	Киев	LOC	GPE-Kiev
+Кремъл	Кремъл	LOC	LOC-Kremlin
+Меркел	Меркел	PER	PER-Angela-Merkel
+Москва	Москва	LOC	GPE-Moscow
+Путин	Путин	PER	PER-Vladimir-Putin
+Русия	Русия	LOC	GPE-Russia
+Руската ваксина	Руска ваксина	PRO	PRO-Russian-vaccine
+Спутник V	Спутник V	PRO	PRO-Sputnik-V
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусната пандемия	коронавирусна пандемия	EVT	EVT-Covid-19

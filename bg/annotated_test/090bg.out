@@ -1,0 +1,19 @@
+090
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BioNtech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+CureVac	CureVac	ORG	ORG-CureVac
+EС	EС	ORG	ORG-European-Union
+GSK	GSK	ORG	ORG-GSK
+Janssen Pharmaceutica	Janssen Pharmaceutica	ORG	ORG-China-National-Pharmaceutical-Group
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Sanofi	Sanofi	ORG	ORG-Sanofi
+ЕК	ЕК	ORG	ORG-European-Commission
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Комисията	Комисия	ORG	ORG-European-Commission
+Стела Кириaкиду	Стела Кириaкиду	PER	PER-Stella-Kyriakides
+Урсула фон дер Лайен	Урсула фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+коронавируса	коронавирус	EVT	EVT-Covid-19

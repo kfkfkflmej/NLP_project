@@ -1,0 +1,17 @@
+008
+Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+START	START	PRO	PRO-START
+Байдън	Байдън	PER	PER-Joe-Biden
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Комунистическа партия	Комунистическа партия	ORG	ORG-Communist-Party-of-Russia
+Москва	Москва	LOC	GPE-Moscow
+Путин	Путин	PER	PER-Vladimir-Putin
+Русия	Русия	LOC	GPE-Russia
+САЩ	САЩ	LOC	GPE-USA
+Тръмп	Тръмп	PER	PER-Donald-Trump
+ФБР	ФБР	ORG	ORG-FBI
+демократите	демократи	PER	ORG-Democratic-Party-USA

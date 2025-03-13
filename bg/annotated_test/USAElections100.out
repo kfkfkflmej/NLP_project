@@ -1,0 +1,34 @@
+100
+Америка	Америка	LOC	GPE-USA
+Белия дом	Белия дом	LOC	LOC-White-House
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Демократичната партия	Демократична партия	ORG	ORG-Democratic-Party-USA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джордж Флойд	Джордж Флойд	PER	PER-George-Floyd
+Доналд Тръмп-младши	Доналд Тръмп-младши	PER	PER-Donald-Trump-Jr.
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+Китай	Китай	LOC	GPE-China
+Марк	Марк	PER	PER-Mark-McCloskey
+Ники Хейли	Ники Хейли	PER	PER-Nikki-Haley
+ООН	ООН	ORG	ORG-United-Nations
+Патриша Макклоски	Патриша Макклоски	PER	PER-Patricia-McCloskey
+Републиканците	републиканци	PER	ORG-Republican-Party-USA
+САЩ	САЩ	LOC	GPE-USA
+Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+Скот	Скот	PER	PER-Tim-Scott
+Тим Скот	Тим Скот	PER	PER-Tim-Scott
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Чарли Кърк	Чарли Кърк	PER	PER-Charlie-Kirk
+Шарлът	Шарлът	LOC	GPE-Charlotte
+Южна Каролина	Южна Каролина	LOC	GPE-South-Carolina-US-State
+американец	американец	PER	GPE-USA
+афроамериканеца	афроамериканец	PER	GPE-USA
+афроамериканците	афроамериканци	PER	GPE-USA
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+конгреса на Републиканската партия	Конгрес на Републиканската партия	EVT	EVT-2020-Republican-National-Convention
+коронавирусната пандемия	коронавирусна пандемия	EVT	EVT-Covid-19
+президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+републиканец	републиканец	PER	ORG-Republican-Party-USA

@@ -1,0 +1,30 @@
+143
+Covid-19	COVID-19	EVT	EVT-Covid-19
+България	България	LOC	GPE-Bulgaria
+ВМА	ВМА	LOC	LOC-Military-medicine-academia-hospital-Sofia
+Варна	Варна	LOC	GPE-Varna
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Венцислав Мутафчийски	Венцислав Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+Габрово	Габрово	LOC	GPE-Gabrovo
+Германия	Германия	LOC	GPE-Germany
+Гърция	Гърция	LOC	GPE-Greece
+Испания	Испания	LOC	GPE-Spain
+Италия	Италия	LOC	GPE-Italy
+Китай	Китай	LOC	GPE-China
+Ловеч	Ловеч	LOC	GPE-Lovetch
+Лом	Лом	LOC	GPE-Lom
+Мутафчийски	Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+Перник	Перник	LOC	GPE-Pernik
+Пирогов	Пирогов	LOC	LOC-Pirogov-Hospital-BG
+Плевен	Плевен	LOC	GPE-Pleven
+Пловдив	Пловдив	LOC	GPE-Plovdiv
+СЗО	СЗО	ORG	ORG-WHO
+Северна Македония	Северна Македония	LOC	GPE-North-Macedonia
+Смолян	Смолян	LOC	GPE-Smolyan
+София	София	LOC	GPE-Sofia
+Софиямед	Софиямед	LOC	LOC-SofiaMed
+Сърбия	Сърбия	LOC	GPE-Serbia
+Турция	Турция	LOC	GPE-Turkey
+Франция	Франция	LOC	GPE-France
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19

@@ -1,0 +1,32 @@
+115
+Атланта	Атланта	LOC	GPE-Atlanta
+БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Белия дом	LOC	LOC-White-House
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Далтън	Далтън	LOC	GPE-Dalton-Georgia
+Дейвид Пердю	Дейвид Пердю	PER	PER-David-Perdue
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джон Ософ	Джон Ософ	PER	PER-Jon-Ossoff
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+Камарата на представителите (долната камара на Конгреса)	Камара на представителите (Долна камара на Конгреса)	ORG	ORG-House-of-Representatives(USA)
+Кели Лофлър	Кели Лофлър	PER	PER-Kelly-Loeffler
+Лофлър	Лофлър	PER	PER-Kelly-Loeffler
+Ософ	Ософ	PER	PER-Jon-Ossoff
+Пердю	Пердю	PER	PER-David-Perdue
+Рафаел Уорнок	Рафаел Уорнок	PER	PER-Raphael-Warnock
+Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+САЩ	САЩ	LOC	GPE-USA
+Сената	Сенат	ORG	ORG-United-States-Senate
+Уорнок	Уорнок	PER	PER-Raphael-Warnock
+Франс прес	Франс прес	ORG	ORG-France-Presse
+американския Конгрес	американски Конгрес	ORG	ORG-United-States-Congress
+горната камара на Конгреса	Горна камара на Конгреса	ORG	ORG-United-States-Senate
+горната камара на американския Конгрес	Горна камара на американския Конгрес	ORG	ORG-United-States-Senate
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+избори за Сената  на САЩ	избори за Сената на САЩ	EVT	EVT-USA-Senate-Elections-2020
+републиканци	републиканци	PER	ORG-Republican-Party-USA
+републиканците	републиканци	PER	ORG-Republican-Party-USA

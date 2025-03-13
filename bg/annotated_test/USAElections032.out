@@ -1,0 +1,21 @@
+032
+AP	AP	ORG	ORG-AP-The-Associated-Press
+DPA	DPA	ORG	ORG-DPA
+GSA	GSA	ORG	ORG-General-Services-Administration
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Белия дом	LOC	LOC-White-House
+Деня на благодарността	Ден на благодарността	EVT	EVT-Thanksgiving-Day
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Изборната колегия	Изборна колегия	ORG	ORG-United-States-Electoral-College
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+САЩ	САЩ	LOC	GPE-USA
+Сената	Сенат	ORG	ORG-United-States-Senate
+Тръмп	Тръмп	PER	PER-Donald-Trump
+горната камара на Конгреса	Горна камара на Конгреса	ORG	ORG-United-States-Senate
+демократа	демократ	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+парламента на САЩ	парламент на САЩ	ORG	ORG-Parliament-of-USA
+президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election

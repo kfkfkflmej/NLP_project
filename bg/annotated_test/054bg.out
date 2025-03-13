@@ -1,0 +1,14 @@
+054
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Ангелов	Ангелов	PER	PER-Kostadin-Angelov
+Белгия	Белгия	LOC	GPE-Belgium
+България	България	LOC	GPE-Bulgaria
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Германия	Германия	LOC	GPE-Germany
+ЕС	ЕС	ORG	ORG-European-Union
+Костадин Ананиев	Костадин Ангелов	PER	PER-Kostadin-Angelov
+Нидерландия	Нидерландия	LOC	GPE-The-Netherlands
+Република България	Република България	LOC	GPE-Bulgaria
+Франция	Франция	LOC	GPE-France
+български граждани	български граждани	PER	GPE-Bulgaria
+коронавируса	коронавирус	EVT	EVT-Covid-19

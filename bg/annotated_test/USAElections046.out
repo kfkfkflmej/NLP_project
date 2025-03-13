@@ -1,0 +1,23 @@
+046
+CNN	CNN	PRO	PRO-CNN
+Fox News	Fox News	PRO	PRO-Fox-News
+Америка	Америка	LOC	GPE-USA
+Андерсън Купър	Андерсън Купър	PER	PER-Anderson-Cooper
+Аризона	Аризона	LOC	GPE-Arizona
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Белия дом	LOC	LOC-White-House
+Брад Рафенспергер	Брад Рафенспергер	PER	PER-Brad-Raffensperger
+Браян Уилямс	Браян Уилямс	PER	PER-Brian-Williams
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Изборите в САЩ	Избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+МSNBC	МSNBC	PRO	PRO-MSNBC-TV
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+САЩ	САЩ	LOC	GPE-USA
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Туитър	Туитър	PRO	PRO-Twitter
+демократите	демократи	PER	ORG-Democratic-Party-USA
+президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election

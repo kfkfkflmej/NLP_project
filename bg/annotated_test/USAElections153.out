@@ -1,0 +1,25 @@
+153
+AP	AP	ORG	ORG-AP-The-Associated-Press
+Reuters	Reuters	ORG	ORG-Reuters
+Аризона	Аризона	LOC	GPE-Arizona
+Бен Сасе	Бен Сасе	PER	PER-Ben-Sasse
+Джереми Д. Кърнодъл	Джереми Д. Кърнодъл	PER	PER-Jeremy-Kernodle
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джош Хоули	Джош Хоули	PER	PER-Josh-Hawley
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Илия Лазаров	Илия Лазаров	PER	PER-Ilia-Lazarov
+Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+Конгреса	Конгрес	ORG	ORG-United-States-Congress
+Лу Гомърт	Лу Гомърт	PER	PER-Louie-Gohmert
+Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+Мисури	Мисури	LOC	GPE-Missouri
+Мич МакКонъл	Мич Макконъл	PER	PER-Mitch-McConnell
+Небраска	Небраска	LOC	GPE-Nebraska
+Пенс	Пенс	PER	PER-Mike-Pence
+Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+Сената	Сенат	ORG	ORG-United-States-Senate
+ТАСС	ТАСС	ORG	ORG-TASS-Agency
+Тексас	Тексас	LOC	GPE-Texas
+демократа	демократ	PER	ORG-Democratic-Party-USA
+републиканци	републиканци	PER	ORG-Republican-Party-USA
+републиканците	републиканци	PER	ORG-Republican-Party-USA

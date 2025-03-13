@@ -1,0 +1,12 @@
+001
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Германия	Германия	LOC	GPE-Germany
+Италия	Италия	LOC	GPE-Italy
+Китай	Китай	LOC	GPE-China
+СЗО	СЗО	ORG	ORG-WHO
+Франция	Франция	LOC	GPE-France
+Южна Корея	Южна Корея	LOC	GPE-South-Korea
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусите	коронавирус	EVT	EVT-Covid-19
+коронавирусни инфекции	коронавирусна инфекция	EVT	EVT-Covid-19

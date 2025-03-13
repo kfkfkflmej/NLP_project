@@ -1,0 +1,20 @@
+088
+Covid-19	COVID-19	EVT	EVT-Covid-19
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Euronews	Euronews	ORG	ORG-Euronews
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Ебола	Ебола	EVT	EVT-Ebola
+Западна Африка	Западна Африка	LOC	LOC-West-Africa
+Индиана Джоунс	Индиана Джоунс	PER	PER-Indiana-Jones
+Китай	Китай	LOC	GPE-China
+Лиендерц	Лиендерц	PER	PER-Fabian-Leendertz
+Линдърц	Лиендерц	PER	PER-Fabian-Leendertz
+Робърт Кох	Робърт Кох	ORG	ORG-Robert-Koch-Institut
+СЗО	СЗО	ORG	ORG-WHO
+Световната здравна организация (СЗО)	Световна здравна организация (СЗО)	ORG	ORG-WHO
+Ухан	Ухан	LOC	GPE-Wuhan
+Фабиан Лиендерц	Фабиан Лиендерц	PER	PER-Fabian-Leendertz
+ебола	ебола	EVT	EVT-Ebola
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19

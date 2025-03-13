@@ -1,0 +1,13 @@
+131
+Азия	Азия	LOC	LOC-Asia
+Източна Азиа	Източна Азия	LOC	LOC-Eastern-Asia
+Източна Азия	Източна Азия	LOC	LOC-Eastern-Asia
+Китай	Китай	LOC	GPE-China
+СБ	СБ	ORG	ORG-World-Bank
+Световната банка	Световна банка	ORG	ORG-World-Bank
+Сингапур	Сингапур	LOC	GPE-Singapore
+Тихия океан	Тихи океан	LOC	LOC-Pacific-Ocean
+Тихоокеанския регион	Тихоокеански регион	LOC	LOC-Pacific-Ocean-Region
+Южна Корея	Южна Корея	LOC	GPE-South-Korea
+коронавируса	коронавирус	EVT	EVT-Covid-19
+пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Covid-19

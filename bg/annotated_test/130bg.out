@@ -1,0 +1,11 @@
+130
+COVID-19	COVID-19	EVT	EVT-Covid-19
+HG nCoV19 тест	HG nCoV19 тест	PRO	PRO-Program-HGnCoV19
+ЕК	ЕК	ORG	ORG-European-Commission
+Европа	Европа	LOC	LOC-Europe
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Мария Габриел	Мария Габриел	PER	PER-Mariya-Gabriel
+Хоризонт 2020	Хоризонт 2020	PRO	PRO-Horizon-2020
+епидемията	епидемия	EVT	EVT-Epidemic
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19

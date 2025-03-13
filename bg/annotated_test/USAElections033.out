@@ -1,0 +1,18 @@
+033
+Covid-19	COVID-19	EVT	EVT-Covid-19
+Guardian	Guardian	PRO	PRO-The-Guardian
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Белия дом	LOC	LOC-White-House
+Дебора Бъркс	Дебора Бъркс	PER	ORG-Deborah-Birx
+Деня на ветераните	Ден на ветераните	EVT	EVT-Veterans-Day-USA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+Министерството на вътрешната сигурност	Министерство на вътрешната сигурност	ORG	ORG-United-States-Secretary-of-Homeland-Security
+САЩ	САЩ	LOC	GPE-USA
+Съединените щати	Съединени щати	LOC	GPE-USA
+Тръмп	Тръмп	PER	PER-Donald-Trump
+американците	американци	PER	GPE-USA
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусната пандемия	коронавирусна пандемия	EVT	EVT-Covid-19
+президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election

@@ -1,0 +1,37 @@
+122
+Covid-19	COVID-19	EVT	EVT-Covid-19
+Election Project	Election Project	ORG	ORG-Election-Project
+Аризона	Аризона	LOC	GPE-Arizona
+Белия Дом	Белия дом	LOC	LOC-White-House
+Белия дом	Белия дом	LOC	LOC-White-House
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вирджиния	Вирджиния	LOC	GPE-Virginia
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Джоузеф Байдън	Джоузеф Байдън	PER	PER-Joe-Biden
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Илинойс	Илинойс	LOC	GPE-Illinois
+Калифорния	Калифорния	LOC	GPE-California
+Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+Колорадо	Колорадо	LOC	GPE-Colorado
+Масачузетс	Масачузетс	LOC	GPE-Massachusetts
+Минесота	Минесота	LOC	GPE-Minnesota
+Мичиган	Мичиган	LOC	GPE-Michigan
+Ню Джърси	Ню Джърси	LOC	GPE-New-Jersey
+Охайо	Охайо	LOC	GPE-Ohio
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Републиканецът	републиканец	PER	ORG-Republican-Party-USA
+Републиканците	републиканци	PER	ORG-Republican-Party-USA
+САЩ	САЩ	LOC	GPE-USA
+Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+Тексас	Тексас	LOC	GPE-Texas
+Тенеси	Тенеси	LOC	GPE-Tennessee
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+Флорида	Флорида	LOC	GPE-Florida
+американци	американци	PER	GPE-USA
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+демократът	демократ	PER	ORG-Democratic-Party-USA
+пандемията от Covid-19	пандемия от Covid-19	EVT	EVT-Covid-19
+републиканци	републиканци	PER	ORG-Republican-Party-USA

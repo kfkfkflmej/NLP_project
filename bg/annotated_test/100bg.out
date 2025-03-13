@@ -1,0 +1,10 @@
+100
+Covid-19	COVID-19	EVT	EVT-Covid-19
+Биариц	Биариц	LOC	GPE-Biarritz
+Ил дьо Франс	Ил дьо Франс	LOC	LOC-Ile-de-France
+Монмартър	Монмартър	LOC	LOC-Montmartre
+Париж	Париж	LOC	GPE-Paris
+Сен Тропе	Сен Тропе	LOC	GPE-Saint-Tropez
+Сена	Сена	LOC	LOC-Seine
+Франция	Франция	LOC	GPE-France
+коронавирус инфекции	коронавирус инфекция	EVT	EVT-Covid-19

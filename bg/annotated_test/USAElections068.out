@@ -1,0 +1,18 @@
+068
+Америка	Америка	LOC	GPE-USA
+Белия дом	Белия дом	LOC	LOC-White-House
+Бостънския университет	Бостънски университет	ORG	ORG-Boston-University
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Доналд Тръпм	Доналд Тръмп	PER	PER-Donald-Trump
+Любомир Топалов	Любомир Топалов	PER	PER-Lyubomir-Topalov
+Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+Републиканците	републиканци	PER	ORG-Republican-Party-USA
+САЩ	САЩ	LOC	GPE-USA
+Топалов	Топалов	PER	PER-Lyubomir-Topalov
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Хоризонт за вас	Хоризонт за вас	PRO	PRO-Horizont-za-vas
+демократите	демократи	PER	ORG-Democratic-Party-USA
+президентски избори в Съединените щати	президентски избори в Съединените щати	EVT	EVT-2020-United-States-Presidential-Election
+републиканците	републиканци	PER	ORG-Republican-Party-USA

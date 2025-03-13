@@ -1,0 +1,19 @@
+090
+CNN	CNN	PRO	PRO-CNN
+Америка	Америка	LOC	GPE-USA
+Антъни Фаучи	Антъни Фаучи	PER	PER-Anthony-Fauci
+Байдън	Байдън	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Демократът	демократ	PER	ORG-Democratic-Party-USA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Конгреса	Конгрес	ORG	ORG-United-States-Congress
+Парижкото споразумение за климата	Парижко споразумение за климата	PRO	PRO-Paris-Agreement
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+САЩ	САЩ	LOC	GPE-USA
+Световната здравна организация	Световна здравна организация	ORG	ORG-WHO
+Тим Мърта	Тим Мърта	PER	PER-Tim-Murtha
+Тръмп	Тръмп	PER	PER-Donald-Trump
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+пандемия на коронавируса	пандемия на коронавирус	EVT	EVT-Covid-19

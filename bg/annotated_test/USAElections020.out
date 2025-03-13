@@ -1,0 +1,17 @@
+020
+Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+NBC	NBC	PRO	PRO-National-Broadcasting-Company
+Wall Street Journal	Wall Street Journal	PRO	PRO-Wall-Street-Journal
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Белия дом	LOC	LOC-White-House
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Катлийн Търнър	Катлийн Търнър	PER	PER-Kathleen-Turner
+Пат Тоуми	Пат Тоуми	PER	PER-Pat-Toomey
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+САЩ	САЩ	LOC	GPE-USA
+Тоуми	Тоуми	PER	PER-Pat-Toomey
+Тръмп	Тръмп	PER	PER-Donald-Trump
+демократа	демократ	PER	ORG-Democratic-Party-USA

@@ -1,0 +1,16 @@
+117
+Reuters	Reuters	ORG	ORG-Reuters
+Африка	Африка	LOC	LOC-Africa
+Гебрейесус	Гебрейесус	PER	PER-Tedros-Adhanom-Ghebreyesus
+Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+Китай	Китай	LOC	GPE-China
+Латинска Америка	Латинска Америка	LOC	LOC-Latin-America
+Пандемията от новия коронавирус	Пандемия от новия коронавирус	EVT	EVT-Covid-19
+Пандемията	Пандемия	EVT	EVT-Pandemic
+СЗО	СЗО	ORG	ORG-WHO
+Световната здравна организация (СЗО)	Световна здравна организация (СЗО)	ORG	ORG-WHO
+Тедрос Аданом Гебрейесус	Тедрос Аданом Гебрейесус	PER	PER-Tedros-Adhanom-Ghebreyesus
+инфекции с новия кронавирус	инфекции с новия кронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+пандемията	пандемия	EVT	EVT-Pandemic
+университета „Джонс Хопкинс“	Университет „Джонс Хопкинс“	ORG	ORG-Johns-Hopkins-University

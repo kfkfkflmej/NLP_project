@@ -1,0 +1,8 @@
+096
+CDC	CDC	ORG	ORG-CDC-Centers-for-Disease-Control-and-Prevention
+CNN	CNN	PRO	PRO-CNN
+Covid-19	COVID-19	EVT	EVT-Covid-19
+Американските центрове за контрол и превенция на заболяванията (CDC)	Американски центрове за контрол и превенция на заболяванията (CDC)	ORG	ORG-CDC-Centers-for-Disease-Control-and-Prevention
+САЩ	САЩ	LOC	GPE-USA
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавирусните инфекции	коронавирусна инфекция	EVT	EVT-Covid-19

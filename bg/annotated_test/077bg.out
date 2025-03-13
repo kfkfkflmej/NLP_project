@@ -1,0 +1,14 @@
+077
+CNBC	CNBC	ORG	ORG-CNBC
+Covid-19	COVID-19	EVT	EVT-Covid-19
+Moderna	Moderna	ORG	ORG-Moderna
+Агенцията по храните и лекарствата	Агенция по храните и лекарствата	ORG	ORG-FDA
+Американската агенция по храните и лекарствата	Американска агенция по храните и лекарствата	ORG	ORG-FDA
+Американските центрове за контрол и превенция на заболяванията	Американски центрове за контрол и превенция на заболяванията	ORG	ORG-CDC-Centers-for-Disease-Control-and-Prevention
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Канада	Канада	LOC	GPE-Canada
+Масачузетс	Масачузетс	LOC	GPE-Massachusetts
+САЩ	САЩ	LOC	GPE-USA
+Съединените щати	Съединени щати	LOC	GPE-USA
+Федералното правителството	Федерално правителство	ORG	ORG-Federal-Goverment-of-USA
+коронавирус	коронавирус	EVT	EVT-Covid-19

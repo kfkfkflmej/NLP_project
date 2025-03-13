@@ -1,0 +1,40 @@
+030
+Associated Press	Associated Press	ORG	ORG-AP-The-Associated-Press
+Twitter	Twitter	PRO	PRO-Twitter
+Алън Уест	Алън Уест	PER	PER-Allen-West
+Америка	Америка	LOC	GPE-USA
+Байдън	Байдън	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Белия дом	Белия дом	LOC	LOC-White-House
+Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+Върховният съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Джъстин Амаш	Джъстин Амаш	PER	PER-Justin-Amash
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+Изборната колегия	Изборна колегия	ORG	ORG-United-States-Electoral-College
+Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+Капитолийския хълм	Капитолийски хълм	LOC	LOC-Capitol-Hill
+Кения	Кения	LOC	GPE-Kenya
+Колегията	Колегия	ORG	ORG-United-States-Electoral-College
+Конгресът	Конгрес	ORG	ORG-United-States-Congress
+Мич Макконъл	Мич Макконъл	PER	PER-Mitch-McConnell
+Мичиган	Мичиган	LOC	GPE-Michigan
+Обама	Обама	PER	PER-Barack-Obama
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Президентските избори в САЩ	Президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+САЩ	САЩ	LOC	GPE-USA
+Сената	Сенат	ORG	ORG-United-States-Senate
+Тексас	Тексас	LOC	GPE-Texas
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Уилям Бар	Уилям Бар	PER	PER-William-Barr
+Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+американци	американци	PER	GPE-USA
+американците	американци	PER	GPE-USA
+демократът	демократ	PER	ORG-Democratic-Party-USA
+президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+републиканец	републиканец	PER	ORG-Republican-Party-USA
+републиканци	републиканци	PER	ORG-Republican-Party-USA
+републиканците	републиканци	PER	ORG-Republican-Party-USA
+университета „Куинипиак“	университет „Куинипиак“	ORG	ORG-Quinnipiac-University

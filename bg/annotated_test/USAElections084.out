@@ -1,0 +1,45 @@
+084
+(Камала) Харис	Камала Харис	PER	PER-Kamala-Harris
+Associated Press	Associated Press	ORG	ORG-AP-The-Associated-Press
+BBC	BBC	PRO	PRO-BBC
+CNN	CNN	PRO	PRO-CNN
+Fox News	Fox News	PRO	PRO-Fox-News
+Twitter	Twitter	PRO	PRO-Twitter
+Австрия	Австрия	LOC	GPE-Austria
+Америка	Америка	LOC	GPE-USA
+Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+Атланта	Атланта	LOC	GPE-Atlanta
+Байдън	Байдън	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Белия дом	Белия дом	LOC	LOC-White-House
+Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Германия	Германия	LOC	GPE-Germany
+Гърция	Гърция	LOC	GPE-Greece
+ДПА	ДПА	ORG	ORG-DPA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+ЕК	ЕК	ORG	ORG-European-Commission
+Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+Избирателна колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+Кириакос Мицотакис	Кириакос Мицотакис	PER	PER-Kyriakos-Mitsotakis
+Михол Мартин	Михол Мартин	PER	PER-Micheál-Martin
+Монитор	Монитор	ORG	ORG-Monitor-Agency
+Ню Йорк	Ню Йорк	LOC	GPE-New-York
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+Руди Джулиани	Руди Джулиани	PER	PER-Rudy-Giuliani
+САЩ	САЩ	LOC	GPE-USA
+Себастиан Курц	Себастиан Курц	PER	PER-Sebastian-Kurz
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Туитър	Туитър	PRO	PRO-Twitter
+Урсула фон дер Лайен	Урсула фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+Филаделфия	Филаделфия	LOC	GPE-Philadelphia
+Франция	Франция	LOC	GPE-France
+Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
+Харис	Харис	PER	PER-Kamala-Harris
+американци	американци	PER	GPE-USA
+американците	американци	PER	GPE-USA
+президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election

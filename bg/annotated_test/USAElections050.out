@@ -1,0 +1,26 @@
+050
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Байдън	Байдън	PER	PER-Joe-Biden
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Дейвид Пърдю	Дейвид Пърдю	PER	PER-David-Perdue
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джон Ософ	Джон Ософ	PER	PER-Jon-Ossoff
+Джон	Джон	PER	PER-Jon-Ossoff
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Интерфакс	Интерфакс	ORG	ORG-Interfax
+Кели Лефлър	Кели Лефлър	PER	PER-Kelly-Loeffler
+Конгреса	Конгрес	ORG	ORG-United-States-Congress
+Ософ	Ософ	PER	PER-Jon-Ossoff
+РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+Рафаел Уорнок	Рафаел Уорнок	PER	PER-Raphael-Warnock
+Рафаел	Рафаел	PER	PER-Raphael-Warnock
+САЩ	САЩ	LOC	GPE-USA
+Сената	Сенат	ORG	ORG-United-States-Senate
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Уорнок	Уорнок	PER	PER-Raphael-Warnock
+американците	американци	PER	GPE-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+коронавируса	коронавирус	EVT	EVT-Covid-19
+пандемията COVID-19	пандемия COVID-19	EVT	EVT-Covid-19
+пандемията	пандемия	EVT	EVT-Pandemic

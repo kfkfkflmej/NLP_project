@@ -1,0 +1,12 @@
+058
+Байдън	Байдън	PER	PER-Joe-Biden
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+ТАСС	ТАСС	ORG	ORG-TASS-Agency
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Туитър	Туитър	PRO	PRO-Twitter
+президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+републиканец	републиканец	PER	ORG-Republican-Party-USA
+републиканците	републиканци	PER	ORG-Republican-Party-USA

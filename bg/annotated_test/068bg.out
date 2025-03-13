@@ -1,0 +1,18 @@
+068
+спешно разрешително (Emergency Use Authorization – EUA)	спешно разрешително (Emergency Use Authorization – EUA)	PRO	PRO-Emergency-Use-Authorization
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+Biontech	BioNTech	ORG	ORG-BioNTech
+Biontech	BioNTtech	ORG	ORG-BioNTech
+CureVac	CureVac	ORG	ORG-CureVac
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Германия	Германия	LOC	GPE-Germany
+Ковид-19	КОВИД-19	EVT	EVT-Covid-19
+Световната здравна организация	Световна здравна организация	ORG	ORG-WHO
+дексаметазон	дексаметазон	PRO	PRO-Dexamethasone
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусът	коронавирус	EVT	EVT-Covid-19
+ремдесивир	ремдесивир	PRO	PRO-Remdesivir
+хидроксихлорохин	хидроксихлорохин	PRO	PRO-Hydroxychloroquine

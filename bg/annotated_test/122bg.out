@@ -1,0 +1,17 @@
+122
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Reuters	Reuters	ORG	ORG-Reuters
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Европа	Европа	LOC	LOC-Europe
+Женева	Женева	LOC	GPE-Geneva
+Испания	Испания	LOC	GPE-Spain
+Италия	Италия	LOC	GPE-Italy
+Китай	Китай	LOC	GPE-China
+Маргарет Харис	Маргарет Харис	PER	PER-Margaret-Harris
+САЩ	САЩ	LOC	GPE-USA
+СЗО	СЗО	ORG	ORG-WHO
+Световната здравна организация	Световна здравна организация	ORG	ORG-WHO
+Турция	Турция	LOC	GPE-Turkey
+Харис	Харис	PER	PER-Margaret-Harris
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19

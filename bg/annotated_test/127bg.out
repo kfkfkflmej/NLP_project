@@ -1,0 +1,40 @@
+127
+BBC	BBC	ORG	ORG-BBC-Ltd
+BBС	BBС	ORG	ORG-BBC-Ltd
+CNN	CNN	ORG	ORG-CNN
+COVID-19	COVID-19	EVT	EVT-Covid-19
+FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+Алжир	Алжир	LOC	GPE-Algeria
+Американската агенция за контрол на храните и лекарствата (FDA)	Американска агенция за контрол на храните и лекарствата (FDA)	ORG	ORG-FDA-Food-and-Drug-Administration
+Бахрейн	Бахрейн	LOC	GPE-Kingdom-of-Bahrain
+Белия дом	Белия дом	LOC	LOC-White-House
+Близкия изток	Близък изток	LOC	LOC-Near-East
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Дебора Бъркс	Дебора Бъркс	PER	ORG-Deborah-Birx
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Доналд Тръпм	Доналд Тръпм	PER	PER-Donald-Trump
+Индийското здравно министерство	Индийско здравно министерство	ORG	ORG-Ministry-of-Health-and-Family-Welfare-India
+Индия	Индия	LOC	GPE-India
+Испания	Испания	LOC	GPE-Spain
+Йордания	Йордания	LOC	GPE-Jordan
+Кения	Кения	LOC	GPE-Kenya
+Китай	Китай	LOC	GPE-China
+Кувейт	Кувейт	LOC	GPE-Kuwait
+Мароко	Мароко	LOC	GPE-Morocco
+Нарендра Моди	Нарендра Моди	PER	PER-Narendra-Modi
+САЩ	САЩ	LOC	GPE-USA
+Световната здравна организация	Световна здравна организация	ORG	ORG-WHO
+Тунис	Тунис	LOC	GPE-Tunisia
+Франция	Франция	LOC	GPE-France
+Хидроксихлорохин	Хидроксихлорохин	PRO	PRO-Hydroxychloroquine
+Хидроксихлорохинът	Хидроксихлорохин	PRO	PRO-Hydroxychloroquine
+Хлорохинът	Хлорохин	PRO	PRO-Chloroquine
+индийското правителство	Индийско правителство	ORG	ORG-Indian-Government
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+пандемия	пандемия	EVT	EVT-Pandemic
+хидроксихлорохин	хидроксихлорохин	PRO	PRO-Hydroxychloroquine
+хидроксихлорохина	хидроксихлорохин	PRO	PRO-Hydroxychloroquine
+хидроксихлорохинът	хидроксихлорохин	PRO	PRO-Hydroxychloroquine
+хлорохин	хлорохин	PRO	PRO-Chloroquine
+хлорохинът	хлорохин	PRO	PRO-Chloroquine

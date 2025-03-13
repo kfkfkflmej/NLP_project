@@ -1,0 +1,22 @@
+011
+Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+Америка	Америка	LOC	GPE-USA
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Белия дом	LOC	LOC-White-House
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Демократите	Демократи	PER	ORG-Democratic-Party-USA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+Камара на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+Конгрес	Конгрес	ORG	ORG-United-States-Congress
+Конгреса	Конгрес	ORG	ORG-United-States-Congress
+Луизиана	Луизиана	LOC	GPE-Louisiana
+САЩ	САЩ	LOC	GPE-USA
+Сената	Сенат	ORG	ORG-United-States-Senate
+Съединените щати	Съединени щати	LOC	GPE-USA
+движението „Животът на чернокожите има значение“	движение „Животът на чернокожите има значение“	ORG	ORG-BLM
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+републиканци	републиканци	PER	ORG-Republican-Party-USA
+републиканците	републиканци	PER	ORG-Republican-Party-USA

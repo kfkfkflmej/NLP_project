@@ -1,0 +1,23 @@
+076
+ABC	ABC	PRO	PRO-ABC-News
+CBS	CBS	PRO	PRO-CBS-TV
+Fox News	Fox News	PRO	PRO-Fox-News
+NBC	NBC	PRO	PRO-National-Broadcasting-Company
+Аризона	Аризона	LOC	GPE-Arizona
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Бял дом	LOC	LOC-White-House
+Би Би Си	Би Би Си	PRO	PRO-BBC
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+Невада	Невада	LOC	GPE-Nevada
+Николай Дойнов	Николай Дойнов	PER	PER-Nikolay-Doynov
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+САЩ	САЩ	LOC	GPE-USA
+Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Харис	Харис	PER	PER-Kamala-Harris
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+републиканци	републиканци	PER	ORG-Republican-Party-USA

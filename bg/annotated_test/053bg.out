@@ -1,0 +1,24 @@
+053
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BioNTech	BioNTech	ORG	ORG-BioNTech
+CureVac	CureVac	ORG	ORG-CureVac
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕК	ЕК	ORG	ORG-European-Commission
+ЕМА	ЕМА	ORG	ORG-EMA-European-Medicines-Agency
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европейската агенция по лекарствата (ЕМА)	Европейска агенция по лекарствата (ЕМА)	ORG	ORG-EMA-European-Medicines-Agency
+Европейската народна партия (ЕНП)	Европейска народна партия (ЕНП)	ORG	ORG-EPP-group-in-European-Parlament
+Коледа	Коледа	EVT	EVT-Christmas
+Коронавирус	коронавирус	EVT	EVT-Covid-19
+Лизе	Лизе	PER	PER-Peter-Liese
+Общността	Общност	ORG	ORG-European-Union
+Петер Лизе	Петер Лизе	PER	PER-Peter-Liese
+Тюбинген	Тюбинген	LOC	GPE-Tübingen
+Угур Сахин	Угур Сахин	PER	PER-Ugur-Sahin
+Шпигел	Шпигел	PRO	PRO-Der-Spiegel
+коронавируса	коронавирус	EVT	EVT-Covid-19
+пандемията	пандемия	EVT	EVT-Pandemic

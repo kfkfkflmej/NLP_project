@@ -1,0 +1,12 @@
+135
+COVID-19	COVID-19	EVT	EVT-Covid-19
+ЕП	ЕП	ORG	ORG-European-Parliament
+ЕС	ЕС	ORG	ORG-European-Union
+Комисията	Комисия	ORG	ORG-European-Commission
+Официалния вестник на Европейския съюз	Официален вестник на Европейския съюз	PRO	PRO-Official-Journal-of-the-European-Union
+Парламента	Парламент	ORG	ORG-European-Parliament
+Съветът на ЕС	Съвет на ЕС	ORG	ORG-Council-of-the-European-Union
+Фонда	Фонд	PRO	PRO-European-Union-Solidarity-Fund
+коронавируса	коронавирус	EVT	EVT-Covid-19
+пандемията от коронавируса	пандемия от коронавируса	EVT	EVT-Covid-19
+фонд „Солидарност“	фонд „Солидарност“	PRO	PRO-European-Union-Solidarity-Fund

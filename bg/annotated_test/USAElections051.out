@@ -1,0 +1,14 @@
+051
+Twitter	Twitter	PRO	PRO-Twitter
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Белия дом	LOC	LOC-White-House
+Болсонаро	Болсонаро	PER	PER-Jair-Bolsonaro
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Жаир Болсонаро	Жаир Болсонаро	PER	PER-Jair-Bolsonaro
+Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+САЩ	САЩ	LOC	GPE-USA
+демократа	демократ	PER	ORG-Democratic-Party-USA
+изборите в САЩ	избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+републиканеца	републиканец	PER	ORG-Republican-Party-USA

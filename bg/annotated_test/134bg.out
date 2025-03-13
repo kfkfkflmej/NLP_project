@@ -1,0 +1,18 @@
+134
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Reuters	Reuters	ORG	ORG-Reuters
+Болсонаро	Болсонаро	PER	PER-Jair-Bolsonaro
+Бразилия	Бразилия	LOC	GPE-Brazil
+Жаир Болсонаро	Жаир Болсонаро	PER	PER-Jair-Bolsonaro
+Жоао Дория	Жоао Дория	PER	PER-Joao-Doria
+Италия	Италия	LOC	GPE-Italy
+Милано	Милано	LOC	GPE-Milan
+Рио де Жанейро	Рио де Жанейро	LOC	GPE-Rio-de-Janeiro
+Сао Пауло	Сао Пауло	LOC	GPE-Sao-Paulo
+Сао Пауло	Сао Пауло	LOC	GPE-Sao-Paulo
+бразилци	бразилци	PER	GPE-Brazil
+бразилците	бразилци	PER	GPE-Brazil
+здравното министерство	Здравно министерство	ORG	ORG-Ministry-of-Health-Brazil
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+министерството на правосъдието	Министерство на правосъдието	ORG	ORG-Ministry-of-Justice-Brazil

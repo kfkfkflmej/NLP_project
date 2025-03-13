@@ -1,0 +1,38 @@
+146
+Америка	Америка	LOC	GPE-USA
+Анита Хил	Анита Хил	PER	PER-Anita-Hill
+Ашли	Ашли	PER	PER-Ashley-Biden
+БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+Байдън	Байдън	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Белия дом	Белия дом	LOC	LOC-White-House
+Бо Байдън	Бо Байдън	PER	PER-Beau-Biden
+Бърни Сандърс	Бърни Сандърс	PER	PER-Bernie-Sanders
+Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+Делауер	Делауер	LOC	GPE-Delaware
+Джил Байдън	Джил Байдън	PER	PER-Jill-Biden
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джоузеф Робинет Байдън	Джоузеф Робинет Байдън	PER	PER-Joe-Biden
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Ирак	Ирак	LOC	GPE-Iraq
+Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+Кларънс Томас	Кларънс Томас	PER	PER-Clarence-Thomas
+Конгреса	Конгрес	ORG	ORG-United-States-Congress
+Нийл Кинок	Нийл Кинок	PER	PER-Neil-Kinnock
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+САЩ	САЩ	LOC	GPE-USA
+Сената	Сенат	ORG	ORG-United-States-Senate
+Скрантън	Скрентън	LOC	GPE-Scranton
+Тара Рийд	Тара Рийд	PER	PER-Tara-Reade
+Уилмингтън	Уилмингтън	LOC	GPE-Wilmington
+Франс прес	Франс прес	ORG	ORG-France-Presse
+Южна Каролина	Южна Каролина	LOC	GPE-South-Carolina-US-State
+американците	американци	PER	GPE-USA
+афроамериканци	афроамериканци	PER	GPE-USA
+афроамериканците	афроамериканци	PER	GPE-USA
+байдън	Байдън	PER	PER-Joe-Biden
+демократ	демократ	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+републиканец	републиканец	PER	ORG-Republican-Party-USA
+републиканците	републиканци	PER	ORG-Republican-Party-USA
+църквата "Свети Йосиф"	църква "Свети Йосиф"	LOC	LOC-St.-Joseph-Catholic-Church

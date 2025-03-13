@@ -1,0 +1,21 @@
+056
+ABC News	ABC News	PRO	PRO-ABC-News
+AP	AP	ORG	ORG-AP-The-Associated-Press
+CNN	CNN	PRO	PRO-CNN
+FOX News	FOX News	PRO	PRO-Fox-News
+NBC	NBC	PRO	PRO-National-Broadcasting-Company
+Байдън	Байдън	PER	PER-Joe-Biden
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Интерфакс	Интерфакс	ORG	ORG-Interfax
+КНР	КНР	LOC	GPE-China
+ООН	ООН	ORG	ORG-United-Nations
+САЩ	САЩ	LOC	GPE-USA
+Саудитска Арабия	Саудитска Арабия	LOC	GPE-Saudi-Arabia
+Си Дзинпин	Си Дзинпин	PER	PER-Xi-Jinping
+Словения	Словения	LOC	GPE-Slovenia
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Турция	Турция	LOC	GPE-Turkey
+Централната телевизия на Китай	Централна телевизия на Китай	PRO	PRO-China-Central-Television
+демократа	демократ	PER	ORG-Democratic-Party-USA
+президентски избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election

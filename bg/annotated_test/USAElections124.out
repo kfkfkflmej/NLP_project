@@ -1,0 +1,14 @@
+124
+Белия дом	Белия дом	LOC	LOC-White-House
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+Майкъл Уатли	Майкъл Уатли	PER	PER-Michael-Whatley
+Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+Републиканците	републиканци	PER	ORG-Republican-Party-USA
+САЩ	САЩ	LOC	GPE-USA
+Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Шарлът	Шарлът	LOC	GPE-Charlotte
+Южната морава	Южна морава	LOC	LOC-White-House-South-Lawn
+американци	американци	PER	GPE-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA

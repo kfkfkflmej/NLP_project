@@ -1,0 +1,34 @@
+032
+COVID-19	COVID-19	EVT	EVT-Covid-19
+PCR тест	PCR тест	PRO	PRO-PCR-Test
+PCR теста	PCR теста	PRO	PRO-PCR-Test
+Благоевград	Благоевград	LOC	GPE-Blagoevgrad
+Бургас	Бургас	LOC	GPE-Burgas
+Варна	Варна	LOC	GPE-Varna
+Велико Търново	Велико Търново	LOC	GPE-Veliko-Tarnovo
+Видин	Видин	LOC	GPE-Vidin
+Враца	Враца	LOC	GPE-Vratsa
+Габрово	Габрово	LOC	GPE-Gabrovo
+Добрич	Добрич	LOC	GPE-Dobritch
+Кърджали	Кърджали	LOC	GPE-Kardzhali
+Кюстендил	Кюстендил	LOC	GPE-Kyustendil
+Ловеч	Ловеч	LOC	GPE-Lovetch
+МБАЛ Шумен	МБАЛ – Шумен	LOC	LOC-MBAL-Shumen
+Министерството на здравеопазването	Министерство на здравеопазването	ORG	ORG-Ministry-of-Health-Bulgaria
+Монтана	Монтана	LOC	GPE-Montana-Bulgaria
+Националния оперативен щаб	Национален оперативен щаб	ORG	ORG-National-operational-quaters-Bulgaria
+Пазарджик	Пазарджик	LOC	GPE-Pazardzhik
+Перник	Перник	LOC	GPE-Pernik
+Плевен	Плевен	LOC	GPE-Pleven
+Пловдив	Пловдив	LOC	GPE-Plovdiv
+Русе	Русе	LOC	GPE-Ruse
+Силистра	Силистра	LOC	GPE-Silistra
+Сливен	Сливен	LOC	GPE-Sliven
+Смолян	Смолян	LOC	GPE-Smolyan
+София	София	LOC	GPE-Sofia
+Стара Загора	Стара Загора	LOC	GPE-Stara-Zagora
+Хасково	Хасково	LOC	GPE-Haskovo
+Шумен	Шумен	LOC	GPE-Shumen
+коронавирусна инфекция	коронавирусна инфекция	EVT	EVT-Covid-19
+областната болница в Шумен	областна болница в Шумен	LOC	LOC-MBAL-Shumen
+шуменската болница	шуменската болница	LOC	LOC-MBAL-Shumen

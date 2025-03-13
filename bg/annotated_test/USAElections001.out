@@ -1,0 +1,69 @@
+001
+Айова	Айова	LOC	GPE-Iowa
+Александрия Окасио-Кортес	Александрия Окасио-Кортес	PER	PER-Alexandria-Ocasio-Cortez
+Андрю Йънг	Андрю Йънг	PER	PER-Andrew-Young
+Байдън	Байдън	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Белия дом	Бeлия дом	LOC	LOC-White-House
+Белия дом	Белия дом	LOC	LOC-White-House
+Бето О’Рурк	Бето О’Рурк	PER	PER-Beto-O'Rourke
+Бил Де Блазио	Бил Де Блазио	PER	PER-Bill-de-Blasio
+Бил Клинтън	Бил Клинтън	PER	PER-Bill-Clinton
+Бутиджидж	Бутиджидж	PER	PER-Peter-Buttigieg
+Бърни Сандърс	Бърни Сандърс	PER	PER-Bernie-Sanders
+Върмонт	Върмонт	LOC	GPE-Vermont
+Голямата стара партия	Голяма стара партия	ORG	ORG-Republican-Party-USA
+ДНК тест	ДНК тест	PRO	PRO-DNA-test
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Джеб Буш	Джеб Буш	PER	PER-Jeb-Bush
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джордж Буш-младши	Джордж Буш-младши	PER	PER-George-Bush-Jr
+Джордж Буш-старши	Джордж Буш-старши	PER	PER-George-Bush-Sr
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Елизабет Уорън	Елизабет Уорън	PER	PER-Elizabeth-Warren
+Ерик Сулуел	Ерик Сулуел	PER	PER-Eric-Swalwell
+Индиана	Индиана	LOC	GPE-Indiana
+Калифорния	Калифорния	LOC	GPE-California
+Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+Кливланд	Кливланд	LOC	GPE-Cleveland
+Клинтън	Клинтън	PER	PER-Hillary-Clinton
+Конгреса	Конгрес	ORG	ORG-United-States-Congress
+Кори Букър	Кори Букър	PER	PER-Cory-Booker
+Марко Рубио	Марко Рубио	PER	PER-Marco-Rubio
+Масачузетс	Масачузетс	LOC	GPE-Massachusetts
+Нанси Пелоси	Нанси Пелоси	PER	PER-Nancy-Pelosi
+Ню Джърси	Ню Джърси	LOC	GPE-New-Jersey
+Ню Йорк	Ню Йорк	LOC	GPE-New-York
+Обама	Обама	PER	PER-Barack-Obama
+Окасио-Кортес	Окасио-Кортес	PER	PER-Alexandria-Ocasio-Cortez
+Охайо	Охайо	LOC	GPE-Ohio
+О’Рурк	О’Рурк	PER	PER-Beto-O'Rourke
+Пийт Бутиджидж	Пийт Бутиджидж	PER	PER-Peter-Buttigieg
+Пийт	Пийт	PER	PER-Peter-Buttigieg
+Покахонтас	Покахонтас	PER	PER-Pocahontas
+Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+Робърт Мълър	Робърт Мълър	PER	PER-Robert-Mueller
+Русия	Русия	LOC	GPE-Russia
+САЩ	САЩ	LOC	GPE-USA
+Сандърс	Сандърс	PER	PER-Bernie-Sanders
+Саут Бенд	Саут Бенд	LOC	GPE-South-Bend
+Сената	Сенат	ORG	ORG-United-States-Senate
+Си Ен Ен	Си Ен Ен	PRO	PRO-CNN
+Стажанта	Стажанта	PRO	PRO-The-Apprentice
+Тед Круз	Тед Круз	PER	PER-Ted-Cruz
+Тексас	Тексас	LOC	GPE-Texas
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Уикилийкс	Уикилийкс	PRO	PRO-Wikileaks
+Уолстрийт	Уолстрийт	ORG	ORG-Wall-Street
+Уорън	Уорън	PER	PER-Elizabeth-Warren
+Флорида	Флорида	LOC	GPE-Florida
+Харвард	Харвард	ORG	ORG-Harvard-University
+Харис	Харис	PER	PER-Kamala-Harris
+Хилъри Клинтън	Хилъри Клинтън	PER	PER-Hillary-Clinton
+Хилъри	Хилъри	PER	PER-Hillary-Clinton
+Чък Шумър	Чък Шумър	PER	PER-Chuck-Schumer
+американци	американци	PER	GPE-USA
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+републиканците	републиканци	PER	ORG-Republican-Party-USA

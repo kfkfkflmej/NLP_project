@@ -1,0 +1,25 @@
+047
+Аризона	Аризона	LOC	GPE-Arizona
+Байдън	Байдън	PER	PER-Joe-Biden
+Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+Делауеър	Делауеър	LOC	GPE-Delaware
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+Невада	Невада	LOC	GPE-Nevada
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+САЩ	САЩ	LOC	GPE-USA
+Самюел Алито	Самюел Алито	PER	PER-Samuel-Alito
+Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Туитър	Туитър	PRO	PRO-Twitter
+Уилмингтън	Уилмингтън	LOC	GPE-Wilmington
+Филаделфия	Филаделфия	LOC	GPE-Philadelphia
+американци	американци	PER	GPE-USA
+американците	американци	PER	GPE-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+демократът	демократ	PER	ORG-Democratic-Party-USA
+пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Covid-19
+пандемията	пандемия	EVT	EVT-Pandemic

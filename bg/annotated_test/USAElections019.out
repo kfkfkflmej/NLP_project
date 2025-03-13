@@ -1,0 +1,17 @@
+019
+Аляска	Аляска	LOC	GPE-Alaska
+Аризона	Аризона	LOC	GPE-Arizona
+Байдън	Байдън	PER	PER-Joe-Biden
+Върховният съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Невада	Невада	LOC	GPE-Nevada
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+САЩ	САЩ	LOC	GPE-USA
+Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+Тръмп	Тръмп	PER	PER-Donald-Trump
+демократите	демократи	PER	ORG-Democratic-Party-USA
+президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+републиканец	републиканец	PER	ORG-Republican-Party-USA

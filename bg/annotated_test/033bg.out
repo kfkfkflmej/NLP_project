@@ -1,0 +1,26 @@
+033
+Financial Times	Financial Times	PRO	PRO-Financial-Times
+Австрийското правителство	Австрийското правителство	ORG	ORG-Government-of-Austria
+Австрия	Австрия	LOC	GPE-Austria
+Адам Войтех	Адам Войтех	PER	PER-Adam-Vojtěch
+Виена	Виена	LOC	GPE-Vienna
+Германия	Германия	LOC	GPE-Germany
+Дания	Дания	LOC	GPE-Denmark
+Джошуа Муун	Джошуа Муун	PER	PER-Joshua-Moon
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Италия	Италия	LOC	GPE-Italy
+Кийт Нийл	Кийт Нийл	PER	PER-Keith-Neal
+Курц	Курц	PER	PER-Sebastian-Kurz
+Нийл	Нийл	PER	PER-Keith-Neal
+Полша	Полша	LOC	GPE-Poland
+Себастиан Курц	Себастиан Курц	PER	PER-Sebastian-Kurz
+Словакия	Словакия	LOC	GPE-Slovakia
+Томас Хофер	Томас Хофер	PER	PER-Thomas-Hofer
+Хофер	Хофер	PER	PER-Thomas-Hofer
+Чехия	Чехия	LOC	GPE-Czech-Republic
+Швейцария	Швейцария	LOC	GPE-Switzerland
+коронавируса	коронавирус	EVT	EVT-Covid-19
+пандемията	пандемия	EVT	EVT-Pandemic
+университета в Нотингам	университет в Нотингам	ORG	ORG-University-of-Nottingham
+факултета за научни изследвания към университета в Съсекс	факултет за научни изследвания към университета в Съсекс	ORG	ORG-SPRU-US

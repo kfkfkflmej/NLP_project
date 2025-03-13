@@ -1,0 +1,26 @@
+109
+Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+Covid-19	COVID-19	EVT	EVT-Covid-19
+Twitter	Twitter	PRO	PRO-Twitter
+Байдън	Байдън	PER	PER-Joe-Biden
+Бар	Бар	PER	PER-William-Barr
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Избирателната колегия в САЩ	Избирателна колегия в САЩ	ORG	ORG-United-States-Electoral-College
+Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+Конгреса	Конгрес	ORG	ORG-United-States-Congress
+Министерството на правосъдието	Министерство на правосъдието	ORG	ORG-United-States-Department-of-Justice
+САЩ	САЩ	LOC	GPE-USA
+Сената на САЩ	Сенат на САЩ	ORG	ORG-United-States-Senate
+Станислава Цветкова	Станислава Цветкова	PER	PER-Stanislava-Tsvetkova
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Уилям Бар	Уилям Бар	PER	PER-William-Barr
+американци	американци	PER	GPE-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+камарата	Камара	ORG	ORG-United-States-Senate
+коронавируса	коронавирус	EVT	EVT-Covid-19
+окръг Колумбия	окръг Колумбия	LOC	GPE-District-of-Columbia
+пандемията на коронавируса	пандемия на коронавирус	EVT	EVT-Covid-19

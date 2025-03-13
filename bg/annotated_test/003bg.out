@@ -1,0 +1,10 @@
+003
+PCR тест	PCR тест	PRO	PRO-PCR-Test
+КПП	КПП	LOC	LOC-KPP
+МВР	МВР	ORG	ORG-MVR
+СРЗИ	СРЗИ	ORG	ORG-SRZI
+София	София	LOC	GPE-Sofia
+Столичната регионална здравна инспекция (СРЗИ)	Столична регионална здравна инспекция (СРЗИ)	ORG	ORG-SRZI
+Факултета	Факултета	LOC	LOC-Fakulteta
+Филиповци	Филиповци	LOC	LOC-Filipovtsi
+коронаривус	коронавирус	EVT	EVT-Covid-19

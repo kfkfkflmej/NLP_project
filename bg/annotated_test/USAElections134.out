@@ -1,0 +1,39 @@
+134
+Black Lives Matter	Black Lives Matter	ORG	ORG-Black-Lives-Matter
+CNN	CNN	PRO	PRO-CNN
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Fox News	Fox News	PRO	PRO-Fox-News
+Protect Our Vote Фили	Protect Our Vote Philly	ORG	ORG-Protect-Our-Vote-Philly
+Twitter	Twitter	PRO	PRO-Twitter
+Webcafe	Webcafe	PRO	PRO-Webcafe.bg
+Аризона	Аризона	LOC	GPE-Arizona
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Белия дом	LOC	LOC-White-House
+Детройт	Детройт	LOC	GPE-Detroit
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Джоузеф Байдън	Джоузеф Байдън	PER	PER-Joe-Biden
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Кейти Хобс	Кейти Хобс	PER	PER-Katie-Hobbs
+Лос Анджелис	Лос Анджелис	LOC	GPE-Los-Angeles
+Марикопа	Марикопа	LOC	GPE-Maricopa-County
+Минеаполис	Минеаполис	LOC	GPE-Minneapolis
+Минесота	Минесота	LOC	GPE-Minnesota
+Мичиган	Мичиган	LOC	GPE-Michigan
+Невада	Невада	LOC	GPE-Nevada
+Ню Йорк	Ню Йорк	LOC	GPE-New-York
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Първата поправка	Първа поправка	PRO	PRO-First-Amendment
+Рич Гарела	Рич Гарела	PER	PER-Rich-Garella
+САЩ	САЩ	LOC	GPE-USA
+Сиатъл	Сиатъл	LOC	GPE-Seattle
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+Филаделфия	Филаделфия	LOC	GPE-Philadelphia
+Финикс	Финикс	LOC	GPE-Phoenix
+Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+Щатския патрул	Щатски патрул	ORG	ORG-Minnesota-State-Patrol
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+републиканци	републиканци	PER	ORG-Republican-Party-USA
+щатския патрул	Щатски патрул	ORG	ORG-Minnesota-State-Patrol

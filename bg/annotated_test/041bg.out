@@ -1,0 +1,32 @@
+041
+Covid-19	COVID-19	EVT	EVT-Covid-19
+Cozy Bear	Cozy Bear	ORG	ORG-ART29
+NCSC	NCSC	ORG	ORG-National-Cyber-Secutiry-Centre
+SOREFANG	SOREFANG	PRO	PRO-SOREFANG-Malware
+WELLMAIL	WELLMAIL	PRO	PRO-WELLMAIL-Marlware
+WELLMESS	WELLMESS	PRO	PRO-WELLMESS-Malware
+АРТ29	АРТ29	ORG	ORG-ART29
+Американското киберкомандване	Американско киберкомандване	ORG	ORG-United-States-Cyber-Command
+Американското министерство на вътрешната сигурност	Американско министерство на вътрешната сигурност	ORG	ORG-US-Department-of-Homeland-Security
+Африка	Африка	LOC	LOC-Africa
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Дмитри Песков	Дмитри Песков	PER	PER-Dmitrij-Pieskow
+Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+Канада	Канада	LOC	GPE-Canada
+Китай	Китай	LOC	GPE-China
+Кремъл	Кремъл	LOC	LOC-Kremlin
+Лондон	Лондон	LOC	GPE-London
+Националният център за киберсигурност (NCSC) на Великобритания	Национален център за киберсигурност (NCSC) на Великобритания	ORG	ORG-National-Cyber-Secutiry-Centre
+Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+Пол Чичестър	Пол Чичестър	PER	PER-Paul-Chichester
+РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+Русия	Русия	LOC	GPE-Russia
+Руското външно министерство	Руско външно министерство	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+САЩ	САЩ	LOC	GPE-USA
+Съединените щати	Съединени щати	LOC	GPE-USA
+Япония	Япония	LOC	GPE-Japan
+коронавирусната пандемия	коронавирусна пандемия	EVT	EVT-Covid-19
+пандемията	пандемия	EVT	EVT-Pandemic
+руската държава	руската държава	LOC	GPE-Russia
+руските разузнавателни служби	руски разузнавателни служби	ORG	ORG-Russian-Intelligence

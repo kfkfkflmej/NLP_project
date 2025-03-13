@@ -1,0 +1,14 @@
+101
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Брюксел	Брюксел	LOC	GPE-Brussles
+ЕК	ЕК	ORG	ORG-European-Commission
+ЕС	ЕС	ORG	ORG-European-Union
+Европейската комисията	Европейска комисия	ORG	ORG-European-Commission
+Комисията	Комисия	ORG	ORG-European-Commission
+Маргаритис Схинас	Маргаритис Схинас	PER	PER-Margaritis-Schinas
+ООН	ООН	ORG	ORG-United-Nations
+СЗО	СЗО	ORG	ORG-WHO
+Стела Кириaкиду	Стела Кириaкиду	PER	PER-Stella-Kyriakides
+коронавируса	коронавирус	EVT	EVT-Covid-19
+механизма на ЕС за гражданска защита	механизъм на ЕС за гражданска защита	PRO	PRO-EU-Civil-Protection-Mechanism
+пандемията	пандемия	EVT	EVT-Pandemic

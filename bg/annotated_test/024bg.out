@@ -1,0 +1,32 @@
+024
+ABC	ABC	ORG	ORG-ABC-Tv-Programm
+B Positive	B Positive	PRO	PRO-B-Positive
+Bob Hearts Abishola	Bob Hearts Abishola	PRO	PRO-Bob Hearts-Abishola
+Brooklyn Nine-Nine	Brooklyn Nine-Nine	PRO	PRO-Brooklyn-Nine-Nine
+CBS	CBS	ORG	ORG-Columbia-Broadcasting-System
+CNBC	CNBC	ORG	ORG-CNBC
+Covid-19	COVID-19	EVT	EVT-Covid-19
+Good Girls	Good Girls	PRO	PRO-Good-girls
+Kenan	Kenan	PRO	PRO-Kenan
+Mom	Mom	PRO	PRO-MOM
+Mr. Mayor	Mr. Mayor	PRO	PRO-Mr-Mayor
+Netflix	Netflix	ORG	ORG-Netflix
+SAG-AFTRA	SAG-AFTRA	ORG	ORG-SAG-AFTRA
+Shameless	Shameless	PRO	PRO-Shameless
+Showtime	Showtime	ORG	ORG-Showtime
+Universal	Universal	ORG	ORG-Universal
+Variety	Variety	PRO	PRO-Variety
+Walt Disney	Walt Disney	ORG	ORG-Disney
+Warner Bros.	Warner Bros.	ORG	ORG-Warner-Bros
+You	You	PRO	PRO-YOU
+Габриел Картерис	Габриел Картерис	PER	PER-Gabriel-Karteris
+Гилдията на продуцентите в Америка	Гилдия на продуцентите в Америка	ORG	ORG-Guild-of-Producers-USA
+Ерик Гарсети	Ерик Гарсети	PER	PER-Eric-Garcetti
+Калифорния	Калифорния	LOC	GPE-California
+Комисията за съвместни политики	Комисия за съвместни политики	ORG	ORG-Committee-of-mutual-policies
+Лос Анджелис	Лос Анджелис	LOC	GPE-Los-Angeles
+Холивуд	Холивуд	LOC	GPE-Hollywood
+Южна Калифорния	Южна Калифорния	LOC	LOC-South-California
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+пандемията	пандемия	EVT	EVT-Pandemic

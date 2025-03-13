@@ -1,0 +1,40 @@
+047
+5G мрежата	5G мрежа	PRO	PRO-5G
+COVID	COVID	EVT	EVT-Covid-19
+Politico	Politico	PRO	PRO-Politico
+Австрия	Австрия	LOC	GPE-Austria
+Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+Барселона	Барселона	LOC	GPE-Barcelona
+Белгия	Белгия	LOC	GPE-Belgium
+Берлин	Берлин	LOC	GPE-Berlin
+Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Втората вълна	Втора вълна	EVT	EVT-COVID-19-second-wave
+Германия	Германия	LOC	GPE-Germany
+Джозепе Конте	Джозепе Конте	PER	PER-Giuseppe-Conte
+Джонсън	Джонсън	PER	PER-Boris-Johnson
+Европа	Европа	LOC	LOC-Europe
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Испания	Испания	LOC	GPE-Spain
+Италия	Италия	LOC	GPE-Italy
+Килския университет (в Стафордшир)	Килски университет (в Стафордшир)	ORG	ORG-Keele-University
+Клифър Скот	Клифър Скот	PER	PER-Clifer-Scott
+Конте	Конте	PER	PER-Giuseppe-Conte
+Ла Лига	Ла Лига	ORG	ORG-La-Liga
+Мадрид	Мадрид	LOC	GPE-Madrid
+Манчестър	Манчестър	LOC	GPE-Manchester
+Матео Салвини	Матео Салвини	PER	PER-Matteo-Salvini
+Неапол	Неапол	LOC	GPE-Naples
+Пандемията	Пандемия	EVT	EVT-Pandemic
+Португалия	Португалия	LOC	GPE-Portugal
+Рим	Рим	LOC	GPE-Rome
+Урсула фон дер Лайен	Урсула фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+Форца Нуова	Форца Нуова	ORG	ORG-Forza-Nuova-Italy
+Франция	Франция	LOC	GPE-France
+британците	британци	PER	GPE-Great-Britain
+германската столица	германска столица	LOC	GPE-Berlin
+института "Роберт Кох"	институт "Роберт Кох"	ORG	ORG-Robert-Koch-Institut
+италианци	италианци	PER	GPE-Italy
+италианците	италианци	PER	GPE-Italy
+коронавируса	коронавирус	EVT	EVT-Covid-19

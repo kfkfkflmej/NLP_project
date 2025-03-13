@@ -1,0 +1,53 @@
+073
+Ал Гор	Ал Гор	PER	PER-Al-Gore
+Америка	Америка	LOC	GPE-USA
+Аризона	Аризона	LOC	GPE-Arizona
+Байдън	Байдън	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Белия дом	Белия дом	LOC	LOC-White-House
+Би Би Си	Би Би Си	PRO	PRO-BBC
+Бил Клинтън	Бил Клинтън	PER	PER-Bill-Clinton
+Буш	Буш	PER	PER-George-Bush-Jr
+Бюрото за преброяване на населението на САЩ	Бюро за преброяване на населението на САЩ	ORG	ORG-United-States-Census-Bureau
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Великата стара партия (GOP)	Велика стара партия (GOP)	ORG	ORG-Republican-Party-USA
+Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+Върховният съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+Гор	Гор	PER	PER-Al-Gore
+Демократите	демократи	PER	ORG-Democratic-Party-USA
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джон Кенеди	Джон Кенеди	PER	PER-John-F-Kennedy
+Джордж Буш	Джордж Буш	PER	PER-George-Bush-Jr
+Джордж У. Буш	Джордж У. Буш	PER	PER-George-Bush-Jr
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Калифорния	Калифорния	LOC	GPE-California
+Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+Конгреса	Конгрес	ORG	ORG-United-States-Congress
+Конгресът	Конгрес	ORG	ORG-United-States-Congress
+Ню Йорк	Ню Йорк	LOC	GPE-New-York
+Охайо	Охайо	LOC	GPE-Ohio
+Президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+Републиканците	републиканци	PER	ORG-Republican-Party-USA
+Ричард Никсън	Ричард Никсън	PER	PER-Richard-Nixon
+Роналд Рейгън	Роналд Рейгън	PER	PER-Ronald-Reagan
+САЩ	САЩ	LOC	GPE-USA
+Сената	Сенат	ORG	ORG-United-States-Senate
+Сенатът	Сенат	ORG	ORG-United-States-Senate
+Съединените американски щати	Съединени американски щати	LOC	GPE-USA
+Съединените щати	Съединени щати	LOC	GPE-USA
+Тексас	Тексас	LOC	GPE-Texas
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Флорида	Флорида	LOC	GPE-Florida
+Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+епидемията от коронавирус	епидемия от коронавирус	EVT	EVT-Covid-19
+избирателната колегия от Флорида	избирателна колегия	ORG	ORG-United-States-Electoral-College
+избирателната колегия	избирателна колегия	ORG	ORG-United-States-Electoral-College
+избирателният колеж	избирателен колеж	ORG	ORG-United-States-Electoral-College
+пандемията на коронавируса	пандемия на коронавирус	EVT	EVT-Covid-19
+републиканци	републиканци	PER	ORG-Republican-Party-USA
+републиканците	републиканци	PER	ORG-Republican-Party-USA

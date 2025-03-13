@@ -1,0 +1,9 @@
+119
+Covid-19	COVID-19	EVT	EVT-Covid-19
+Delta Airlines	Delta Airlines	ORG	ORG-Delta-Airlines
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Ед Бастиан	Ед Бастиан	PER	PER-Ed-Bastian
+Женева	Женева	LOC	GPE-Geneva
+СЗО	СЗО	ORG	ORG-WHO
+Световната здравна организация (СЗО)	Световна здравна организация (СЗО)	ORG	ORG-WHO
+коронавируса	коронавирус	EVT	EVT-Covid-19

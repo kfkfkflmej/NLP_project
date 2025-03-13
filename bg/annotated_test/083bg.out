@@ -1,0 +1,24 @@
+083
+Covid- 19	COVID-19	EVT	EVT-Covid-19
+Covid-19	COVID-19	EVT	EVT-Covid-19
+PCR тест	PCR тест	PRO	PRO-PCR-Test
+БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+Банкок	Банкок	LOC	GPE-Bangkok
+Германия	Германия	LOC	GPE-Germany
+Европа	Европа	LOC	LOC-Europe
+Института за заразни болести "Роберт Кох"	Институт за заразни болести "Роберт Кох"	ORG	ORG-Robert-Koch-Institut
+Люксембург	Люксембург	LOC	GPE-Luxembourg
+Норвегия	Норвегия	LOC	GPE-Norway
+Прают Чан-оча	Прают Чан-оча	PER	PER-Prayut-Chan-o-cha
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+Световната здравна организация	Световна здравна организация	ORG	ORG-WHO
+Северна	Северна	LOC	LOC-North-America
+Словения	Словения	LOC	GPE-Slovenia
+ТАСС	ТАСС	ORG	ORG-TASS-Agency
+Тайланд	Тайланд	LOC	GPE-Thailand
+Чехия	Чехия	LOC	GPE-Czech-Republic
+Югоизточна Азия	Югоизточна Азия	LOC	LOC-Southeast-Asia
+Южна Америка	Южна Америка	LOC	LOC-South-America
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+чешкото министерство на здравеопазването	Чешко министерство на здравеопазването	ORG	ORG-Ministry-of-Health-of-the-Czech-Republic

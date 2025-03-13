@@ -1,0 +1,32 @@
+154
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Twitter	Twitter	PRO	PRO-Twitter
+Байдън	Байдън	PER	PER-Joe-Biden
+Белия дом	Белия дом	LOC	LOC-White-House
+Белият дом	Белият дом	LOC	LOC-White-House
+Болтън	Болтън	PER	PER-John-Bolton
+България	България	LOC	GPE-Bulgaria
+Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Джон Болтън	Джон Болтън	PER	PER-John-Bolton
+Джордж Флойд	Джордж Флойд	PER	PER-George-Floyd
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Евелина Гечева	Евелина Гечева	PER	PER-Evelina-Gecheva
+Кание Уест	Кание Уест	PER	PER-Kanye-West
+Китай	Китай	LOC	GPE-China
+Майк Помпео	Майк Помпео	PER	PER-Mike-Pompeo
+Маркс	Маркс	PER	PER-Karl-Marx
+НАТО	НАТО	ORG	ORG-NATO
+Парис Хилтън	Парис Хилтън	PER	PER-Paris-Hilton
+Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+Пийт Бутиджич	Пийт Бутиджич	PER	PER-Peter-Buttigieg
+Правосъдното министерство на САЩ	Правосъдно министерство на САЩ	ORG	ORG-United-States-Department-of-Justice
+САЩ	САЩ	LOC	GPE-USA
+Съединените щати	Съединени щати	LOC	GPE-USA
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+ФБР	ФБР	ORG	ORG-FBI
+Флойд	Флойд	PER	PER-George-Floyd
+Щатите	Щати	LOC	GPE-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+републиканци	републиканци	PER	ORG-Republican-Party-USA

@@ -1,0 +1,22 @@
+069
+Америка	Америка	LOC	GPE-USA
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Делауер	Делауер	LOC	GPE-Delaware
+Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+Конгреса на Демократическата партия	Конгрес на Демократическата партия	EVT	EVT-Democratic-Party-Congress-USA
+Конференцията на републиканците	Конференция на републиканците	EVT	EVT-Republican-Party-Conference
+Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+САЩ	САЩ	LOC	GPE-USA
+Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+Съединените щати	Съединени щати	LOC	GPE-USA
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Шарлът	Шарлът	LOC	GPE-Charlotte
+американците	американци	PER	GPE-USA
+демократи	демократи	PER	ORG-Democratic-Party-USA
+демократите	демократи	PER	ORG-Democratic-Party-USA
+конгреса на Демократическата партия	Конгрес на Демократическата партия	EVT	EVT-Democratic-Party-Congress-USA
+пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Covid-19
+републиканците	републиканци	PER	ORG-Republican-Party-USA

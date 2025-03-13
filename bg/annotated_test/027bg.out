@@ -1,0 +1,22 @@
+027
+Covid-19	COVID-19	EVT	EVT-Covid-19
+Г-7	Г-7	ORG	ORG-G7
+Гвинея	Гвинея	LOC	GPE-Guinea
+Гери Райс	Гери Райс	PER	PER-Geri-Rice
+Еквадор	Еквадор	LOC	GPE-Ecuador
+Инструментът за бързо финансиране (RFI)	Инструмент за бързо финансиране (RFI)	PRO	PRO-Instrument-for-rapid-financing(RFI)
+Либерия	Либерия	LOC	GPE-Liberia
+МВФ	МВФ	ORG	ORG-International-Monetary-Fund
+Международният валутен фонд (МВФ)	Международен валутен фонд (МВФ)	ORG	ORG-International-Monetary-Fund
+Механизмът за бърз кредит (RCF)	Механизъм за бърз кредит (RCF)	PRO	PRO-Mechanism-for-fast-credit(RCF)
+Организацията за икономическо сътрудничество и развитие (ОИСР)	Организация за икономическо сътрудничество и развитие (ОИСР)	ORG	ORG-Organization-for-Economic-Co-operation-and-Development(OECD)
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+Световната банка	Световна банка	ORG	ORG-World-Bank
+Сиера Леоне	Сиера Леоне	LOC	GPE-Sierra-Leone
+Фондът	МВФ	ORG	ORG-International-Monetary-Fund
+епидемия от коронавирус	епидемия от коронавирус	EVT	EVT-Covid-19
+епидемията от ебола	епидемия от ебола	EVT	EVT-Ebola
+епидемията	епидемия	EVT	EVT-Epidemic
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусната епидемия	коронавирусна епидемия	EVT	EVT-Covid-19
+световната финансова криза	световна финансова криза	EVT	EVT-World-Financial-Crisis

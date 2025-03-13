@@ -1,0 +1,13 @@
+044
+Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+Covid-19	COVID-19	EVT	EVT-Covid-19
+GlaxoSmithKline	GlaxoSmithKline	ORG	ORG-GlaxoSmithKline
+Incyte Corp.	Incyte Corp.	ORG	ORG-Incyte-Corp
+Novartis	Novartis	ORG	ORG-Novartis
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Вас Нарасимхан	Вас Нарасимхан	PER	PER-Vas-Narasimhan
+Нарасимхан	Нарасимхан	PER	PER-Vas-Narasimhan
+канакинумаб	канакинумаб	PRO	PRO-Canakinumab
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+руксолитиниб	руксолитиниб	PRO	PRO-Ruxolitinib
