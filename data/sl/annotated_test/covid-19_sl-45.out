@@ -1,0 +1,21 @@
+sl-45
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BioNtech	BioNtech	ORG	ORG-BioNTech
+Bruselj	Bruselj	LOC	GPE-Brussles
+Bruslju	Bruselj	LOC	GPE-Brussles
+CureVac	CureVac	ORG	ORG-CureVac
+EU	EU	ORG	ORG-European-Union
+Evropa	Evropa	LOC	LOC-Europe
+Evropi	Evropa	LOC	LOC-Europe
+Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+Evropsko investicijsko banko	Evropska investicijska banka	ORG	ORG-European-Investment-Bank
+GSK	GSK	ORG	ORG-GSK
+Janssen Pharmaceutica NV	Janssen Pharmaceutica NV	ORG	ORG-Janssen-Pharmaceutica
+Moderna	Moderna	ORG	ORG-Moderna
+Nemčiji	Nemčija	LOC	GPE-Germany
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Sanofi	Sanofi	ORG	ORG-Sanofi
+Ursula von der Leyen	Ursula von der Leyen	PER	PER-Ursula-von-der-Leyen
+covidu-19	covid-19	EVT	EVT-Covid-19
+von der Leynova	von der Leyen	PER	PER-Ursula-von-der-Leyen

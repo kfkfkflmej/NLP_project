@@ -1,0 +1,23 @@
+sl-35
+Američani	Američani	PER	GPE-USA
+Amy Coney Barrett	Amy Coney Barrett	PER	PER-Amy-Coney-Barrett
+Bader Ginsburgove	Bader Ginsburg	PER	PER-Ruth-Bader-Ginsburg
+Barack Obama	Barack Obama	PER	PER-Barack-Obama
+Belo hišo	Bela hiša	LOC	LOC-White-House
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+Joeju Bidnu	Joe Biden	PER	PER-Joe-Biden
+Melania	Melania	PER	PER-Melania-Trump
+Merricka Garlanda	Merrick Garland	PER	PER-Merrick-Garland
+Ruth Bader Ginsburg	Ruth Bader Ginsburg	PER	PER-Ruth-Bader-Ginsburg
+Trump	Trump	PER	PER-Donald-Trump
+Trumpovo	Trump	PER	PER-Donald-Trump
+ZDA	ZDA	LOC	GPE-USA
+covidom-19	covid-19	EVT	EVT-Covid-19
+demokratom	demokrati	ORG	ORG-Democratic-Party-USA
+koronavirusom	koronavirus	EVT	EVT-Covid-19
+republikancev	republikanci	ORG	ORG-Republican-Party-USA
+republikanci	republikanci	ORG	ORG-Republican-Party-USA
+ustavi	ustava	PRO	PRO-The-USA-Constitution
+vrhovno sodišče ZDA	vrhovno sodišče ZDA	ORG	ORG-Supreme-Court-of-the-United-States

@@ -1,0 +1,59 @@
+ru-88
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+AstraZeneca	AstraZeneca	PRO	PRO-Oxford-AstraZeneca-Vaccine
+COVID-19	COVID-19	EVT	EVT-Covid-19
+CanSino	CanSino	ORG	ORG-Cansino-Biologics
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Sinovac	Sinovac	PRO	PRO-SinoVac
+Аденовирусные	Аденовирусные	EVT	EVT-Adenovirus
+Вектора	Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+Вектора	Вектор	PRO	PRO-Vektor
+Германии	Германия	LOC	GPE-Germany
+Германию	Германия	LOC	GPE-Germany
+Джесси Джелсингера	Джесси Джелсингер	PER	PER-Jessie-Gelsinger
+Дмитрия Рогозина	Дмитрий Рогозин	PER	PER-Dmitry-Rogozin
+Игорь Соколов	Игорь Соколов	PER	PER-Igor-Sokolov
+Илоном Маском	Илон Маск	PER	PER-Elon-Musk
+Института Гамалеи	Институт Гамалеи	ORG	ORG-Gamalea-center
+НИЦЭМ им. Гамалеи	НИЦЭМ им. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+Петровакс	Петровакс	ORG	ORG-Petrovax
+Почта России	Почта России	ORG	ORG-Russian-Post
+Р-Фарм	Р-Фарм	ORG	PRO-R-Farm
+России	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+Сноб	Сноб	PRO	PRO-Snob
+Спутник V	Спутник V	PRO	PRO-Sputnik-V
+Спутник	Спутник	PRO	PRO-Sputnik-V
+Спутника	Спутник	PRO	PRO-Sputnik-V
+Спутником	Спутник	PRO	PRO-Sputnik-V
+Филиппинах	Филиппины	LOC	GPE-Republic-of-the-Philippines
+Ходячих мертвецов	Ходячие мертвецы	PRO	PRO-The-Walking-Dead
+ЭпиВакКорона	ЭпиВакКорон	PRO	PRO-EpiVacCorona
+ЭпиВакКороны	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+аденовируса	аденовирус	EVT	EVT-Adenovirus
+аденовирусной	аденовирусная	EVT	EVT-Adenovirus
+английского	английский	PER	GPE-Great-Britain
+британская	британская	PER	GPE-Great-Britain
+западных	западный	PER	GPE-West
+китайский	китайский	PER	GPE-China
+китайского	китайский	PER	GPE-China
+китайской	китайский	PER	GPE-China
+китайскую	китайская	PER	GPE-China
+ковид	ковид	EVT	EVT-Covid-19
+ковида	ковид	EVT	EVT-Covid-19
+ковиде	ковид	EVT	EVT-Covid-19
+ковиду	ковид	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусного	коронавирусный	EVT	EVT-Covid-19
+коронавирусный	коронавирусный	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+коронавирусу	коронавирус	EVT	EVT-Covid-19
+лихорадки Денге	лихорадка Денге	EVT	EVT-Dengue-Fever
+российские	российские	LOC	GPE-Russia
+российские	российские	PER	GPE-Russia
+российский	российская	PER	GPE-Russia
+российский	российский	PER	GPE-Russia
+российских	российский	PER	GPE-Russia
+русские	русский	PER	GPE-Russia
+русский	русский	PER	GPE-Russia
+японских	японский	PER	GPE-Japan

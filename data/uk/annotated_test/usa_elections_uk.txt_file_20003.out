@@ -1,0 +1,29 @@
+uk-20003
+Аризона	Аризона	LOC	GPE-Arizona
+Аризоні	Аризона	LOC	GPE-Arizona
+Байдена	Байден	PER	PER-Joe-Biden
+Вермонті	Вермонт	LOC	GPE-Vermont
+Вісконсин	Вісконсин	LOC	GPE-Wisconsin
+Вісконсині	Вісконсин	LOC	GPE-Wisconsin
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Каліфорнії	Каліфорнія	LOC	GPE-California
+Колегія виборників	Колегія виборників	ORG	ORG-United-States-Electoral-College
+Колегії виборників	Колегія виборників	ORG	ORG-United-States-Electoral-College
+Конгресу	Конгрес	ORG	ORG-United-States-Congress
+Конгресі	Конгрес	ORG	ORG-United-States-Congress
+Мічиган	Мічиган	LOC	GPE-Michigan
+Невада	Невада	LOC	GPE-Nevada
+Округ Колумбія	Округ Колумбія	LOC	GPE-District-of-Columbia
+Палати представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
+США	США	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+виборах президента США	вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election

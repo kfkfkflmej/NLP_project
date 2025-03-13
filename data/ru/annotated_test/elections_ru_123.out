@@ -1,0 +1,88 @@
+ru-123
+Atlantic council of the United States	Atlantic council of the United States	ORG	ORG-Atlantic-Council
+Axios	Axios	PRO	PRO-Axios
+CISA	CISA	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+«Атлантический совет»	«Атлантический совет»	ORG	ORG-Atlantic-Council
+«Атлантического совета»	«Атлантический совет»	ORG	ORG-Atlantic-Council
+Агентства кибербезопасности и инфраструктурной безопасности	Агентство кибербезопасности и инфраструктурной безопасности	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+Агентство кибербезопасности и инфраструктурной безопасности	Агентство кибербезопасности и инфраструктурной безопасности	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+Агентство кибербезопасности	Агентство кибербезопасности	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+Агентство по кибербезопасности и обеспечению защиты инфраструктуры	Агентство по кибербезопасности и обеспечению защиты инфраструктуры	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+Адама Шиффа	Адам Шифф	PER	PER-Adam-Schiff
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Блохин	Блохин	PER	PER-Konstantin-Blohin
+Блохина	Блохин	PER	PER-Konstantin-Blohin
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+Демпартии	Демпартия	PER	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+Константин Блохин	Константин Блохин	PER	PER-Konstantin-Blohin
+Кремль	Кремль	ORG	ORG-Kremlin
+Кремлём	Кремль	ORG	ORG-Kremlin
+Мадисон	Мадисон	LOC	GPE-Madison
+Малек Дудаков	Малек Дудаков	PER	PER-Malek-Dudakov
+Малека Дудакова	Малек Дудаков	PER	PER-Malek-Dudakov
+Министерства внутренней безопасности (МВБ) США	Министерство внутренней безопасности (МВБ) США	ORG	ORG-US-Department-of-Homeland-Security
+Москва	Москва	LOC	GPE-Moscow
+Москву	Москва	LOC	GPE-Moscow
+Москвы	Москва	LOC	GPE-Moscow
+Национального центра контрразведки и безопасности США	Национальный центр контрразведки и безопасности США	ORG	ORG-National-Security-Agency-NSA-USA
+Национальной разведки США	Национальная разведка США	ORG	ORG-United States-National-Intelligence
+Нацразведки США	Нацразведка США	ORG	ORG-United States-National-Intelligence
+Нэнси Пелоси	Нэнси Пелоси	PER	PER-Nancy-Pelosi
+РФ	РФ	LOC	GPE-Russia
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Республиканской партии	Республиканская партия	PER	ORG-Republican-Party-USA
+Республиканскую партию	Республиканская партия	ORG	ORG-Republican-Party-USA
+Республиканцы	Республиканцы	ORG	ORG-Republican-Party-USA
+Роберт О'Брайен	Роберт О'Брайен	PER	PER-Robert-O'Brien
+России	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+СBS	СBS	PRO	ORG-CBS
+США	США	LOC	GPE-USA
+Соединённых Штатах	Соединённые Штаты	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Уильям Эванина	Уильям Эванина	PER	PER-William-Evanina
+ФБР	ФБР	ORG	ORG-FBI
+Федерального бюро расследований	Федеральное бюро расследований	ORG	ORG-FBI
+Федеральное бюро расследований	Федеральное бюро расследований	ORG	ORG-FBI
+Федеральном бюро расследований	Федеральное бюро расследований	ORG	ORG-FBI
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+Центра исследования проблем безопасности РАН	Центр исследования проблем безопасности РАН	ORG	ORG-Centre-for-Security-Studies-Russian-Academy-of-Sciences
+Чед Вулф	Чед Вулф	PER	PER-Chad-Wolf
+Эванина	Эванина	PER	PER-William-Evanina
+американские выборы 2020	американские выборы 2020	EVT	EVT-2020-United-States-Presidential-Election
+американские	американские	LOC	GPE-USA
+американский	американский	LOC	GPE-USA
+американским	американские	LOC	GPE-USA
+американским	американский	LOC	GPE-USA
+американских	американские	LOC	GPE-USA
+американцам	американцы	PER	GPE-USA
+американцев	американцы	PER	GPE-USA
+выборы США 2020	выборы США 2020	EVT	EVT-2020-United-States-Presidential-Election
+демократ	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+комитета по разведке палаты	комитет по разведке палаты	ORG	ORG-House-Intelligence-Committee
+палаты представителей США	палата представителей США	ORG	ORG-United-States-House-of-Representatives
+правительством РФ	правительство РФ	ORG	ORG-The-Government-of-Russia
+президентские выборы 2020 года в США	президентские выборы 2020 года в США	EVT	EVT-2020-United-States-Presidential-Election
+президентские выборы 2020	президентские выборы 2020	EVT	EVT-2020-United-States-Presidential-Election
+республиканцам	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+российская	российский	LOC	GPE-Russia
+российские	российские	LOC	GPE-Russia
+российские	российские	LOC	GPE-Russia
+российский	российский	LOC	GPE-Russia
+российских	российские	LOC	GPE-Russia
+российского	российское	LOC	GPE-Russia
+русские	русские	LOC	GPE-Russia
+русские	русский	LOC	GPE-Russia

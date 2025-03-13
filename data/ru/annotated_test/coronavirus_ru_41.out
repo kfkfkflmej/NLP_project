@@ -1,0 +1,15 @@
+ru-41
+«Областная фармация»	Областная фармация	ORG	ORG-Regional-pharmacy
+«Р-Фарм»	Р-Фарм	ORG	PRO-R-Farm
+«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+Минэкономразвития РФ	Минэкономразвитие РФ	ORG	ORG-Minestry-of-Economic-Development-Russia
+Росстата	Росстат	ORG	ORG-Federal-State-Statistics-Service-Russia
+Ростове Великом	Ростов Великий	LOC	GPE-Rostov-the-Great
+Ярославской области	Ярославская область	LOC	GPE-Yaroslavl
+Ярославскую область	Ярославская область	LOC	GPE-Yaroslavl
+ковида	ковид	EVT	EVT-Covid-19
+коронавирусе	коронавирус	EVT	EVT-Covid-19
+коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+коронавирусную инфекцию	коронавирусная инфекция	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+ярославцев	ярославцы	PER	GPE-Yaroslavl

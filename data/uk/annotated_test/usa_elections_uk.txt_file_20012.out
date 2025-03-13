@@ -1,0 +1,22 @@
+uk-20012
+CNN	CNN	ORG	ORG-CNN
+ONLINE.UA	ONLINE.UA	PRO	PRO-ONLINE-UA
+Байден	Байден	PER	PER-Joe-Biden
+Білого дому	Білий дім	ORG	ORG-White-House
+Володимира Зеленського	Володимир Зеленський	PER	PER-Volodymyr-Zelensky
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+Республіканської партії	Республіканська партія	ORG	ORG-Republican-Party-USA
+США	США	LOC	GPE-USA
+Сенат США	Сенат США	ORG	ORG-United-States-Senate
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Трампа	Трамп	PER	PER-Donald-Trump
+Флориді	Флорида	LOC	GPE-Florida
+Чак Шумер	Чак Шумер	PER	PER-Chuck-Schumer
+Чака Шумера	Чак Шумер	PER	PER-Chuck-Schumer
+Штатів	Штат	LOC	GPE-USA
+виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election

@@ -1,0 +1,18 @@
+sl-207
+AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+Braziliji	Brazilija	LOC	GPE-Brazil
+Dmitrij Peskov	Dmitrij Peskov	PER	PER-Dmitry-Peskov
+Kremlja	Kremelj	ORG	ORG-Kremlin
+Kremlju	Kremelj	ORG	ORG-Kremlin
+Mihailu Mišustinu	Mihail Mišustin	PER	PER-Mikhail-Mishustin
+Moskve	Moskva	LOC	GPE-Moscow
+Moskvi	Moskva	LOC	GPE-Moscow
+Peskov	Peskov	PER	PER-Dmitry-Peskov
+Rusiji	Rusija	LOC	GPE-Russia
+Tass	Tass	ORG	ORG-TASS-Agency
+Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+ZDA	ZDA	LOC	GPE-USA
+covid-19	covid-19	EVT	EVT-Covid-19
+covida-19	covid-19	EVT	EVT-Covid-19
+novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19

@@ -1,0 +1,95 @@
+ru-2
+CNN	CNN	PRO	PRO-CNN
+FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
+Gallup	Gallup	ORG	ORG-American-Institute-of-Public-Opinion
+The New Yorker	The New Yorker	PRO	PRO-The-New-Yorker
+Twitter	Twitter	PRO	PRO-Twitter
+USA Today	USA Today	PRO	PRO-USA-Today
+«Актуальные комментарии»	«Актуальные комментарии»	PRO	PRO-Actual-Comments
+«Актуальные комментарии»	Актуальные комментарии	PRO	PRO-Actual-Comments
+Айдахо	Айдахо	LOC	GPE-Idaho
+Айове	Айова	LOC	GPE-Iowa
+Алабаме	Алабама	LOC	GPE-USA-Alabama
+Америка	Америка	LOC	GPE-USA
+Аризоне	Аризона	LOC	GPE-Arizona
+Арканзасе	Арканзас	LOC	GPE-Arkansas
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Белом доме	Белый дом	ORG	ORG-The-White-House
+Белому дому	Белый дом	ORG	ORG-The-White-House
+Брукс	Брукс	PER	PER-Mo-Brooks
+Вайоминге	Вайоминг	LOC	GPE-Wyoming
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вермонт	Вермонт	LOC	GPE-Vermont
+Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+Вирджиния	Вирджиния	LOC	GPE-Virginia
+Висконсин	Висконсин	LOC	GPE-Wisconsin
+Гавайи	Гавайи	LOC	GPE-Hawaii
+Делавэр	Делавэр	LOC	GPE-Delaware
+Денвере	Дендвер	LOC	GPE-Denver
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джорджу Бушу	Джордж Буш	PER	PER-George-Bush-Jr
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Западной Вирджинии	Западная Вирджиния	LOC	GPE-West-Virginia
+Иллинойс	Иллинойс	LOC	GPE-Illinois
+Индиане	Индиана	LOC	GPE-Indiana
+Калифорния	Калифорния	LOC	GPE-California
+Канзасе	Канзас	LOC	GPE-Kansas
+Капитолия Аризоны	Капитолий Аризоны	ORG	ORG-Arizona-Capitol-Museum
+Кентукки	Кентукки	LOC	GPE-Kentucky
+Колорадо	Колорадо	LOC	GPE-Colorado
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Коннектикут	Коннектикут	LOC	GPE-Connecticut
+Кэти Боквар	Кэти Боквар	PER	PER-Kathy-Boockvar
+Луизиане	Луизиан	LOC	GPE-Louisiana
+Манхэттене	Манхэттен	LOC	LOC-Manhattan
+Марикопа	Марикоп	LOC	GPE-Maricopa-County
+Марикопа	Марикопа	LOC	GPE-Maricopa-County
+Массачусетс	Масачузетс	LOC	GPE-Massachusetts
+Миннесота	Миннесота	LOC	GPE-Minnesota
+Миссисипи	Миссисипи	LOC	GPE-Mississippi
+Миссури	Миссури	LOC	GPE-Missouri
+Мичиган	Мичиган	LOC	GPE-Michigan
+Монтане	Монтана	LOC	GPE-Montana-US-State
+Мэн	Мэн	LOC	GPE-Maine
+Мэриленд	Мериленд	LOC	GPE-Maryland
+Национальная гвардия	Национальная гвардия	ORG	ORG-United-States-National-Guard
+Небраска	Небраска	LOC	GPE-Nebraska
+Небраски	Небраска	LOC	GPE-Nebraska
+Неваде	Невада	LOC	GPE-Nevada
+Невады	Невада	LOC	GPE-Nevada
+Нью-Гэмпшир	Нью-Гэмпшир	LOC	GPE-New-Hampshire
+Нью-Джерси	Нью-Джерси	LOC	GPE-New-Jersey
+Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+Нью-Мексико	Нью-Мексико	LOC	GPE-New-Mexico
+Огайо	Огайо	LOC	GPE-Ohio
+Оклахоме	Оклахом	LOC	GPE-Oklahoma
+Орегон	Орегон	LOC	GPE-Oregon
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Портленде	Портленд	LOC	GPE-Portland
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Род-Айленд	Род-Айленд	LOC	GPE-Rhode-Island
+США	США	LOC	GPE-USA
+Северной Дакоте	Северная Дакота	LOC	GPE-North-Dakota
+Соединенные Штаты Америки	Соединенные Штаты Америки	LOC	GPE-USA
+Теннесси	Теннесси	LOC	GPE-Tennessee
+Техасе	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Фениксе	Феникс	LOC	GPE-Phoenix
+Флориде	Флорида	LOC	GPE-Florida
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+Южной Дакоте	Южная Дакота	LOC	GPE-South-Dakota-US-State
+Южной Каролине	Южная Каролина	LOC	GPE-South-Carolina-US-State
+Юте	Юта	LOC	GPE-Utah
+американские	американские	LOC	GPE-USA
+американских	американский	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американском	американский	LOC	GPE-USA
+американцев	американцы	PER	GPE-USA
+демократы	демократы	PER	ORG-Democratic-Party-USA
+округ Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia
+республиканцев	республиканцы	PER	ORG-Republican-Party-USA
+республиканцу	республиканец	PER	ORG-Republican-Party-USA

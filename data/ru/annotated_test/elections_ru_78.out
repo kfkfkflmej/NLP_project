@@ -1,0 +1,54 @@
+ru-78
+CBS News	CBS News	PRO	PRO-CBS-News
+CNN	CNN	PRO	PRO-CNN
+Twitter	Twitter	PRO	PRO-Twitter
+YouTube	YouTube	PRO	PRO-YouTube
+Америки	Америка	LOC	GPE-USA
+Аризона	Аризона	LOC	GPE-Arizona
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Барр	Барр	PER	PER-William-Barr
+Барра	Барр	PER	PER-William-Barr
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Билл	Билл	PER	PER-William-Barr
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Выборы	выборы	EVT	EVT-2020-United-States-Presidential-Election
+Демократ	демократ	PER	ORG-Democratic-Party-USA
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Джефф Розен	Джефф Розен	PER	PER-Jeff-Rosen
+Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+Джорджем Бушем-старшим	Джордж Буш-старший	PER	PER-George-Bush-Sr
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Инаугурация	инаугурация	EVT	EVT-2020-United-States-presidential-inauguration
+Кейли Макинэни	Кейли Макинэни	PER	PER-Kayleigh-McEnany
+Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+Майкл] Пенс	Майкл Пенс	PER	PER-Mike-Pence
+Минюст США	Минюст США	ORG	ORG-United-States-Department-of-Justice
+Минюста США	Минюст США	ORG	ORG-United-States-Department-of-Justice
+Мичиган	Мичиган	LOC	GPE-Michigan
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+Путин	Путин	PER	PER-Vladimir-Putin
+России	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Сирии	Сириа	LOC	GPE-Syria
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Уильяма Барра	Уильям Барр	PER	PER-William-Barr
+американское	американский	LOC	GPE-USA
+американской	американская	LOC	GPE-USA
+американцам	американцы	PER	GPE-USA
+арабская весна	арабская весна	EVT	EVT-The-Arab-Spring
+демократ	демократ	PER	ORG-Democratic-Party-USA
+демократа	демократ	PER	ORG-Democratic-Party-USA
+день всеобщих выборов	день всеобщих выборов	EVT	EVT-2020-United-States-Presidential-Election
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+республиканец	республиканец	PER	ORG-Republican-Party-USA
+республиканца	республиканец	PER	ORG-Republican-Party-USA
+российский	российский	LOC	GPE-Russia
+российско	российский	LOC	GPE-Russia

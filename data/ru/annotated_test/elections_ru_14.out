@@ -1,0 +1,41 @@
+ru-14
+BBC	BBC	PRO	PRO-BBC
+Байдана	Байдан	PER	PER-Joe-Biden
+Байден	Байден	PER	PER-Joe-Biden
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белом доме	Белый дом	ORG	ORG-The-White-House
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Владимиру Путину	Владимиру Путину	PER	PER-Vladimir-Putin
+Госдуму	Госдума	ORG	ORG-Russia-The-State-Duma
+Джен Псаки	Джен Псаки	PER	PER-Jen-Psaki
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+Договор о стратегических наступательных вооружениях	Договор о стратегических наступательных вооружениях	PRO	PRO-Strategic-Arms-Reduction-Treaty
+Договора о стратегических наступательных вооружениях	Договор о стратегических наступательных вооружениях	PRO	PRO-Strategic-Arms-Reduction-Treaty
+Договора по открытому небу	Договор по открытому небу	PRO	PRO-The-Treaty-on-Open-Skies
+Кремле	Кремль	ORG	ORG-Kremlin
+Кремль	Кремль	ORG	ORG-Kremlin
+Кремля	Кремль	ORG	ORG-Kremlin
+Москва	Москва	LOC	GPE-Moscow
+Навального	Навальний	PER	PER-Alexei-Navalny
+Навальном	Навальный	PER	PER-Alexei-Navalny
+Псаки	Псаки	PER	PER-Jen-Psaki
+Путин	Путин	PER	PER-Vladimir-Putin
+Путина	Путин	PER	PER-Vladimir-Putin
+Путину	Путин	PER	PER-Vladimir-Putin
+Путиным	Путин	PER	PER-Vladimir-Putin
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+СНВ	СНВ	PRO	PRO-SORT-Strategic-Offensive-Reductions-Treaty
+США	США	LOC	GPE-USA
+Совместного всеобъемлющего плана действий	Совместный всеобъемлющий план действий	PRO	PRO-Joint-Comprehensive-Plan-of-Action
+Украине	Украина	LOC	GPE-Ukraine
+Украины	Украина	LOC	GPE-Ukraine
+агентство Франс пресс	агентство Франс пресс	PRO	PRO-Agence-France-Presse
+американские выборы в 2020 году	американские выборы 2020	EVT	EVT-2020-United-States-Presidential-Election
+американской	американская	LOC	GPE-USA
+иранской	иранская	LOC	GPE-Iran
+российской	российский	LOC	GPE-Russia

@@ -1,0 +1,24 @@
+sl-41
+Amazon	Amazon	ORG	ORG-Amazon
+Američani	Američani	PER	GPE-USA
+Avstrija	Avstrija	LOC	GPE-Austria
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Chicagu	Chicago	LOC	GPE-Chicago
+Christine Lagarde	Christine Lagarde	PER	PER-Christine-Lagarde
+ECB	ECB	ORG	ORG-European-Central-Bank
+EU	EU	ORG	ORG-European-Union
+Evropi	Evropa	LOC	LOC-Europe
+Facebook	Facebook	PRO	PRO-Facebook
+Francija	Francija	LOC	GPE-France
+Google	Google	ORG	ORG-Google
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Kitajska	Kitajska	LOC	GPE-China
+Nasdaq	Nasdaq	PRO	PRO-NASDAQ
+Nemčija	Nemčija	LOC	GPE-Germany
+New Yorku	New York	LOC	GPE-New-York
+Pfizer	Pfizer	ORG	ORG-Pfizer
+S&P	S&P	PRO	PRO-S&P-500-Index
+ZDA	ZDA	LOC	GPE-USA
+covida-19	covid-19	EVT	EVT-Covid-19
+covidu-19	covid-19	EVT	EVT-Covid-19
+koronavirusom	koronavirus	EVT	EVT-Covid-19

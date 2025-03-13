@@ -1,0 +1,28 @@
+sl-204
+AP	AP	ORG	ORG-AP-The-Associated-Press
+Alexandria Ocasio Cortez	Alexandria Ocasio Cortez	PER	PER-Alexandria-Ocasio-Cortez
+Ameriki	Amerika	LOC	GPE-USA
+Američani	Američani	PER	GPE-USA
+CNN	CNN	PRO	PRO-CNN
+Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+Demokrati	Demokrati	PER	ORG-Democratic-Party-USA
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Floridi	Florida	LOC	GPE-Florida
+Nevadi	Nevada	LOC	GPE-Nevada
+New York	New York	LOC	GPE-New-York
+New Yorku	New York	LOC	GPE-New-York
+Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+Republikanci	Republikanci	PER	ORG-Republican-Party-USA
+Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+Teksasu	Teksas	LOC	GPE-Texas
+Trump	Trump	PER	PER-Donald-Trump
+ZDA	ZDA	LOC	GPE-USA
+demokrat	demokrat	PER	ORG-Democratic-Party-USA
+demokrati	demokrati	PER	ORG-Democratic-Party-USA
+demokratov	demokrati	PER	ORG-Democratic-Party-USA
+republikance	republikanci	ORG	ORG-Republican-Party-USA
+republikancev	republikanci	PER	ORG-Republican-Party-USA
+republikanci	republikanci	ORG	ORG-Republican-Party-USA
+republikanci	republikanci	PER	ORG-Republican-Party-USA
+republikanec	republikanec	PER	ORG-Republican-Party-USA
+republikanske stranke	republikanska stranka	ORG	ORG-Republican-Party-USA

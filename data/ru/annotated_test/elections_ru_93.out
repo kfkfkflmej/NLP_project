@@ -1,0 +1,78 @@
+ru-93
+"Проекта целостности переходного периода"	"Проект целостности переходного периода"	PRO	PRO-Transition-Integrity-Project
+Fox News	Fox News	PRO	PRO-Fox-News
+OAN	OAN	PRO	PRO-One-America-News-Network
+TIP	TIP	PRO	PRO-Transition-Integrity-Project
+Transition Integrity Project	Transition Integrity Project	PRO	PRO-Transition-Integrity-Project
+АНТИФА	АНТИФА	ORG	ORG-Antifa-USA
+Американская	американская	LOC	GPE-USA
+Американский	Американский	LOC	GPE-USA
+Американцы	американцы	PER	GPE-USA
+Америку	Америка	LOC	GPE-USA
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белом доме	Белый дом	ORG	ORG-The-White-House
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Билл Кристол	Билл Кристол	PER	PER-William-Kristol
+Билла Клинтона	Бил Клинтон	PER	PER-Bill-Clinton
+В.Овчинский	В. Овчинский	PER	PER-Vladimir-Ovchinsky
+Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+Висконсина	Висконсин	LOC	GPE-Wisconsin
+Владимир Овчинский	Владимир Овчинский	PER	PER-Vladimir-Ovchinsky
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Демократы	демократы	PER	ORG-Democratic-Party-USA
+Дженнифер Гранхольм	Дженнифер Гранхольм	PER	PER-Jennifer-Granholm
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джон Подеста	Джон Подеста	PER	PER-John-Podesta
+Джорджа Сороса	Джордж Сорос	PER	PER-George-Soros
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Донна Бразил	Донна Бразил	PER	PER-Donna-Brazile
+Закон о восстаниии	Закон о восстаниии	PRO	PRO-Insurrection-Act-of-1807
+Кентукки	Кентукки	LOC	GPE-Kentucky
+Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Майкл Стил	Майкл Стил	PER	PER-Michael-Steele
+Министерство юстиции	Министерство юстиции	ORG	ORG-US-Department-of-Justice
+Мичигана	Мичиган	LOC	GPE-Michigan
+Новой Зеландии	Новая Зеландия	LOC	GPE-New-Zealand
+Нэнси Пелоси	Нэнси Пелоси	PER	PER-Nancy-Pelosi
+Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Пенс	Пенс	PER	PER-Mike-Pence
+Пентагоне	Пентагон	ORG	ORG-The-Pentagon
+Проект целостности переходного периода	Проект целостности переходного периода	PRO	PRO-Transition-Integrity-Project
+Республиканского национального комитета	Республиканский национальный комитет	ORG	ORG-Republican-National-Committee
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Роза Брукс	Роза Брукс	PER	PER-Rosa-Brooks
+США	США	LOC	GPE-USA
+Секретная служба	Секретная служба	ORG	ORG-United-States-Secret-Service
+Соединенных Штатах	Соединенные Штаты	LOC	GPE-USA
+Твиттере	Твиттер	PRO	PRO-Twitter
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Трей Грейсон	Трей Грейсон	PER	PER-Trey-Grayson
+Уильям П. Барр	Уильям П. Барр	PER	PER-William-Barr
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+Эла Гора	Эл Гора	PER	PER-Al-Gore
+американские	американские	LOC	GPE-USA
+американских	американский	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американцы	американцы	PER	GPE-USA
+выборах 2000 года	выборы 2000 года	EVT	EVT-2000-United-States-Presidential-Election
+выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+выборы 1876 года	выборы 1876 года	EVT	EVT-1876-United-States-Presidential-Election
+выборы	выборы	EVT	EVT-2020-United-States-Presidential-Election
+демократов	демократ	PER	ORG-Democratic-Party-USA
+демократов	демократы	PER	ORG-Democratic-Party-USA
+инаугурации	инаугурация	EVT	EVT-2020-United-States-presidential-inauguration
+коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+конституции	конституция	PRO	PRO-The-USA-Constitution
+конституция	конституция	PRO	PRO-The-USA-Constitution
+нью-йоркцев	нью-йоркцы	PER	GPE-New-York
+президентские выборы 2020 года	президентские выборы 2020 года	EVT	EVT-2000-United-States-Presidential-Election
+президентских выборов 2020 года	президентские выборы 2020 года	EVT	EVT-2000-United-States-Presidential-Election
+республиканцы	республиканец	PER	ORG-Republican-Party-USA

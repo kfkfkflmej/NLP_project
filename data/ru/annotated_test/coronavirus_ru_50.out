@@ -1,0 +1,68 @@
+ru-50
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+AstraZeneca	AstraZeneca	PRO	PRO-Oxford-AstraZeneca-Vaccine
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Independent	Independent	ORG	ORG-Campaign-for-an-Independent-and-Neutral-Switzerland
+Janssen	Janssen	ORG	ORG-Janssen-Pharmaceutica
+Janssen	Janssen	PRO	PRO-Janssen
+Johnson & Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+Moderna	Moderna	ORG	ORG-Moderna
+Novavax	Novavax	ORG	ORG-Novavax
+Novavax	Novavax	PRO	PRO-Novavax
+Pfizer	Pfizer	ORG	ORG-Pfizer
+STIKO	STIKO	ORG	ORG-Permanent-Commission-for-Vaccination-in-Germany
+Англии	Англия	LOC	GPE-Great-Britain
+Британии	Британия	LOC	GPE-Great-Britain
+Британское	Британское	PER	GPE-Great-Britain
+Брюсселе	Брюссель	LOC	GPE-Brussles
+Брюсселем	Брюссель	LOC	GPE-Brussles
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Великобританией	Великобритания	LOC	GPE-Great-Britain
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Великобританию	Великобритания	LOC	GPE-Great-Britain
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Европе	Европа	LOC	LOC-Europe
+Европейский	Европейский	PER	GPE-Europe
+Европейское агентство лекарственных средств	Европейское агентство лекарственных средств	ORG	ORG-EMA-European-Medicines-Agency
+Европейской экономической зоне	Европейская экономическая зона	LOC	LOC-European-Economic-Area
+Европейской экономической зоны	Европейская экономическая зона	LOC	GPE-European-Economic-Area
+Евросовета	Евросовет	ORG	ORG-European-Council
+Евросоюз	Евросоюз	ORG	ORG-European-Union
+Евросоюзом	Евросоюз	ORG	ORG-European-Union
+Израиль	Израиль	LOC	GPE-Israel
+Исландии	Исландия	LOC	GPE-Iceland
+Китая	Китай	LOC	GPE-China
+Ковид-19	Ковид-19	EVT	EVT-Covid-19
+Коронавирус	Коронавирус	EVT	EVT-Covid-19
+Ливане	Ливан	LOC	GPE-Lebanon
+Лихтенштейна	Лихтенштейн	LOC	LOC-Liechtenstein
+Лондоном	Лондон	LOC	GPE-London
+МКА	МКА	ORG	ORG-EMA-European-Medicines-Agency
+Норвегии	Норвегия	LOC	GPE-Norway
+Оксфордского университета	Оксфордский университет	ORG	ORG-University-of-Oxford
+Постоянная комиссия по вакцинации Германии	Постоянная комиссия по вакцинации Германии	ORG	ORG-Permanent-Commission-for-Vaccination-in-Germany
+США	США	LOC	GPE-USA
+Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+Соединенным Королевством	Соединенное Королевство	LOC	GPE-Great-Britain
+Триполи	Триполи	LOC	GPE-Tripoli
+Университета Джонса Хопкинса	Университет Джонса Хопкинса	ORG	ORG-Johns-Hopkins-University
+Ухане	Ухань	LOC	GPE-Wuhan
+Ухань	Ухань	LOC	GPE-Wuhan
+Шарля Мишеля	Шарль Мишель	PER	PER-Charles-Michel
+Южной Африке	Южная Африка	LOC	GPE-Republic-of-South-Africa
+американской	американская	PER	GPE-USA
+американскому	американский	PER	GPE-USA
+бельгийской	бельгийская	PER	GPE-Belgium
+британских	британские	PER	GPE-Great-Britain
+британско-шведской	британско-шведская	PER	GPE-United-Kingdom-and-Sweden
+британского	британский	PER	GPE-Great-Britain
+китайском	китайский	PER	GPE-China
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+коронавирусу	коронавирус	EVT	EVT-Covid-19
+ливанского	ливанский	PER	GPE-Lebanon
+ливанском	ливанский	PER	GPE-Lebanon
+национального агентства новостей Ливана	национальное агентство новостей Ливана	ORG	ORG-National-News-Agency-of-Lebanon

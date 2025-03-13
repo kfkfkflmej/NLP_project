@@ -1,0 +1,38 @@
+ru-46
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Columbus	Columbus	ORG	ORG-Columbus-Mall-Moscow
+mos.ru	mos.ru	PRO	PRO-Mos-.ru
+«АФИМОЛЛ Сити»	«АФИМОЛЛ Сити»	ORG	ORG-Afimall-City-Moscow
+«Геликон-опера»	Геликон-опера	LOC	LOC-Helikon-opera
+«Город»	«Город»	ORG	ORG-Gorod-Mall-Moscow
+«Депо»	Депо	ORG	ORG-Depo-Mall-Moscow
+«Калейдоскоп»	«Калейдоскоп»	ORG	ORG-Kaleidoskop-Mall-Moscow
+«Л-153»	«Л-153»	ORG	ORG-L-153-Mall-Moscow
+«Мои документы»	«Мои документы»	ORG	ORG-Multifunctional-center
+«Океания»	«Океания»	ORG	ORG-Оceania-Mall-Moscow
+«Саларис»	«Саларис»	ORG	ORG-Salaris-Mall-Moscow
+«Спутник V»	«Спутник V»	PRO	PRO-Sputnik-V
+ГУМ	ГУМ	ORG	ORG-State-Universal-Store-Moscow
+Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+Киевское шоссе	Киевское шоссе	LOC	LOC-Kievskoe-Highway-Moscow
+Кировоградская улица	Кировоградская улица	LOC	LOC-Kirovogradskaya-Street
+Красная площадь	Красная площадь	LOC	GPE-The-Red-Square
+Кутузовский проспект	Кутузовский проспект	LOC	LOC-Kutuzovsky-Prospekt
+Люблинская улица	Люблинская улица	LOC	LOC-Lublinskaya-Street-Moscow
+Минздрава России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+Москва	Москва	LOC	GPE-Moscow
+Москве	Москва	LOC	GPE-Moscow
+Национального исследовательского центра эпидемиологии и микробиологии имени Н. Ф. Гамалеи	Национальный исследовательский центр эпидемиологии и микробиологии имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+Пресненская набережная	Пресненская набережная	LOC	LOC-Presnenskaya-Embankment-Moscow
+Спутник V	Спутник V	PRO	PRO-Sputnik-V
+Сходненская улица	Сходненская улица	LOC	LOC-Skhodnenskaya-Street-Moscow
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+москвичи	москвичи	PER	GPE-Moscow
+московской	московская	PER	GPE-Moscow
+московской	московский	PER	GPE-Moscow
+поселение Московский	поселение Московский	LOC	LOC-Moskovsky-Settlement
+российскими	российский	PER	GPE-Russia
+улица Лесная	улица Лесная	LOC	LOC-Lesnaya-Street-Moscow
+шоссе Энтузиастов	шоссе Энтузиастов	LOC	LOC-Enthusiasts-Highway-Moscow

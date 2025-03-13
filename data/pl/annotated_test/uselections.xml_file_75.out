@@ -1,0 +1,27 @@
+75
+AP	AP	ORG	ORG-AP-The-Associated-Press
+Amerykanie	Amerykanie	PER	GPE-USA
+Amerykanów	Amerykanie	PER	GPE-USA
+Arizona	Arizona	LOC	GPE-Arizona
+Biden	Biden	PER	PER-Joe-Biden
+Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Floryda	Floryda	LOC	GPE-Florida
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+Kalifornia	Kalifornia	LOC	GPE-California
+Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+Michigan	Michigan	LOC	GPE-Michigan
+Ohio	Ohio	LOC	GPE-Ohio
+Oklahoma	Oklahoma	LOC	GPE-Oklahoma
+Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+Polsce	Polska	LOC	GPE-Poland
+Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+Teksas	Teksas	LOC	GPE-Texas
+Trump	Trump	PER	PER-Donald-Trump
+USA	USA	LOC	GPE-USA
+Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+Wybory w USA 2020	Wybory w USA 2020	EVT	EVT-2020-United-States-Presidential-Election
+koronawirusa	koronawirus	EVT	EVT-Covid-19
+republikanin	republikanin	PER	ORG-Republican-Party-USA
+wyborów w USA	wybory w USA	EVT	EVT-2020-United-States-Presidential-Election

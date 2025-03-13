@@ -1,0 +1,50 @@
+ru-52
+"Большой двадцатки"	Большая двадцатка	ORG	ORG-G20
+Bloomberg Economics	Bloomberg Economics	ORG	ORG-Academy-of-Economics-Svishtov
+Covid-19	Covid-19	EVT	EVT-Covid-19
+IATA	IATA	ORG	ORG-IATA-International-Air-Transport-Association
+Алексей Калмыков	Алексей Калмыков	PER	PER-Алексей-Осин
+Америке	Америка	LOC	GPE-USA
+Америку	Америка	LOC	GPE-USA
+Би-би-си	Би-би-си	PRO	PRO-BBC
+Венгрией	Венгрия	LOC	GPE-Hungary
+Германия	Германия	LOC	GPE-Germany
+Греция	Греция	LOC	GPE-Greece
+День благодарения	День благодарения	EVT	EVT-Thanksgiving-Day
+Джеймс Баллард	Джеймс Баллард	PER	PER-James-Ballard
+Джером Пауэлл	Джер Пауэлл	PER	PER-Jer-Powell
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+ЕС	ЕС	ORG	ORG-European-Union
+ЕЦБ	ЕЦБ	ORG	ORG-European-Central-Bank
+Европе	Европа	LOC	LOC-Europe
+Европейского центробанка	Европейский центробанк	ORG	ORG-ECB
+Евросоюз	Евросоюз	ORG	ORG-European-Union
+Западу	Запада	LOC	ORG-University-Rehabilitation-Institute-Republic-of-Slovenia-Soča
+Испания	Испания	LOC	GPE-Spain
+Китай	Китай	LOC	GPE-China
+Кристалина Георгиева	Кристалина Георгиева	PER	PER-Kristalina-Georgieva
+МВФ	МВФ	ORG	ORG-International-Monetary-Fund
+Международная ассоциация воздушного транспорта	Международная ассоциация воздушного транспорта	ORG	ORG-IATA-International-Air-Transport-Association
+Международный валютный фонд	Международный валютный фонд	ORG	ORG-International-Monetary-Fund
+Панетта	Панетта	PER	PER-Fabio-Panetta
+Польшей	Польша	LOC	GPE-Poland
+США	США	LOC	GPE-USA
+Старого Света	Старый Свет	LOC	LOC-Europe
+ФРС	ФРС	ORG	ORG-Federal-Reserve-System
+Фабио Панетта	Фабио Панетта	PER	PER-Fabio-Panetta
+Филип Лейн	Филип Лейн	PER	PER-Philip-Lane
+американский	американский	PER	GPE-USA
+американского	американский	PER	GPE-USA
+американской	американская	PER	GPE-USA
+американцев	американцы	PER	GPE-USA
+американцы	американцы	PER	GPE-USA
+европейский ЦБ	европейский ЦБ	ORG	ORG-ECB
+европейских	европейские	PER	GPE-Europe
+европейского ЦБ	европейский ЦБ	ORG	ORG-ECB
+ирландский	ирландский	PER	GPE-Irish
+ковид	ковид	EVT	EVT-Covid-19
+конгрессе	конгресс	ORG	ORG-United-States-Congress
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+коронакризиса	коронакризис	EVT	EVT-coronacrisis

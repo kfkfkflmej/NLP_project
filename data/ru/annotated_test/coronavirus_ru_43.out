@@ -1,0 +1,55 @@
+ru-43
+"Девятому каналу"	"Девятый канал"	PRO	PRO-Channel-Nine
+"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+Covax	Covax	PRO	PRO-Covax-initiative
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Financial Times	Financial Times	PRO	PRO-Financial-Times
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer Medical	Pfizer Medical	ORG	LOC-University-medical-centre-Ljubljana
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Qantas Airlinies	Qantas Airlinies	ORG	ORG-Quantas
+Qantas	Qantas	ORG	ORG-Quantas
+Алан Джойс	Алан Джойс	PER	PER-Alan-Joyce
+Англии	Англия	LOC	GPE-Great-Britain
+Англия	Англия	LOC	GPE-Great-Britain
+Аргентина	Аргентина	LOC	GPE-Argentina
+Афганистан	Афганистан	LOC	GPE-Afghanistan
+Би-би-си	Би-би-си	ORG	ORG-BBC-Ltd
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Бразилии	Бразилия	LOC	GPE-Brazil
+Бразилия	Бразилия	LOC	GPE-Brazil
+Британии	Британия	LOC	GPE-Great-Britain
+Бурунди	Бурунди	LOC	GPE-Burundi
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Всемирной организацией здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+Германия	Германия	LOC	GPE-Germany
+Джойс	Джойс	PER	PER-Alan-Joyce
+Джонсон	Джонсон	PER	PER-Boris-Johnson
+Дэвид Пауэлл	Дэвид Пауэлл	PER	PER-David-Powell
+Испании	Испания	LOC	GPE-Spain
+Йемен	Йемен	LOC	GPE-Yemen
+Каталония	Каталония	LOC	GPE-Catalonia
+Коронавирус	Коронавирус	EVT	EVT-Covid-19
+ООН	ООН	ORG	ORG-United-Nations
+Оксфордским университетом	Оксфордский университет	ORG	ORG-University-of-Oxford
+США	США	LOC	GPE-USA
+Сантьяго	Сантьяго	LOC	GPE-Santiago
+Сара Гилберт	Сара Гилберт	PER	PER-Sarah-Gilbert
+Себастьян Пиньера	Себастьян Пиньера	PER	PER-Sebastian-Pinera
+Турция	Турция	LOC	GPE-Turkey
+Чили	Чили	LOC	GPE-Chile
+Эндрю Поллард	Эндрю Поллард	PER	Эндрю
+Этлева Кадилли	Этлева Кадилли	PER	PER-Etleva-Kadilli
+ЮАР	ЮАР	LOC	GPE-Republic-of-South-Africa
+ЮНИСЕФ	ЮНИСЕФ	ORG	ORG-United-Nations-International-Children's-Emergency-Fund
+австралийской	австралийский	PER	GPE-Australia
+австралийскому	австралийский	PER	GPE-Australia
+ассоциации воздушного траспорта ИАТА	ассоциация воздушного транспорта ИАТА	ORG	ORG-International-Air-Transport-Association
+британская	британский	PER	GPE-Great-Britain
+британской	британский	PER	GPE-Great-Britain
+испанских	испанский	PER	GPE-Spain
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+российской	российский	PER	GPE-Russia
+чилийцев	чилийцы	PER	GPE-Chile

@@ -1,0 +1,38 @@
+uk-10318
+BNT162b2	BNT162b2	PRO	PRO-BNT162b2-Tozinameran
+BioNTech	BioNTech	ORG	ORG-BioNTech
+BioNtech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Catalent	Catalent	ORG	ORG-Catalent
+ClinicalTrials.gov	ClinicalTrials.gov	PRO	PRO-ClinicalTrials.gov
+Elecsys Anti-SARS-CoV-2 S	Elecsys Anti-SARS-CoV-2 S	PRO	PRO-Elecsys-Anti-SARS-CoV-2-S
+FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+Financial Times	Financial Times	PRO	PRO-Financial-Times
+Laboratorios Farmacéuticos Rovi	Laboratorios Farmacéuticos Rovi	ORG	ORG-Laboratorios-Farmacéuticos-Rovi
+Moderna	Moderna	ORG	ORG-Moderna
+Nature	Nature	PRO	PRO-Nature-(journal)
+New England Journal of Medicine	New England Journal of Medicine	PRO	PRO-Digital-Journal
+Operation Warp Speed	Operation Warp Speed	ORG	ORG-Operation-Warp-Speed
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Roche Diagnostics	Roche Diagnostics	ORG	ORG-Roche-Diagnostics
+Roche	Roche Holding	ORG	ORG-Roche-Holding
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+mRNA-1273	mRNA-1273	PRO	PRO-mRNA-Vaccine
+ЄС	ЄС	LOC	ORG-European-Union
+Європейським Союзом	Європейський Союз	LOC	ORG-European-Union
+Європейському Союзі	Європейський Союз	ORG	ORG-European-Union
+Індія	Індія	LOC	GPE-India
+Бельгії	Бельгія	LOC	GPE-Belgium
+Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+Канадою	Канада	LOC	GPE-Canada
+Канаді	Канада	LOC	GPE-Canada
+Ліндсі Р. Баден	Ліндсі Р. Баден	PER	PER-Lindsey-R-Baden
+Модерна	Модерна	ORG	ORG-Nowoczesna-Party
+Національний інститут алергії та інфекційних захворювань	Національний інститут алергії та інфекційних захворювань	ORG	ORG-National-Institute-of-Allergy-and-Infectious-Diseases
+Національний інститут охорони здоров'я	Національний інститут охорони здоров'я	ORG	ORG-National-Institute-of-Health
+Нью-Йорк таймс	Нью-Йорк Таймс	PRO	PRO-The-New-York-Times
+США	США	LOC	GPE-USA
+Стефан Бансель	Стефан Бансель	PER	PER-Stephan-Bancel
+Управління з продовольства і медикаментів	Управління з продовольства і медикаментів	ORG	ORG-FDA-Food-and-Drug-Administration
+Управлінням з продовольства і медикаментів	Управління з продовольства і медикаментів	ORG	ORG-FDA-Food-and-Drug-Administration
+грип	грип	EVT	EVT-Influenza

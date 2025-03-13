@@ -1,0 +1,50 @@
+uk-10319
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVAX	COVAX	PRO	PRO-Covax-initiative
+COVID-19	COVID-19	EVT	EVT-Covid-19
+CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+Moderna	Moderna	ORG	ORG-Moderna
+Nature	Nature	PRO	PRO-Nature-(journal)
+Pfizer	Pfizer	ORG	ORG-Pfizer
+REUTERS	REUTERS	ORG	ORG-Reuters
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+SinoVac	SinoVac	PRO	PRO-SinoVac
+Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+Європу	Європа	LOC	LOC-Europe
+Індонезії	Індонезія	LOC	GPE-Indonesia
+ІноЗМІ	ІноЗМІ	PRO	PRO-InoZMI
+Інституту Бутантан	Інститут Бутантан	ORG	ORG-Instituto-Butantan-Brazil
+Австралії	Австралія	LOC	GPE-Australia
+Адріан Естермен	Адріан Естермен	PER	PER-Adrian-Esterman
+Акова	Акова	PER	PER-Murat-Akova
+Анкара	Анкара	LOC	GPE-Ankara
+Бастіан	Бастіан	PER	PER-Hilda-Bastian
+Бразилія	Бразилія	LOC	GPE-Brazil
+Бразилії	Бразилія	LOC	GPE-Brazil
+ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+Ердоган	Ердоган	PER	PER-Recep-Tayyip-Erdoğan
+Китаю	Китай	LOC	GPE-China
+Китаї	Китай	LOC	GPE-China
+МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+Медичної школи університету Хачеттепе	Медична школа університету Хачеттепе	ORG	ORG-Medical-School-of-Hacettepe-University
+Мурат Акова	Мурат Акова	PER	PER-Murat-Akova
+Оксфордським університетом	Оксфордський університет	ORG	ORG-Oxford-University
+Педіатричної клініки Філадельфії	Педіатрична клініка Філадельфії	ORG	ORG-Children's-Hospital-of-Philadelphia
+Пола Оффіта	Пол Оффіт	PER	PER-Paul-Offit
+Сан-Паулу	Сан-Паулу	LOC	GPE-Sao-Paulo-state
+Степанов	Степанов	PER	PER-Maksym-Stepanov
+Туреччини	Туреччина	LOC	GPE-Turkey
+Туреччині	Туреччина	LOC	GPE-Turkey
+УНІАН	УНІАН	ORG	ORG-UNIAN
+Україна	Україна	LOC	GPE-Ukraine
+України	Україна	LOC	GPE-Ukraine
+Університету Південної Австралії	Університет Південної Австралії	ORG	ORG-University-of-South-Australia
+Університеті Бонда	Університет Бонда	ORG	ORG-Bond-University
+Хільда Бастіан	Хільда Бастіан	PER	PER-Hilda-Bastian
+Цельсієм	Цельсій	PER	PER-Celsius
+коронавірус	коронавірус	EVT	EVT-Covid-19
+коронавірусом	коронавірус	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+пандемія	пандемія	EVT	EVT-Covid-19
+пандемії	пандемія	EVT	EVT-Covid-19

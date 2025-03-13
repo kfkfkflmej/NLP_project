@@ -1,0 +1,72 @@
+ru-49
+"Ykt"	"Ykt"	PRO	PRO-Ykt.Ru
+"Ykt.Ru"	"Ykt.Ru"	PRO	PRO-Ykt.Ru
+FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
+Ykt.Ru	Ykt.Ru	PRO	PRO-Ykt.Ru
+«Звездных войн»	Звездные войны	PRO	PRO-Star-Wars
+«Медуза»	Медуза	PRO	PRO-Russia-Meduza
+Айове	Айова	LOC	GPE-Iowa
+Аль Капоне	Аль Капоне	PER	PER-Alphonse-Capone
+Америке	Америка	LOC	GPE-USA
+Белом доме	Белый дом	ORG	ORG-The-White-House
+Буша	Буш	PER	PER-George-Bush-Jr
+Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+Глухой переулок	Глухой переулок	LOC	GPE-Gluhoy-pereulok-Yakutia
+Гэри Джонсон	Гэри Джонсон	PER	PER-Gary-Johnson
+Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+Джордж Буш-младший	Джордж Буш-младший	PER	PER-George-Bush-Jr
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Зеленой	Зеленая	ORG	ORG-Green-Party-of-the-United-States
+Калифорнии	Калифорния	LOC	GPE-California
+Калифорния	Калифорния	LOC	GPE-California
+Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+Клинтон	Клинтон	PER	PER-Hillary-Clinton
+Коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Колумбия	Колумбия	LOC	GPE-Colombia
+Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+Конституционной	Конституционная	ORG	ORG-Constitution-Party-USA
+Краснодар	Краснодар	LOC	GPE-Krasnodar
+Либертарианской	Либертарианская	ORG	ORG-Libertarian-Party-USA
+Москва	Москва	LOC	GPE-Moscow
+Нью-Мексико	Нью-Мексико	LOC	GPE-New-Mexico
+Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Питер	Питер	LOC	GPE-Saint-Petersburg
+Путин	Путин	PER	PER-Vladimir-Putin
+Путина	Путин	PER	PER-Vladimir-Putin
+Республиканской	Республиканская	ORG	ORG-Republican-Party-USA
+Россия	Россия	LOC	GPE-Russia
+Ростов	Ростов	LOC	GPE-Rostov-on-Don
+США	США	LOC	GPE-USA
+Сибири	Сибирь	LOC	LOC-Siberia
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+ФБР	ФБР	ORG	ORG-FBI
+Хилари	Хилари	PER	PER-Hillary-Clinton
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+Хиллари	Хиллари	PER	PER-Hillary-Clinton
+Чака Норриса	Чак Норрис	PER	PER-Chuck-Norris
+Чикаго	Чикаго	LOC	GPE-Chicago
+Эл Гор	Эл Гор	PER	PER-Al-Gore
+Якутск	Якутск	LOC	GPE-Yakutsk
+американские	американские	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американском	американский	LOC	GPE-USA
+американцев	американцы	PER	GPE-USA
+американцы	американцы	PER	GPE-USA
+вашингтонских	вашингтонский	LOC	GPE-WashingtonDC
+демократ	демократ	PER	ORG-Democratic-Party-USA
+коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+коллегию выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+конгресса США	конгресс США	ORG	ORG-United-States-Congress
+конгресса	конгресс	ORG	ORG-United-States-Congress
+конгрессе	конгресс	ORG	ORG-United-States-Congress
+магистра Йоду	магистр Йода	PER	PER-Yoda
+республиканец	республиканец	PER	ORG-Republican-Party-USA
+республиканцами	республиканцы	PER	ORG-Republican-Party-USA
+россиянах	россияне	PER	GPE-Russia
+сената США	сенат США	ORG	ORG-United-States-Senate
+сената штата	сенат штата	ORG	ORG-United-States-State-Legislature
+сената	сенат	ORG	ORG-United-States-Senate
+трамп	Трамп	PER	PER-Donald-Trump
+якутян	якутяне	PER	GPE-Yakutia

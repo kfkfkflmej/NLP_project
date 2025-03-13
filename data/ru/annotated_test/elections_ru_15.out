@@ -1,0 +1,37 @@
+ru-15
+Facebook	Facebook	PRO	PRO-Facebook
+Twitter	Twitter	PRO	PRO-Twitter
+Америку	Америка	LOC	GPE-USA
+Аризоне	Аризона	LOC	GPE-Arizona
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+ВАШИНГТОН	Вашингтон	LOC	GPE-WashingtonDC
+ВВС США	ВВС США	ORG	ORG-United-States-Air-Force
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Висконсину	Висконсин	LOC	GPE-Wisconsin
+Демократы	Демократы	ORG	ORG-Democratic-Party-USA
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Дэн Скавино	Дэн Скавино	PER	PER-Dan-Scavino
+Захват Капитолия	Захват Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol
+Капитолию	Капитолий	LOC	LOC-United-States-Capitol
+Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+Майка Пенса	Майк Пенс	PER	PER-Mike-Pence
+Мичигане	Мичиган	LOC	GPE-Michigan
+Национальную гвардию	Национальная гвардия США	ORG	ORG-United-States-National-Guard
+Неваде	Невада	LOC	GPE-Nevada
+Пенс	Пенс	PER	PER-Mike-Pence
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+США	США	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+инаугурация	инаугурация	EVT	EVT-2020-United-States-presidential-inauguration
+конгрессе	Конгресс	ORG	ORG-United-States-Congress
+палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+сената	Сенат	ORG	ORG-United-States-Senate

@@ -1,0 +1,56 @@
+208
+Amerykanie	Amerykanie	PER	GPE-USA
+Arizona	Arizona	LOC	GPE-Arizona
+Arizonie	Arizona	LOC	GPE-Arizona
+Colorado	Colorado	LOC	GPE-Colorado
+Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+Demokratom	Demokraci	ORG	ORG-Democratic-Party-USA
+Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+Dixville Notch	Dixville Notch	LOC	LOC-Dixville-Notch
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Floryda	Floryda	LOC	GPE-Florida
+Gary’ego Johnsona	Gary Johnson	PER	PER-Gary-Johnson
+Georgia	Georgia	LOC	GPE-Georgia-US-state
+Georgii	Georgia	LOC	GPE-Georgia-US-state
+Hart’s Location	Hart’s Location	LOC	GPE-Harts-Location
+Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+Idaho	Idaho	LOC	GPE-Idaho
+Iowa	Iowa	LOC	GPE-Iowa
+Izby Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+Izbą Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Kalifornia	Kalifornia	LOC	GPE-California
+Kanadą	Kanada	LOC	GPE-Canada
+Karolina Południowa	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+Kolegium Elektorskiego	Kolegium Elektorskie	ORG	ORG-United-States-Electoral-College
+Maine	Maine	LOC	GPE-Maine
+Michigan	Michigan	LOC	GPE-Michigan
+Millsfield	Millsfield	LOC	LOC-Millsfield
+Montanie	Montana	LOC	GPE-Montana-US-State
+Nebrasce	Nebraska	LOC	GPE-Nebraska
+Nebraska	Nebraska	LOC	GPE-Nebraska
+New Hampshire	New Hampshire	LOC	GPE-New-Hampshire
+New Jersey	New Jersey	LOC	GPE-New-Jersey
+Nowy Jork	Nowy Jork	LOC	GPE-New-York
+Ohio	Ohio	LOC	GPE-Ohio
+Partii Libertariańskiej	Partia Libertariańska	ORG	ORG-Libertarian-Party-USA
+Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+Polsce	Polska	LOC	GPE-Poland
+Południowej	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+Republikanie	Republikanie	ORG	ORG-Republican-Party-USA
+Republikanom	Republikanie	ORG	ORG-Republican-Party-USA
+Senatem	Senat	ORG	ORG-United-States-Senate
+Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+Słupsku	Słupsk	LOC	GPE-Słupsk
+Teksas	Teksas	LOC	GPE-Texas
+Tom Malinowski	Tom Malinowski	PER	PER-Tom-Malinowski
+USA	USA	LOC	GPE-USA
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+demokratów	demokraci	ORG	ORG-Democratic-Party-USA
+republikanin	republikanin	PER	ORG-Republican-Party-USA
+republikanów	republikanie	ORG	ORG-Republican-Party-USA
+wyborów w USA	wybory w USA	EVT	EVT-2020-United-States-Presidential-Election

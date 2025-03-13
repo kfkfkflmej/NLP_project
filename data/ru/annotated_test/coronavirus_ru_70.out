@@ -1,0 +1,22 @@
+ru-70
+COVID-19	COVID-19	EVT	EVT-Covid-19
+https://www.gov.spb.ru/gov/terr/reg_admiral/news/196238/	https://www.gov.spb.ru/gov/terr/reg_admiral/news/196238/	PRO	PRO-GOVSPBRU
+«Гам-Ковид-Вак»	«Гам-Ковид-Вак»	PRO	PRO-Gam-COVID-Vac
+Адмиралтейском районе	Адмиралтейский район	LOC	GPE-Admiralteysky-disctrict
+Адмиралтейском районе	Адмиралтейский район	LOC	GPE-Admiralteysky-district
+Вознесенский пр	Вознесенский проспект	LOC	GPE-Voznesensky-prospect
+Городская поликлиника № 27	Городская поликлиника № 27	ORG	GPE-SPbCity-polyclinic27
+Министерством здравоохранения РФ	Министерство здравоохранения РФ	ORG	ORG-Ministry-of-Health-Russia
+ОМС	ОМС	PRO	PRO-Insurance
+Обводного канала	Обводной канал	LOC	GPE-Obvodnoy-channel
+Приказ Министерства здравоохранения №125н от 21.03.2014	Приказ Министерства здравоохранения №125н от 21.03.2014	PRO	PRO-Order125
+Российской Федерации	Российская Федерация	LOC	GPE-Russia
+СПб ГБУЗ «Городская поликлиника № 24»	СПб ГБУЗ «Городская поликлиника № 24»	ORG	GPE-SPbCity-polyclinic24
+СПб ГБУЗ «Городская поликлиника № 27»	СПб ГБУЗ «Городская поликлиника № 27»	ORG	GPE-SPbCity-polyclinic27
+СПб ГБУЗ «Городская поликлиника № 28»	СПб ГБУЗ «Городская поликлиника № 28»	ORG	GPE-SPbCity-polyclinic28
+СПб ГБУЗ	СПб ГБУЗ	ORG	ORG-SPbSBOH
+Санкт‑Петербурга	Санкт‑Петербург	LOC	GPE-Saint-Petersburg
+Санкт‑Петербурга	Санкт‑Петербурга	LOC	GPE-Saint-Petersburg
+Санкт‑Петербургского государственного бюджетного учреждения здравоохранения	Санкт‑Петербургское государственное бюджетное учреждение здравоохранения	ORG	ORG-SPbSBOH
+коронавирусной	коронавирус	EVT	EVT-Covid-19
+официального сайта администрации	официальный сайт администрации	PRO	PRO-official-website-of-the-administration

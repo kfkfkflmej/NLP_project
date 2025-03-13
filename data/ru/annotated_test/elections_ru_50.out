@@ -1,0 +1,77 @@
+ru-50
+Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+DASKA	DASKA	PRO	PRO-DASKA
+DETER	DETER	PRO	PRO-Act-Determining-Intervention-Measures-to-Assist-in-Mitigating-the-Consequences-of-the-Second-Wave-of-COVID-19-Epidemic-PKP7
+Hawthorn Advisors	Hawthorn Advisors	PRO	PRO-Hawthorn-Advisors
+Riddle	Riddle	PRO	PRO-Riddle
+«Северный поток-2»	«Северный поток-2»	PRO	PRO-Nord-Stream-2
+Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
+Американского университета	Американский университет	ORG	ORG-American-University-Washington-D.C.
+Андрей Кортунов	Андрей Кортунов	PER	PER-Andrey-Kortunov
+Андрей Костин	Андрей Костин	PER	PER-Andrey-Kostin
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Банк России	Банк России	ORG	ORG-Rossiya-Bank
+Банка России	Банк России	ORG	ORG-Rossiya-Bank
+Бараке Обаме	Барак Обама	PER	PER-Barack-Obama
+ВТБ	ВТБ	ORG	ORG-VTB-Russia
+ВЭБ.РФ	ВЭБ.РФ	ORG	ORG-VAB.RF
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Газпромбанк	Газпромбанк	ORG	ORG-Gazprom
+Герман Греф	Герман Греф	PER	PER-German-Greff
+Госдепартаменте США	Госдепартамент США	ORG	ORG-Department-of-State-USA
+Грузией	Грузия	LOC	GPE-Georgia
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Джейк Салливан	Джейк Салливан	PER	PER-Jacob-Sullivan
+Джеймс Кверк	Джеймс Кверк	PER	PER-James-Kwerk
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Европой	Европа	LOC	LOC-Europe
+Евросоюзом	Евросоюз	LOC	LOC-Europe
+Западу	Запада	LOC	ORG-University-Rehabilitation-Institute-Republic-of-Slovenia-Soča
+Карпентер	Карпентер	PER	PER-Michael-Karpenter
+Кверк	Кверк	PER	PER-James-Kwerk
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Кортунов	Кортунов	PER	PER-Andrey-Kortunov
+Кремль	Кремль	ORG	ORG-Kremlin
+Крис Кунс	Крис Кунс	PER	PER-Chris-Kuns
+Майкл Карпентер	Майкл Карпентер	PER	PER-Michael-Karpenter
+Максимилиан Хесс	Максимилиан Хесс	PER	PER-Maximilian-Hess
+Минфина США	Минфин США	ORG	ORG-United-States-Department-of-the-Treasury
+Москвы	Москва	LOC	GPE-Moscow
+Московского центра Карнеги	Московский центр Карнеги	ORG	ORG-Moscow-Centre-of-Carnegy
+НАТО	НАТО	ORG	ORG-NATO
+Навального	Навальний	PER	PER-Alexei-Navalny
+ООН	ООН	ORG	ORG-United-Nations
+Обама	Обама	PER	PER-Barack-Obama
+Обамы	Обама	PER	PER-Barack-Obama
+РБК	РБК	PRO	PRO-RBK
+Россельхозбанк	Россельхозбанк	ORG	ORG-Rosselhoz-Bank
+России	Россия	LOC	GPE-Russia
+Российского совета по международным делам	Российский совет по международным делам	ORG	ORG-Russian-International-Affairs-Council
+Россия	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Сбербанк	Сбербанк	ORG	ORG-SBERBANK
+Сбербанка	Сбербанк	ORG	ORG-SBERBANK
+Сьюзан Райс	Сьюзан Райс	PER	PER-Susan-Rays
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампе	Трамп	PER	PER-Donald-Trump
+Хесс	Хесс	PER	PER-Maximilian-Hess
+ЦБ	ЦБ	ORG	ORG-Central-Bank-Russia
+Эдвард Фишман	Эдвард Фишман	PER	PER-Edward-Fishman
+Элизабет Уоррен	Элизабет Уоррен	PER	PER-Elizabeth-Warren
+Эльвира Набиуллина	Эльвира Набиуллина	PER	PER-Elvira-Nabiullina
+демократ	демократ	PER	ORG-Democratic-Party-USA
+демократам	демократы	PER	ORG-Democratic-Party-USA
+демократов	демократ	PER	ORG-Democratic-Party-USA
+европейских	европейские	LOC	LOC-Europe
+конгресс	конгресс	ORG	ORG-United-States-Congress
+республиканцев	республиканец	PER	ORG-Republican-Party-USA
+российские	российские	LOC	GPE-Russia
+российских	российский	LOC	GPE-Russia
+российской	российский	LOC	GPE-Russia
+российскому	российский	LOC	GPE-Russia
+российскую	российская	LOC	GPE-Russia
+русские	русский	LOC	GPE-Russia
+сенате	сенат	ORG	ORG-United-States-Senate

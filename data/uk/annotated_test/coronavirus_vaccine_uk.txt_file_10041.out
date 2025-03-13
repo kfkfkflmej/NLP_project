@@ -1,0 +1,17 @@
+uk-10041
+Astrazeneca	Astrazeneca	ORG	ORG-AstraZeneca
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Europe 1	Europe 1	PRO	PRO-Europe-1
+Pfizer	Pfizer	ORG	ORG-Pfizer
+dpa	dpa	ORG	ORG-DPA
+ЄС	ЄС	LOC	ORG-European-Union
+Єврокомісії	Єврокомісія	ORG	ORG-European-Commission
+Європейський Союз	Європейський Союз	ORG	ORG-European-Union
+Європейської Ради	Європейська Рада	ORG	ORG-European-Parliament
+Європи	Європа	LOC	LOC-Europe
+Євросоюз	Євросоюз	ORG	ORG-European-Union
+Мішель	Мішель	PER	PER-Charles-Michel
+Урсула фон дер Ляєн	Урсула фон дер Ляєн	PER	PER-Ursula-von-der-Leyen
+Шарль Мішель	Шарль Мішель	PER	PER-Charles-Michel
+коронавірусу	коронавірус	EVT	EVT-Covid-19

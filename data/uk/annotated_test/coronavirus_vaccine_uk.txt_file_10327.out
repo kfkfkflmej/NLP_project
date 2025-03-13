@@ -1,0 +1,40 @@
+uk-10327
+BioNtech	BioNtech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+DW	DW	ORG	ORG-Deutsche-Welle
+Deutsche Welle	Deutsche Welle	ORG	ORG-Deutsche-Welle
+Lancet	Lancet	PRO	PRO-The-Lancet
+Pfizer	Pfizer	ORG	ORG-Pfizer
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+ЄС	ЄС	LOC	ORG-European-Union
+Іванченко	Іванченко	PER	PER-Inna-Ivanchenko
+Індонезії	Індонезія	LOC	GPE-Indonesia
+Інна Іванченко	Інна Іванченко	PER	PER-Inna-Ivanchenko
+Арсена Жумаділова	Арсен Жумаділов	PER	PER-Arsen-Zhumadilov
+Бразилії	Бразилія	LOC	GPE-Brazil
+Володимир Зеленський	Володимир Зеленський	PER	PER-Volodymyr-Zelensky
+Заходу	Захід	LOC	GPE-Western-World
+Корреспондент.net	Корреспондент.net	PRO	PRO-Korrespondent-net
+Лекхім	Лекхім	ORG	ORG-Lekhim
+МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+МОЗу	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+Максима Степанова	Максим Степанов	PER	PER-Maksym-Stepanov
+Медзакупівель	Медзакупівлі	ORG	ORG-Medical-Procurement-of-Ukraine
+Медичні закупівлі	Медичні закупівлі	ORG	ORG-Medical-Procurement-of-Ukraine
+Національній службі здоров'я	Національна служба здоров'я	ORG	ORG-National-Health-Service-of-Ukraine
+Офісу президента	Офіс президента	ORG	ORG-The-Presidents-Office-Ukraine
+Пацієнти України	Пацієнти України	ORG	ORG-Patients-of-Ukraine-Fund
+Раду громадського контролю	Рада громадського контролю	ORG	ORG-Council-of-Public-Control
+Раїса Богатирьова	Раїса Богатирьова	PER	PER-Rayisa-Bohatyriova
+Степанов	Степанов	PER	PER-Maksym-Stepanov
+Туреччині	Туреччина	LOC	GPE-Turkey
+Україна	Україна	LOC	GPE-Ukraine
+України	Україна	LOC	GPE-Ukraine
+Українська служба	Українська служба	PRO	ORG-DW-Ukrainian-Service
+Україні	Україна	LOC	GPE-Ukraine
+ковіду	ковід	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19

@@ -1,0 +1,13 @@
+188
+Anglii	Anglia	LOC	GPE-England
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BBC	BBC	PRO	PRO-BBC
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Johnson	Johnson	PER	PER-Boris-Johnson
+Londynie	Londyn	LOC	GPE-London
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Uniwersytetu Oksfordzkiego	Uniwersytet Oksfordzki	ORG	ORG-University-of-Oxford
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+koronawirusa	koronawirus	EVT	EVT-Covid-19

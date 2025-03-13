@@ -1,0 +1,28 @@
+uk-20027
+Twitter	Twitter	PRO	PRO-Twitter
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Брайана Кемпа	Брайан Кемп	PER	PER-Brian-Kemp
+Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+Верховний суд	Верховний суд	ORG	ORG-Supreme-Court-of-the-United-States
+Верховного суду США	Верховний суд США	ORG	ORG-Supreme-Court-of-the-United-States
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Капітолія	Капітолій	LOC	LOC-United-States-Capitol
+Кемпом	Кемп	PER	PER-Brian-Kemp
+Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+Меланією	Меланія	PER	PER-Melania-Trump
+США	США	LOC	GPE-USA
+Сенаті	Сенат	ORG	ORG-United-States-Senate
+Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+колегії виборників	колегія виборників	ORG	ORG-United-States-Electoral-College
+президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration

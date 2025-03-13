@@ -1,0 +1,27 @@
+uk-10042
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Biontech	Biontech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+OBOZREVATEL	OBOZREVATEL	PRO	PRO-Obozrevatel
+ORF	ORF	ORG	ORG-ORF
+Pfizer	Pfizer	ORG	ORG-Pfizer
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+ЄС	ЄС	LOC	ORG-European-Union
+Європейського Союзу	Європейський Союз	ORG	ORG-European-Union
+Європол	Європол	ORG	ORG-European-Police-Office
+Іспанії	Іспанія	LOC	GPE-Spain
+Італії	Італія	LOC	GPE-Italy
+Австралії	Австралія	LOC	GPE-Australia
+Австрії	Австрія	LOC	GPE-Austria
+Болгарії	Болгарія	LOC	GPE-Bulgaria
+Краммер	Краммер	PER	PER-Florian-Krammer
+Німеччині	Німеччина	LOC	GPE-Germany
+Першого медичного центру Тель-Авіва	Перший медичний центр Тель-Авіва	ORG	ORG-Tel-Aviv's-first-medical-center
+Романа Гольдман	Роман Гольдман	PER	PER-Roman-Goldman
+Університету Монаша	Університет Монаша	ORG	ORG-Monash-University
+Флоріан Краммер	Флоріан Краммер	PER	PER-Florian-Krammer
+Франції	Франція	LOC	GPE-France
+Чехії	Чехія	LOC	GPE-Czech-Republic
+коронавірусної хвороби	коронавірусна хвороба	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+школі медицини "Ікан" медичного центру "Маунт-Синай"	школа медицини "Ікан" медичного центру "Маунт-Синай"	ORG	ORG-Icahn-School-of-Medicine-at-Mount-Sinai

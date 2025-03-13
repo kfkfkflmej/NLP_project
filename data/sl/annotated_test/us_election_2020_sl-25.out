@@ -1,0 +1,64 @@
+sl-25
+Al Gore	Al Gore	PER	PER-Al-Gore
+Ala Gora	Al Gore	PER	PER-Al-Gore
+Alexandrie Ocasio-Cortez	Alexandrae Ocasio-Cortez	PER	PER-Alexandria-Ocasio-Cortez
+Amerika	Amerika	LOC	GPE-USA
+Američani	Američani	PER	GPE-USA
+Arizoni	Arizona	LOC	GPE-Arizona
+Barackom Obamo	Barack Obama	PER	PER-Barack-Obama
+Bele hiše	Bela hiša	LOC	LOC-White-House
+Biden	Biden	PER	PER-Joe-Biden
+Bidna	Biden	PER	PER-Joe-Biden
+Bidnove	Biden	PER	PER-Joe-Biden
+Bidnu	Biden	PER	PER-Joe-Biden
+Billa Clintona	Bill Clinton	PER	PER-Bill-Clinton
+Bushu	Bush	PER	PER-George-Bush-Jr
+Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donaldu Trumpu	Donald Trump	PER	PER-Donald-Trump
+Filadelfiji	Filadelfija	LOC	GPE-Philadelphia
+Filadelfijii	Filadelfijia	LOC	GPE-Philadelphia
+Floridi	Florida	LOC	GPE-Florida
+Georgea Floyda	George Floyd	PER	PER-George-Floyd
+Georgea W. Busha	George W. Bush	PER	PER-George-Bush-Jr
+Georgeu W. Bushu	George W. Bush	PER	PER-George-Bush-Jr
+Georgii	Georgie	LOC	GPE-Georgia-US-state
+Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+Hunterja	Hunter	PER	PER-Hunter-Biden
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Kanade	Kanada	LOC	GPE-Canada
+Las Vegasu	Las Vegas	LOC	GPE-Las-Vegas
+Los Angelesu	Los Angeles	LOC	GPE-Los-Angeles
+Marsa	Mars	LOC	LOC-Mars
+Michiganu	Michigan	LOC	GPE-Michigan
+Minneapolisu	Minneapolis	LOC	GPE-Minneapolis
+Nancy Pelosi	Nancy Pelosi	PER	PER-Nancy-Pelosi
+Nemčiji	Nemčija	LOC	GPE-Germany
+Nevadi	Nevada	LOC	GPE-Nevada
+New Yorka	New York	LOC	GPE-New-York
+New Yorku	New York	LOC	GPE-New-York
+Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+Portlandu	Portland	LOC	GPE-Portland
+Republikanci	Republikanci	ORG	ORG-Republican-Party-USA
+Richard Grenell	Richard Grenell	PER	PER-Richard-Grenell
+Rudy Giuliani	Rudy Giuliani	PER	PER-Rudy-Giuliani
+Seattlu	Seattle	LOC	GPE-Seattle
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+Trumpov	Trumpov	PER	PER-Donald-Trump
+Trumpovih	Trump	PER	PER-Donald-Trump
+Trumpovo	Trump	PER	PER-Donald-Trump
+Trumpu	Trump	PER	PER-Donald-Trump
+Washington Examiner	Washington Examiner	PRO	PRO-Washington-Examiner
+Washington	Washington	LOC	GPE-WashingtonDC
+Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+YouGov	YouGov	PRO	PRO-YouGov
+ZDA	ZDA	LOC	GPE-USA
+demokrat	demokrat	PER	ORG-Democratic-Party-USA
+demokratom	demokrati	ORG	ORG-Democratic-Party-USA
+demokratu	demokrat	PER	ORG-Democratic-Party-USA
+republikance	republikanci	PER	ORG-Republican-Party-USA
+twitterju	twitter	PRO	PRO-Twitter
+Čikagu	Čikago	LOC	GPE-Chicago
+Življenja temnopoltih so pomembna	Življenja temnopoltih so pomembna	PRO	PRO-Black-Lives-Matter

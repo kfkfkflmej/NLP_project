@@ -1,0 +1,24 @@
+sl-203
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Britancev	Britanci	PER	GPE-Great-Britain
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Evropi	Evropa	LOC	LOC-Europe
+Italije	Italija	LOC	GPE-Italy
+Johnsona	Johnson	PER	PER-Boris-Johnson
+Južne Koreje	Južna Koreja	LOC	GPE-South-Korea
+Kitajske	Kitajska	LOC	GPE-China
+Leicester Royal Infirmary	Leicester Royal Infirmary	ORG	ORG-Leicester-Royal-Infirmary
+Leicester Square	Leicester Square	LOC	LOC-Leicester-Square
+Leicestru	Leicester	LOC	GPE-Leicester
+Minca Mramor	Minca Mramor	PER	PER-Minca-Mramor
+Slovenci	Slovenci	PER	GPE-Slovenia
+Sloveniji	Slovenija	LOC	GPE-Slovenia
+VB	VB	LOC	GPE-Great-Britain
+Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+WHO	WHO	ORG	ORG-World-Health-Organization
+covid-19	covid-19	EVT	EVT-Covid-19
+covida-19	covida-19	EVT	EVT-Covid-19
+koronavirusa	koronavirus	EVT	EVT-Covid-19
+koronavirusom	koronavirus	EVT	EVT-Covid-19

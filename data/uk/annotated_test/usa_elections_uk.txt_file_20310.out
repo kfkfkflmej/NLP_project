@@ -1,0 +1,47 @@
+uk-20310
+CNN	CNN	ORG	ORG-CNN
+COVID-19	COVID-19	EVT	EVT-Covid-19
+The Hill	The Hill	PRO	PRO-The-Hill
+The Washington Post	The Washington Post	PRO	PRO-Washington-Post
+USPS	USPS	ORG	ORG-United-States-Postal-Service
+United States Postal Service	United States Postal Service	ORG	ORG-Air-Navigation-Services-of-Czech-Republic
+Білий дім	Білий дім	ORG	ORG-White-House
+Білого дому	Білий дім	ORG	ORG-White-House
+Білорусі	Білорусь	LOC	GPE-Belarus
+Голос Америки	Голос Америки	ORG	ORG-Voice-of-America
+ДеДжой	ДеДжой	PER	PER-Louis-DeJoy
+ДеДжоя	ДеДжой	PER	PER-Louis-DeJoy
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Конгресом	Конгрес	ORG	ORG-United-States-Congress
+Конституція	Конституція	PRO	PRO-The-USA-Constitution
+Конституції	Конституція	PRO	PRO-The-USA-Constitution
+Крістофера Рея	Крістофер Рей	PER	PER-Christopher-Wray
+Луїса ДеДжоя	Луїс ДеДжой	PER	PER-Louis-DeJoy
+Марк Медоуз	Марк Медоуз	PER	PER-Mark-Meadows
+Медоуз	Медоуз	PER	PER-Mark-Meadows
+Меланія	Меланія	PER	PER-Melania-Trump
+Мідоуз	Мідоуз	PER	PER-Mark-Meadows
+Ненсі Пелосі	Ненсі Пелосі	PER	PER-Nancy-Pelosi
+Палати представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+Палаті представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+Пелосі	Пелосі	PER	PER-Nancy-Pelosi
+Поштова служба	Поштова служба	ORG	ORG-United-States-Postal-Service
+Поштової служби	Поштова служба	ORG	ORG-United-States-Postal-Service
+США	США	LOC	GPE-USA
+Сенаті	Сенат	ORG	ORG-United-States-Senate
+Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+Тед Лью	Тед Лью	PER	PER-Ted-Lieu
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+ФБР	ФБР	ORG	ORG-FBI
+Флориді	Флорида	LOC	GPE-Florida
+Хакім Джеффріз	Хакім Джеффріз	PER	PER-Hakeem-Jeffries
+Чак Шумер	Чак Шумер	PER	PER-Chuck-Schumer
+Шумер	Шумер	PER	PER-Chuck-Schumer
+виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+коронавірусом	коронавірус	EVT	EVT-Covid-19
+пандемії	пандемія	EVT	EVT-Covid-19
+президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+федеральної поштової служби	федеральна поштова служба	ORG	ORG-United-States-Postal-Service

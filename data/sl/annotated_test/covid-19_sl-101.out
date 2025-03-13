@@ -1,0 +1,45 @@
+sl-101
+Aleš Rozman	Aleš Rozman	PER	PER-Aleš-Rozman
+Evropi	Evropa	LOC	LOC-Europe
+Evropska agencija za zdravila	Evropska agencija za zdravila	ORG	ORG-EMA-European-Medicines-Agency
+Francije	Francija	LOC	GPE-France
+Franciji	Francija	LOC	GPE-France
+Golniku	Golnik	LOC	LOC-Hospital-Golnik
+ISIS	ISIS	PRO	PRO-ISIS-(Medical-Chamber-of-Slovenia)
+Janez Tomažič	Janez Tomažič	PER	PER-Janez-Tomažič
+Japonska	Japonska	LOC	GPE-Japan
+Japonskem	Japonska	LOC	GPE-Japan
+Javni agenciji RS za zdravila in medicinske pripomočke	Javna agencija RS za zdravila in medicinske pripomočke	ORG	ORG-JAZMP-Agency-for-Medicinal-Products-and-Medical-Devices-of-the-Republic-of-Slovenia
+Kitajskem	Kitajska	LOC	GPE-China
+Klinike Golnik	Klinika Golnik	LOC	LOC-Hospital-Golnik
+Klorokin	klorokin	PRO	PRO-Chloroquine
+Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+Novartis	Novartis	ORG	ORG-Novartis
+Rusiji	Rusija	LOC	GPE-Russia
+STA	STA	ORG	ORG-Slovenian-Press-Agency
+Sloveniji	Slovenija	LOC	GPE-Slovenia
+Tomažič	Tomažič	PER	PER-Janez-Tomažič
+Tomažiča	Tomažič	PER	PER-Janez-Tomažič
+UKC Maribor	UKC Maribor	LOC	LOC-University-Medical-Centre-Maribor
+Univerzitetnem kliničnem centru (UKC) Maribor	Univerzitetni klinični center (UKC) Maribor	LOC	LOC-University-Medical-Center-Maribor
+Zavoda za transfuzijo krvi	Zavod za transfuzijo krvi	ORG	ORG-Blood-Transfusion-Centre-of-Slovenia
+azitromicin	azitromicin	PRO	PRO-Azithromycin
+covid-19	covid-19	EVT	EVT-Covid-19
+covida-19	covid-19	EVT	EVT-Covid-19
+covidom-19	covid-19	EVT	EVT-Covid-19
+evropska agencija za zdravila	evropska agencija za zdravila	ORG	ORG-EMA-European-Medicines-Agency
+favipiravir	favipiravir	PRO	PRO-Favipiravir
+hidroklorikin	hidroklorikin	PRO	PRO-Hydroxychloroquine
+hidroksiklorokin	hidroksiklorokin	PRO	PRO-Hydroxychloroquine
+hidroksiklorokinom	hidroksiklorokin	PRO	PRO-Hydroxychloroquine
+klorokin	klorokin	PRO	PRO-Chloroquine
+klorokinom	klorokin	PRO	PRO-Chloroquine
+lopinavir	lopinavir	PRO	PRO-Lopinavir
+lopinavirjem	lopinavir	PRO	PRO-Lopinavir
+novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+remdesivirjem	remdesivir	PRO	PRO-Remdesivir
+ritonavir	ritonavir	PRO	PRO-Ritonavir
+ritonavirjem	ritonavir	PRO	PRO-Ritonavir
+ruksolitinib	ruksolitinib	PRO	PRO-Ruxolitinib
+ruksolitiniba	ruksolitinib	PRO	PRO-Ruxolitinib
+umifenovir	umifenovir	PRO	PRO-Umifenovir

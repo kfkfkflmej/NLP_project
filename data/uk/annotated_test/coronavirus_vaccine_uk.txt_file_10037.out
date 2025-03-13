@@ -1,0 +1,15 @@
+uk-10037
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Pfizer	Pfizer	ORG	ORG-Pfizer
+ЄС	ЄС	LOC	ORG-European-Union
+Європейському Союзі	Європейський Союз	ORG	ORG-European-Union
+Євросоюзу	Євросоюз	LOC	ORG-European-Union
+Норвегія	Норвегія	LOC	GPE-Norway
+Норвегії	Норвегія	LOC	GPE-Norway
+Норвезького агентства з лікарських засобів	Норвезьке агентство з лікарських засобів	ORG	ORG-Norwegian-Medicines-Agency
+Стейнар Мадсен	Стейнар Мадсен	PER	PER-Steinar-Madsen
+коронавірус	коронавірус	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+європейських країнах	європейська країна	LOC	LOC-Europe

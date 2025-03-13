@@ -1,0 +1,21 @@
+170
+Austrálii	Austrálie	LOC	GPE-Australia
+Berlíně	Berlín	LOC	GPE-Berlin
+CDC	CDC	ORG	ORG-Centers-for-Disease-Control
+Charité	Charité	LOC	LOC-Charite-University-Hospital-Berlin
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Covidu-19	Covid-19	EVT	EVT-Covid-19
+Drostena	Drosten	PER	PER-Christian-Drosten
+Drostenem	Drosten	PER	PER-Christian-Drosten
+Německo	Německo	LOC	GPE-Germany
+Německu	Německo	LOC	GPE-Germany
+PCR testů	PCR test	PRO	PRO-PCR-Test
+Reiner Fuellmich	Reiner Fuellmich	PER	PER-Reiner-Fuellmich
+Rki	Rki	ORG	ORG-Robert-Koch-Institute
+Světové zdravotnické organizace	Světová zdravotnická organizace	ORG	ORG-World-Health-Organization
+Tedrosem	Tedros	PER	PER-Tedros-Adhanom-Ghebreyesus
+WHO	WHO	ORG	ORG-World-Health-Organization
+Wielerem	Wieler	PER	PER-Lothar-Wieler
+koronavirové pandemie	koronavirová pandemie	EVT	EVT-Covid-19
+koronavirus	koronavirus	EVT	EVT-Covid-19
+německá vláda	německá vláda	ORG	ORG-German-Government

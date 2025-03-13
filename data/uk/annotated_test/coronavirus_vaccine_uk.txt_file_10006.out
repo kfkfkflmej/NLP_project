@@ -1,0 +1,21 @@
+uk-10006
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+COVID	COVID	EVT	EVT-Covid-19
+EU	EU	ORG	ORG-European-Union
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Twitter	Twitter	PRO	PRO-Twitter
+ЄС	ЄС	LOC	ORG-European-Union
+Єврокомісії	Єврокомісія	ORG	ORG-European-Commission
+Європейський Союз	Європейський Союз	ORG	ORG-European-Union
+Європейської комісії	Європейська комісія	ORG	ORG-European-Commission
+Євросоюз	Євросоюз	ORG	ORG-European-Union
+Євросоюзу	Євросоюз	LOC	ORG-European-Union
+Євросоюзі	Євросоюз	LOC	ORG-European-Union
+Ізраїлі	Ізраїль	LOC	GPE-Israel
+Польщі	Польща	LOC	GPE-Poland
+Туреччини	Туреччина	LOC	GPE-Turkey
+Урсула фон дер Ляєн	Урсула фон дер Ляєн	PER	PER-Ursula-von-der-Leyen
+коронавірус	коронавірус	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+фон дер Ляєн	фон дер Ляєн	PER	PER-Ursula-von-der-Leyen

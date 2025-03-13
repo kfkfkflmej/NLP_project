@@ -1,0 +1,23 @@
+ru-6
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Washington Post	Washington Post	PRO	PRO-Washington-Post
+Washington Post	Washington Post	PRO	PRO-Washington-Post
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+ВАШИНГТОН	Вашингтон	LOC	GPE-WashingtonDC
+Вермонт	Вермонт	LOC	GPE-Vermont
+Вермонте	Вермонт	LOC	GPE-Vermont
+Гаврилова А.В.	Гаврилова А.В.	PER	PER-Gavrilova-A.-V.
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+МИА «Россия сегодня»	МИА «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
+Международное информационное агентство «Россия сегодня»	Международное информационное агентство «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
+Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+США	США	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+американского	американский	LOC	GPE-USA
+конгресса	конгресс	ORG	ORG-United-States-Congress
+коронавируса	коронавирус	EVT	EVT-Covid-19

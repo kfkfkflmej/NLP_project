@@ -1,0 +1,11 @@
+ru-32
+COVID-19	COVID-19	EVT	EVT-Covid-19
+COVID-19	COVID-19	EVT	EVT-Covid-19
+mos.ru	mos.ru	PRO	PRO-Mos-.ru
+Москве	Москва	LOC	GPE-Moscow
+России	Россия	LOC	GPE-Russia
+Российской Федерации	Российская Федерация	LOC	GPE-Russia
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусную	коронавирусная	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+московская	московская	PER	GPE-Moscow

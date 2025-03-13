@@ -1,0 +1,24 @@
+97
+Alexander Ginsburg	Alexander Ginsburg	PER	PER-Alan-Ginsburg
+Američané	Američané	PER	GPE-USA
+CNN	CNN	PRO	PRO-CNN
+DPA	DPA	ORG	ORG-DPA
+Gamalejův institut	Gamalejův institut	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+Kirill Dmitriev	Kirill Dmitriev	PER	PER-Kirill-Dmitriev
+Klaus Cichutek	Klaus Cichutek	PER	PER-Klaus-Cichutek
+Moderna	Moderna	ORG	ORG-Moderna
+Německu	Německo	LOC	GPE-Germany
+Putin	Putin	PER	PER-Vladimir-Putin
+Rusko	Rusko	LOC	GPE-Russia
+Rusku	Rusko	LOC	GPE-Russia
+Sputnik	Sputnik	PRO	PRO-Sputnik-Satellite
+TASS	TASS	ORG	ORG-TASS-Agency
+Taťjany Golikovové	Taťjana Golikovová	PER	PER-Tatjana-Golikova
+Vladimír Putin	Vladimír Putin	PER	PER-Vladimir-Putin
+covid-19	covid-19	EVT	EVT-Covid-19
+covidu-19	covid-19	EVT	EVT-Covid-19
+koronaviru MERS	koronavirus MERS	EVT	EVT-MERS-CoV
+koronaviru	koronavirus	EVT	EVT-Covid-19
+koronavirus	koronavirus	EVT	EVT-Covid-19
+ruské ministerstvo zdravotnictví	ruské ministerstvo zdravotnictví	ORG	ORG-Russian-Ministry-of-Health
+Ústavu Paula Ehrlicha	Ústav Paula Ehrlicha	ORG	ORG-Paul-Ehrlich-Institute

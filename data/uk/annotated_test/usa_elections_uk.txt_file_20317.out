@@ -1,0 +1,42 @@
+uk-20317
+Reuters	Reuters	ORG	ORG-Reuters
+The Washington Post	The Washington Post	PRO	PRO-Washington-Post
+Інавгурація	Інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+Айова	Айова	LOC	GPE-Iowa
+Аризоні	Аризона	LOC	GPE-Arizona
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Бреда Раффенспергера	Бред Раффенспергер	PER	PER-Brad-Raffensperger
+Білий дім	Білий дім	ORG	ORG-White-House
+Білого дому	Білий дім	ORG	ORG-White-House
+Вірджинія	Вірджинія	LOC	GPE-Virginia
+Вісконсин	Вісконсин	LOC	GPE-Wisconsin
+Далтон	Далтон	LOC	GPE-Dalton-Georgia
+Демократичної	Демократична	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Камалу Гарріс	Камала Гарріс	PER	PER-Kamala-Harris
+Майка Пенса	Майк Пенс	PER	PER-Mike-Pence
+Міннесота	Міннесота	LOC	GPE-Minnesota
+Мічиган	Мічиган	LOC	GPE-Michigan
+Невада	Невада	LOC	GPE-Nevada
+Нью-Гемпшир	Нью-Гемпшир	LOC	GPE-New-Hampshire
+Огайо	Огайо	LOC	GPE-Ohio
+Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+Північна Кароліна	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+Республіканської	Республіканська	ORG	ORG-Republican-Party-USA
+США	США	LOC	GPE-USA
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Трамп	Трамп	PER	PER-Donald-Trump
+Флорида	Флорида	LOC	GPE-Florida
+виборах президента США	вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+пандемію	пандемія	EVT	EVT-Covid-19
+президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election

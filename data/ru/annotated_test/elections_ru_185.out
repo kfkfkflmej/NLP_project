@@ -1,0 +1,118 @@
+ru-185
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Facebook	Facebook	PRO	PRO-Facebook
+Instagram	Instagram	PRO	PRO-Instagram
+Politico	Politico	PRO	PRO-Politico
+The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+Twitter	Twitter	PRO	PRO-Twitter
+«Валдай»	Валдай	ORG	ORG-Valday
+«Газете.Ru»	"Газета.Ru"	PRO	PRO-Gazeta-ru
+«Газетой.Ru»	"Газета.Ru"	PRO	PRO-Gazeta-ru
+«Газеты.Ru»	"Газета.Ru"	PRO	PRO-Gazeta-ru
+Америка	Америка	LOC	GPE-USA
+Америки	Америка	LOC	GPE-USA
+Ангелу Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+Бахрейном	Бахрейн	LOC	GPE-Kingdom-of-Bahrain
+Белом доме	Белый дом	ORG	ORG-The-White-House
+Валерий Гарбузов	Валерий Гарбузов	PER	PER-Valerii-Garbuzov
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+Владимиром Путиным	Владимир Путин	PER	PER-Vladimir-Putin
+Германии	Германия	LOC	GPE-Germany
+Германия	Германия	LOC	GPE-Germany
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европе	Европа	LOC	LOC-Europe
+Евросоюза	Евросоюз	ORG	ORG-European-Union
+Израиль	Израиль	LOC	GPE-Israel
+Института США и Канады РАН	Институт США и Канады РАН	ORG	ORG-Institute-for-US-and-Canadian-Studies-RAS
+Ирану	Иран	LOC	GPE-Iran
+КНДР	КНДР	LOC	GPE-North-Korea
+КНР	КНР	LOC	GPE-China
+Канадой	Канада	LOC	GPE-Canada
+Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+Ким Чен Ына	Ким Чен Ын	PER	PER-Kim-Jong-Un
+Ким Чен Ыном	Ким Чен Ын	PER	PER-Kim-Jong-Un
+Кимом	Ким	PER	PER-Kim-Jong-Un
+Китаем	Китай	LOC	GPE-China
+Китай	Китай	LOC	GPE-China
+Китаю	Китай	LOC	GPE-China
+Корейского полуострова	Корейский полуостров	LOC	LOC-Korean-peninsula
+Кремля	Кремль	ORG	ORG-Kremlin
+Лукьянов	Лукьянов	PER	PER-Fedor-Lukyanov
+Мексикой	Мексика	LOC	GPE-Mexico
+Меркель	Меркель	PER	PER-Angela-Merkel
+Москве	Москва	LOC	GPE-Moscow
+Москвой	Москва	LOC	GPE-Moscow
+Москву	Москва	LOC	GPE-Moscow
+НАТО	НАТО	ORG	ORG-NATO
+ОАЭ	ОАЭ	LOC	GPE-UEA-United-Arab-Emirates
+Обамой	Обама	PER	PER-Barack-Obama
+Обамы	Обама	PER	PER-Barack-Obama
+Пекином	Пекин	LOC	GPE-Beijing
+Путина	Путин	PER	PER-Vladimir-Putin
+Пхеньян	Пхеньян	LOC	GPE-Pyongyang
+Пхеньяна	Пхеньян	LOC	GPE-Pyongyang
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Российское	российское	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Северной Кореей	Северная Корея	LOC	GPE-North-Korea
+Североамериканским соглашением о свободной торговле	Североамериканское соглашение о свободной торговле	PRO	PRO-North-American-Free-Trade-Agreement
+Сирии	Сирия	LOC	GPE-Syria
+Совместного всеобъемлющего плана действий	Совместный всеобъемлющий план действий	PRO	PRO-Joint-Comprehensive-Plan-of-Action
+Тегерана	Тегеран	LOC	GPE-Tehran
+Тихоокеанского партнерства	Тихоокеанское партнерство	PRO	PRO-Trans-Pacific-Partnership
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампе	Трамп	PER	PER-Donald-Trump
+Трампом	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Украины	Украина	LOC	GPE-Ukraine
+ФРГ	ФРГ	LOC	GPE-Germany
+Федор Лукьянов	Федор Лукьянов	PER	PER-Fedor-Lukyanov
+Фонда изучения США имени Франклина Рузвельта при МГУ	Фонд изучения США имени Франклина Рузвельта при МГУ	ORG	ORG-Roosevelt-Fund-for-US-Studies-at-the-Moscow-State-University
+Франции	Франция	LOC	GPE-France
+Франция	Франция	LOC	GPE-France
+Эммануэль Макрон	Эммануэль Макрон	PER	PER-Emmanuel-Macron
+Юрий Рогулев	Юрий Рогулев	PER	PER-Yury-Rogulev
+американская	американская	LOC	GPE-USA
+американские	американские	LOC	GPE-USA
+американский	американский	LOC	GPE-USA
+американских	американский	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американском	американский	LOC	GPE-USA
+американцев	американцы	PER	GPE-USA
+вашингтонское	вашингтонское	LOC	GPE-WashingtonDC
+выборах 2020 года	выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+выборов 2016 года	выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+выборы 2016 года	выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+демократом	демократ	PER	ORG-Democratic-Party-USA
+договор о ликвидации ракет средней и меньшей дальности	договор о ликвидации ракет средней и меньшей дальности	PRO	PRO-IRNFT
+еврейского государства	еврейское государство	LOC	GPE-Israel
+европейских	европейские	LOC	LOC-Europe
+европейцы	европейцы	PER	LOC-Europe
+импичмента	импичмент	EVT	EVT-Impeachment-inquiry-against-Donald-Trump
+импичменту	импичмент	EVT	EVT-Impeachment-inquiry-against-Donald-Trump
+инаугурации	инаугурация	EVT	EVT-2020-United-States-presidential-inauguration
+иранской	иранская	LOC	GPE-Iran
+китайскому	китайский	LOC	GPE-China
+коронавируса	коронавирус	EVT	EVT-Covid-19
+минюста США	минюст США	ORG	ORG-Foreign-Office
+парижского соглашения	парижское соглашение	PRO	PRO-Bonn-Paris-conventions
+республиканца	республиканец	PER	ORG-Republican-Party-USA
+республиканцем	республиканец	PER	ORG-Republican-Party-USA
+российским	российский	LOC	GPE-Russia
+российское	российский	LOC	GPE-Russia
+северокорейского	северокорейский	LOC	GPE-North-Korea
+сенат	Сенат	ORG	ORG-United-States-Senate
+соглашение по открытому небу	соглашение по открытому небу	PRO	PRO-The-Treaty-on-Open-Skies
+твиттер	твиттер	PRO	PRO-Twitter

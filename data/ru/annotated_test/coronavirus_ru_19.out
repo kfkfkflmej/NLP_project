@@ -1,0 +1,85 @@
+ru-19
+"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	СOVID-19	EVT	EVT-Covid-19
+Kazpravda.kz	Kazpravda.kz	PRO	PRO-Kazakhstanskaya-Pravda
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Phizer	Pfizer	ORG	ORG-Pfizer
+QazCovid-In	QazCovid-In	PRO	PRO-QazCovid-In
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Sinopharm	Sinopharm	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm
+Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+eGov Mobile	eGov Mobile	PRO	PRO-mobile-application-#ostanizdrav
+primeminister.kz	primeminister.kz	PER	PER-primeminister.kz
+Альберто Фернандес	Альберто Фернандес	PER	PER-Alberto-Fernández
+Альфа Конде	Альфа Конде	PER	PER-Alpha-Conde
+Американский	Американский	PER	GPE-USA
+Аргентина	Аргентина	LOC	GPE-Argentina
+Аргентины	Аргентина	LOC	GPE-Argentina
+Арнольд Шварценеггер	Арнольд Шварценеггер	PER	PER-Arnold-Schwarzenegger
+Асхат Аймагамбетов	Асхат Аймагамбетов	PER	PER-Askhat-Aimagambetov
+Байдену	Байден	PER	PER-Joe-Biden
+Беларусь	Беларусь	LOC	GPE-Belarus
+Бенедикт XVI	Бенедикт XVI	PER	PER-Benedict-XVI
+Бердибек Сапарбаев	Бердибек Сапарбаев	PER	PER-Berdibek-Saparbaev
+Буэнос-Айреса	Буэнос-Айрес	LOC	GPE-Buenos-Aires
+Ватикане	Ватикан	LOC	GPE-Vatican
+Венесуэлы	Венесуэла	LOC	GPE-Venezuela
+Всемирной организацией здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+Гам-КОВИД-Вак	Гам-КОВИД-Вак	PRO	PRO-Gam-COVID-Vac
+Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+Гвинеи	Гвинея	LOC	GPE-Guinea
+Даниэль Голлан	Даниэль Голлан	PER	PER-Daniel-Gollan
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Ерлан Карин	Ерлан Карин	PER	PER-Erlan-Karin
+Жамбылской области	Жамбылская область	LOC	LOC-Jambyl-Region
+КВИ	КВИ	EVT	EVT-Covid-19
+КНБ	КНБ	ORG	ORG-National-Security-Committee-of-Kazakhstan
+Казахским национальным аграрным университетом	Казахский национальный аграрный университет	ORG	ORG-Kazakh-National-Agrarian-University
+Казахстане	Казахстан	LOC	GPE-Kazakhstan
+Калифорнии	Калифорния	LOC	GPE-California
+Карагандинского фармацевтического комплекса	Карагандинский фармацевтический комплекс	LOC	LOC-Karaganda-Pharmaceutical-Complex
+Карагандинском заводе	Карагандинский завод	LOC	LOC-Karaganda-Pharmaceutical-Complex
+Китай	Китай	LOC	GPE-China
+Кодекса РК "О здоровье народа и системе здравоохранения"	Кодекс РК "О здоровье народа и системе здравоохранения"	PRO	PRO-The-Code-of-the-Republic-of-Kazakhstan-On-the-Health-of-the-People-and-the-Health-care-system
+Комитет санитарно-эпидемиологического контроля Министерства здравоохранения РК	Комитет санитарно-эпидемиологического контроля Министерства здравоохранения РК	ORG	ORG-The-Committee-of-Sanitary-and-Epidemiological-Control-of-the-Ministry-of-Healthcare-of-the-Republic-of-Kazakhstan
+Комитета науки Министерства образования и науки РК	Комитет науки Министерства образования и науки РК	ORG	ORG-The-Committee-of-Science-of-the-Ministry-of-Education-and-Science-of-the-Republic-of-Kazakhstan
+МВД	МВД	ORG	ORG-Ministry-of-Internal-Affairs-Russia
+МЧС	МЧС	ORG	ORG-Ministry-of-Emergency-Situations
+Министерством здравоохранения РК	Министерство здравоохранения РК	ORG	ORG-Ministry-of-Healthcare-Kazakhstan
+Минобороны	Миноборона	ORG	ORG-Ministry-of-Defense
+НИИ ПББ	НИИ ПББ	ORG	ORG-Research-Institute-Of-Biological-Safety-Problems
+НИЦЭМ им. Гамалеи	НИЦЭМ им. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+Научно-исследовательским институтом проблем биологической безопасности	Научно-исследовательский институт проблем биологической безопасности	ORG	ORG-Research-Institute-Of-Biological-Safety-Problems
+Национальным центром особо опасных инфекций им. М. Айкимбаева	Национальный центр особо опасных инфекций им. М. Айкимбаева	ORG	ORG-Masgut-Aikimbayev’s-National-Scientific-Center-for-Especially-Dangerous-Infections
+Николаса Мадуро Герра	Николас Мадуро Герра	PER	PER-Nicolas-Maduro-Guerra
+Оливер Стоун	Оливер Стоун	PER	PER-Oliver-Stone
+Правила временной государственной регистрации вакцин против коронавируса COVID-19	Правила временной государственной регистрации вакцин против коронавируса COVID-19	PRO	PRO-Act-Determining-Intervention-Measures-to-Assist-in-Mitigating-the-Consequences-of-the-Second-Wave-of-COVID-19-Epidemic-PKP7
+Правительства Республики Казахстан	Правительство Республики Казахстан	ORG	ORG-Government-of-the-Republic-of-Kazakhstan
+РК	РК	LOC	GPE-Kazakhstan
+РФ	РФ	LOC	GPE-Russia
+Реджеп Эрдоган	Реджеп Эрдоган	PER	PER-Recep-Erdogan
+Республике Казахстан	Республика Казахстан	LOC	GPE-Kazakhstan
+Республики Казахстан	Республика Казахстан	LOC	GPE-Kazakhstan
+России	Россия	LOC	GPE-Russia
+СOVID-19	СOVID-19	EVT	EVT-Covid-19
+СoronaVac	СoronaVac	PRO	PRO-CoronaVac
+США	США	LOC	GPE-USA
+Сербия	Сербия	LOC	GPE-Serbia
+Службы государственной охраны	Служба государственной охраны	ORG	ORG-Security-Service-Kazakhstan
+Турции	Турция	LOC	GPE-Turkey
+Университетом Штата Огайо	Университет Штата Огайо	ORG	ORG-The-Ohio-state-university
+Фахреттин Коджа	Фахреттин Коджа	PER	PER-Fahrettin-Koca
+Фонда прямых инвестиций РФ	Фонд прямых инвестиций РФ	ORG	ORG-Russian-Direct-Investment-Fund
+Франциск	Франциск	PER	PER-Pope-Francis
+казахский	казахский	PER	GPE-Kazakhstan
+казахстанского	казахстанский	PER	GPE-Kazakhstan
+казахстанцам	казахстанцы	PER	GPE-Kazakhstan
+китайским	китайский	PER	GPE-Kazakhstan
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+минздрава Турции	минздрав Турции	ORG	ORG-Ministry-of-healthcare-Turkey
+российская	российская	PER	GPE-Russia
+российской	российский	PER	GPE-Russia
+русский	русский	PER	GPE-Russia

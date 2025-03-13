@@ -1,0 +1,46 @@
+sl-20
+Amerika	Amerika	LOC	GPE-USA
+Amerike	Amerika	LOC	GPE-USA
+Ameriko	Amerika	LOC	GPE-USA
+Američani	Američani	PER	GPE-USA
+Američanom	Američani	PER	GPE-USA
+Američanov	Američani	PER	GPE-USA
+Bele hiše	Bela hiša	LOC	LOC-White-House
+Bernie Sanders	Bernie Sanders	PER	PER-Bernie-Sanders
+Biden	Biden	PER	PER-Joe-Biden
+Bidna	Biden	PER	PER-Joe-Biden
+Bidnovo	Bidnov	PER	PER-Joe-Biden
+Branko Milanović	Branko Milanović	PER	PER-Branko-Milanović
+Bálinta Magyarja	Bálint Magyar	PER	PER-Bálint-Magyar
+Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+Demokratska stranka	Demokratska stranka	ORG	ORG-Democratic-Party-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Elizabeth Warren	Elizabeth Warren	PER	PER-Elizabeth-Warren
+Evropski uniji	Evropska unija	ORG	ORG-European-Union
+Georgea W. Busha	George W. Bush	PER	PER-George-Bush-Jr
+Gessen	Gessen	PER	PER-Masha-Gessen
+Global Inequality	Global Inequality	PRO	PRO-Global-Inequality
+Guardianu	Guardian	PRO	PRO-The-Guardian
+Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+Janis Varufakis	Janis Varufakis	PER	PER-Janis-Varufakis
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+Latinoameričani	Latinoameričani	PER	GPE-Latin-America
+Madžarskem	Madžarska	LOC	GPE-Hungary
+Masha Gessen	Masha Gessen	PER	PER-Masha-Gessen
+Mitcha McConnella	Mitch McConnell	PER	PER-Mitch-McConnell
+New Yorkerju	New Yorkerju	PRO	ORG-The-New-Yorker
+Sandersa	Sanders	PER	PER-Bernie-Sanders
+Trump	Trump	PER	PER-Donald-Trump
+Trumpove	Trumpov	PER	PER-Donald-Trump
+Varufakis	Varufakis	PER	PER-Janis-Varufakis
+Williama Barra	William Barr	PER	PER-WIlliam-Barr
+ZDA	ZDA	LOC	GPE-USA
+Združene države	Združene države	LOC	GPE-USA
+Združenih državah	Združene države	LOC	GPE-USA
+demokrate	demokrati	ORG	ORG-Democratic-Party-USA
+demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+republikance	republikanci	PER	ORG-Republican-Party-USA
+republikancev	republikanci	ORG	ORG-Republican-Party-USA
+republikanci	republikanci	ORG	ORG-Republican-Party-USA

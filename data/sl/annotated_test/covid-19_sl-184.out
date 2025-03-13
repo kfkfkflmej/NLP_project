@@ -1,0 +1,25 @@
+sl-184
+767	767	PRO	PRO-Boeing-767
+777	777	PRO	PRO-Boeing-777
+Airbus	Airbus	ORG	ORG-Airbus-SE
+Alexandre de Juniac	Alexandre de Juniac	PER	PER-Alexandre-de-Juniac
+Američani	Američani	PER	GPE-USA
+Boeing	Boeing	ORG	ORG-Boeing
+CDC	CDC	ORG	ORG-Centers-for-Disease-Control
+David Powell	David Powell	PER	PER-David-Powell
+Embraer	Embraer	ORG	ORG-Embraer
+Evropi	Evropa	LOC	LOC-Europe
+IATA	IATA	ORG	ORG-IATA-International-Air-Transport-Association
+IATE	IATA	ORG	ORG-IATA-International-Air-Transport-Association
+Joe Pope	Joe Pope	PER	PER-Joe-Pope
+Mednarodno združenje letalskih prevoznikov	Mednarodno združenje letalskih prevoznikov	ORG	ORG-IATA-International-Air-Transport-Association
+Powell	Powell	PER	PER-David-Powell
+Tajska	Tajska	LOC	GPE-Thailand
+United Airlines	United Airlines	ORG	ORG-United-Airlines
+ZDA	ZDA	LOC	GPE-USA
+boeing 767	boeing 767	PRO	PRO-Boeing-767
+covid-19	covid-19	EVT	EVT-Covid-19
+covidom-19	covid-19	EVT	EVT-Covid-19
+koronavirusom	koronavirus	EVT	EVT-Covid-19
+letali 777	letala 777	PRO	PRO-Boeing-777
+novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19

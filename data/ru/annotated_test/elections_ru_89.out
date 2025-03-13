@@ -1,0 +1,26 @@
+ru-89
+Washington Post	Washington Post	PRO	PRO-Washington-Post
+Байден	Байден	PER	PER-Joe-Biden
+Вашингтону	Вашингтон	LOC	GPE-WashingtonDC
+Вермонте	Вермонт	LOC	GPE-Vermont
+Гавайях	Гавайи	LOC	GPE-Hawaii
+Гаврилова А.В.	Гаврилова А.В.	PER	PER-Gavrilova-A.-V.
+Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+МИА «Россия сегодня»	МИА «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
+МОСКВА	МОСКВА	LOC	GPE-Moscow
+Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+Национальный архив США	Национальный архив США	ORG	ORG-NARA-National-Archives-and-Records-Administration
+Национальный архив	Национальный архив	ORG	ORG-NARA-National-Archives-and-Records-Administration
+РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+США	США	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	ORG	ORG-International-News-Agency-RussiaToday
+выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+демократу	демократ	ORG	ORG-Democratic-Party-USA
+коллегии	коллегия	ORG	ORG-United-States-Electoral-College
+коллегия	коллегия	ORG	ORG-United-States-Electoral-College
+конгресса	конгресс	ORG	ORG-United-States-Congress
+президентских выборах	президентские выборы	EVT	EVT-2020-United-States-Presidential-Election
+сената CША	сената CША	ORG	ORG-United-States-Senate

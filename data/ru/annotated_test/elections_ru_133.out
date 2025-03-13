@@ -1,0 +1,72 @@
+ru-133
+Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
+"Царьград"	"Царьград"	PRO	PRO-Tsargrad
+DIW	DIW	ORG	ORG-DIW
+Daily Sabah	Daily Sabah	PRO	PRO-Daily-Sabah
+Der Spiegel	Der Spiegel	PRO	PRO-Der-Spiegel
+Fox News	Fox News	PRO	PRO-Fox-News
+Haaretz	Haaretz	PRO	PRO-Haaretz
+Handelsblatt	Handelsblatt	PRO	PRO-Handelsblatt
+Tages-Anzeiger	Tages-Anzeiger	PRO	PRO-Tages-Anzeiger
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белом доме	Белый дом	ORG	ORG-The-White-House
+Британская	британский	LOC	GPE-Great-Britain
+Грегга Рэ	Грегга Рэ	PER	PPER-Greg-Ra
+Демократы	демократы	PER	ORG-Democratic-Party-USA
+Джемаля Хашкаджи	Джемаль Хашкаджи	PER	PER-Jemale-Hushkadgi
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+Европы	Европа	LOC	LOC-Europe
+Израильская	израильский	LOC	GPE-Israel
+Йемене	Йемен	LOC	GPE-Yemen
+Йонатан Фридланд	Йонатан Фридланд	PER	PER-Yonnatahn-Friedland
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+Маас	Маас	PER	PER-Heiko-Maas
+Марсель Фратцшер	Марсель Фратцшер	PER	PER-Marcel-Fratzsher
+Москвы	Москва	LOC	GPE-Moscow
+Немецкого института экономических исследований	Немецкий институт экономических исследований	ORG	ORG-The-German-Institute-for-Economic-Research
+Обамы	Обама	PER	PER-Barack-Obama
+Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Палате представителей США	Палата представителей США	ORG	ORG-United-States-House-of-Representatives
+Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Палату представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Пекина	Пекин	LOC	GPE-Beijing
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Саудовской Аравии	Саудовская Аравия	LOC	GPE-Saudi-Arabia
+Саудовскую Аравию	Саудовская Аравия	LOC	GPE-Saudi-Arabia
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Сенате	Сенат	ORG	ORG-United-States-Senate
+Твиттере	Твиттер	PRO	PRO-Twitter
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Турецкая	турецкий	LOC	GPE-Turkey
+Украине	Украина	LOC	GPE-Ukraine
+Штатах	Штаты	LOC	GPE-USA
+Эр-Рияда	Эр-Рияд	LOC	GPE-Riyadh
+Яндекс.Дзен	Яндекс.Дзен	PRO	PRO-Yandex.Dzen
+американская	американская	LOC	GPE-USA
+американские выборы	американские выборы	EVT	EVT-2020-United-States-Presidential-Election
+американский	американский	LOC	GPE-USA
+американской	американская	LOC	GPE-USA
+американцы	американцы	PER	GPE-USA
+демократами	демократы	PER	ORG-Democratic-Party-USA
+демократов	демократы	PER	ORG-Democratic-Party-USA
+демократы	демократы	PER	ORG-Democratic-Party-USA
+израильская	израильский	LOC	GPE-Israel
+немецкая	немецкий	LOC	GPE-Germany
+республиканцам	республиканцы	PER	ORG-Republican-Party-USA
+республиканцами	республиканцы	PER	ORG-Republican-Party-USA
+республиканцев	республиканцы	PER	ORG-Republican-Party-USA
+саудовской	саудовский	LOC	GPE-Saudi-Arabia
+сирийской	сирийский	LOC	GPE-Syria

@@ -1,0 +1,10 @@
+121
+Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+Angeli Merkel	Angela Merkel	PER	PER-Angela-Merkel
+Bundestagu	Bundestag	ORG	ORG-Bundestag
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Merkel	Merkel	PER	PER-Angela-Merkel
+Niemczech	Niemcy	LOC	GPE-Germany
+RFN	RFN	LOC	GPE-Germany
+koronawirusa	koronawirus	EVT	EVT-Covid-19
+koronawirusem	koronawirus	EVT	EVT-Covid-19

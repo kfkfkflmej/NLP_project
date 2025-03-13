@@ -1,0 +1,135 @@
+ru-109
+Amy Gardner	Amy Gardner	PER	PER-Amy-Gardner
+Beth Reinhard	Beth Reinhard	PER	PER-Beth-Reinhard
+Daniel Depetris	Daniel Depetris	PER	PER-Daniel-Depetris
+David Graham	David Graham	PER	PER-Andrew-David-Lobbenberg
+Hal Brands	Hal Brands	PER	PER-Hal-Brands
+Issie Lapowsky	Issie Lapowsky	PER	PER-Issie-Lapowsky
+Janet Hook	Janet Hook	PER	PER-Janet-Hook
+Michael Hirsch	Michael Hirsch	PER	PER-Michael-Hirsch
+Stephen Collinson	Stephen Collinson	PER	PER-Stephen-Collinson
+Wired	Wired	PRO	PRO-Wired
+«Атлантик»	Атлантик	PRO	PRO-The-Atlantic
+«Блумберга»	Блумберг	PRO	PRO-Bloomberg
+«Вашингтон пост»	Вашингтон пост	PRO	PRO-Washington-Post
+«Си-эн-эн»	Си-эн-эн	PRO	PRO-CNN
+«Форин полиси»	Форин полиси	PRO	PRO-Foreign-policy
+Америка	Америка	LOC	GPE-USA
+Америку	Америка	LOC	GPE-USA
+Америкэн консерватив	Америкэн консерватив	PRO	PRO-The-American-Conservative
+Атланты	Алтанта	LOC	GPE-Atlanta
+Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белом доме	Белый дом	ORG	ORG-The-White-House
+Бет Рейнард	Бет Рейнард	PER	PER-Beth-Reinhard
+Бронксе	Бронкс	LOC	GPE-Bronx
+Брэндс	Брэндс	PER	PER-Hal-Brands
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Грэм	Линдси Грэм	PER	PER-Lindsey-Graham
+Гуглу	Гугл	PRO	PRO-Google
+Демократическая	Демократическая	ORG	ORG-Democratic-Party-USA
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Демократы	Демократы	ORG	ORG-Democratic-Party-USA
+Демократы	демократы	ORG	ORG-Democratic-Party-USA
+Депетрис	Депетрис	PER	PER-Daniel-Depetris
+Дженет Хук	Дженет Хук	PER	PER-Janet-Hook
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+Дэвид	Дэвид	PER	PER-David-Davis
+Дэниэл Депетрис	Дэниэл Депетрис	PER	PER-Daniel-Depetris
+ИноСМИ	ИноСМИ	PRO	PRO-InoSMI
+Иран	Иран	LOC	GPE-Iran
+Исси Лаповски	Исси Лаповски	PER	PER-Issie-Lapowsky
+Йемене	Йемен	LOC	GPE-Yemen
+Калифорнии	Калифорния	LOC	GPE-California
+Капитолийском холме	Капитолийский холм	LOC	LOC-Capitol-Hill
+Квинсе	Квинс	LOC	LOC-Queens
+Китая	Китай	LOC	GPE-China
+Коллинсон	Коллинсон	PER	PER-Stephen-Collinson
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Майкл Хирш	Майкл Хирш	PER	PER-Michael-Hirsch
+Москвой	Москва	LOC	GPE-Moscow
+Небраски	Небраска	LOC	GPE-Nebraska
+Нью-Йорк таймс	Нью-Йорк Таймс	PRO	PRO-The-New-York-Times
+Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+Нэнси Пелоси	Нэнси Пелоси	PER	PER-Nancy-Pelosi
+Обамы	Обама	PER	PER-Barack-Obama
+Окасио-Кортес	Окасио-Кортес	PER	PER-Alexandria-Ocasio-Cortez
+Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Палату представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Парижскому соглашению	Парижское соглашение	PRO	PRO-Bonn-Paris-conventions
+Пентагона	Пентагон	ORG	ORG-The-Pentagon
+Путина	Путин	PER	PER-Vladimir-Putin
+Путину	Путин	PER	PER-Vladimir-Putin
+РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+РСМД	РСМД	PRO	PRO-INF-Intermediate-Range-Nuclear-Forces-Treaty
+Республиканский сенат	Республиканский сенат	ORG	ORG-Republican-Party-USA
+Республиканское	Республиканский	ORG	ORG-Republican-Party-USA
+Республиканцы	Республиканцы	ORG	ORG-Republican-Party-USA
+Республиканцы	Республиканцы	PER	ORG-Republican-Party-USA
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Российской Федерации	Российская Федерация	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+СНВ	СНВ	PRO	PRO-SORT-Strategic-Offensive-Reductions-Treaty
+США	США	LOC	GPE-USA
+Сан-Франциско	Сан-Франциско	LOC	GPE-San-Francisco
+Саудовской Аравией	Саудовской Аравия	LOC	GPE-Saudi-Arabia
+Саудовской Аравии	Саудовская Аравия	LOC	GPE-Saudi-Arabia
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Сенате	Сенат	ORG	ORG-United-States-Senate
+Си Цзиньпин	Си Цзиньпин	PER	PER-Xi-Jinping
+Сирии	Сирия	LOC	GPE-Syria
+Сомали	Сомали	LOC	GPE-Somalia
+Стивен Коллинсон	Стивен Коллинсон	PER	PER-Stephen-Collinson
+Твиттеру	Твиттер	PRO	PRO-Twitter
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампом	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Уайерд	Уайерд	PRO	PRO-Wired
+Украине	Украина	LOC	GPE-Ukraine
+Уолл-Стрит джорнэл	Уолл-Стрит джорнэл	PRO	PRO-Wall-Street-Journal
+Фейсбуку	Фейсбук	PRO	PRO-Facebook
+Хазин	Хазин	PER	PER-Mikhail-Khazin
+Хирш	Хирш	PER	PER-Michael-Hirsch
+Хирша	Хирш	PER	PER-Michael-Hirsch
+Хэл Брэндс	Хэл Брэндс	PER	PER-Hal-Brands
+Эми Гарднер	Эми Гарднер	PER	PER-Amy-Gardner
+администрации Трампа	администрация Трампа	ORG	ORG-The-Trump-Organization
+администрации	администрация	ORG	ORG-US-Executive-Office-of-the-President
+американских	американский	LOC	GPE-USA
+американской	американская	LOC	GPE-USA
+американскому	американский	LOC	GPE-USA
+американцев	американцы	PER	GPE-USA
+американцы	американцы	PER	GPE-USA
+выборах 2000 года	выборы 2000 года	EVT	EVT-2000-United-States-Presidential-Election
+демократам	демократы	ORG	ORG-Democratic-Party-USA
+демократами	демократы	ORG	ORG-Democratic-Party-USA
+демократическое	демократический	ORG	ORG-Democratic-Party-USA
+демократическому	демократический	ORG	ORG-Democratic-Party-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+демократы	демократ	ORG	ORG-Democratic-Party-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+китайский	китайский	LOC	GPE-China
+округАлександрии	округ Александрии	LOC	GPE-Alexandria
+округе Гвиннетт	округ Гвиннетт	LOC	GPE-Gwinnett-County
+палата представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+президентских выборов 2020 года	президентские выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+республиканского	республиканский	ORG	ORG-Republican-Party-USA
+республиканскую	республиканская	ORG	ORG-Republican-Party-USA
+республиканцами	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+русском	русский	LOC	GPE-Russia
+саудовским	саудовский	LOC	GPE-Saudi-Arabia
+сенат	сенат	ORG	ORG-United-States-Senate
+ядерной сделке и Ираном	ядерная сделка с Ираном	PRO	PRO-Joint-Comprehensive-Plan-of-Action

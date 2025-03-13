@@ -1,0 +1,82 @@
+uk-20307
+ABC	ABC	PRO	PRO-ABC-News
+Amazon Prime Video	Amazon Prime Video	PRO	PRO-Amazon-AWS
+CBS	CBS	PRO	PRO-CBS-TV
+CNN	CNN	ORG	ORG-CNN
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Celebrating America	Celebrating America	PRO	PRO-Celebrating-America-Program
+Fox	Fox	PRO	PRO-Fox-News
+MSNBC	MSNBC	PRO	PRO-MSNBC-TV
+NBC	NBC	PRO	PRO-National-Broadcasting-Company
+NewsNOW	NewsNOW	PRO	PRO-NewsNOW
+Twitch	Twitch	PRO	PRO-Twitch
+YouTube	YouTube	PRO	PRO-YouTube
+Інавгурація	Інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+Америки	Америка	LOC	GPE-USA
+Америки	Америка	PER	GPE-USA
+Байдена	Байден	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Барака Обами	Барак Обама	PER	PER-Barack-Obama
+Бейонсе	Бейонсе	PER	PER-Beyoncé
+Боба Марлі	Боб Марлі	PER	PER-Bob-Marley
+Біблії	Біблія	PRO	PRO-The-Bible
+Білий дім	Білий дім	ORG	ORG-White-House
+Білл Клінтон	Білл Клінтон	PER	PER-Bill-Clinton
+Білого дому	Білий дім	ORG	ORG-White-House
+Білому домі	Білий дім	ORG	ORG-White-House
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+Вермонт	Вермонт	LOC	GPE-Vermont
+Верховного суду США	Верховний суд США	ORG	ORG-Supreme-Court-of-the-United-States
+Верховного суду	Верховний суд	ORG	ORG-Supreme-Court-of-the-United-States
+Володимир Єльченко	Володимир Єльченко	PER	PER-Volodymyr-Yelchenko
+Воррена Гардінга	Воррен Гардінг	PER	PER-Warren-Harding
+Вільяма Генрі Гаррісона	Вільям Генрі Гаррісон	PER	PER-William-Harrison
+Дженіфер Лопес	Дженіфер Лопес	PER	PER-Jennifer-Lopez
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+Джордж Вашингтон	Джордж Вашингтон	PER	PER-George-Washington
+Джорж Буш	Джорж Буш	PER	PER-George-Bush-Jr
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Дуа Ліпи	Дуа Ліпа	PER	PER-Dua-Lipa
+Ендрю Джексон	Ендрю Джексон	PER	PER-Andrew-Jackson
+Камала Гарріс	Камала Гарріс	PER	PER-Kamala-Harris
+Капітолій	Капітолій	LOC	LOC-United-States-Capitol
+Капітолійського пагорба	Капітолійський пагорб	LOC	LOC-Capitol-Hill
+Капітолія	Капітолій	LOC	LOC-United-States-Capitol
+Капітолії	Капітолій	LOC	LOC-United-States-Capitol
+Келвіна Куліджа	Келвін Кулідж	PER	PER-Calvin-Coolidge
+Києвом	Київ	LOC	GPE-Kyiv
+Конгрес	Конгрес	ORG	ORG-United-States-Congress
+Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+Конгресу	Конгрес	ORG	ORG-United-States-Congress
+Конституцію	Конституція	PRO	PRO-The-USA-Constitution
+Леді Гага	Леді Гага	PER	PER-Lady-Gaga
+Леді Гагою	Леді Гага	PER	PER-Lady-Gaga
+Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+Нацгвардію	Нацгвардія	ORG	ORG-United-States-National-Guard
+Нацгвардії	Нацгвардія	ORG	ORG-United-States-National-Guard
+Нью-Йорку	Нью-Йорк	LOC	GPE-New-York
+Обама	Обама	PER	PER-Barack-Obama
+США	США	LOC	GPE-USA
+Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+ТСН.ua	ТСН.ua	PRO	PRO-TSN.ua
+Тома Генкса	Том Генкс	PER	PER-Tom-Hanks
+Томас Джефферсон	Томас Джефферсон	PER	PER-Thomas-Jefferson
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Україну	Україна	LOC	GPE-Ukraine
+Україні	Україна	LOC	GPE-Ukraine
+Філадельфії	Філадельфія	LOC	GPE-Philadelphia
+виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+коронавірус	коронавірус	EVT	EVT-Covid-19
+коронавірусом	коронавірус	EVT	EVT-Covid-19
+пандемію	пандемія	EVT	EVT-Covid-19
+пандемія	пандемія	EVT	EVT-Covid-19
+інавгураційна церемонія	інавгураційна церемонія	EVT	EVT-2020-United-States-presidential-inauguration
+інавгураційний комітет	інавгураційний комітет	ORG	ORG-Joint-Congressional-Committee-on-Inaugural-Ceremonies
+інавгурацію	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+інавгурація	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+інавгураціях	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration

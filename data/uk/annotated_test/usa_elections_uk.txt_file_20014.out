@@ -1,0 +1,24 @@
+uk-20014
+BBC	BBC	ORG	ORG-BBC-Ltd
+Алабама	Алабама	LOC	GPE-USA-Alabama
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Верховного суду	Верховний суд	ORG	ORG-Supreme-Court-of-the-United-States
+Гіларі Клінтон	Гіларі Клінтон	PER	PER-Hillary-Clinton
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джордж Буш	Джордж Буш	PER	PER-George-Bush-Jr
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Каліфорнія	Каліфорнія	LOC	GPE-California
+Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+Республіканської партії	Республіканська партія	ORG	ORG-Republican-Party-USA
+США	США	LOC	GPE-USA
+Сполучених Штатах	Сполучених Штатах	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Україні	Україна	LOC	GPE-Ukraine
+виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+вибори у США	вибори у США	EVT	EVT-2020-United-States-Presidential-Election
+вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+твіттері	твіттер	PRO	PRO-Twitter

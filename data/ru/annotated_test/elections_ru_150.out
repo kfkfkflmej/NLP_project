@@ -1,0 +1,106 @@
+ru-150
+CNN	CNN	PRO	PRO-CNN
+EPA	EPA	ORG	ORG-EPA-European-Pressphoto-Agency
+Michael Reynolds	Michael Reynolds	PER	PER-Jeremy-Reynolds
+XXIII республиканский конкурс красоты «Мисс Татарстан – 2021»	XXIII республиканский конкурс красоты «Мисс Татарстан – 2021»	EVT	EVT-Miss-Tatarstan-2021
+«Анна Каренина»	«Анна Каренина»	PRO	PRO-Anna-Karenina-film-1967
+«Бессмертный полк России»	«Бессмертный полк России»	ORG	ORG-The-Immortal-Regiment
+«Борьки-пьяницы»	"Борька-пьяница"	PER	PER-Boris-Jelcin
+«Война и мир»	«Война и мир»	PRO	PRO-War-and-Peace-film-series
+«Дни Турбиных»	«Дни Турбиных»	PRO	PRO-The-Days-of-the-Turbins-film
+«Культура»	«Культура»	PRO	PRO-Kultura-national-project
+«Культурная среда»	«Культурная среда»	PRO	PRO-Kulturnaya-sreda-federal-project
+«Мисс Россия»	«Мисс Россия»	EVT	EVT-Miss-Russia
+«Полосатый рейс»	«Полосатый рейс»	PRO	PRO-Stripped-Trip
+Альберт Гор	Альберт Гор	PER	PER-Al-Gore
+Америке	Америка	LOC	GPE-USA
+Андрей Манойло	Андрей Манойло	PER	PER-Andrey-Manoilo
+Андрей Самохин	Андрей Самохин	PER	PER-Andrey-Samokhin
+Байдена	Байден	PER	PER-Joe-Biden
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Богучаны	Богучаны	LOC	GPE-Boguchany
+Борис Николаевич	Борис Николаевич	PER	PER-Boris-Jelcin
+Буш	Буш	PER	PER-George-Bush-Jr
+ВЗГЛЯД	ВЗГЛЯД	PRO	PRO-Vzglyad
+ВЦИОМ	ВЦИОМ	ORG	ORG-Russian-Public-Opinion-Research-Center
+Василия Ланового	Василий Лановой	PER	PER-Vasily-Lanovoy
+Вермонте	Вермонт	LOC	GPE-Vermont
+Виргинии	Виргиния	LOC	GPE-Virginia
+Всероссийского центра изучения общественного мнения	Всероссийский центр изучения общественного мнения	ORG	ORG-Russian-Public-Opinion-Research-Center
+Глеб Кузнецов	Глеб Кузнецов	PER	PER-Gleb-Kuznetsov
+Григорьев	Григорьев	PER	PER-Maksim-Grigoriev
+Григорьев	Григорьева	PER	PER-Maksim-Grigoriev
+Дагестана	Дагестан	LOC	GPE-Republic-of-Dagestan
+Джо Байденом	Джо Байден	PER	PER-Joe-Biden
+Джорджа Буша-младшего	Джордж Буш-младший	PER	PER-George-Bush-Jr
+Дина Юнусова	Дина Юнусова	PER	PER-Dina-Yunusova
+Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+Ельцина	Ельцин	PER	PER-Boris-Jelcin
+Зарема Бутаева	Зарем Бутаев	PER	PER-Zarem-Butaev
+Зои Космодемьянской	Зоя Космодемьянская	PER	PER-Zoya-Kosmodemyanskaya
+Игорь Борисов	Игорь Борисов	PER	PER-Igor-Borisov
+Казани	Казань	LOC	GPE-Kazan
+Кампания-2020	Кампания-2020	EVT	EVT-2020-Presidential-Election-Campaign-USA
+Колумбия	Колумбия	LOC	GPE-Colombia
+Коронавирусные	Коронавирусные	EVT	EVT-Covid-19
+Красноярском крае	Красноярский край	LOC	GPE-Krasnoyarsk-Krai
+Лановой	Лановой	PER	PER-Vasily-Lanovoy
+МГУ	МГУ	ORG	ORG-Moscow-State-University
+Максим Григорьев	Максим Григорьев	PER	PER-Maksim-Grigoriev
+Мамонов	Мамонов	PER	PER-Mikhail-Mamonov
+Манойло	Манойло	PER	PER-Andrey-Manoilo
+Марка Рютте	Марк Рютте	PER	PER-Mark-Rutte
+Ми-8АМТ	Ми-8АМТ	PRO	PRO-MI-8AMT
+Минкультуры Якутии	Минкультуры Якутии	ORG	ORG-Ministry-of-Culture-Yakutia
+Михаил Мамонов	Миахил Мамонов	PER	PER-Mikhail-Mamonov
+Михаил Мошкин	Михаил Мошкин	PER	PER-Mikhail-Moshkin
+Нидерландах	Нидерланды	LOC	GPE-Holland
+Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+ОП	ОП	ORG	ORG-Civic-Chamber-of-the-Russian-Federation
+Отцы-основатели Соединенных Штатов	Отцы-основатели Соединенных Штатов	ORG	ORG-The-Founding-Fathers
+Польша	Польша	LOC	GPE-Poland
+России	Россия	LOC	GPE-Russia
+Российского общественного института избирательного права	Российское общественный институт избирательного права	ORG	ORG-Russian-Public-Institute-of-Electoral-Law
+Россия	Россия	LOC	GPE-Russia
+Россияне	Россияне	PER	GPE-Russia
+Рютте	Рютте	PER	PER-Mark-Rutte
+СССР	СССР	LOC	GPE-USSR
+США	США	LOC	GPE-USA
+Сергей Зверев	Сергей Зверев	PER	PER-Sergey-Zverev
+Совета по правам человека	Совет по правам человека	ORG	ORG-Human-Rights-Council-Russia
+ТАСС	ТАСС	ORG	ORG-TASS-Agency
+Техасе	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Турция	Турция	LOC	GPE-Turkey
+ФБР	ФБР	ORG	ORG-FBI
+Федерального агентства по печати и массовым коммуникациям	Федеральное агентство по печати и массовым коммуникациям	ORG	ORG-Federal-Agency-for-Press-and-Mass-Communications-Russia
+Фирдус Алиев	Фирдус Алиев	PER	PER-Firdus-Aliyev
+Флорида	Флорида	LOC	GPE-Florida
+Фонда исследования проблем демократии	Фонд исследования проблем демократии	ORG	ORG-Democracy-Research-Foundation
+ЭИСИ	ЭИСИ	ORG	ORG-Expert-Institute-for-Social-Research-Russia
+Экспертным институтом социальных исследований	Экспертный институт социальных исследований	ORG	ORG-Expert-Institute-for-Social-Research-Russia
+Якутии	Якутия	LOC	GPE-Yakutia
+американская	американский	LOC	GPE-USA
+американских	американский	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американской	американский	LOC	GPE-USA
+американскому	американский	LOC	GPE-USA
+американцев	американцы	PER	GPE-USA
+американцы	американцы	PER	GPE-USA
+выборах в США 2012 года	Выборы в США 2012 года	EVT	EVT-2012-United-States-Presidential-Election
+выборы 2000 года	Выборы 2000 года	EVT	EVT-2000-United-States-Presidential-Election
+голосованию 3 ноября	Голосование 3 ноября	EVT	EVT-2020-United-States-Presidential-Election
+демократа	демократ	ORG	ORG-Democratic-Party-USA
+демократическим	демократический	ORG	ORG-Democratic-Party-USA
+демократическую	демократический	ORG	ORG-Democratic-Party-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+коллегии выборщиков	Коллегии выборщиков	ORG	ORG-United-States-Electoral-College
+коллегии выборщиков	коллегии выборщиков	ORG	ORG-United-States-Electoral-College
+коронавируса	коронавирус	EVT	EVT-Covid-19
+республиканскую	республиканский	ORG	ORG-Republican-Party-USA
+республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+россиян	россияне	PER	GPE-Russia
+россияне	россияне	PER	GPE-Russia

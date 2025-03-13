@@ -1,0 +1,43 @@
+sl-40
+dpa	dpa	ORG	ORG-DPA
+Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+Antonio Guterres	Antonio Guterres	PER	PER-Antonio-Guterres
+Argentina	Argentina	LOC	GPE-Argentina
+Avstralija	Avstralija	LOC	GPE-Australia
+Brazilija	Brazilija	LOC	GPE-Brazil
+Covax	Covax	ORG	ORG-Covax
+Evropska unija	Evropska unija	ORG	ORG-European-Union
+Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+Francija	Francija	LOC	GPE-France
+G20	G20	ORG	ORG-G20
+Gavi	Gavi	ORG	ORG-Gavi
+Giuseppeju Conteju	Giuseppe Conte	PER	PER-Giuseppe-Conte
+Indija	Indija	LOC	GPE-India
+Indonezija	Indonezija	LOC	GPE-Indonesia
+Italija	Italija	LOC	GPE-Italy
+Japonska	Japonsko	LOC	GPE-Japan
+Južna Afrika	Južna Afrika	LOC	GPE-Republic-of-South-Africa
+Južna Koreja	Južna Koreja	LOC	GPE-South-Korea
+Kanada	Kanada	LOC	GPE-Canada
+Kitajska	Kitajska	LOC	GPE-China
+Mehika	Mehika	LOC	GPE-Mexico
+Merklova	Merkel	PER	PER-Angela-Merkel
+Nemčija	Nemčija	LOC	GPE-Germany
+Recep Tayyip Erdogan	Recep Tayyip Erdogan	PER	PER-Recep-Tayyip-Erdoğan
+Rusija	Rusija	LOC	GPE-Russia
+Salman	Salman	PER	PER-Salman-of-Saudi-Arabia
+Salmana	Salman	PER	PER-Salman-of-Saudi-Arabia
+Savdska Arabija	Savdska Arabija	LOC	GPE-Saudi-Arabia
+Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+Turčija	Turčija	LOC	GPE-Turkey
+Ursula von der Leyen	Ursula von der Leyen	PER	PER-Ursula-von-der-Leyen
+Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+Xi Jinping	Xi Jinping	PER	PER-Xi-Jinping
+ZDA	ZDA	LOC	GPE-USA
+ZN	ZN	ORG	ORG-United-Nations
+covid-19	covid-19	EVT	EVT-Covid-19
+covida-19	covid-19	EVT	EVT-Covid-19
+covidu-19	covid-19	EVT	EVT-Covid-19
+dpa	dpa	ORG	ORG-DPA
+novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19

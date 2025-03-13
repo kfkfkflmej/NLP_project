@@ -1,0 +1,27 @@
+ru-94
+BBC News	BBC News	PRO	PRO-BBC-website
+Айове	Айова	LOC	GPE-Iowa
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байденом	Байден	PER	PER-Joe-Biden
+Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+Белом доме	Белый дом	ORG	ORG-The-White-House
+Би-би-си	Би-би-си	PRO	PRO-BBC
+Висконсине	Висконсин	LOC	GPE-Wisconsin
+Выборы в США 2020	Выборы в США 2020	EVT	EVT-2020-United-States-Presidential-Election
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Клинтон	Клинтон	PER	PER-Hillary-Clinton
+Мичигане	Мичиган	LOC	GPE-Michigan
+Огайо	Огайо	LOC	GPE-Ohio
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+США	США	LOC	GPE-USA
+Техасе	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+республиканец	республиканец	PER	ORG-Republican-Party-USA
+республиканцу	республиканец	PER	ORG-Republican-Party-USA

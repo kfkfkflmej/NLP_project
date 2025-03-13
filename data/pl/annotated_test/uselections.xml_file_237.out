@@ -1,0 +1,49 @@
+237
+(Donalda) Trumpa	(Donald) Trump	PER	PER-Donald-Trump
+Alabama	Alabama	LOC	GPE-USA-Alabama
+Alasce	Alaska	LOC	GPE-Alaska
+Amerykanów	Amerykanie	PER	GPE-USA
+Arizonie	Arizona	LOC	GPE-Arizona
+Barack Obama	Barack Obama	PER	PER-Barack-Obama
+Biały Dom	Biały Dom	LOC	LOC-White-House
+Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+Demokraty	Demokrata	PER	ORG-Democratic-Party-USA
+Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Dystrykcie Kolumbii	Dystrykt Kolumbia	LOC	GPE-District-of-Columbia
+Florydzie	Floryda	LOC	GPE-Florida
+Georgii	Georgie	LOC	GPE-Georgia-US-state
+Głębokiego Południa	Głębokie Południe	LOC	LOC-Deep-South
+Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+Illinois	Illinois	LOC	GPE-Illionis
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Joego Bidena	Joe Biden	PER	PER-Joe-Biden
+Kalifornia	Kalifornia	LOC	GPE-California
+Karolina Południowa	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+Luizjana	Luizjana	LOC	GPE-Louisiana
+Michigan	Michigan	LOC	GPE-Michigan
+Mississippi	Mississippi	LOC	GPE-Mississippi
+NYT	NYT	PRO	PRO-The-New-York-Times
+Nebrasce	Nebraska	LOC	GPE-Nebraska
+Nevadzie	Nevada	LOC	GPE-Nevada
+New York Times	New York Times	PRO	PRO-The-New-York-Times
+Nowym Jorku	Nowy Jork	LOC	GPE-New-York
+Obamy	Obama	PER	PER-Barack-Obama
+Ohio	Ohio	LOC	GPE-Ohio
+Oregon	Oregon	LOC	GPE-Oregon
+Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+Teksasie	Teksas	LOC	GPE-Texas
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+USA	USA	LOC	GPE-USA
+Waszyngton	Waszyngton	LOC	GPE-WashingtonDC
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+koronawirusa	koronawirus	EVT	EVT-Covid-19
+wyborach prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+zachodnim wybrzeżu	zachodnie wybrzeże	LOC	GPE-West-Bank

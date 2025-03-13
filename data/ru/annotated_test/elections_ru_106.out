@@ -1,0 +1,83 @@
+ru-106
+Института США и Канады РАН	Институт США и Канады РАН	ORG	ORG-Institute-for-US-and-Canadian-Studies-RAS
+BLM	BLM	ORG	ORG-Black-Lives-Matter
+Crossfire Hurricane	Crossfire Hurricane	EVT	EVT-Crossfire-Hurricane
+Mi6	Mi6	ORG	ORG-MI6
+Newsmax	Newsmax	PRO	PRO-Newsmax
+Washington Post	Washington Post	PRO	PRO-Washington-Post
+«антифа»	антифа	ORG	ORG-Antifa-USA
+«досье Стила»	«досье Стила»	PRO	PRO-Steele-dossier
+Александрия Окасио-Кортес	Александрия Окасио-Кортес	PER	PER-Alexandria-Ocasio-Cortez
+Америка	Америка	LOC	GPE-USA
+Байден	Байден	PER	PER-Joe-Biden
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байдене	Джо Байден	PER	PER-Joe-Biden
+Байденом	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Берни Сандерс	Берни Сандерс	PER	PER-Bernie-Sanders
+Билла Клинтона	Бил Клинтон	PER	PER-Bill-Clinton
+Бонни Дженкинс	Бонни Дженкинс	PER	PER-Bonnie-Jenkins
+Брайана Маккеона	Брайан Маккеон	PER	PER-Brian-McKeon
+Васильев	Владимир Васильев	PER	PER-Vladimir-Vasilyev
+Венди Шерман	Венди Шерман	PER	PER-Wendy-Sherman
+Викторию Нуланд	Виктория Нуланд	PER	PER-Victoria-Nuland
+Владимира Васильева	Владимир Васильев	PER	PER-Vladimir-Vasilyev
+Госдепе	Госдеп	ORG	ORG-Department-of-State-USA
+Грин	Грин	PER	PER-Marjorie-Taylor-Greene
+Грэм	Линдси Грэм	PER	PER-Lindsey-Graham
+Грэма	Грэм	PER	PER-Lindsey-Graham
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+Евразии	Евразия	LOC	LOC-Eurasia
+Европы	Европа	LOC	LOC-Europe
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Кристофером Стилом	Кристофер Стил	PER	PER-Christopher-Steele
+Линдси Грэм	Линдси Грэм	PER	PER-Lindsey-Graham
+Марджори Тейлор Грин	Марджори Тейлор Грин	PER	PER-Marjorie-Taylor-Greene
+Минюста	Минюст	ORG	ORG-Ministry-of-Justice-Russia
+Москва	Москва	LOC	GPE-Moscow
+Нуланд	Нуланд	PER	PER-Victoria-Nuland
+Нэнси Пелоси	Нэнси Пелоси	PER	PER-Nancy-Pelosi
+Обаме	Барак Обама	PER	PER-Barack-Obama
+Обамы	Барак Обама	PER	PER-Barack-Obama
+Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+РФ	РФ	LOC	GPE-Russia
+Республиканка	республиканка	PER	ORG-Republican-Party-USA
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Республиканцы	Республиканцы	ORG	ORG-Republican-Party-USA
+Республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+России	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Сандерс	Сандерс	PER	PER-Bernie-Sanders
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Сенате	Сенат	ORG	ORG-United-States-Senate
+Стила	Стил	PER	PER-Christopher-Steele
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампом	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+ФБР	ФБР	ORG	ORG-FBI
+Хантера Байдена	Хантер Байден	PER	PER-Hunter-Biden
+американских	американский	LOC	GPE-USA
+американцам	американцы	LOC	GPE-USA
+британских	британские	LOC	GPE-Great-Britain
+бюджетным комитетом Сената	бюджетный комитет Сената	ORG	ORG-Unites-States-Committee-on-the-Budget
+выборы 2016	выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+демократов	демократ	PER	ORG-Democratic-Party-USA
+демократы	демократ	ORG	ORG-Democratic-Party-USA
+демократы	демократ	PER	ORG-Democratic-Party-USA
+китайских	китайский	LOC	GPE-China
+республиканец	республиканец	PER	ORG-Republican-Party-USA
+республиканцами	республиканцы	PER	ORG-Republican-Party-USA
+республиканцев	республиканец	PER	ORG-Republican-Party-USA
+республиканцы	республиканец	PER	ORG-Republican-Party-USA
+украинских	украинский	LOC	GPE-Ukraine
+штурма Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol

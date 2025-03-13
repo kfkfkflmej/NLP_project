@@ -1,0 +1,23 @@
+sl-138
+Boštjan Koritnik	Boštjan Koritnik	PER	PER-Boštjan-Koritnik
+COVID-19	COVID-19	EVT	EVT-Covid-19
+DSO Hrastnik	DSO Hrastnik	LOC	ORG-DSO-Hrastnik
+GPS	GPS	PRO	PRO-GPS
+Hrastnik	Hrastnik	LOC	GPE-Hrastnik
+Kočevje	Kočevje	LOC	GPE-Kočevje
+Lukovica	Lukovica	LOC	GPE-Lukovica
+NIJZ	NIJZ	ORG	ORG-Slovenian-National-Institute-of-Public-Health
+Nacionalnega inštituta za javno zdravje	Nacionalni inštitut za javno zdravje	ORG	ORG-Slovenian-National-Institute-of-Public-Health
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Sloveniji	Slovenija	LOC	GPE-Slovenia
+Trbovlje	Trbovlje	LOC	GPE-Trbovlje
+Vlada RS	Vlada RS	ORG	ORG-Government-of-Slovenia
+Vlada republike Slovenije	Vlada republike Slovenije	ORG	ORG-Government-of-Slovenia
+Vlade RS	Vlada RS	ORG	ORG-Government-of-Slovenia
+Zagorje ob Savi	Zagorje ob Savi	LOC	GPE-Zagorje-ob-Savi
+Zakon o nalezljivih boleznih	Zakon o nalezljivih boleznih	PRO	PRO-Infectious-Diseases-Act-Slovenia
+koronavirus	koronavirus	EVT	EVT-Covid-19
+koronavirusom	koronavirus	EVT	EVT-Covid-19
+novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+Šmartno pri Litiji	Šmartno pri Litiji	LOC	GPE-Šmartno-pri-Litiji

@@ -1,0 +1,15 @@
+ru-13
+BioNTech	BioNTech	ORG	ORG-BioNTech
+FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Вестей	Вести	PRO	PRO-Vesti
+Вести	Вести	PRO	PRO-Vesti
+Израиле	Израиль	LOC	GPE-Israel
+Итая Галя	Итай Галь	PER	PER-Itai-Gal
+Федеральное управление США по надзору за продуктами питания и медикаментами	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+германской	германский	PER	GPE-Germany
+израильскому	израильский	PER	GPE-Israel
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+минздрава	Минздрав	ORG	ORG-Ministry-of-Health-Israel

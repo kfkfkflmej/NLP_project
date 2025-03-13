@@ -1,0 +1,33 @@
+uk-20038
+Америки	Америка	LOC	GPE-USA
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Білий дім	Білий дім	ORG	ORG-White-House
+Верховний суд	Верховний суд	ORG	ORG-Supreme-Court-of-the-United-States
+Верховним судом	Верховний суд	ORG	ORG-Supreme-Court-of-the-United-States
+Верховного суду	Верховний суд	ORG	ORG-Supreme-Court-of-the-United-States
+Вісконсин	Вісконсин	LOC	GPE-Wisconsin
+Вісконсині	Вісконсин	LOC	GPE-Wisconsin
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+Конгрес	Конгрес	ORG	ORG-United-States-Congress
+Майкл Флінн	Майкл Флінн	PER	PER-Michael-Flynn
+Мічиган	Мічиган	LOC	GPE-Michigan
+Мічигані	Мічиган	LOC	GPE-Michigan
+Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
+США	США	LOC	GPE-USA
+ТСН	ТСН	PRO	PRO-TSN.ua
+Твіттері	Твіттер	PRO	PRO-Twitter
+Техас	Техас	LOC	GPE-Texas
+Техасу	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампом	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+ФБР	ФБР	ORG	ORG-FBI
+виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+президентських виборів у США	президентські вибори у США	EVT	EVT-2020-United-States-Presidential-Election
+президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election

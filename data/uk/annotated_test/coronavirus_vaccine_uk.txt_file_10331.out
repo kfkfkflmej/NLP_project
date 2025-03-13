@@ -1,0 +1,32 @@
+uk-10331
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Hadassah	Hadassah	ORG	ORG-Hadassah-Hospital
+Pfizer	Pfizer	ORG	ORG-Pfizer
+YNet	YNet	PRO	PRO-YNet
+Ізраїль	Ізраїль	LOC	GPE-Israel
+Ізраїлю	Ізраїль	LOC	GPE-Israel
+Бродський	Бродський	PER	PER-Mykhailo-Brodskyi
+Бродського	Бродський	PER	PER-Mykhailo-Brodskyi
+Голдамана	Голдаман	PER	PER-Roman-Goldman
+Голдман	Голдман	PER	PER-Roman-Goldman
+Голдману	Голдман	PER	PER-Roman-Goldman
+Денис Шмигаль	Денис Шмигаль	PER	PER-Denys-Shmyhal
+Держави Ізраїль	Держава Ізраїль	LOC	GPE-Israel
+Залу офіційних делегацій	Зал офіційних делегацій	LOC	LOC-Official-Delegations-Hall
+Йоель Едельштейн	Йоель Едельштейн	PER	PER-Yuli-Edelstein
+МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+Москві	Москва	LOC	GPE-Moscow
+Новим роком	Новий рік	EVT	EVT-New-Year
+ОЕСР	ОЕСР	ORG	ORG-Organization-for-Economic-Co-operation-and-Development(OECD)
+Палестини	Палестина	LOC	GPE-Palestine
+РБК	РБК	PRO	PRO-RBK
+Роман Голдман	Роман Голдман	PER	PER-Roman-Goldman
+Росздравнадзорі	Росздравнадзор	ORG	ORG-Russian-Federal-Service-for-Surveillance-in-Healthcare
+Російська служба з нагляду за охороною здоров'я	Російська служба з нагляду за охороною здоров'я	ORG	ORG-Russian-Federal-Service-for-Surveillance-in-Healthcare
+Росію	Росія	LOC	GPE-Russia
+Росії	Росія	LOC	GPE-Russia
+Сколково	Сколково	ORG	ORG-Skolkovo
+України	Україна	LOC	GPE-Ukraine
+Україну	Україна	LOC	GPE-Ukraine
+Україні	Україна	LOC	GPE-Ukraine
+коронавірусу	коронавірус	EVT	EVT-Covid-19

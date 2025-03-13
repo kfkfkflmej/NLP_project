@@ -1,0 +1,17 @@
+21
+Biden	Biden	PER	PER-Joe-Biden
+Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+Demokratę	Demokrata	PER	ORG-Democratic-Party-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Michigan	Michigan	LOC	GPE-Michigan
+Ohio	Ohio	LOC	GPE-Ohio
+Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+Republikanin	Republikanin	PER	ORG-Republican-Party-USA
+Republikanina	Republikanin	PER	ORG-Republican-Party-USA
+Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+Wielkimi Jeziorami	Wielkie Jeziora	LOC	LOC-Great-Lakes
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+wyborach prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+Środkowego Zachodu	Środkowy Zachód	LOC	LOC-Midwestern-United-States

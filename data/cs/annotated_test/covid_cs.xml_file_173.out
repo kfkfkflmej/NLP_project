@@ -1,0 +1,13 @@
+173
+Ameriky	Amerika	LOC	LOC-America
+Asie	Asie	LOC	LOC-Asia
+Evropy	Evropa	LOC	LOC-Europe
+Jozef Čupka	Jozef Čupka	PER	PER-Jozef-Čupka
+covid-19	covid-19	EVT	EVT-Covid-19
+covidem-19	covid-19	EVT	EVT-Covid-19
+koronavirem	koronavirus	EVT	EVT-Covid-19
+koronavirus	koronavirus	EVT	EVT-Covid-19
+Čech	Čech	PER	GPE-Czech-Republic
+Česku	Česko	LOC	GPE-Czech-Republic
+Českého statistického úřadu	Český statistický úřad	ORG	ORG-Czech-Statistical-Agency
+Čupky	Čupka	PER	PER-Jozef-Čupka

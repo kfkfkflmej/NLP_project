@@ -1,0 +1,87 @@
+ru-99
+Atlantic council of the United States	Atlantic council of the United States	ORG	ORG-Atlantic-Council
+Axios	Axios	PRO	PRO-Axios
+Medium	Medium	PRO	PRO-Medium-online-platform
+RT	RT	PRO	PRO-RT-Russia-Today
+rt.com	rt.com	PRO	PRO-rt.com
+«Атлантический совет»	«Атлантический совет»	ORG	ORG-Atlantic-Council
+«Атлантического совета»	«Атлантический совет»	ORG	ORG-Atlantic-Council
+Александра Асафова	Александр Асафов	PER	PER-Alexandr-Asafov
+Американским	американский	LOC	GPE-USA
+Асафов	Асафов	PER	PER-Alexander-Asafov
+Асафова	Асафов	PER	PER-Alexander-Asafov
+Байдена	Байден	PER	PER-Joe-Biden
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Боровая улица	Боровая улица	LOC	LOC-Borovaya-Street
+Брутер	Брутер	PER	PER-Vladimir-Bruter
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Владимир Брутер	Владимир Брутер	PER	PER-Vladimir-Bruter
+Вулф	Вулф	PER	PER-Chad-Wolf
+Вульф	Вульф	PER	PER-Chad-Wolf
+Генеральной прокуратуры	Генеральная прокуратура	ORG	ORG-GRU-(Russian-GU)
+Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+Клинтон	Клинтон	PER	PER-Hillary-Clinton
+Кремль	Кремль	ORG	ORG-Kremlin	
+Кремля	Кремль	ORG	ORG-Kremlin	
+Кремлём	Кремль	ORG	ORG-Kremlin	
+Крис Ван Холлен	Крис Ван Холлен	PER	PER-Christopher-Van-Hollen
+Лас-Крусес	Лас-Крусес	LOC	GPE-Las-Cruces
+Марко Рубио	Марко Рубио	PER	PER-Marco-Rubio
+Международного института гуманитарно-политических исследований	Международный институт гуманитарно-политических исследований	ORG	ORG-International-Institute-for-humanities-an
+Министерства внутренней безопасности (МВБ) США	Министерство внутренней безопасности (МВБ) США	ORG	ORG-US-Department-of-Homeland-Security
+Министерства внутренней безопасности США	Министерство внутренней безопасности США	ORG	ORG-US-Department-of-Homeland-Security
+Министерство внутренней безопасности	Министерство внутренней безопасности	ORG	ORG-US-Department-of-Homeland-Security
+Министерство юстиции	Министерство юстиции	ORG	ORG-US-Department-of-Justice
+Минобороны США	Минобороны США	ORG	ORG-United-States-Department-of-Defense
+Москва	Москва	LOC	GPE-Moscow
+Москве	Москва	LOC	GPE-Moscow
+Москву	Москва	LOC	GPE-Moscow
+Москвы	Москва	LOC	GPE-Moscow
+Национального центра контрразведки и безопасности США	Национальный центр контрразведки и безопасности США	ORG	ORG-National-Security-Agency-NSA-USA
+О'Брайена	О'Брайен	PER	PER-Robert-O'Brien
+Путина	Путин	PER	PER-Vladimir-Putin
+РФ	РФ	LOC	GPE-Russia
+Республиканской партий	Республиканская партия	ORG	ORG-Republican-Party-USA
+Роберт О'Брайен	Роберт О'Брайен	PER	PER-Robert-O'Brien
+Роскомнадзором	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+России	Россия	LOC	GPE-Russia
+России	Россия	PER	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+СBS	СBS	PRO	ORG-CBS
+США	США	LOC	GPE-USA
+Симоньян М. С.	Симоньян М. С.	PER	PER-Margarita-Simonyan
+Соединённых Штатах	Соединённые Штаты	LOC	GPE-USA
+Соединённых Штатов	Соединённые Штаты	LOC	GPE-USA
+Трампа	Трам	PER	PER-Donald-Trump
+Уильям Эванина	Уильям Эванина	PER	PER-William-Evanina
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+Чед Вулф	Чед Вулф	PER	PER-Chad-Wolf
+Чед Вульф	Чед Вульф	PER	PER-Chad-Wolf
+Штаты	Штаты	LOC	GPE-USA
+Эванины	Эванина	PER	PER-William-Evanina
+американские выборы 2016 года	американские выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+американские	американские	LOC	GPE-USA
+американский	американский	LOC	GPE-USA
+американскими	американский	LOC	GPE-USA
+американской	американская	LOC	GPE-USA
+американцы	американцы	LOC	GPE-USA
+выборы 2020 года	выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+демократ	демократ	PER	ORG-Democratic-Party-USA
+демократов	демократ	PER	ORG-Democratic-Party-USA
+демократы	демократ	PER	ORG-Democratic-Party-USA
+республиканец	республиканец	PER	ORG-Republican-Party-USA
+республиканцев	республиканец	PER	ORG-Republican-Party-USA
+республиканцы	республиканец	PER	ORG-Republican-Party-USA
+российская	российская	LOC	GPE-Russia
+российские	российские	LOC	GPE-Russia
+российские	российский	LOC	GPE-Russia
+российского	российский	LOC	GPE-Russia

@@ -1,0 +1,12 @@
+uk-20236
+CNN	CNN	ORG	ORG-CNN
+Telegram	Telegram	PRO	PRO-Telegram
+Голос Америки	Голос Америки	ORG	ORG-Voice-of-America
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Президентські вибори в США	Президентські вибори в США	EVT	EVT-2020-United-States-Presidential-Election
+США	США	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+УНІАН	УНІАН	ORG	ORG-UNIAN
+України	Україна	LOC	GPE-Ukraine

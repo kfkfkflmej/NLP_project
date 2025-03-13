@@ -1,0 +1,13 @@
+79
+AZD1222	AZD1222	PRO	PRO-AZD1222-vaccine
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+Británie	Británie	LOC	GPE-Great-Britain
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Lancet	Lancet	PRO	PRO-The-Lancet
+Německa	Německo	LOC	GPE-Germany
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Praha	Praha	LOC	GPE-Prague
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+covidu	covid	EVT	EVT-Covid-19
+koronaviru	koronavirus	EVT	EVT-Covid-19
+univerzity v Oxfordu	univerzita v Oxfordu	ORG	ORG-University-of-Oxford

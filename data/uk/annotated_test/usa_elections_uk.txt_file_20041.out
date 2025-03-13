@@ -1,0 +1,15 @@
+uk-20041
+Facebook	Facebook	PRO	PRO-Facebook
+Twitter	Twitter	PRO	PRO-Twitter
+Байден	Байден	PER	PER-Joe-Biden
+Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+Конгресу	Конгрес	ORG	ORG-United-States-Congress
+Палата представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Сенаті	Сенат	ORG	ORG-United-States-Senate
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election

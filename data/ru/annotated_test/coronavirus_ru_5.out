@@ -1,0 +1,20 @@
+ru-5
+"Кремлевский доктор"	Кремлевский доктор	PER	PER-Alexander-Myasnikov
+COVID	COVID	EVT	EVT-Covid-19
+News.ru	News.ru	PRO	ORG-Newsru.com
+YouTube	YouTube	PRO	PRO-YouTube
+telegram	Telegram	PRO	PRO-Telegram
+«Кремлевский доктор»	Кремлевский доктор	PER	PER-Alexander-Myasnikov
+«кремлевским доктором»	Кремлевский доктор	PER	PER-Alexander-Myasnikov
+Александр Мясников	Александр Мясников	PER	PER-Alexander-Myasnikov
+Коронавирус	коронавирус	EVT	EVT-Covid-19
+Кремлевский доктор	Кремлевский доктор	PER	PER-Alexander-Myasnikov
+Мясников	Мясников	PER	PER-Alexander-Myasnikov
+Мясникова	Мясников	PER	PER-Alexander-Myasnikov
+РФ	РФ	LOC	GPE-Russia
+СМИ	СМИ	PRO	PRO-Mass-Media
+информационного центра мониторинга ситуации с коронавирусом	Информационный центр мониторинга ситуации с коронавирусом	ORG	ORG-Coronavirus-Information-Centre-Russia
+ковид	ковид	EVT	EVT-Covid-19
+ковида	ковид	EVT	EVT-Covid-19
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19

@@ -1,0 +1,87 @@
+ru-44
+"Гам-Ковид-Вак"	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+"Санофи Пастер"	Санофи Пастер	ORG	ORG-Sanofi-Pasteur
+"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
+"ЭпиВакКорона"	"ЭпиВакКорона"	PRO	PRO-EpiVacCorona
+"ЭпиВакКороны"	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+"спутник v"	Спутник V	PRO	PRO-Sputnik-V
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BioNTech	BioNTech	ORG	ORG-BioNTech
+CNBC	CNBC	ORG	ORG-CNBC
+CNBC	CNBC	PRO	PRO-CNBC
+COVID-19	COVID-19	EVT	EVT-Covid-19
+CanSino Biological	CanSino Biological	ORG	ORG-Cansino-Biologics
+CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+Johnson & Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+Johnson &amp; Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+MERS	MERS	EVT	EVT-MERS-CoV
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+SARS	SARS	EVT	EVT-SARS
+Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+covid-19	covid-19	EVT	EVT-Covid-19
+Айдара Ишмухаметова	Айдар Ишмухаметов	PER	PER-Aidar-Ishmukhametov
+Александр Сергеев	Александр Сергеев	PER	PER-Aleksandr-Sergeev
+Альберта Бурла	Альберт Бурла	PER	PER-Albert-Bourla
+Андрей Васин	Андрей Васин	PER	PER-‪Andrey-Vasin
+Бразилии	Бразилия	LOC	GPE-Brazil
+ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Волчков	Волчков	PER	PER-Pavel-Volchkov
+ГНЦ "Вектор"	ГНЦ "Вектор"	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+Гаврилова А.В.	Гаврилова А.В.	PER	PER-Gavrilova-A.-V.
+Гамалеи	Гамалея	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+Государственным научным центром вирусологии и биотехнологии "Вектор" Роспотребнадзора	Государственный научный центр вирусологии и биотехнологии "Вектор" Роспотребнадзора	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+Евразия	Евразия	LOC	LOC-Eurasia
+Индии	Индия	LOC	GPE-India
+Института биомедицинских систем и биотехнологий	Институт биомедицинских систем и биотехнологий	ORG	ORG-Institute-of-Biomedical-Systems-and-Biotechnology-SPBSTU
+Исследовательского центра имени Н. Ф. Гамалеи	Исследовательский центр имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+Карпова	Карпова	PER	PER-Olga-Karpova
+Кирове	Киров	LOC	GPE-Kirov
+Краснодаре	Краснодар	LOC	GPE-Krasnodar
+МГУ имени Ломоносова	МГУ имени Ломоносова	ORG	ORG-Moscow-State-University
+МИА «Россия сегодня»	МИА «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
+МОСКВА	Москва	LOC	GPE-Moscow
+МФТИ	МФТИ	ORG	ORG-MFTI-Moscow-Institute-of-Physics-and-Technology
+Москве	Москва	LOC	GPE-Moscow
+Научного центра имени М. П. Чумакова	Научный центр имени М. П. Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+Научном центре имени Чумакова	Научный центр имени Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+Новосибирске	Новосибирск	LOC	GPE-Novosibirsk
+Оксана Таланова	Оксана Таланова	PER	PER-Oksana-Talanova
+Оксфордского университета	Оксфордский университет	ORG	ORG-University-of-Oxford
+Ольга Карпова	Ольга Карпова	PER	PER-Olga-Karpova
+Павел Волчков	Павел Волчков	PER	PER-Pavel-Volchkov
+Пекинским институтом биотехнологий	Пекинский институт биотехнологий	ORG	ORG-Beijing-Institute-of-Biotechnology
+РАН	РАН	ORG	ORG-Russian-Academy-of-Sciences
+РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+РФПИ	РФПИ	ORG	ORG-Russian-Direct-Investment-Fund
+России	Россия	LOC	GPE-Russia
+СМИ	СМИ	PRO	PRO-Mass-Media
+СПбПУ	СПбПУ	ORG	ORG-SPBSTU-Saint-Petersburg-State-Polytechnical-University
+США	США	LOC	GPE-USA
+Санкт-Петербурге	Санкт-Петербург	LOC	GPE-Saint-Petersburg
+Санкт-Петербургского политехнического университета Петра Великого	Санкт-Петербургский политехнический университет Петра Великого	ORG	ORG-SPBSTU-Saint-Petersburg-State-Polytechnical-University
+Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+Таланова	Таланова	PER	PER-Oksana-Talanova
+Талановой	Таланова	PER	PER-Oksana-Talanova
+Татьяна Пичугина	Татьяна Пичугина	PER	PER-Tatiana-Pichugina
+Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	ORG	ORG-International-News-Agency-RussiaToday
+Центре имени Гамалеи	Центр имени Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+ЮАР	ЮАР	LOC	GPE-Republic-of-South-Africa
+Японии	Япония	LOC	GPE-Japan
+александр сергеев	Александр Сергеев	PER	Александра Филиппенко
+государственный научный центр вирусологии и биотехнологий "вектор"	Государственный научный центр вирусологии и биотехнологий "Вектор"	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусной инфекции	коронавирус инфекция	EVT	EVT-Covid-19
+коронавирусной	коронавирусной	EVT	EVT-Covid-19
+коронавирусов	коронавирусы	EVT	EVT-Covid-19
+нии им. гамалеи	НИИ им. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+павел волчков	Павел Волчков	PER	PER-Pavel-Volchkov
+постановление правительства № 441	Постановление правительства № 441	PRO	PRO-Decree-441-on-the-Circulation-of-Pharmaceutical-Products-Russia
+ран	РАН	ORG	ORG-Russian-Academy-of-Sciences
+россии	Россия	LOC	GPE-Russia
+санкт-петербургский политехнический университет	Санкт-петербургский политехнический университет	ORG	ORG-SPBSTU-Saint-Petersburg-State-Polytechnical-University
+центра имени Чумакова	центр имени Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia

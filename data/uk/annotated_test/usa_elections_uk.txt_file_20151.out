@@ -1,0 +1,17 @@
+uk-20151
+Reuters	Reuters	ORG	ORG-Reuters
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Капітолій	Капітолій	LOC	LOC-United-States-Capitol
+Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+Конгресу	Конгрес	ORG	ORG-United-States-Congress
+Національної гвардії США	Національна гвардія США	ORG	ORG-US-National-Guard
+Ненсі Пелосі	Ненсі Пелосі	PER	PER-Nancy-Pelosi
+Палата представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+Пелосі	Пелосі	PER	PER-Nancy-Pelosi
+США	США	LOC	GPE-USA
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election

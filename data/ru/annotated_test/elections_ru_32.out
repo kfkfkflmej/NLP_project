@@ -1,0 +1,73 @@
+ru-32
+538	Fivethirtyeight	PRO	PRO-FiveThirtyEight
+CNN Forecast	CNN Forecast	PRO	PRO-CNN-Forecast
+Fivethirtyeight.com	Fivethirtyeight.com	PRO	PRO-FiveThirtyEight
+Fivethirtyeight	Fivethirtyeight	PRO	PRO-FiveThirtyEight
+Fox News	Fox News	PRO	PRO-Fox-News
+MSNBC	MSNBC	PRO	PRO-MSNBC-TV
+NYT	NYT	PRO	PRO-The-New-York-Times
+Politico	Politico	PRO	PRO-Politico
+RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+Vox	Vox	PRO	PRO-Vox
+Американские выборы - 2018	Американские выборы - 2018	EVT	EVT-2018-Congress-Elections-USA
+Америке	Америка	LOC	GPE-USA
+Байден	Байден	PER	PER-Joe-Biden
+Билл Клинтон	Билл Клинтон	PER	PER-Bill-Clinton
+Браун	Браун	PER	PER-Kerry-Brown
+Букера	Букер	PER	PER-Cory-Booker
+Висконсин	Висконсин	LOC	GPE-Wisconsin
+Выборы-2018	Выборы 2018	EVT	EVT-2018-United-States-Election
+Гарсетти	Гарсетти	PER	PER-Eric-Garcetti
+Гиллибренд	Гиллибренд	PER	PER-Kirsten-Gillibrand
+Демократы	демократы	ORG	ORG-Democratic-Party-USA
+Клинтон	Клинтон	PER	PER-Hillary-Clinton
+Клинтона	Клинтон	PER	PER-Hillary-Clinton
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Миннесоту	Миннесота	LOC	GPE-Minnesota
+Мичиган	Мичиган	LOC	GPE-Michigan
+Обаме	Об	PER	PER-Barack-Obama
+Обаме	Обама	PER	PER-Barack-Obama
+Обамой	Обама	PER	PER-Barack-Obama
+Обамы	Обама	PER	PER-Barack-Obama
+Огайо	Огайо	LOC	GPE-Ohio
+О’Рурка	О’Рурка	PER	PER-Beto-O'Rourke
+Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Пенсильванию	Пенсильвания	LOC	GPE-Pennsylvania
+Рузвельт	Рузвельт	PER	PER-Franklin-Roosevelt
+Рузвельта	Рузвельт	PER	PER-Franklin-Roosevelt
+Сook Political Report	Сook Political Report	PRO	PRO-The-Cook-Political-Report
+США	США	LOC	GPE-USA
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Сенате	Сенат	ORG	ORG-United-States-Senate
+Твиттере	Твиттер	PRO	PRO-Twitter
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Уоррен	Уоррен	PER	PER-Elizabeth-Warren
+Флориду	Флорида	LOC	GPE-Florida
+Харри Энтен	Харри Энтен	PER	PER-Harry-Enten
+Харрис	Харрис	PER	PER-Kamala-Harris
+Хиллари	Хиллари	PER	PER-Hillary-Clinton
+американские	американские	LOC	GPE-USA
+американский	американский	LOC	GPE-USA
+американских	американские	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американской	американская	LOC	GPE-USA
+американцев	американцы	PER	GPE-USA
+выборов 2020	Выборы 2020	EVT	EVT-2020-United-States-Presidential-Election
+выборы 2016	выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+демократическая партия	демократическая партия	ORG	ORG-Democratic-Party-USA
+демократической	демократическая	ORG	ORG-Democratic-Party-USA
+демократическому	демократический	ORG	ORG-Democratic-Party-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+демократы	демократ	ORG	ORG-Democratic-Party-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+республиканского	республиканский	ORG	ORG-Republican-Party-USA
+республиканское	республиканский	ORG	ORG-Republican-Party-USA
+республиканцам	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+сенатских выборах-2018	сенатские выборы-2018	EVT	EVT-USA-Senate-elections-2018

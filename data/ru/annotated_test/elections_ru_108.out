@@ -1,0 +1,61 @@
+ru-108
+Bellingcat	Bellingcat	PRO	PRO-Bellingcat
+CNN	CNN	PRO	PRO-CNN
+Fox News	Fox News	PRO	PRO-Fox-News
+Mash	Mash	PRO	PRO-Mash
+NBC	NBC	ORG	ORG-National-Broadcasting-Company
+YouTube	YouTube	PRO	PRO-YouTube
+«Персонально ваш»	Персонально ваш	PRO	PRO-Personally-yours
+«Эха Москвы»	Эхо Москвы	PRO	PRO-Echo-of-Moscow
+Александру Плющеву	Александру Плющеву	PER	PER-Alexandr-Plyushchev
+Алексей Осин	Алексей Осин	PER	PER-Alexey-Osin
+Алексея Навального	Алексея Навального	PER	PER-Alexei-Navalny
+Американские	американские	LOC	GPE-USA
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Геленджике	Геленджике	LOC	GPE-Gelendzhik
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дмитрия Пескова	Дмитрия Пескова	PER	PER-Dmitrij-Pieskow
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Киру Ярмыш	Киру Ярмыш	PER	PER-Kira-Yarmysh
+Мария Певчих	Мария Певчих	PER	PER-Maria Pevchikh
+Михаил Виноградов	Михаил Виноградов	PER	PER-Michail-Vinogravov
+Москве	Москва	LOC	GPE-Moscow
+Навального	Навального	PER	PER-Alexei-Navalny
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+Путин	Путин	PER	PER-Vladimir-Putin
+Путина	Путин	PER	PER-Vladimir-Putin
+России-1	России-1	PRO	PRO-Russia-1-TV
+Россия	Россия	LOC	GPE-Russia
+Ротенберга	Ротенберга	PER	PER-Аrkady-Rottenberg
+США	США	LOC	GPE-USA
+Сергей Пархоменко	Сергей Пархоменко	PER	PER-Sergei-Parkhomenko
+Следственный комитет	Следственный комитет	ORG	ORG-Russia-Investigative-Committee
+СлухайЭхо	СлухайЭхо	PRO	PRO-Echo-of-Moscow
+ТАСС	ТАСС	ORG	ORG-TASS-Agency
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+ФБК	ФБК	ORG	ORG-Anti-Corruption Foundation
+ФБК	ФБК	ORG	ORG-Anti-Corruption-Foundation
+ФСБ	ФСБ	ORG	ORG-FSB
+Щербинский суд	Щербинский суд	ORG	ORG-Shcherbinsky-Court
+Элиот Хиггинс	Элиот Хиггинс	PER	PER-Eliot-Higgins
+Эхо Москвы	Эхо Москвы	PRO	PRO-Echo-of-Moscow
+Юлию Навальную	Юлию Навальную	PER	PER-Yulia-Navalnaya
+Яндекс.Эфир	Яндекс.Эфир	PRO	PRO-Yandex.On Air
+Ярмыш	Ярмыш	PER	PER-Kira-Yarmysh
+американских	американские	LOC	GPE-USA
+американской	американская	LOC	GPE-USA
+американцам	американцы	PER	GPE-USA
+американцев	американцы	PER	GPE-USA
+демократа	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+округе Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia
+правительство России	правительство России	ORG	ORG-The-Government-of-Russia
+российским	российские	LOC	GPE-Russia
+твиттере	твиттере	PRO	PRO-Twitter

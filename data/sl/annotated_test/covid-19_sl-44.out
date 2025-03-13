@@ -1,0 +1,22 @@
+sl-44
+Accenture	Accenture	ORG	ORG-Accenture
+Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+Berlin	Berlin	LOC	GPE-Berlin
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Boeing 747	Boeing 747	PRO	PRO-Boeing-747
+DW	DW	PRO	PRO-Deutsche-Welle
+Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+Inštitut Paula Ehrlicha	Inštitut Paula Ehrlicha	ORG	ORG-Paul-Ehrlich-Institute
+Jensa Spahna	Jens Spahn	PER	PER-Jens-Spahn
+Klaus Cichutek	Klaus Cichutek	PER	PER-Klaus-Cichutek
+Kühne + Nagel	Kühne + Nagel	ORG	ORG-Kuehne+Nagel
+Nemci	Nemci	PER	GPE-Germany
+Nemčije	Nemčija	LOC	GPE-Germany
+Nemčiji	Nemčija	LOC	GPE-Germany
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Trans-o-flex	Trans-o-flex	ORG	ORG-trans-o-flex
+Welt am Sonntag	Welt am Sonntag	PRO	PRO-Welt-am-Sonntag
+Wolfgang Albeck	Wolfgang Albeck	PER	PER-Wolfgang-Albeck
+covidu-19	covid-19	EVT	EVT-Covid-19
+novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19

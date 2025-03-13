@@ -1,0 +1,17 @@
+12
+Anglii	Anglia	LOC	GPE-England
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+Borisa Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+Covid	Covid	EVT	EVT-Covid-19
+Downing Street	Downing Street	LOC	LOC-Downing-Street
+Europie	Europa	LOC	LOC-Europe
+Oxford-AstraZeneca	Oxford-AstraZeneca	ORG	ORG-Oxford-AstraZeneca
+Partia Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Polsce	Polska	LOC	GPE-Poland
+Rząd Wielkiej Brytanii	Rząd Wielkiej Brytanii	ORG	ORG-Government-Great-Britain
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+koronawirusa	koronawirus	EVT	EVT-Covid-19
+wyspach brytyjskich	wyspy brytyjskie	LOC	GPE-Great-Britain

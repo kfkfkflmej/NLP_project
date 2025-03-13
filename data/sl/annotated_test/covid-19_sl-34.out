@@ -1,0 +1,21 @@
+sl-34
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+Bruselj	Bruselj	LOC	GPE-Brussles
+Bruslju	Bruselj	LOC	GPE-Brussles
+CureVac	CureVac	ORG	ORG-CureVac
+EU	EU	ORG	ORG-European-Union
+Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+Francije	Francija	LOC	GPE-France
+GSK	GSK	ORG	ORG-GSK
+Italije	Italija	LOC	GPE-Italy
+Johnson & Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+Moderna	Moderna	ORG	ORG-Moderna
+Nemčije	Nemčija	LOC	GPE-Germany
+Nizozemske	Nizozemska	LOC	GPE-Holland
+Sanofi	Sanofi	ORG	ORG-Sanofi
+Stela Kiriakides	Stela Kiriakides	PER	PER-Stella-Kyriakides
+Ursula von der Leyen	Ursula von der Leyen	PER	PER-Ursula-von-der-Leyen
+covidu-19	covid-19	EVT	EVT-Covid-19
+novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+univerza v Oxfordu	univerza v Oxfordu	ORG	ORG-University-of-Oxford

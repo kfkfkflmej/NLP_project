@@ -1,0 +1,22 @@
+ru-85
+"Вектор"	"Вектор"	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+"ЭпиВакКорона"	"ЭпиВакКорона"	PRO	PRO-EpiVacCorona
+COVID-19	COVID-19	EVT	EVT-Covid-19
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Апшеронский район	Апшеронский район	LOC	LOC-Apsheronsky-District
+Аргентину	Аргентина	LOC	GPE-Argentina
+Венгрию	Венгрия	LOC	GPE-Hungary
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Индию	Индия	LOC	GPE-India
+НИИ имени Гамалеи	НИИ имени Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+РФ	РФ	LOC	GPE-Russia
+Росздравнадзора	Росздравнадзор	ORG	ORG-Russian-Federal-Service-for-Surveillance-in-Healthcare
+Росздравнадзоре	Росздравнадзор	ORG	ORG-Russian-Federal-Service-for-Surveillance-in-Healthcare
+России	Россия	LOC	GPE-Russia
+Сербию	Сербия	LOC	GPE-Serbia
+Спутник V	Спутник V	PRO	PRO-Sputnik-V
+Татьяна Голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+Хрущев	Хрущев	PER	PER-Nikita-Khrushchev
+ЭпиВакКорона	"ЭпиВакКорона"	PRO	PRO-EpiVacCorona
+коронавируса	коронавирус	EVT	EVT-Covid-19
+новосибирский центр "Вектор"	новосибирский центр "Вектор"	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR

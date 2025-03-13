@@ -1,0 +1,12 @@
+264
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Comirnaty	Comirnaty	PRO	PRO-Comirnaty
+Europie	Europa	LOC	LOC-Europe
+FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Polsce	Polska	LOC	GPE-Poland
+Polska	Polska	LOC	GPE-Poland
+SARS-CoV2	SARS-CoV2	EVT	EVT-Covid-19
+USA	USA	LOC	GPE-USA
+koronawirusa	koronawirus	EVT	EVT-Covid-19

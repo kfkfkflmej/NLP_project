@@ -1,0 +1,47 @@
+sl-143
+ATP	ATP	ORG	ORG-Association-of-Tennis-Professionals
+Andrej Plenković	Andrej Plenković	PER	PER-Andrej-Plenković
+Avstrijec	Avstrijec	PER	GPE-Austria
+Banja Luke	Banja Luka	LOC	GPE-Banja-Luka
+Beogradu	Beograd	LOC	GPE-Belgrade
+Bolgar	Bolgar	PER	GPE-Bulgaria
+Bolgara	Bolgar	PER	GPE-Bulgaria
+Bolgarom	Bolgar	PER	GPE-Bulgaria
+Bolgarove	Bolgar	PER	GPE-Bulgaria
+Borna Ćorić	Borna Ćorić	PER	PER-Borna-Ćorić
+Borni Ćoriću	Borna Ćorić	PER	PER-Borna-Ćorić
+Božinović	Božinović	PER	PER-Davor-Božinović
+Christian Groh	Christian Groh	PER	PER-Christian-Groh
+Davor Božinović	Davor Božinović	PER	PER-Davor-Božinović
+Dimitrov	Dimitrov	PER	PER-Grigor-Dimitrov
+Dimitrovov	Dimitrov	PER	PER-Grigor-Dimitrov
+Dominic Thiem	Dominic Thiem	PER	PER-Dominic-Thiem
+Goranom Ivaniševićem	Goran Ivanišević	PER	PER-Goran-Ivanišević
+Grigorja Dimitrova	Grigor Dimitrov	PER	PER-Grigor-Dimitrov
+Hrvatu	Hrvat	PER	GPE-Croatia
+Hrvaška	Hrvaška	LOC	GPE-Croatia
+Hrvaškem	Hrvaška	LOC	GPE-Croatia
+Hrvaško	Hrvaška	LOC	GPE-Croatia
+Karlovca	Karlovec	LOC	GPE-Karlovac
+Karlovcu	Karlovec	LOC	GPE-Karlovac
+Marco Panichi	Marco Panichi	PER	PER-Marco-Panichi
+Marinom Čilićem	Marin Čilić	PER	PER-Marin-Čilić
+Nici	Nica	LOC	GPE-Nice
+Nico	Nica	LOC	GPE-Nice
+Novak Đoković	Novak Đoković	PER	PER-Novak-Đoković
+Novaka Đokovića	Novak Đoković	PER	PER-Novak-Đoković
+Sarajeva	Sarajevo	LOC	GPE-Sarajevo
+Saša Arsenović	Saša Arsenović	PER	PER-Saša-Arsenović
+Srb	Srb	PER	GPE-Serbia
+Teniškega kluba Karlovac	Teniški klub Karlovac	ORG	ORG-Teniški-Klub-Karlovac
+Teniškem klubu Karlovac	Teniški klub Karlovac	ORG	ORG-Teniški-Klub-Karlovac
+Thiem	Thiem	PER	PER-Dominic-Thiem
+Zadru	Zadar	LOC	GPE-Zadar
+covid-19	covid-19	EVT	EVT-Covid-19
+novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+Čilić	Čilić	PER	PER-Marin-Čilić
+Črni Gori	Črna Gora	LOC	GPE-Montenegro
+Đoković	Đoković	PER	PER-Novak-Đoković
+Đokovićem	Đoković	PER	PER-Novak-Đoković
+Đokovićev	Đoković	PER	PER-Novak-Đoković

@@ -1,0 +1,31 @@
+uk-20308
+CNN	CNN	ORG	ORG-CNN
+Twitter	Twitter	PRO	PRO-Twitter
+Байдена	Байден	PER	PER-Joe-Biden
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Капітолійському пагорбі	Капітолійський пагорб	LOC	LOC-Capitol-Hill
+Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+Конгресу	Конгрес	ORG	ORG-United-States-Congress
+Національної гвардії	Національна гвардія	ORG	ORG-United-States-National-Guard
+Новинарня	Новинарня	PRO	PRO-Novynarnia
+Палата представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+Потомак	Потомак	LOC	LOC-Potomac-River
+США	США	LOC	GPE-USA
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Федеральне бюро розслідувань	Федеральне бюро розслідувань	ORG	ORG-FBI
+коронавірус	коронавірус	EVT	EVT-Covid-19
+округ Колумбія	округ Колумбія	LOC	GPE-District-of-Columbia
+округу Колумбія	округ Колумбія	LOC	GPE-District-of-Columbia
+парламенту	парламент	ORG	ORG-British-Parlament
+президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+інавгурацію	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration

@@ -1,0 +1,33 @@
+ru-62
+"Гам-КОВИД-Вак"	Гам-КОВИД-Вак	PRO	PRO-Gam-COVID-Vac
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+REGNUM	REGNUM	ORG	ORG-REGNUM-News-Agency
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+mRNA-1273	mRNA-1273	PRO	PRO-mRNA-Vaccine
+«BNT162b2»	BNT162b2	PRO	PRO-BNT162b2-Tozinameran
+«ВКонтакте»	ВКонтакте	PRO	PRO-VKontakte
+«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Евросоюзе	Евросоюз	ORG	ORG-European-Union
+ИА REGNUM	ИА REGNUM	PRO	PRO-REGNUM
+Израиле	Израиль	LOC	GPE-Israel
+Китае	Китай	LOC	GPE-China
+Комитет по здравоохранению Санкт-Петербурга	Комитет по здравоохранению Санкт-Петербурга	ORG	ORG-Healthcare-Committee-Saint-Petersburg
+НИЦЭМ имени Н. Ф. Гамалеи	НИЦЭМ имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+Петербурга	Петербург	LOC	GPE-Saint-Petersburg
+Петербурге	Петербург	LOC	GPE-Saint-Petersburg
+Роскомнадзор	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+России	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Санкт-Петербург	Санкт-Петербург	LOC	GPE-Saint-Petersburg
+Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаци	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+комитета по здравоохранению	комитет по здравоохранению	ORG	ORG-Health-Committee
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+петербуржцев	петербуржцы	PER	GPE-Saint-Petersburg

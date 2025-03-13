@@ -1,0 +1,82 @@
+ru-88
+Edison Research	Edison Research	PRO	PRO-Nutrihealth-Research
+Fox News	Fox News	PRO	PRO-Fox-News
+Vanity Fair	Vanity Fair	PRO	ORG-Vanity-Fair
+«Газета.Ru»	Газета.Ru	PRO	PRO-Gazeta-ru
+Аляска	Аляска	LOC	GPE-Alaska
+Аризона	Аризона	LOC	GPE-Arizona
+Аризоной	Аризона	LOC	GPE-Arizona
+Аризону	Аризона	LOC	GPE-Arizona
+Аризоны	Аризона	LOC	GPE-Arizona
+Атланту	Атланта	LOC	GPE-Atlanta
+Атланты	Атланта	LOC	GPE-Atlanta
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Бараком Обамой	Барак Обама	PER	PER-Barack-Obama
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Билл Клинтон	Билл Клинтон	PER	PER-Bill-Clinton
+Висконсин	Висконсин	LOC	GPE-Wisconsin
+Висконсином	Висконсин	LOC	GPE-Wisconsin
+Грин-Бей	Грин-Бей	LOC	GPE-Green-Bay
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+Демократу	демократ	ORG	ORG-Democratic-Party-USA
+Демократы	демократы	ORG	ORG-Democratic-Party-USA
+Детройт	Детройт	LOC	GPE-Detroit
+Детройте	Детройт	LOC	GPE-Detroit
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джо Байденом	Джо Байден	PER	PER-Joe-Biden
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+Западе	Запад	LOC	LOC-West
+Кирстен Синема	Кирстен Синема	PER	PER-Kyrsten-Lea-Sinema
+Мексики	Мексика	LOC	GPE-Mexico
+Мердока	Мердок	PER	PER-Rupert-Murdoch
+Милуоки	Милуоки	LOC	GPE-Milwaukee
+Мичиган	Мичиган	LOC	GPE-Michigan
+Мичигана	Мичиган	LOC	GPE-Michigan
+Мэдисоне	Мэдисон	LOC	GPE-Madison
+На выборах 2016 года	выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+Невада	Невада	LOC	GPE-Nevada
+Неваде	Невада	LOC	GPE-Nevada
+Невады	Невада	LOC	GPE-Nevada
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Руперту Мердоку	Руперт Мердок	PER	PER-Rupert-Murdoch
+США	США	LOC	GPE-USA
+Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Скрантон	Скрентън	LOC	GPE-Scranton
+Стив Сайсолак	Стив Сайсолак	PER	PER-Steve-Sisolak
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Филадельфии	Филадельфия	LOC	GPE-Philadelphia
+Флинте	Флинт	LOC	GPE-Flint
+Флориде	Флорида	LOC	GPE-Florida
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+американского	американский	LOC	GPE-USA
+американцев	американцы	PER	GPE-USA
+демократ	демократ	ORG	ORG-Democratic-Party-USA
+демократам	демократы	ORG	ORG-Democratic-Party-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+демократом	демократ	ORG	ORG-Democratic-Party-USA
+демократу	демократ	ORG	ORG-Democratic-Party-USA
+демократы	демократ	ORG	ORG-Democratic-Party-USA
+законодательном собрании	законодательное собрание	ORG	ORG-United-States-State-Legislature
+западный	западный	LOC	LOC-West
+коронавируса	коронавирус	EVT	EVT-Covid-19
+палате представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+республиканец	республиканец	ORG	ORG-Republican-Party-USA
+республиканца	республиканец	ORG	ORG-Republican-Party-USA
+республиканцам	республиканец	ORG	ORG-Republican-Party-USA
+республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+российские	российские	LOC	GPE-Russia
+сенате США	сенат США	ORG	ORG-United-States-Senate

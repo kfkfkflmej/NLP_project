@@ -1,0 +1,64 @@
+ru-21
+Ben Stanfield	Ben Stanfield	PER	PER-Ben-Stanfield
+Blue Star Strategies	Blue Star Strategies	ORG	ORG-Blue-Star-Strategies
+Burisma	Burisma	ORG	ORG-Burisma
+Burisma	Burisma	PER	ORG-Burisma
+Flickr	Flickr	ORG	ORG-Flickr
+RFERL	RFERL	PRO	PRO-RFE-Radio-Free -Europe
+Radio Free Europe Radio Liberty	Radio Free Europe Radio Liberty	PRO	PRO-Radio-Free-Europe-Radio-Liberty
+Байдена	Байден	PER	PER-Joe-Biden
+Байденов	Байдены	PER	PER-Bidens
+Виктора Шокина	Виктор Шокин	PER	PER-Viktor-Shokin
+Висконсина	Висконсин	LOC	GPE-Wisconsin
+Гарри Питерс	Гарри Питерс	PER	PER-Gary-Peters
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Демократы	Демократ	ORG	ORG-Democratic-Party-USA
+Джонсон	Джонсон	PER	PER-Boris-Johnson
+Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+Линдси Грэмом	Линдси Грэмом	PER	PER-Lindsey-Graham
+Мичигана	Мичиган	LOC	GPE-Michigan
+Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Республиканскую партию	Республиканская партия	ORG	ORG-Republican-Party-USA
+Республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+Рик Скотт	Рик Скотт	PER	PER-Rick-Scott
+Рон Джонсон	Рон Джонсон	PER	PER-Ron-Johnson
+России	Россия	LOC	GPE-Russia
+России	Россия	ORG	GPE-Russian-Federation
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Сената США	Сенат США	ORG	ORG-United-States-Senate
+Сената	Сенат	ORG	ORG-United-States-Senate
+Сенате	Сенат	ORG	ORG-United-States-Senate
+Сенату	Сенат	ORG	ORG-United-States-Senate
+Сент США	Сенат США	ORG	ORG-United-States-Senate
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+УНИАН ИноСМИ	УНИАН ИноСМИ	PRO	PRO-UNIAN
+Украине	Украина	LOC	GPE-Ukraine
+Украину	Украина	LOC	GPE-Ukraine
+ФБР	ФБР	ORG	ORG-FBI
+Флориды	Флорида	LOC	GPE-Florida
+Хантер Байден	Хантер Байден	PER	PER-Hunter-Biden
+Хантера Байдена	Хантер Байден	PER	PER-Hunter-Biden
+Чак Шумер	Чак Шумер	PER	PER-Chuck-Schumer
+Эндрю Бейтс	Эндрю Бейтс	PER	PER-Andrew-Bates
+американские выборы в 2016 году	американские выборы в 2016 году	EVT	EVT-2016-United-States-Presidential-Election
+американского	американский	LOC	GPE-USA
+выборы 2020 года	выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+демократ	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+президентские выборы	президентские выборы	EVT	EVT-2020-United-States-Presidential-Election
+республиканец	республиканец	ORG	ORG-Republican-Party-USA
+республиканское	республиканский	ORG	ORG-Republican-Party-USA
+республиканцам	республиканец	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцем	республиканец	ORG	ORG-Republican-Party-USA
+республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+российского	российский	LOC	GPE-Russia
+российской	российский	LOC	GPE-Russia
+украинское	украинский	LOC	GPE-Ukraine
+украинской	украинский	LOC	GPE-Ukraine
+украинскую	украинский	LOC	GPE-Ukraine

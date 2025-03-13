@@ -1,0 +1,42 @@
+ru-197
+Аляске	Аляска	LOC	GPE-Alaska
+Аляски	Аляска	LOC	GPE-Alaska
+Американские	американские	LOC	GPE-USA
+Америке	Америка	LOC	GPE-USA
+Аризона	Аризона	LOC	GPE-Arizona
+Аризону	Аризона	LOC	GPE-Arizona
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Белый Дом	Белый Дом	ORG	ORG-The-White-House
+Винсконсин	Висконсин	LOC	GPE-Wisconsin
+Висконсин	Висконсин	LOC	GPE-Wisconsin
+Гаваий	Гавайи	LOC	GPE-Hawaii
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Калифорнию	Калифорния	LOC	GPE-California
+Мичиган	Мичиган	LOC	GPE-Michigan
+Мэн	Мэн	LOC	GPE-Maine
+Мэна	Мэн	LOC	GPE-Maine
+Небраска	Небраска	LOC	GPE-Nebraska
+Небраски	Небраска	LOC	GPE-Nebraska
+Невада	Невада	LOC	GPE-Nevada
+Невады	Невада	LOC	GPE-Nevada
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+США	США	LOC	GPE-USA
+Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Техас	Техас	LOC	GPE-Texas
+Техаса	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампом	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Флорида	Флорида	LOC	GPE-Florida
+америкосов	американцы	PER	GPE-USA
+демократ	демократ	ORG	ORG-Democratic-Party-USA
+демократа	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+коллегией выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+омскому	омский	LOC	GPE-Omsk
+республиканец	республиканец	ORG	ORG-Republican-Party-USA
+российских	российский	LOC	GPE-Russia

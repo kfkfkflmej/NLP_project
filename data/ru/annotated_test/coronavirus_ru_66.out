@@ -1,0 +1,16 @@
+ru-66
+Woman.ru	Woman.ru	PRO	PRO-Woman-ru
+Африкой	Африка	LOC	LOC-Africa
+Африку	Африка	LOC	LOC-Africa
+Вася	Вася	PER	PER-Vasya
+ИВЛ	ИВЛ	PRO	PRO-VENTILATOR
+РФ	РФ	LOC	GPE-Russia
+Россею	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+Хабаровск	Хабаровск	LOC	GPE-Khabarovsk
+ковид 19	ковид 19	EVT	EVT-Covid-19
+ковид-19	ковид-19	EVT	EVT-Covid-19
+ковид	ковид	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+россияне	россиянин	PER	GPE-Russia

@@ -1,0 +1,38 @@
+ru-91
+"Buy America"	"Buy America"	PRO	PRO-Buy-American-Act
+"Экономической помощи"	"Экономическая помощь"	EVT	EVT-Financial-Aid-Act
+ABC	ABC	PRO	PRO-ABC-News
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Medicaid	Medicaid	PRO	PRO-Medicaid
+Pell	Pell	PRO	PRO-Pell
+SNAP	SNAP	PRO	PRO-SNAP
+Америка	Америка	LOC	GPE-USA
+Америки	Америка	LOC	GPE-USA
+Андрей Головачев	Андрей Головачаев	PER	PER-Andrey-Golo
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+Всемирную организацию здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+Демократам	Демократы	ORG	ORG-Democratic-Party-USA
+Демократы	Демократы	ORG	ORG-Democratic-Party-USA
+Департаменту по управлению и бюджету	Департаменту по управлению и бюджету	ORG	ORG-OMB
+Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+Конституции	Конституция	PRO	PRO-The-USA-Constitution
+Мексикой	Мексика	LOC	GPE-Mexico
+США	США	LOC	GPE-USA
+Соединенных Штатов Америки	Соединенные Штаты Америки	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Украина	Украина	LOC	GPE-Ukraine
+Флориду	Флорида	LOC	GPE-Florida
+Штаты	Штаты	LOC	GPE-USA
+американцев	американцы	PER	GPE-USA
+демократам	демократы	ORG	ORG-Democratic-Party-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+коронавируса	коронавирус	EVT	EVT-Covid-19
+республиканец	республиканец	ORG	ORG-Republican-Party-USA

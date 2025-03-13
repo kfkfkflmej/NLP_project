@@ -1,0 +1,21 @@
+35
+Anglii	Anglia	LOC	GPE-England
+AstraZenecę	AstraZeneca	ORG	ORG-AstraZeneca
+BBC	BBC	PRO	PRO-BBC
+Bartłomiej Niedziński	Bartłomiej Niedziński	PER	PER-Bartłomiej-Niedziński
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Europie	Europa	LOC	LOC-Europe
+Hancock	Hancock	PER	PER-Matthew-Hancock
+ITV	ITV	PRO	PRO-ITV
+John Bell	John Bell	PER	PER-John-Bell
+Londynu	Londyn	LOC	GPE-London
+Matta Hancocka	Matt Hancock	PER	PER-Matthew-Hancock
+Pfizer i BioNTech	Pfizer i BioNTech	ORG	ORG-Pfizer-BioNTech
+RPA	RPA	LOC	GPE-Republic-of-South-Africa
+Robert Peston	Robert Peston	PER	PER-Robert-Peston
+Twitterze	Twitter	PRO	PRO-Twitter
+Uniwersytecie Oksfordzkim	Uniwersytet Oksfordzki	ORG	ORG-University-of-Oxford
+Uniwersytet Oksfordzki	Uniwersytet Oksfordzki	ORG	ORG-University-of-Oxford
+W. Brytania	W. Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+koronawirusa	koronawirus	EVT	EVT-Covid-19

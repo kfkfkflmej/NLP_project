@@ -1,0 +1,41 @@
+ru-129
+GSA	GSA	ORG	ORG-General-Services-Administration
+NYT	NYT	PRO	PRO-The-New-York-Times
+New York Times	New York Times	PRO	PRO-The-New-York-Times	
+The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+Twitter	Twitter	PRO	PRO-Twitter
+Американский	Американский	LOC	GPE-USA
+Выборы в США	Выборы в США	EVT	EVT-2020-United-States-Presidential-Election
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Коллегию выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Колумбия	Колумбия	LOC	GPE-Colombia
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+Конституция США	Конституция США	PRO	PRO-The-USA-Constitution
+Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+Мэн	Мэн	LOC	GPE-Maine
+Небраска	Небраска	LOC	GPE-Nebraska
+Палатой Представителей	Палата Представителей	ORG	ORG-United-States-House-of-Representatives
+Пенс	Пенс	PER	PER-Mike-Pence
+Республиканской партиями	Республиканская партия	ORG	ORG-Republican-Party-USA
+США	США	LOC	GPE-USA
+Соединенных Штатов Америки	Соединенные Штаты Америки	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Управлению общих служб США	Управление общих служб США	ORG	ORG-General-Services-Administration
+американских	американский	LOC	GPE-USA
+американское	американский	LOC	GPE-USA
+выборов 2020	Выборы 2020	EVT	EVT-2020-United-States-Presidential-Election
+выборов президента США-2020	Выборы президента США-2020	EVT	EVT-2020-United-States-Presidential-Election
+президентских выборах-2020	Президентские выборы-2020	EVT	EVT-2020-United-States-Presidential-Election

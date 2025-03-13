@@ -1,0 +1,20 @@
+uk-10288
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Pfizer	Pfizer	ORG	ORG-Pfizer
+REUTERS	REUTERS	ORG	ORG-Reuters
+Telegram	Telegram	PRO	PRO-Telegram
+Іспанії	Іспанія	LOC	GPE-Spain
+Італії	Італія	LOC	GPE-Italy
+Австрії	Австрія	LOC	GPE-Austria
+Болгарії	Болгарія	LOC	GPE-Bulgaria
+ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+Всесвітня організація охорони здоров'я	Всесвітня організація охорони здоров'я	ORG	ORG-World-Health-Organization
+Коронавак	Коронавак	PRO	PRO-CoronaVac
+Німеччині	Німеччина	LOC	GPE-Germany
+ООС	ООС	EVT	EVT-Join-Forces-Operation-Ukraine
+УНІАН	УНІАН	ORG	ORG-UNIAN
+Угорщині	Угорщина	LOC	GPE-Hungary
+України	Україна	LOC	GPE-Ukraine
+Франції	Франція	LOC	GPE-France
+Чехії	Чехія	LOC	GPE-Czech-Republic

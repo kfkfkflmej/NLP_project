@@ -1,0 +1,57 @@
+ru-14
+COVID-19	COVID-19	EVT	EVT-Covid-19
+novostivolgograda.ru	novostivolgograda.ru	PRO	ORG-Novosti-Volgograda
+««Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+«Спутника V»	Спутник V	PRO	PRO-Sputnik-V
+«ЭпиВакКорона»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+«ЭпиВакКороной»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+Александр Гинцбург	Александр Гинцбург	PER	PER-Alexander-Ginzburg
+Бразилии	Бразилия	LOC	GPE-Brazil
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Волгограде	Волгоград	LOC	GPE-Volgograd
+Волгоградской области	Волгоградская область	LOC	GPE-Volgograd-region
+Волгоградскую область	Волгоградская область	LOC	GPE-Volgograd-region
+Волжском	Волжский	LOC	LOC-Volzhsky
+Госуслуг	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+Госуслуги	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+Закон об иммунопрофилактике № 157-ФЗ	Закон об иммунопрофилактике № 157-ФЗ	PRO	PRO-Law-on-Immunoprophylaxis-of-Infectious-Diseases-Russia
+Израиле	Израиль	LOC	GPE-Israel
+Израиля	Израиль	LOC	GPE-Israel
+Индии	Индия	LOC	GPE-India
+Камышине	Камышин	LOC	GPE-Kamyshin
+Китае	Китай	LOC	GPE-China
+Ковидный	Ковидный	EVT	EVT-Covid-19
+Корее	Корея	LOC	GPE-Korea
+Минздрав России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+Минздравом России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+Министерство здравоохранения России	Министерство здравоохранения России	ORG	ORG-Ministry-of-Health-Russia
+Михайловке	Михайловка	LOC	GPE-Mikhaylovka-Volgograd-region
+НИИ Гамалеи	НИИ Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+НИИ им. Гамалеи	НИИ им. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+Национального исследовательского центра эпидемиологии и микробиологии имени Н. Ф. Гамалеи Минздрава России	Национальный исследовательский центр эпидемиологии и микробиологии имени Н. Ф. Гамалеи Минздрава России	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+Национальный исследовательский центр эпидемиологии и микробиологии имени Н. Ф. Гамалеи	Национальный исследовательский центр эпидемиологии и микробиологии имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+Общество с ограниченной ответственностью «ПремьерМедиаИнвест»	Общество с ограниченной ответственностью «ПремьерМедиаИнвест»	ORG	ORG-Premier-Media-Invest
+Росздравнадзора	Росздравнадзор	ORG	ORG-Russian-Federal-Service-for-Surveillance-in-Healthcare
+России	Россия	LOC	GPE-Russia
+Российский фонд прямых инвестиций	Российский фонд прямых инвестиций	ORG	ORG-Russian-Direct-Investment-Fund
+Россия	Россия	LOC	GPE-Russia
+Сеченовском университете	Сеченовский университет	ORG	ORG-Sechenov-First-Moscow-State-Medical-University
+Урюпинске	Урюпинск	LOC	GPE-Uryupinsk
+ФАС	ФАС	ORG	ORG-Federal-Antimonopoly-Service-of-Russia
+Федеральной антимонопольной службы РФ	Федеральная антимонопольная служба РФ	ORG	ORG-Federal-Antimonopoly-Service-of-Russia
+Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаци	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+Центр им. Гамалея	Центр им. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+больнице имени Фишера	больница имени Фишера	LOC	LOC-больница-имени-Фишера
+городской больнице № 1	городская больница № 1	LOC	LOC-городская-больница-№-1
+госпитале им. Бурденко	госпиталь им. Бурденко	ORG	ORG-Burdenko-Main-Military-Clinical-Hospital
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусе	коронавирус	EVT	EVT-Covid-19
+коронавирусной инфекцией	коронавирусная инфекция	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+коронавирусу	коронавирус	EVT	EVT-Covid-19
+россиян	россияне	PER	GPE-Russia
+россиянам	россияне	PER	GPE-Russia
+центра им. Гамалеи	центр им. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+центра им. Гамалеи	центра им. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology

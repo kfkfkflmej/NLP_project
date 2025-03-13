@@ -1,0 +1,23 @@
+162
+ABC	ABC	PRO	PRO-ABC-News
+Białego Domu	Biały Dom	LOC	LOC-White-House
+Biden	Biden	PER	PER-Joe-Biden
+Bidena	Biden	PER	PER-Joe-Biden
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+Demokraty	Demokrata	PER	ORG-Democratic-Party-USA
+Florydę	Floryda	LOC	GPE-Florida
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Michigan	Michigan	LOC	GPE-Michigan
+NBC News	NBC News	PRO	PRO-NBC-News
+Pensylwanię	Pensylwania	LOC	GPE-Pennsylvania
+RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+Reuters	Reuters	ORG	ORG-Reuters
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+USA	USA	LOC	GPE-USA
+WSJ	WSJ	PRO	PRO-Wall-Street-Journal
+Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+koronawirusem	koronawirus	EVT	EVT-Covid-19

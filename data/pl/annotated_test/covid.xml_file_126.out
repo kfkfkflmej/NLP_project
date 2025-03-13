@@ -1,0 +1,43 @@
+126
+Amerykanie	Amerykanie	PER	GPE-USA
+Argentynie	Argentyna	LOC	GPE-Argentina
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+Brazylii	Brazylia	LOC	GPE-Brazil
+Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+COVID-19	COVID-19	EVT	EVT-Covid-19
+CureVac	CureVac	ORG	ORG-CureVac
+EMA	EMA	LOC	ORG-EMA-European-Medicines-Agency
+EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+Europejskiej Agencji Leków	Europejska Agencja Leków	ORG	ORG-EMA-European-Medicines-Agency
+Europie	Europa	LOC	LOC-Europe
+Federalna Agencja ds. Żywności i Leków	Federalna Agencja ds. Żywności i Leków	ORG	ORG-Food-and-Drug-Administration-USA
+Het Nieuwsblad	Het Nieuwsblad	PRO	PRO-Het-Nieuwsblad
+Japonii	Japonia	LOC	GPE-Japan
+Johnson&Johnson	Johnson&Johnson	ORG	ORG-Johnson-&-Johnson
+KE	KE	ORG	ORG-European-Commission
+Kenii	Kenia	LOC	GPE-Kenya
+Komisję Europejską	Komisja Europejska	ORG	ORG-European-Commission
+Koronawirus	koronawirus	EVT	EVT-Covid-19
+Moderna	Moderna	ORG	ORG-Moderna
+Niemczech	Niemcy	LOC	GPE-Germany
+Noel Wathion	Noel Wathion	PER	PER-Noel-Wathlon
+Oksfordu	Oksford	LOC	GPE-Oxford
+Pfizer-BioNTech	Pfizer-BioNTech	ORG	ORG-Pfizer-BioNTech
+RPA	RPA	LOC	GPE-Republic-of-South-Africa
+Rosji	Rosja	LOC	GPE-Russia
+Rzymie	Rzym	LOC	GPE-Rome
+Sanofi	Sanofi	ORG	ORG-Sanofi
+Szwecji	Szwecja	LOC	GPE-Sweden
+UE	UE	ORG	ORG-European-Union
+USA	USA	LOC	GPE-USA
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Uniwersytetem Oksfordzkim	Uniwersytet Oksfordzki	ORG	ORG-University-of-Oxford
+Uniwersytetu Oksfordzkiego	Uniwersytet Oksfordzki	ORG	ORG-University-of-Oxford
+Wathion	Wathion	PER	PER-Noel-Wathlon
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Włochy	Włochy	LOC	GPE-Italy
+Włoszech	Włochy	LOC	GPE-Italy
+koronawirusa	koronawirus	EVT	EVT-Covid-19
+koronawirusowi SARS-CoV-2	koronawirus SARS-CoV-2	EVT	EVT-Covid-19
+laboratorium IRBM w Pomezii pod Rzymem	laboratorium IRBM w Pomezii pod Rzymem	ORG	ORG-IRBM-Italy

@@ -1,0 +1,18 @@
+sl-223
+ARNES	ARNES	ORG	ORG-ARNES
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Covid-19	Covid-19	EVT	EVT-Covid-19
+F@H	F@H	EVT	EVT-Folding-@-home
+Fakulteti za informacijske znanosti v Novem mestu	Fakulteta za informacijske znanosti v Novem mestu	ORG	ORG-Faculty-of-Information-Studies-Novo-mesto
+Folding@home	Folding@home	EVT	EVT-Folding-@-home
+HPC RIVR	HPC RIVR	PRO	PRO-HPC-RIVR
+Inštitutu Jožef Štefan	Inštitutu Jožef Štefan	ORG	ORG-Jožef-Stefan-Institute
+Maiborski računalnik Maister	Maiborski računalnik Maister	PRO	PRO-Supercomputer-HPC-Maister
+SLING	SLING	PRO	PRO-Slovenian-National-Supercomputing-Network
+Slovensko nacionalno superračunalniško omrežje	Slovensko nacionalno superračunalniško omrežje	PRO	PRO-Slovenian-National-Supercomputing-Network
+Superračunalnik Univerze v Mariboru	Superračunalnik Univerze v Mariboru	PRO	PRO-Supercomputer-HPC-Maister
+Univerza v Mariboru	Univerza v Mariboru	ORG	ORG-University-of-Maribor
+Univerzi v Mariboru	Univerza v Mariboru	ORG	ORG-University-of-Maribor
+Zoran Ren	Zoran Ren	PER	PER-Zoran-Ren
+novega koronavirusa SARS-CoV-2	novi koronavirus SARS-CoV-2	EVT	EVT-Covid-19
+superračunalnik HPC Maister	superračunalnik HPC Maister	PRO	PRO-Supercomputer-HPC-Maister

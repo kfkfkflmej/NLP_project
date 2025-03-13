@@ -1,0 +1,24 @@
+sl-213
+Alan Ginsburg	Alan Ginsburg	PER	PER-Alan-Ginsburg
+Američani	Američani	PER	GPE-USA
+Biden	Biden	PER	PER-Joe-Biden
+Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+Detroit	Detroit	LOC	GPE-Detroit
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Houstona	Houston	LOC	GPE-Houston
+Houstonu	Houston	LOC	GPE-Houston
+Josephu Bidnu	Joseph Biden	PER	PER-Joe-Biden
+Kamalo Harris	Kamala Harris	PER	PER-Kamala-Harris
+Pensilvanije	Pensilvanija	LOC	GPE-Pennsylvania
+Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+Philadelphio	Philadelphia	LOC	GPE-Philadelphia
+Scranton	Scranton	LOC	GPE-Scranton
+Teksasu	Teksas	LOC	GPE-Texas
+Trump	Trump	PER	PER-Donald-Trump
+Trumpovega	Trumpov	PER	PER-Donald-Trump
+Vrhovno sodišče ZDA	Vrhovno sodišče ZDA	ORG	ORG-Supreme-Court-of-the-United-States
+ZDA	ZDA	LOC	GPE-USA
+demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+demokratov	demokrati	PER	ORG-Democratic-Party-USA
+koronavirusa	koronavirus	EVT	EVT-Covid-19
+republikancev	republikanci	ORG	ORG-Republican-Party-USA

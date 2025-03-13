@@ -1,0 +1,45 @@
+ru-35
+BLM	BLM	ORG	ORG-Black-Lives-Matter
+F-35	F-35	PRO	PRO-Lockheed-Martin-F-35-Lightning-II
+Америке	Америка	LOC	GPE-USA
+Америку	Америка	LOC	GPE-USA
+Антифа	Антифа	ORG	ORG-Antifa-USA
+Африка	Африка	LOC	LOC-Africa
+Байдена	Байден	PER	PER-Joe-Biden
+Грузия	Грузия	LOC	GPE-Georgia
+Демократы	Демократы	ORG	ORG-Democratic-Party-USA
+Дж. Р. Форд	Дж. Р. Форд	PRO	PRO-USS-Gerald-R.-Ford-(CVN-78)
+Замволт	Замволт	PRO	PRO-Zumwalt
+Индии	Индия	LOC	GPE-India
+Иран	Иран	LOC	GPE-Iran
+Китай	Китай	LOC	GPE-China
+Китая	Китай	LOC	GPE-China
+Ливии	Ливия	LOC	GPE-Libya
+СССР	СССР	LOC	GPE-USSR
+США	США	LOC	GPE-USA
+Северная	Северная Дакота	LOC	GPE-North-Dakota
+Сирии	Сирия	LOC	GPE-Syria
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Туркам	Турки	PER	GPE-Turkey
+Украина	Украина	LOC	GPE-Ukraine
+Фед.резерва	Фед.резерв	ORG	ORG-Federal-Reserve-System
+Фед.резерву	Фед.резерв	ORG	ORG-Federal-Reserve-System
+Федеральная резервная система	Федеральная резервная система	ORG	ORG-Federal-Reserve-System
+Эйнштейна	Эйнштейн	PER	PER-Albert-Einstein
+Южная Кореи	Южная Корея	LOC	GPE-South-Korea
+американец	американец	PER	GPE-USA
+американские	американские	LOC	GPE-USA
+американских	американский	LOC	GPE-USA
+американское	американское	LOC	GPE-USA
+вьетнамцами	вьетнамцы	PER	GPE-Vietnam
+европейского	европейский	LOC	LOC-Europe
+игиловцами	игиловцы	ORG	ORG-Islamic-State-of-Iraq-and-the-Levant
+индусами	индусы	PER	GPE-India
+китайских	китайский	LOC	GPE-China
+китайского	китайский	LOC	GPE-China
+республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+стрелковая ассоциация	стрелковая ассоциация	ORG	ORG-National-Rifle-Association
+уйгурами	уйгуры	PER	GPE-China
+федрезерву	федрезерв	ORG	ORG-Federal-Reserve-System
+японцами	японцы	PER	GPE-Japan

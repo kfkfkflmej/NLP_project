@@ -1,0 +1,44 @@
+sl-42
+Albert Bourla	Albert Bourla	PER	PER-Albert-Bourla
+Ameriško upravo za hrano in zdravila	Ameriška uprava za hrano in zdravila	ORG	ORG-FDA-Food-and-Drug-Administration
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BioNTech	BioNTech	ORG	ORG-BioNTech
+BioNTecha	BioNTech	ORG	ORG-BioNTech
+CNN	CNN	PRO	PRO-CNN
+CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+EU	EU	ORG	ORG-European-Union
+Evropo	Evropa	LOC	LOC-Europe
+Ford	Ford	ORG	ORG-Ford
+Ganymed Pharmaceuticals	Ganymed Pharmaceuticals	ORG	ORG-Ganymed-Pharmaceuticals-AG
+Iskenderunu	Iskenderun	LOC	GPE-İskenderun
+Kitajci	Kitajci	PER	GPE-China
+Kitajskem	Kitajska	LOC	GPE-China
+Köln	Köln	LOC	GPE-Koln
+MIG AG	MIG AG	ORG	ORG-MIG-Verwaltungs-AG-(MIG-AG)
+Mainzu	Mainz	LOC	GPE-Mainz
+Matthias Kromayer	Matthias Kromayer	PER	PER-Matthias-Kromayer
+Matthias Theobald	Matthias Theobald	PER	PER-Matthias-Theobald
+Nasdaq	Nasdaq	PRO	PRO-NASDAQ
+Nemcev	Nemci	PER	GPE-Germany
+Nemčiji	Nemčija	LOC	GPE-Germany
+Nemčijo	Nemčija	LOC	GPE-Germany
+Oxforda	Oxford	ORG	ORG-University-of-Oxford
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Pfizerjem	Pfizer	ORG	ORG-Pfizer
+Reuters	Reuters	ORG	ORG-Reuters
+Reutersa	Reuters	ORG	ORG-Reuters
+Rusi	Rusi	PER	GPE-Russia
+Sahin	Sahin	PER	PER-Ugur-Sahin
+Sahina	Sahin	PER	PER-Ugur-Sahin
+Sputnik 5	Sputnik 5	PRO	PRO-Sputnik-V
+Türecijeva	Türeci	PER	PER-Özlem-Türeci
+Türecijevo	Türeci	PER	PER-Özlem-Türeci
+Ugur Sahin	Ugur Sahin	PER	PER-Ugur-Sahin
+Univerzi v Mainzu	Univerza v Mainzu	ORG	ORG-The Johannes Gutenberg University Mainz
+Vuhanu	Vuhan	LOC	GPE-Wuhan
+Welt am Sonntag	Welt am Sonntag	PRO	PRO-Welt-am-Sonntag
+covida-19	covid-19	EVT	EVT-Covid-19
+covidu-19	covid-19	EVT	EVT-Covid-19
+novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+Özlem Türeci	Özlem Türeci	PER	PER-Özlem-Türeci

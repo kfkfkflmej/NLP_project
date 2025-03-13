@@ -1,0 +1,25 @@
+sl-176
+Američanov	Američani	PER	GPE-USA
+Andrewom Cuomom	Andrew Cuomo	PER	PER-Andrew-Cuomo
+Anthony Fauci	Anthony Fauci	PER	PER-Anthony-Fauci
+Biden	Biden	PER	PER-Joe-Biden
+Bidna	Biden	PER	PER-Joe-Biden
+Burgum	Burgum	PER	PER-Doug-Burgum
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Doug Burgum	Doug Burgum	PER	PER-Doug-Burgum
+Fauci	Fauci	PER	PER-Anthony-Fauci
+Faucija	Fauci	PER	PER-Anthony-Fauci
+Jay Inslee	Jay Inslee	PER	PER-Jay-Inslee
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Nacionalnega inštituta za zdravstvo	Nacionalni inštitut za zdravstvo	ORG	ORG-National-Institute-of-Allergy-and-Infectious-Diseases
+New Yorku	New York	LOC	GPE-New-York
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Severni Dakoti	Severna Dakota	LOC	GPE-North-Dakota
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+Trumpovo	Trump	PER	PER-Donald-Trump
+Washingtona	Washington	LOC	GPE-WashingtonDC
+ZDA	ZDA	LOC	GPE-USA
+covidom-19	covid-19	EVT	EVT-Covid-19
+koronavirusa	koronavirus	EVT	EVT-Covid-19
+koronavirusom	koronavirus	EVT	EVT-Covid-19

@@ -1,0 +1,19 @@
+129
+Artur Chojecki	Artur Chojecki	PER	PER-Artur-Chojecki
+COVID-19	COVID-19	EVT	EVT-Covid-19
+DPS-ów	DPS-y	ORG	ORG-DPS
+Elblągu	Elbląg	LOC	GPE-Elbląg-Poland
+Ełku	Ełk	LOC	GPE-Ełk-Poland
+MOPS-ów	MOPS-y	ORG	ORG-MOPS-Poland
+Mariola Haska	Mariola Haska	PER	PER-Mariola-Haska
+Olsztynie	Olsztyn	LOC	GPE-Olsztyn-Poland
+Ostródzie	Ostróda	LOC	GPE-Ostróda
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+Piszu	Pisz	LOC	GPE-Pisz-Poland
+Szczytnie	Szczytno	LOC	GPE-Szczytno-Poland
+Warmińsko-mazurskie	Warmińsko-mazurskie	LOC	GPE-Poland-Warmian-Masurian-Voivodeship
+koronawirusem	koronawirus	EVT	EVT-Covid-19
+powiatu brodnickiego	powiat brodnicki	LOC	GPE-Poland-Brodnica-County
+powiatu iławskiego	powiat iławski	LOC	GPE-Poland-Iława-County
+powiatu nowomiejskiego	powiat nowomiejski	LOC	GPE-Poland-Nowe-Miasto-County
+woj. warmińsko-mazurskim	woj. warmińsko-mazurskie	LOC	GPE-Poland-Warmian-Masurian-Voivodeship

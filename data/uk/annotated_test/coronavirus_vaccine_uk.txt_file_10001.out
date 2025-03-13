@@ -1,0 +1,23 @@
+uk-10001
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+ЄС	ЄС	LOC	ORG-European-Union
+Європі	Європа	LOC	LOC-Europe
+Євросоюзу	Євросоюз	LOC	ORG-European-Union
+Євросоюзі	Євросоюз	LOC	ORG-European-Union
+Інтерфакс	Інтерфакс	PRO	PRO-Interfax
+Брюсселі	Брюссель	LOC	GPE-Brussles
+Будапешт	Будапешт	LOC	GPE-Budapest
+Білорусь	Білорусь	LOC	GPE-Belarus
+Всесвітньої організації охорони здоров'я	Всесвітня організація охорони здоров'я	ORG	ORG-World-Health-Organization
+Кирило Дмитрієв	Кирил Дмитрієв	PER	PER-Kirill-Dmitriev
+Ковакс	Ковакс	PRO	PRO-Covax-initiative
+Національний інститут фармакології і харчування Угорщини	Національний інститут фармакології і харчування Угорщини	ORG	ORG-National-Institute-of-Pharmacology-and-Nutrition-of-Hungary
+Національним дослідницьким центром епідеміології та мікробіології імені М.Ф. Гамалії МОЗ РФ	Національний дослідницький центр епідеміології та мікробіології імені М.Ф. Гамалії МОЗ РФ	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+Росією	Росія	LOC	GPE-Russia
+Росії	Росія	LOC	GPE-Russia
+Стелла Киріакідес	Стелла Киріакідес	PER	PER-Stella-Kyriakides
+Угорщина	Угорщина	LOC	GPE-Hungary
+Угорщини	Угорщина	LOC	GPE-Hungary
+Угорщині	Угорщина	LOC	GPE-Hungary
+коронавірусу	коронавірус	EVT	EVT-Covid-19

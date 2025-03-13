@@ -1,0 +1,21 @@
+sl-33
+Anthony Fauci	Anthony Fauci	PER	PER-Anthony-Fauci
+Anže Logar	Anže Logar	PER	PER-Anže-Logar
+Belo hišo	Bela hiša	LOC	LOC-White-House
+Borut Pahor	Borut Pahor	PER	PER-Borut-Pahor
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+EU	EU	ORG	ORG-European-Union
+Faucijem	Fauci	PER	PER-Anthony-Fauci
+Logar	Logar	PER	PER-Anže-Logar
+Luigija Di Maia	Luigi Di Maio	PER	PER-Luigi-Di-Maio
+MZZ	MZZ	ORG	ORG-Ministry-of-foreign-affairs-Slovenia
+Ministrstvo za zdravje ZDA	Ministrstvo za zdravje ZDA	ORG	ORG-Department-of-Health
+Sloveniji	Slovenija	LOC	GPE-Slovenia
+Trump	Trump	PER	PER-Donald-Trump
+Trumpovo	Trump	PER	PER-Donald-Trump
+ZDA	ZDA	LOC	GPE-USA
+Zahodnega Balkana	Zahodni Balkan	LOC	LOC-Western-Balkans
+covid-19	covid-19	EVT	EVT-Covid-19
+covidu-19	covid-19	EVT	EVT-Covid-19
+koronavirusa	koronavirus	EVT	EVT-Covid-19
+koronavirusu	koronavirus	EVT	EVT-Covid-19

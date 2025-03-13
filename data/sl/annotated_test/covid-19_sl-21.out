@@ -1,0 +1,36 @@
+sl-21
+AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+Albert Bourla	Albert Bourla	PER	PER-Albert-Bourla
+BBC	BBC	ORG	ORG-BBC-Ltd
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Borut Štrukelj	Borut Štrukelj	PER	PER-Borut-Štrukelj
+EU	EU	ORG	ORG-European-Union
+Ema	Ema	ORG	ORG-EMA-European-Medicines-Agency
+EpiVacCorona	EpiVacCorona	PRO	PRO-EpiVacCorona
+Evropski agenciji za zdravila	Evropska agencija za zdravila	ORG	ORG-EMA-European-Medicines-Agency
+FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+MHRA	MHRA	ORG	ORG-Medicines-and-Healthcare-products-Regulatory-Agency
+Moskva	Moskva	LOC	GPE-Moscow
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Pfizerja	Pfizer	ORG	ORG-Pfizer
+Pfizerju	Pfizer	ORG	ORG-Pfizer
+Putin	Putin	PER	PER-Vladimir-Putin
+Rusija	Rusija	LOC	GPE-Russia
+Rusiji	Rusija	LOC	GPE-Russia
+Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+Tatjano Golikovo	Tatjana Golikova	PER	PER-Tatjana-Golikova
+Ugur Sahin	Ugur Sahin	PER	PER-Ugur-Sahin
+Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+Združenem kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+britanskega ministrstva za zdravje	britansko ministrstvo za zdravje	ORG	ORG-British-Ministry-of-Health
+covid-19	covid-19	EVT	EVT-Covid-19
+covidom-19	covid-19	EVT	EVT-Covid-19
+covidu-19	covid-19	EVT	EVT-Covid-19
+fakultete za farmacijo	fakulteta za farmacijo	ORG	ORG-Faculty-of-Pharmacy-Ljubljana
+koronavirusa	koronavirus	EVT	EVT-Covid-19
+novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+regulatorne agencije za zdravila in zdravstvene izdelke	Regulatorna agencija za zdravila in zdravstvene izdelke	ORG	ORG-British-Medicines-and-Healthcare-Products-Regulatory-Agency
+univerze Johnsa Hopkinsa	Univerza John Hopkins	ORG	ORG-John-Hopkins-University

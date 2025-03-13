@@ -1,0 +1,26 @@
+uk-10027
+BARDA	BARDA	ORG	ORG-BARDA-USA
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Johnson & Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+Lonza Ltd.	Lonza Ltd.	ORG	ORG-Lonza
+Lonza	Lonza	ORG	ORG-Lonza
+Moderna	Moderna	ORG	ORG-Moderna
+Sanofi	Sanofi	ORG	ORG-Sanofi
+Базелі	Базель	LOC	GPE-Basel
+Бансель	Бансель	PER	PER-Stefan-Bansel
+Модерні	Модерн	ORG	ORG-Moderna
+Міністерства охорони здоров’я	Міністерство охорони здоров’я	ORG	ORG-Ministry-of-Healthcare-Ukraine
+РНК-1273	РНК-1273	PRO	PRO-mRNA-Vaccine
+Стефан Бансел	Стефан Бансел	PER	PER-Stefan-Bansel
+Стефан	Стефан	PER	PER-Stefan-Bansel
+Трампа	Трам	PER	PER-Donald-Trump
+Тік-Ток	Тік-Ток	PRO	PRO-Tik-Tok
+Україні	Україна	LOC	GPE-Ukraine
+Управлінням по передовим дослідженням і розробкам в галузі біомедицини	Управлінням по передовим дослідженням і розробкам в галузі біомедицини	ORG	ORG-BARDA-USA
+Швейцарія	Швейцарія	LOC	GPE-Switzerland
+коронавірус	коронавірус	EVT	EVT-Covid-19
+коронавірусом	коронавірус	EVT	EVT-Covid-19
+мРНК-1273	мРНК-1273	PRO	PRO-mRNA-Vaccine
+пандемію	пандемія	EVT	EVT-Covid-19
+пандемія	пандемія	EVT	EVT-Covid-19

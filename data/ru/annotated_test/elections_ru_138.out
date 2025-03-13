@@ -1,0 +1,54 @@
+ru-138
+FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
+Meduza	Meduza	PRO	PRO-Russia-Meduza
+«Звездных войн»	Звездные войны	PRO	PRO-Star-Wars
+«Медуза»	Медуза	PRO	PRO-Russia-Meduza
+Айове	Айова	LOC	GPE-Iowa
+Белом доме	Белый дом	ORG	ORG-The-White-House
+Буша	Буш	PER	PER-George-Bush-Jr
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+Гэри Джонсон	Гэри Джонсон	PER	PER-Gary-Johnson
+Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+Джордж Буш-младший	Джордж Буш-младший	PER	PER-George-Bush-Jr
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Зеленой	Зеленая	ORG	ORG-Green-Party-of-the-United-States
+Калифорнии	Калифорния	LOC	GPE-California
+Калифорния	Калифорния	LOC	GPE-California
+Капитолия	Капитолий	LOC	LOC-United-States-Capitol
+Клинтон	Клинтон	PER	PER-Hillary-Clinton
+Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Колумбия	Колумбия	LOC	GPE-District-of-Columbia
+Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+Конституционной	Конституционная	ORG	ORG-Constitution-Party-USA
+Либертарианской	Либертарианская	ORG	ORG-Libertarian-Party-USA
+Нью-Мексико	Нью-Мексико	LOC	GPE-New-Mexico
+Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Республиканской	Республиканская	ORG	ORG-Republican-Party-USA
+США	США	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+ФБР	ФБР	ORG	ORG-FBI
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+Хиллари	Хиллари	PER	PER-Hillary-Clinton
+Чака Норриса	Чак Норрис	PER	PER-Chuck-Norris
+Эл Гор	Эл Гор	PER	PER-Al-Gore
+американские	американские	LOC	GPE-USA
+американском	американский	LOC	GPE-USA
+американцев	американцы	PER	GPE-USA
+американцы	американцы	PER	GPE-USA
+вашингтонских	вашингтонский	LOC	GPE-WashingtonDC
+выборах 2016 года	выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+демократ	демократ	ORG	ORG-Democratic-Party-USA
+кампания 2000 года	кампания 2000 года	EVT	ETV-2000-United-States-Presidential-Campaign
+коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+коллегию выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+коллегия	коллегия	ORG	ORG-United-States-Electoral-College
+конгресса США	конгресс США	ORG	ORG-United-States-Congress
+магистра Йоду	магистр Йода	PER	PER-Yoda
+республиканец	республиканец	ORG	ORG-Republican-Party-USA
+республиканцами	республиканцы	ORG	ORG-Republican-Party-USA
+сената США	сенат США	ORG	ORG-United-States-Senate
+сената штата	сенат штата	ORG	ORG-United-States-State-Legislature
+сената	сенат	ORG	ORG-United-States-Senate

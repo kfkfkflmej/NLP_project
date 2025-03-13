@@ -1,0 +1,24 @@
+uk-10317
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+COVAX	COVAX	PRO	PRO-Covax-initiative
+COVІD-19	COVІD-19	EVT	EVT-Covid-19
+Codagenix	Codagenix	ORG	ORG-Codagenix
+Moderna	Moderna	ORG	ORG-Moderna
+Open Orphan	Open Orphan	ORG	ORG-Open-Orphan
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Vaxart	Vaxart	ORG	ORG-Vaxart
+Бабель	Бабель	PRO	PRO-Babel
+Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+ГРВІ	ГРВІ	EVT	EVT-Viral-Respiratory-Infection
+Діпта Бхаттачарʼя	Діпта Бхаттачарʼя	PER	PER-Deepta-Bhattacharya
+Канаді	Канада	LOC	GPE-Canada
+МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+США	США	LOC	GPE-USA
+Україна	Україна	LOC	GPE-Ukraine
+Україні	Україна	LOC	GPE-Ukraine
+Університету Аризони	Університет Аризони	ORG	ORG-University-of-Arizona
+грип	грип	EVT	EVT-Influenza
+коронавірус	коронавірус	EVT	EVT-Covid-19
+коронавірусом	коронавірус	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+пандемію	пандемія	EVT	EVT-Covid-19

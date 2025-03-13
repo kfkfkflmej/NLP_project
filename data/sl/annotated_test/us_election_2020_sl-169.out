@@ -1,0 +1,46 @@
+sl-169
+Arizoni	Arizona	LOC	GPE-Arizona
+Belo hišo	Bela hiša	LOC	LOC-White-House
+Biden	Biden	PER	PER-Joe-Biden
+Bidnov	Biden	PER	PER-Joe-Biden
+Bidnu	Biden	PER	PER-Joe-Biden
+Brad Raffensperger	Brad Raffensperger	PER	PER-Brad-Raffensperger
+Chris Krebs	Chris Krebs	PER	PER-Chris-Krebs
+Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+Demokratu	Demokrat	PER	ORG-Democratic-Party-USA
+Detroit	Detroit	LOC	GPE-Detroit
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donaldu Trumpu	Donald Trump	PER	PER-Donald-Trump
+Georgia	Georgia	LOC	GPE-Georgia-US-state
+Georgii	Georgia	LOC	GPE-Georgia-US-state
+Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+Giulianijeva	Giuliani	PER	PER-Rudy-Giuliani
+Harvarda	Harvard	ORG	ORG-Harvard-University
+Joe Pesci	Joe Pesci	PER	PER-Joe-Pesci
+Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+Kitajske	Kitajska	LOC	GPE-China
+Kube	Kuba	LOC	GPE-Cuba
+Marc Scaringi	Marc Scaringi	PER	PER-Marc-Scaringi
+Michiganu	Michigan	LOC	GPE-Michigan
+My Cousin Vinny	My Cousin Vinny	PRO	PRO-My-Cousin-Vinny
+Nicholas Stephanopoulos	Nicholas Stephanopoulos	PER	PER-Nicholas-Stephanopoulos
+Novi Mehiki	Nova Mehika	LOC	GPE-New-Mexico
+Rudy Giuliani	Rudy Giuliani	PER	PER-Rudy-Giuliani
+Rudyja Giulianija	Rudy Giuliani	PER	PER-Rudy-Giuliani
+Tanzaniji	Tanzanija	LOC	GPE-Tanzania
+Trump	Trump	PER	PER-Donald-Trump
+Trumpov	Trump	PER	PER-Donald-Trump
+Trumpove	Trump	PER	PER-Donald-Trump
+Trumpovem	Trump	PER	PER-Donald-Trump
+Trumpovi	Trump	PER	PER-Donald-Trump
+Trumpovo	Trump	PER	PER-Donald-Trump
+Venezuele	Venezuela	LOC	GPE-Venezuela
+Wilmingtonu	Wilmington	LOC	GPE-Wilmington
+ZDA	ZDA	LOC	GPE-USA
+državnega kongresa Michigana	državni kongres Michigana	ORG	ORG-Michigan-State-Capitol
+državno volilno komisijo	državna volilna komisija	ORG	ORG-FEC-Federal-Election-Commission
+koronavirusa	koronavirus	EVT	EVT-Covid-19
+okrožja Wayne	okrožje Wayne	LOC	GPE-Wayne
+okrožju Wayne	okrožje Wayne	LOC	GPE-Wayne
+republikance	republikanci	ORG	ORG-Republican-Party-USA
+republikancev	republikanci	ORG	ORG-Republican-Party-USA

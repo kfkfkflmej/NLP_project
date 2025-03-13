@@ -1,0 +1,35 @@
+ru-70
+CNN Forecast	CNN Forecast	PRO	PRO-CNN-Forecast
+Fivethirtyeight.com	Fivethirtyeight.com	PRO	PRO-FiveThirtyEight
+Fivethirtyeight	Fivethirtyeight	PRO	PRO-FiveThirtyEight
+Fox News	Fox News	PRO	PRO-Fox-News
+MSNBC	MSNBC	PRO	PRO-MSNBC-TV
+NYT	NYT	PRO	PRO-The-New-York-Times
+Politico	Politico	PRO	PRO-Politico
+RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+Vox	Vox	PRO	PRO-Vox
+Америке	Америка	LOC	GPE-USA
+Демократы	демократы	PER	ORG-Democratic-Party-USA
+Клинтон	Клинтон	PER	PER-Hillary-Clinton
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Обамой	Обама	PER	PER-Barack-Obama
+Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Сook Political Report	Сook Political Report	PRO	PRO-The-Cook-Political-Report
+США	США	LOC	GPE-USA
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Сенате	Сенат	ORG	ORG-United-States-Senate
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Харри Энтен	Харри Энтен	PER	PER-Harry-Enten
+Хиллари	Хиллари	PER	PER-Hillary-Clinton
+американские	американские	LOC	GPE-USA
+американских	американский	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американцев	американцы	LOC	GPE-USA
+выборы 2016 года	выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+демократов	демократ	PER	ORG-Democratic-Party-USA
+демократы	демократ	PER	ORG-Democratic-Party-USA
+палате представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+президентских выборов 2020 года	президентские выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+республиканцев	республиканец	PER	ORG-Republican-Party-USA
+республиканцы	республиканец	PER	ORG-Republican-Party-USA

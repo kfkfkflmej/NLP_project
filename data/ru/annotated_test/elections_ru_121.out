@@ -1,0 +1,38 @@
+ru-121
+OBOZREVATEL	OBOZREVATEL	PRO	PRO-Obozrevatel
+Америка	Америка	LOC	GPE-USA
+Американцы	Американцы	PER	GPE-USA
+Америке	Америка	LOC	GPE-USA
+Америку	Америка	LOC	GPE-USA
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байденом	Байден	PER	PER-Joe-Biden
+Вашингтон	Вашингтон	LOC	GPE-Washington
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Демократическая	Демократическая	ORG	ORG-Democratic-Party-USA
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Залмаева	Залмаев	PER	PER-Peter-Zalmayev
+Киеве	Киев	LOC	GPE-Kiev
+Никсоне	Никсон	PER	PER-Richard-Nixon
+Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+Питер Залмаев	Питер Залмаев	PER	PER-Peter-Zalmayev
+Республиканская	Республиканская	ORG	ORG-Republican-Party-USA
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Ричард Никсон	Ричард Никсон	PER	PER-Richard-Nixon
+США	США	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Флорида	Флорида	LOC	GPE-Florida
+Штатах	Штаты	LOC	GPE-USA
+Штаты	Штаты	LOC	GPE-USA
+американские	американские	LOC	GPE-USA
+американской	американская	LOC	GPE-USA
+американцев	американцы	PER	GPE-USA
+американцы	американцы	PER	GPE-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+коронавируса	коронавирус	EVT	EVT-Covid-19
+республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+украинский	украинский	LOC	GPE-Ukraine

@@ -1,0 +1,62 @@
+ru-87
+Fox News	Fox News	PRO	PRO-Fox-News
+NPR	NPR	PRO	PRO-NPR
+«Российской газеты»	Российская газета	PRO	PRO-Rossiyskaya-Gazeta
+Америке	Америка	LOC	GPE-USA
+Аризона	Аризона	LOC	GPE-Arizona
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Белым домом	Белый дом	ORG	ORG-The-White-House
+Билл Клинтон	Билл Клинтон	PER	PER-Bill-Clinton
+В.А. Фронин	В.А. Фронин	PER	PER-V.A. Fronin
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+Верховным судом	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+Висконсин	Висконсин	LOC	GPE-Wisconsin
+Гавайях	Гавайи	LOC	GPE-Hawaii
+Делавэр	Делавэр	LOC	GPE-Delaware
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Калифорнии	Калифорния	LOC	GPE-California
+Камала Харрис	Камала Харрис	PER	PER-Kamala-Harris
+Камалы Харрис	Камала Харрис	PER	PER-Kamala-Harris
+Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Коллегию выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Коллегия	Коллегия	ORG	ORG-United-States-Electoral-College
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конституции	Конституция	PRO	PRO-The-USA-Constitution
+Конституцию	Конституция	PRO	PRO-The-USA-Constitution
+Лансинге	дансинг	LOC	GPE-Lansing
+Майка Пенса	Майк Пенс	PER	PER-Mike-Pence
+Мичигана	Мичиган	LOC	GPE-Michigan
+Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+Олбани	Олбани	LOC	GPE-Albany
+Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Роскомнадзоре	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+США	США	LOC	GPE-USA
+Сената	Сенат	ORG	ORG-United-States-Senate
+Соединенных Штатах	Соединенные Штаты	LOC	GPE-USA
+Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+Стивен Миллер	Стивен Миллер	PER	PER-Stephen-Miller
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Уилмингтона	Уилмингтон	LOC	GPE-Wilmington
+Харрис	Харрис	PER	PER-Kamala-Harris
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+американской	американская	LOC	GPE-USA
+американскую	американский	LOC	GPE-USA
+восточному	восточное	LOC	LOC-East
+выборах 2020 года	выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократ	PER	ORG-Democratic-Party-USA
+коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+округ Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia
+округом Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia
+республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+республиканцев	республиканец	PER	ORG-Republican-Party-USA

@@ -1,0 +1,40 @@
+sl-21
+Amerika	Amerika	LOC	GPE-USA
+Američani	Američani	PER	GPE-USA
+Barack	Barack	PER	PER-Barack-Obama
+Barronom	Barron	PER	PER-Barron-Trump
+Beauja	Beau	PER	PER-Beau-Biden
+Bele hiše	Bela hiša	LOC	LOC-White-House
+Beli hiši	Bela hiša	LOC	LOC-White-House
+Belo hišo	Bela hiša	LOC	LOC-White-House
+Betty Ford	Betty Ford	PER	PER-Betty-Ford
+Bidnov	Bidnov	PER	PER-Joe-Biden
+Bidnovim	Bidnovi	PER	PER-Biden-Family
+Demokratu	Demokrat	PER	ORG-Democratic-Party-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Eleanor Roosevelt	Eleanor Roosevelt	PER	PER-Elanor-Roosevelt
+Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+Hunter	Hunter	PER	PER-Hunter-Biden
+Hunterju Bidnu	Hunter Biden	PER	PER-Hunter-Biden
+Jackie Kennedy	Jackie Kennedy	PER	PER-Jacqueline-Kennedy-Onassis
+Jill Biden	Jill Biden	PER	PER-Jill-Biden
+Jill	Jill	PER	PER-Jill-Biden
+Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+Joeju	Joe	PER	PER-Joe-Biden
+Johna F. Kennedyja	John F. Kennedy	PER	PER-John-F-Kennedy
+Mary Jordan	Mary Jordan	PER	PER-Mary-Jordan
+Melania	Melania	PER	PER-Melania-Trump
+Melanii Trump	Melania Trump	PER	PER-Melania-Trump
+Melanii	Melania	PER	PER-Melania-Trump
+Melanijini	Melanijina	PER	PER-Melania-Trump
+Melanijino	Melanija	PER	PER-Melania-Trump
+Michelle Obama	Michelle Obama	PER	PER-MIchelle-Obama
+Michelle	Michelle	PER	PER-MIchelle-Obama
+New Yorku	New York	LOC	GPE-New-York
+Trump	Trump	PER	PER-Donald-Trump
+Trumpu	Trump	PER	PER-Donald-Trump
+Umetnost njenega posla	Umetnost njenega posla	PRO	PRO-The-Art-of-Her-Deal-The-Untold-Story-of-Melania-Trump
+Washington Posta	Washington Post	PRO	PRO-Washington-Post
+ZDA	ZDA	LOC	GPE-USA
+covidom 19	covid 19	EVT	EVT-Covid-19

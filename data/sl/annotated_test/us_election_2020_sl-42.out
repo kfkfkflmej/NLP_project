@@ -1,0 +1,32 @@
+sl-42
+AP	AP	ORG	ORG-AP-The-Associated-Press
+Arizona	Arizona	LOC	GPE-Arizona
+Biden	Biden	PER	PER-Joe-Biden
+Bidna	Biden	PER	PER-Joe-Biden
+Bidnova	Biden	PER	PER-Joe-Biden
+Bidnu	Biden	PER	PER-Joe-Biden
+Bill Clinton	Bill Clinton	PER	PER-Bill-Clinton
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+GCC	GCC	ORG	ORG-Elections-Infrastructure-Government-Coordinating-Council
+Georgia	Georgia	LOC	GPE-Georgia-US-state
+Georgio	Georgia	LOC	GPE-Georgia-US-state
+Izvršni odbor sveta za vladno usklajevanje volilne infrastrukture	Izvršni odbor sveta za vladno usklajevanje volilne infrastrukture	ORG	ORG-Elections-Infrastructure-Government-Coordinating-Council
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Kamala Harris	Kamala Harris	PER	PER-Kamala-Harris
+Michigan	Michigan	LOC	GPE-Michigan
+Pensilvanija	Pensilvanija	LOC	GPE-Pennsylvania
+Reuters	Reuters	ORG	ORG-Reuters
+SCC	SCC	ORG	ORG-Sector-Coordinating-Council
+Severno Karolino	Severna Karolina	LOC	GPE-North-Carolina-US-State
+Svet za sektorsko usklajevanje volilne infrastrukture	Svet za sektorsko usklajevanje volilne infrastrukture	ORG	ORG-Sector-Coordinating-Council
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+Trumpovi	Trump	PER	PER-Donald-Trump
+Trumpu	Trump	PER	PER-Donald-Trump
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+ZDA	ZDA	LOC	GPE-USA
+demokrat	demokrat	PER	ORG-Democratic-Party-USA
+demokrate	demokrati	ORG	ORG-Democratic-Party-USA
+republikance	republikanci	ORG	ORG-Republican-Party-USA
+republikancem	republikanci	ORG	ORG-Republican-Party-USA

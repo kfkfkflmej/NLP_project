@@ -1,0 +1,30 @@
+ru-68
+COVID-19	COVID-19	EVT	EVT-Covid-19
+REUTERS	REUTERS	ORG	ORG-Reuters
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+kp.ru	kp.ru	PRO	PRO-Komsomolskaya-Pravda
+«Вектора»	Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+«КП»	КП	PRO	PRO-Komsomolskaya-Pravda
+«Лидер медицина»	Лидер медицина	ORG	ORG-Medical-Centre-Lider-Medicina
+«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+«Спутника V»	Спутник V	PRO	PRO-Sputnik-V
+«Спутником V»	Спутник V	PRO	PRO-Sputnik-V
+«Спутнику V»	Спутник V	PRO	PRO-Sputnik-V
+«ЭпиВакКорона»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+Владимир ВЕЛЕНГУРИН	Владимир ВЕЛЕНГУРИН	PER	PER-Vladimir-Velengurin
+Евгений Тимаков	Евгений Тимаков	PER	PER-Evgeny-Timakov
+Евгений Юрьевич	Евгений Юрьевич	PER	PER-Evgeny-Timakov
+Евгению Тимакову	Евгений Тимаков	PER	PER-Evgeny-Timakov
+Минздраве	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+России	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Центр им. Чумакова	Центр им. Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+Центра им. Чумакова	Центр им. Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+Центра им.Чумакова	Центр им.Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+ковида	ковид	EVT	EVT-Covid-19
+ковидом	ковид	EVT	EVT-Covid-19
+ковиду	ковид	EVT	EVT-Covid-19
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+новосибирского научного центра «Вектор»	новосибирский научный центр «Вектор»	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+новосибирского	новосибирский	LOC	GPE-Novosibirsk

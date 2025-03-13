@@ -1,0 +1,99 @@
+ru-105
+Белого дома	Белыйдом	ORG	ORG-The-White-House
+"За стеклом"	"За стеклом"	PRO	PRO-Behind-the-Glass
+"Когда Гарри встретил Салли"	"Когда Гарри встретил Салли"	PRO	PRO-When-Harry-Met-Sally
+"Марвел"	"Марвел"	PRO	PRO-Marvel
+BLMщики	BLMщики	PER	ORG-Black-Lives-Matter
+CNN	CNN	PRO	PRO-CNN
+Fox News	Fox News	PRO	PRO-Fox-News
+The Hill	The Hill	PRO	PRO-The-Hill
+Trump Village	Trump Village	LOC	LOC-Trump-Village
+Twitter	Twitter	PRO	PRO-Twitter
+Америка	Америка	LOC	GPE-USA
+Американский	Американский	LOC	GPE-USA
+Америке	Америка	LOC	GPE-USA
+Америку	Америка	LOC	GPE-USA
+Аризона	Аризона	LOC	GPE-Arizona
+Аризоне	Аризона	LOC	GPE-Arizona
+Аризону	Аризона	LOC	GPE-Arizona
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белом доме	Белый дом	ORG	ORG-The-White-House
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Бостон	Бостон	LOC	GPE-Boston
+Брайтон Бич	Брайтон Бич	LOC	LOC-Brighton-Beach
+Висконсине	Висконсин	LOC	GPE-Wisconsin
+Голливуда	Голливуд	LOC	LOC-Hollywood
+Гринвич Вилледж	Гринвич Вилледж	LOC	LOC-Greenwich-Village
+Демократической фракции Палаты представителей США	Демократическая фракция Палаты представителей США	ORG	ORG-Democratic-Party-USA
+Денвере	Дендвер	LOC	GPE-Denver
+Джаред Кушнер	Джаред Кушнер	PER	PER-Jared-Kushner
+Джефрис	Джефрис	PER	PER-Hakeem-Jeffries
+Джефриса	Джефрис	PER	PER-Hakeem-Jeffries
+Джеффрис	Джеффрис	PER	PER-Hakeem-Jeffries
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джорджа Флойда	Джордж Флойд	PER	PER-George-Floyd
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Джорджию	Джорджия	LOC	GPE-Georgia-US-state
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Джулиани	Джулиани	PER	PER-Rudy-Giuliani
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Иванка	Иванка	PER	PER-Ivanka-Trump
+Камалой Харрис	Камала Харрис	PER	PER-Kamala-Harris
+Кейли Макинэни	Кейли Макинэни	PER	PER-Kayleigh-McEnany
+Колорадо	Колорадо	LOC	GPE-Colorado
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Марикопа	Марикопа	LOC	GPE-Maricopa-County
+Марк Руффало	Марк Руффало	PER	PER-Mark-Ruffalo
+Миннеаполисе	Миннеаполис	LOC	GPE-Minneapolis
+Мичиган	Мичиган	LOC	GPE-Michigan
+Мичигане	Мичиган	LOC	GPE-Michigan
+Неваде	Невада	LOC	GPE-Nevada
+Неваду	Невада	LOC	GPE-Nevada
+Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+Нэнси Пелоси	Нэнси Пелоси	PER	PER-Nancy-Pelosi
+ОБСЕ	ОБСЕ	ORG	ORG-Organization-for-Security-and-Co-operation-in-Europe
+Овального кабинета	Овальный кабинет	LOC	LOC-Oval-Office
+Парижское соглашение по климату	Парижское соглашение по климату	PRO	PRO-Paris-Agreement
+Пелоси	Пелоси	PER	PER-Nancy-Pelosi
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Пенсильванию	Пенсильвания	LOC	GPE-Pennsylvania
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+Подразделения нацгвардии штата Орегон	Подразделения нацгвардии штата Орегон	ORG	ORG-Oregon-National-Guard
+Портленда	Портленд	LOC	GPE-Portland
+Рианы	Риана	PER	PER-Rihanna
+Роб Райнер	Роб Райнер	PER	LOC-Rob-Reiner
+Рудольф Джулиани	Рудольф Джулиани	PER	PER-Rudolph-Giuliani
+США	США	LOC	GPE-USA
+Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Секретной службы	Секретная службы	ORG	ORG-United-States-Secret-Service
+Сиэтла	Сиэтл	LOC	GPE-Seattle
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Филадельфии	Филадельфия	LOC	GPE-Philadelphia
+Филадельфия	Филадельфия	LOC	GPE-Philadelphia
+Фред Трамп	Фред Трамп	PER	PER-Frederick-Christ-Trump-Sr.
+Хаким Джеффрис	Хаким Джеффрис	PER	PER-Hakeem-Jeffries
+Халка	Халк	PER	PER-Hulk
+Чикаго	Чикаго	LOC	GPE-Chicago
+Эрик Трамп	Эрик Трамп	PER	PER-Eric-Trump
+американский	американский	LOC	GPE-USA
+американских	американские	LOC	GPE-USA
+американцах	американцы	PER	GPE-USA
+американцев	американцы	PER	GPE-USA
+башня Трампа	башня Трампа	LOC	LOC-Trump-Tower
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+демократы	демократы	PER	ORG-Democratic-Party-USA
+коронавируса	коронавирус	EVT	EVT-Covid-19
+нацгвардии	нацгвардия	ORG	ORG-United-States-National-Guard
+нижней палаты	нижняя палата	ORG	ORG-United-States-House-of-Representatives
+республиканцами	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+российским	российский	LOC	GPE-Russia
+русское	русский	LOC	GPE-Russia

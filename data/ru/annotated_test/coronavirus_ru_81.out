@@ -1,0 +1,22 @@
+ru-81
+COVID-19	COVID-19	EVT	EVT-Covid-19
+CanSino Biological	CanSino Biological	ORG	ORG-Cansino-Biologics
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+mos.ru	mos.ru	PRO	PRO-Mos-.ru
+«АстраЗенеки»	«АстраЗенека»	ORG	ORG-AstraZeneca
+«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+«короне»	корона	EVT	EVT-Covid-19
+Ковид	КОВИД-19	EVT	EVT-Covid-19
+Николаем Крючковым	Николай Крючков	PER	PER-Nikolai-Kryuchkov
+Николай Крючков	Николай Крючков	PER	PER-Nikolai-Kryuchkov
+России	Россия	LOC	GPE-Russia
+ЭпиВакКорона	"ЭпиВакКорона"	PRO	PRO-EpiVacCorona
+американские	американские	PER	GPE-USA
+китайская	китайский	PER	GPE-China
+ковид	ковид	EVT	EVT-Covid-19
+ковида	ковид	EVT	EVT-Covid-19
+ковидом	ковид	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+московского правительства	московское правительство	ORG	ORG-Government-of-Moscow
+оксфордская	оксфордский	PER	GPE-Oxford
+чумаковская вакцина	чумаковская вакцина	PRO	PRO-Chumakov-Vaccine

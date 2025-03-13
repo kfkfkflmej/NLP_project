@@ -1,0 +1,24 @@
+72
+Arnaud Fontanet	Arnaud Fontanet	PER	PER-Arnaud-Fontanet
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BFM TV	BFM TV	PRO	PRO-BFM-TV
+BioNTechu	BioNTech	ORG	ORG-BioNTech
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Dominique Le Guludec	Dominique Le Guludec	PER	PER-Dominique-Le-Guludec
+Francja	Francja	LOC	GPE-France
+Francji	Francja	LOC	GPE-France
+HAS	HAS	ORG	ORG-Haute-Autorité-de-Santé-France
+Kanadzie	Kanada	LOC	GPE-Canada
+Moderna	Moderna	ORG	ORG-Moderna
+Moderny	Moderna	ORG	ORG-Moderna
+Niemczech	Niemcy	LOC	GPE-Germany
+Pfizera	Pfizer	ORG	ORG-Pfizer
+Reuters	Reuters	ORG	ORG-Reuters
+UE	UE	ORG	ORG-European-Union
+USA	USA	LOC	GPE-USA
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Uniwersytet Oksfordzki	Uniwersytet Oksfordzki	ORG	ORG-University-of-Oxford
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+agencja Reutera	agencja Reutera	ORG	ORG-Reuters
+koronawirusem	koronawirus	EVT	EVT-Covid-19
+radiu France	radio France	PRO	PRO-radio-France

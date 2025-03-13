@@ -1,0 +1,25 @@
+uk-10329
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Newsweek	Newsweek	PRO	PRO-Newsweek
+Pfizer	Pfizer	ORG	ORG-Pfizer
+REUTERS	REUTERS	ORG	ORG-Reuters
+The Guardian	The Guardian	ORG	ORG-The-Guardian
+ІноЗМІ	ІноЗМІ	PRO	PRO-InoZMI
+Ангелу Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+Володимир Зеленський	Володимир Зеленський	PER	PER-Volodymyr-Zelensky
+Ентоні Фаучі	Ентоні Фаучі	PER	PER-Anthony-Fauci
+Максиму Степанову	Максим Степанов	PER	PER-Maksym-Stepanov
+Німеччини	Німеччина	LOC	GPE-Germany
+США	США	LOC	GPE-USA
+УНІАН	УНІАН	ORG	ORG-UNIAN
+України	Україна	LOC	GPE-Ukraine
+Україні	Україна	LOC	GPE-Ukraine
+Фаучі	Фаучі	PER	PER-Anthony-Fauci
+коронавірусну інфекцію	коронавірусна інфекція	EVT	EVT-Covid-19
+коронавірусом	коронавірус	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+пандемію	пандемія	EVT	EVT-Covid-19
+пандемія COVID-19	пандемія COVID-19	EVT	EVT-Covid-19
+пандемія	пандемія	EVT	EVT-Covid-19
+пандемією	пандемія	EVT	EVT-Covid-19

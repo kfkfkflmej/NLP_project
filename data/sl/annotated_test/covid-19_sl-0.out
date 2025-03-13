@@ -1,0 +1,28 @@
+sl-0
+Američanom	Američani	PER	GPE-USA
+Andrew Cuomo	Andrew Cuomo	PER	PER-Andrew-Cuomo
+Anthony Fauci	Anthony Fauci	PER	PER-Anthony-Fauci
+Arizoni	Arizona	LOC	GPE-Arizona
+Belo hišo	Bela hiša	ORG	LOC-White-House
+Faucijem	Fauci	PER	PER-Anthony-Fauci
+Gretchen Whitmer	Gretchen Whitmer	PER	PER-Gretchen-Whitmer
+Južna Dakota	Južna Dakota	LOC	GPE-South-Dakota-US-State
+Louisiani	Louisiana	LOC	GPE-Louisiana
+Michigana	Michigan	LOC	GPE-Michigan
+Michiganu	Michigan	LOC	GPE-Michigan
+Ministrstvo za zdravje ZDA	Ministrstvo za zdravje ZDA	ORG	ORG-Department-of-Health
+Ministrstvo za zdravje	Ministrstvo za zdravje	ORG	ORG-Department-of-Health
+Minnesoti	Minnesota	LOC	GPE-Minnesota
+New York	New York	LOC	GPE-New-York
+Newyorčanov	Newyorčani	PER	GPE-New-York
+Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+Trump	Trump	PER	PER-Donald-Trump
+Univerza Minnesote	Univerza v Minnesoti	ORG	ORG-University-of-Minessota
+ZDA	ZDA	LOC	GPE-USA
+ameriškega nacionalnega inštituta za zdravje	Ameriški nacionalni inštitut za zdravje	ORG	ORG-National-Institute-of-Health-USA
+covid-19	covid-19	EVT	EVT-Covid-19
+covida-19	covid-19	EVT	EVT-Covid-19
+covidom-19	covid-19	EVT	EVT-Covid-19
+covidu-19	covid-19	EVT	EVT-Covid-19
+hidroksiklorokin	hidroksiklorokin	PRO	PRO-Hydroxychloroquine
+univerze Johnsa Hopkinsa	Univerza John Hopkins	ORG	ORG-John-Hopkins-University

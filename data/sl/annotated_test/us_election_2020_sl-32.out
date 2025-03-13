@@ -1,0 +1,39 @@
+sl-32
+AP	AP	ORG	ORG-AP-The-Associated-Press
+Aljaski	Aljaska	LOC	GPE-Alaska
+Američane	Američani	PER	GPE-USA
+Američanom	Američani	PER	GPE-USA
+Američanov	Američani	PER	GPE-USA
+Andreja Židanik	Andreja Židanik	PER	PER-Andreja-Židanik
+Arizoni	Arizona	LOC	GPE-Arizona
+Ballotpedia	Ballotpedia	PRO	PRO-Ballotpedia
+Biden	Biden	PER	PER-Joe-Biden
+Bidna	Biden	PER	PER-Joe-Biden
+Bidnom	Biden	PER	PER-Joe-Biden
+Bidnova	Biden	PER	PER-Joe-Biden
+Bidnu	Biden	PER	PER-Joe-Biden
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Georgii	Georgia	LOC	GPE-Georgia-US-state
+Georgii	Georgie	LOC	GPE-Georgia-US-state
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Kalifornijo	Kalifornija	LOC	GPE-California
+Michiganu	Michigan	LOC	GPE-Michigan
+Mojca Gorjan	Mojca Gorjan	PER	PER-Mojca-Gorjan
+Nevadi	Nevada	LOC	GPE-Nevada
+Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+RCP	RCP	PRO	ORG-RealClearPolitics
+Republikanska stranka	Republikanska stranka	ORG	ORG-Republican-Party-USA
+Reuters	Reuters	ORG	ORG-Reuters
+Samuel Alito	Samuel Alito	PER	PER-Samuel-Alito
+TRUMP	TRUMP	PER	PER-Donald-Trump
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+Trumpom	Trump	PER	PER-Donald-Trump
+Utah	Utah	LOC	GPE-Utah
+Utahu	Utah	LOC	GPE-Utah
+Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+ZDA	ZDA	LOC	GPE-USA
+Združene države	Združene države	LOC	GPE-USA
+ameriškega vrhovnega sodišča	ameriško vrhovno sodišče	ORG	ORG-Supreme-Court-of-the-United-States
+demokrate	demokrati	ORG	ORG-Democratic-Party-USA
+republikancev	republikanci	PER	ORG-Republican-Party-USA

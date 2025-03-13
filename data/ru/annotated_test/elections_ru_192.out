@@ -1,0 +1,67 @@
+ru-192
+BBC	BBC	PRO	PRO-BBC
+Elle	Elle	PRO	PRO-Elle
+Getty Images	Getty Images	PRO	PRO-Getty-Images
+ICE	ICE	ORG	ORG-US-Immigration-and-Customs-Enforcement
+Pew Research Center	Pew Research Center	ORG	ORG-Pew-research-center
+Андрэ Карсон	Андрэ Карсон	PER	PER-Andre-Carson
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Би-би-си	Би-би-си	PRO	PRO-BBC
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Венесуэлы	Венесуэла	LOC	GPE-Venezuela
+Верховным судом США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Детройта	Детройт	LOC	GPE-Detroit
+Детройте	Детройт	LOC	GPE-Detroit
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+Ильхан Омар	Ильхан Омар	PER	PER-Ilhan-Omar
+Индиана	Индиана	LOC	GPE-Indiana
+Ирака	Ирак	LOC	GPE-Iraq
+Ирана	Иран	LOC	GPE-Iran
+Йемена	Йемен	LOC	GPE-Yemen
+КНДР	КНДР	LOC	GPE-North-Korea
+Капитолийский холм	Капитолийский холм	ORG	ORG-Capitoline-Hill
+Кении	Кения	LOC	GPE-Kenya
+Кита Эллисона	Кит Эллисон	PER	PER-Keith-Ellison
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгрессе США	Конгресс США	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Ливии	Ливия	LOC	GPE-Libya
+Миннеаполис	Миннеаполис	LOC	GPE-Minneapolis
+Миннесота	Миннесота	LOC	GPE-Minnesota
+Миннесоте	Миннесота	LOC	GPE-Minnesota
+Миннесоты	Миннесота	LOC	GPE-Minnesota
+Мичиган	Мичиган	LOC	GPE-Michigan
+Мичигана	Мичиган	LOC	GPE-Michigan
+Омар	Омар	PER	PER-Ilhan-Omar
+Рашида Тлаиб	Рашида Тлаиб	PER	PER-Rashida-Tlaib
+Рашидой Тлаиб	Рашида Тлаиб	PER	PER-Rashida-Tlaib
+США	США	LOC	GPE-USA
+Сирии	Сирия	LOC	GPE-Syria
+Сомали	Сомали	LOC	GPE-Somalia
+Судан	Судан	LOC	GPE-Sudan
+Судана	Судан	LOC	GPE-Sudan
+Тлаиб	Илаиб	PER	PER-Rashida-Tlaib
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампом	Трамп	PER	PER-Donald-Trump
+Чад	Чад	LOC	GPE-Chad
+Эй-би-си	Эй-би-си	PRO	PRO-ABC-News
+американской	американская	LOC	GPE-USA
+генпрокуратуре	генпрокуратура	ORG	ORG-United-States-Department-of-Justice
+демократа	демократ	PER	ORG-Democratic-Party-USA
+демократами	демократы	PER	ORG-Democratic-Party-USA
+иммиграционную и таможенную полицию США	Иммиграционная и таможенная полиция США	ORG	ORG-US-Immigration-and-Customs-Enforcement
+конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+конгресс	Конгресс	ORG	ORG-United-States-Congress
+конгресс	конгресс	ORG	ORG-United-States-Congress
+конгресса	Конгресс	ORG	ORG-United-States-Congress
+конгрессе	Конгресс	ORG	ORG-United-States-Congress
+палате представителей США	Палата представителей США	ORG	ORG-United-States-House-of-Representatives
+палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+палату представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+палестинских	палестинские	LOC	GPE-Palestine
+республиканцами	республиканцы	PER	ORG-Republican-Party-USA
+сомалийское	сомалийское	LOC	GPE-Somalia
+сомалийцы	сомалийцы	LOC	GPE-Somalia

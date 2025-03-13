@@ -1,0 +1,30 @@
+uk-10309
+Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+BioNTech	BioNTech	ORG	ORG-BioNTech
+DW	DW	ORG	ORG-Deutsche-Welle
+Deutsche Welle	Deutsche Welle	ORG	ORG-Deutsche-Welle
+Jens Spahn	Jens Spahn	PER	PER-Jens-Spahn
+Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+Pfizer	Pfizer	ORG	ORG-Pfizer
+ЄС	ЄС	LOC	ORG-European-Union
+Європа	Європа	LOC	LOC-Europe
+Євросоюзі	Євросоюз	LOC	ORG-European-Union
+Єнс Шпан	Єнс Шпан	PER	PER-Jens-Spahn
+Інститут імені Роберта Коха	Інститут імені Роберта Коха	ORG	ORG-Robert-Koch-Institute
+Анґела Меркель	Анґела Меркель	PER	PER-Angela-Merkel
+Великобританії	Великобританія	LOC	GPE-Great-Britain
+Німеччина	Німеччина	LOC	GPE-Germany
+Німеччини	Німеччина	LOC	GPE-Germany
+Німеччині	Німеччина	LOC	GPE-Germany
+Сабіне Кінкарц	Сабіне Кінкарц	PER	PER-Sabine-Kinkartz
+Угура Шахіна	Угур Шахін	PER	PER-Ugur-Sahin
+ФРН	ФРН	LOC	GPE-Germany
+Фрайбурзі	Фрайбург	LOC	LOC-Freiburg
+Франкфурті-на-Майні	Франкфурт-на-Майні	LOC	GPE-Frankfurt-am-Main
+коронавірус	коронавірус	EVT	EVT-Covid-19
+коронавірусної інфекції	коронавірусна інфекція	EVT	EVT-Covid-19
+коронавірусом	коронавірус	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+пандемія	пандемія	EVT	EVT-Covid-19
+пандемією	пандемія	EVT	EVT-Covid-19
+пандемії	пандемія	EVT	EVT-Covid-19

@@ -1,0 +1,20 @@
+uk-20312
+CNN	CNN	ORG	ORG-CNN
+Європейська правда	Європейська правда	ORG	PRO-European-Truth
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Бейтс	Бейтс	PER	PER-Andrew-Bates
+Білого дому	Білий дім	ORG	ORG-White-House
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Ендрю Бейтс	Ендрю Бейтс	PER	PER-Andrew-Bates
+Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
+США	США	LOC	GPE-USA
+Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+виборах президента США	вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election

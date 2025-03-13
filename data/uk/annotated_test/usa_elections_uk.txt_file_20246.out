@@ -1,0 +1,20 @@
+uk-20246
+Telegram	Telegram	PRO	PRO-Telegram
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+Капітолій	Капітолій	LOC	LOC-United-States-Capitol
+Капітолії	Капітолій	LOC	LOC-United-States-Capitol
+Конгрес	Конгрес	ORG	ORG-United-States-Congress
+Ненсі Пелосі	Ненсі Пелосі	PER	PER-Nancy-Pelosi
+Палата	Палата	ORG	ORG-United-States-House-of-Representatives
+Палати представників США	Палата представників США	ORG	ORG-United-States-House-of-Representatives
+Пелосі	Пелосі	PER	PER-Nancy-Pelosi
+США	США	LOC	GPE-USA
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Сенату	Сенат	ORG	ORG-United-States-Senate
+Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+УП. Кляті питання	УП. Кляті питання	PRO	PRO-UP.Kliati-pytannia-Ukraine
+виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration

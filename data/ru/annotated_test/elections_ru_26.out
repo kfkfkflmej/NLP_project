@@ -1,0 +1,77 @@
+ru-26
+Andrew Weiss	Andrew Weiss	PER	PER-Andrew-Weiss
+Antony Blinken	Antony Blinken	PER	PER-Antony-Blinken
+Financial Times	Financial Times	PRO	PRO-Financial-Times
+Jacob Sullivan	Jacob Sullivan	PER	PER-Jacob-Sullivan
+John Kirby	John Kirby	PER	PER-John-Kirby
+SolarWinds	SolarWinds	PRO	PRO-SolarWinds
+Twitter	Twitter	PRO	PRO-Twitter
+Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
+Байдена	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Блинкен	Блинкен	PER	PER-Antony-Blinken
+Вайс	Вайс	PER	PER-Andrew-Weiss
+Вайса	Вайс	PER	PER-Andrew-Weiss
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+Генри Фоя	Генри Фой	PER	PER-Henry-Foy
+Германии	Германия	LOC	GPE-Germany
+Грузии	Грузия	LOC	GPE-Georgia
+Джейка Салливана	Джейк Салливан	PER	PER-Jacob-Sullivan
+Джен Псаки	Джен Псаки	PER	PER-Jen-Psaki
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джон Кирби	Джон Кирби	PER	PER-John-Kirby
+Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+ИноСМИ	ИноСМИ	PRO	PRO-InoSMI
+Китая	Китай	LOC	GPE-China
+Кремлем	Кремль	ORG	ORG-Kremlin
+Кремль	Кремль	ORG	ORG-Kremlin
+Кремля	Кремль	ORG	ORG-Kremlin
+Лорен Федор	Лорен Федор	PER	PER-Loren-Fedor
+Москва	Москва	LOC	GPE-Moscow
+Москвой	Москва	LOC	GPE-Moscow
+Москву	Москва	LOC	GPE-Moscow
+Москвы	Москва	LOC	GPE-Moscow
+НАТО	НАТО	ORG	ORG-NATO
+Навального	Навальный	PER	PER-Alexei-Navalny
+Навальным	Навальный	PER	PER-Alexei-Navalny
+Пентагона	Пентагон	ORG	ORG-The-Pentagon
+Псаки	Псаки	PER	PER-Jen-Psaki
+Путин	Путин	PER	PER-Vladimir-Putin
+Путина	Путин	PER	PER-Vladimir-Putin
+России	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+СНВ	СНВ	PRO	PRO-SORT-Strategic-Offensive-Reductions-Treaty
+США	США	LOC	GPE-USA
+Салливан	Салливан	PER	PER-Jacob-Sullivan
+Сенате	Сенат	ORG	ORG-United-States-Senate
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампом	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Украине	Украина	LOC	GPE-Ukraine
+Фонда Карнеги	фонд Карнеги	ORG	ORG-Carnegie-Endowment-for-International-Peace
+Эндрю Вайс	Эндрю Вайс	PER	PER-Andrew-Weiss
+Энтони Блинкен	Энтони Блинкен	PER	PER-Antony-Blinken
+американо	американо	LOC	GPE-USA
+американские	американские	LOC	GPE-USA
+американских	американские	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американское	американский	LOC	GPE-USA
+американцев	американцы	PER	GPE-USA
+аннексии Крыма в 2014 году	аннексия Крыма 2014	EVT	EVT-Annexation-of-Crimea
+афганским	афганский	LOC	GPE-Afghanistan
+договор СНВ	договор СНВ	PRO	PRO-SORT-Strategic-Offensive-Reductions-Treaty
+российские	российские	LOC	GPE-Russia
+российских	российский	LOC	GPE-Russia
+российского	российский	LOC	GPE-Russia
+российской	российский	LOC	GPE-Russia
+холодной войны	холодная война	EVT	EVT-Cold-War

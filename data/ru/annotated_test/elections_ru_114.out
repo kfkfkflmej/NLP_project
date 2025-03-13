@@ -1,0 +1,70 @@
+ru-114
+"демократическими"	"демократический"	ORG	ORG-Democratic-Party-USA
+"республиканскими"	"республиканский"	ORG	ORG-Republican-Party-USA
+Financial Times	Financial Times	PRO	PRO-Financial-Times
+Александ Кейссар	Александр Кейссар	PER	PER-Alexander-Keyssar
+Байдена	Байден	PER	PER-Joe-Biden
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Билл Клинтон	Билл Клинтон	PER	PER-Bill-Clinton
+Буша	Буш	PER	PER-George-Bush-Jr
+Вайоминге	Вайоминг	LOC	GPE-Wyoming
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Верховном суде	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+Висконсине	Висконсин	LOC	GPE-Wisconsin
+Гарвардский	Гарвардский	ORG	ORG-Harvard-University
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джордж Буш-младший	Джордж Буш-младший	PER	PER-George-Bush-Jr
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Дональд Трамп-младший	Дональд Трамп-младший	PER	PER-Donald-Trump-Jr.
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Калифорнии	Калифорния	LOC	GPE-California
+Клинтон	Клинтон	PER	PER-Hillary-Clinton
+Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+Коллегию	Коллегия	ORG	ORG-United-States-Electoral-College
+Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+Кристофер Колдуэлл	Кристофер Колдуэлл	PER	PER-Christopher-Caldwell
+Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+Мичигане	Мичиган	LOC	GPE-Michigan
+Мэн	Мэн	LOC	GPE-Maine
+Небраска	Небраска	LOC	GPE-Nebraska
+Неваде	Невада	LOC	GPE-Nevada
+Нью-Йорк	Нью-Йорк	LOC	GPE-New-York-State
+Нью-Йорке	Нью-Йорк	LOC	GPE-New-York-State
+Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+США	США	LOC	GPE-USA
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Флориде	Флорида	LOC	GPE-Florida
+Флориды	Флорида	LOC	GPE-Florida
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+Эл Гор	Эл Гор	PER	PER-Al-Gore
+Эндрю Куомо	Эндрю Куомо	PER	PER-Andrew-Cuomo
+американская	американский	PER	GPE-USA
+американского	американский	PER	GPE-USA
+американской	американский	LOC	GPE-USA
+демократ	демократ	ORG	ORG-Democratic-Party-USA
+демократам	демократ	ORG	ORG-Democratic-Party-USA
+демократам	демократы	ORG	ORG-Democratic-Party-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+коллегии	коллегия	ORG	ORG-United-States-Electoral-College
+коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+конгресс	конгресс	ORG	ORG-United-States-Congress
+конституцией	конституция	PRO	PRO-The-USA-Constitution
+конституции	конституция	PRO	PRO-The-USA-Constitution
+коронавируса	коронавирус	EVT	EVT-Covid-19
+палата представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+республиканском	республиканский	ORG	ORG-Republican-Party-USA
+республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+сенат	сенат	ORG	ORG-United-States-Senate
+сената	сенат	ORG	ORG-United-States-Senate

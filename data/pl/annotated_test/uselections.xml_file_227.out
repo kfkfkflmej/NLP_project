@@ -1,0 +1,34 @@
+227
+Arizona	Arizona	LOC	GPE-Arizona
+Biden	Biden	PER	PER-Joe-Biden
+Bidena	Biden	PER	PER-Joe-Biden
+Bidenowi	Biden	PER	PER-Joe-Biden
+FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
+Floryda	Floryda	LOC	GPE-Florida
+Florydzie	Floryda	LOC	GPE-Florida
+Florydą	Floryda	LOC	GPE-Florida
+Georgia	Georgia	LOC	GPE-Georgia-US-state
+Georgią	Georgia	LOC	GPE-Georgia-US-state
+Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+Iowa	Iowa	LOC	GPE-Iowa
+Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+Joe Bidenowi	Joe Biden	PER	PER-Joe-Biden
+Kalifornia	Kalifornia	LOC	GPE-California
+Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+Karoliną Północną	Karolina Północna	LOC	GPE-North-Carolina-US-State
+Nowy Jork	Nowy Jork	LOC	GPE-New-York
+Ohio	Ohio	LOC	GPE-Ohio
+Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+Pensylwanią	Pensylwania	LOC	GPE-Pennsylvania
+RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+Teksas	Teksas	LOC	GPE-Texas
+The Economist	The Economist	PRO	PRO-The-Economist
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+Trumpem	Trump	PER	PER-Donald-Trump
+Trumpowi	Trump	PER	PER-Donald-Trump
+USA	USA	LOC	GPE-USA
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+demokratów	demokraci	ORG	ORG-Democratic-Party-USA
+wyborów prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election

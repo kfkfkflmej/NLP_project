@@ -1,0 +1,42 @@
+ru-61
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+COVID-19	COVID-19	EVT	EVT-Covid-19
+NHS	NHS	ORG	ORG-NHS
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+The Local	The Local	PRO	PRO-The-Local
+Англии	Англия	LOC	GPE-Great-Britain
+Бахрейн	Бахрейн	LOC	GPE-Kingdom-of-Bahrain
+Варшавском медуниверситете	Варшавский медуниверситет	ORG	ORG-Medical-University-of-Warsaw
+Ватикан	Ватикан	LOC	GPE-Vatican
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Германии	Германия	LOC	GPE-Germany
+Денис Шмыгаль	Денис Шмыгаль	PER	PER-Denis-Shmygal
+ЕС	ЕС	ORG	ORG-European-Union
+Израиле	Израиль	LOC	GPE-Israel
+Израиль	Израиль	LOC	GPE-Israel
+Канада	Канада	LOC	GPE-Canada
+Китае	Китай	LOC	GPE-China
+Коронавирус	Коронавирус	EVT	EVT-Covid-19
+Лондоне	Лондон	LOC	GPE-London
+Мидлендсе	Мидлендс	LOC	GPE-Midlands
+Министерстве здравоохранения Германии	Министерство здравоохранения Германии	ORG	ORG-Ministry-of-Health-Germany
+Министерство здравоохранения	Министерство здравоохранения	ORG	ORG-Ministry-of-Health-Poland
+Нидерландов	Нидерланды	LOC	GPE-Holland
+Нидерланды	Нидерланды	LOC	GPE-Holland
+Оксфорде	Оксфорд	LOC	GPE-Oxford
+Оксфордского университета	Оксфордский университет	ORG	ORG-University-of-Oxford
+Офиса президента	Офис президента	ORG	ORG-Office-of-the-President-of-Ukraine
+Польше	Польша	LOC	GPE-Poland
+США	США	LOC	GPE-USA
+Соединенном Королевстве	Соединенное Королевство	LOC	GPE-Great-Britain
+Украина	Украина	LOC	GPE-Ukraine
+Украине	Украина	LOC	GPE-Ukraine
+американского	американский	PER	GPE-USA
+китайской	китайский	PER	GPE-China
+коронавируса	коронавирус	EVT	EVT-Covid-19
+немецкой	немецкий	PER	GPE-Germany
+украинцев	украинцы	PER	GPE-Ukraine

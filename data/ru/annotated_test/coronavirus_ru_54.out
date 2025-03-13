@@ -1,0 +1,19 @@
+ru-54
+COVID-19	COVID-19	EVT	EVT-Covid-19
+«Гам-КОВИД-Вак»	Гам-КОВИД-Вак	PRO	PRO-Gam-COVID-Vac
+«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+«ЭпиВакКорона»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+Депздраве	Депздрав	ORG	ORG-Tyumen-Healthcare-Department
+Минздрава России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+Тюмени	Тюмень	LOC	GPE-Tyumen
+Тюменский оперштаб	Тюменский оперштаб	ORG	ORG-Operational-Headquarters-on-preventing-COVID-19-Tyumen
+Тюменской области	Тюменская область	LOC	GPE-Tyumen-region
+Тюменскую область	Тюменская область	LOC	GPE-Tyumen-region
+госуслуг	госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+ковида	ковид	EVT	EVT-Covid-19
+коронавирусе	коронавирус	EVT	EVT-Covid-19
+коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+новосибирским центром «Вектор»	Новосибирский центр «Вектор»	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+оперштабе	оперштаб	ORG	ORG-Operational-Headquarters-on-preventing-COVID-19-Tyumen
+тюменский оперштаб	тюменский оперштаб	ORG	ORG-Operational-Headquarters-on-preventing-COVID-19-Tyumen
+тюменцев	тюменцы	LOC	GPE-Tyumen

@@ -1,0 +1,22 @@
+59
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Jihomoravském	Jihomoravský	LOC	GPE-South-Moravian-region
+Jihočeském	Jihočeský	LOC	GPE-South-Bohemian-region
+Karlovarském	Karlovarský	LOC	GPE-Karlovy-Vary-region
+Královéhradeckém kraji	Královéhradecký kraj	LOC	GPE-Hradec-Kralove-region
+Kuba	Kuba	PER	PER-Martin-Kuba
+Libereckém	Liberecký	LOC	GPE-Liberec-region
+Martin Kuba	Martin Kuba	PER	PER-Martin-Kuba
+Moravskoslezském kraji	Moravskoslezský kraj	LOC	GPE-Moravian-Silesian-Region
+ODS	ODS	ORG	ORG-ODS-czech-political-party
+Olomouckém kraji	Olomoucký kraj	LOC	LOC-Olomouc-region
+Pardubickém	Pardubický	LOC	GPE-Pardubice-Region
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Plzeňském	Plzeňský	LOC	GPE-Pilsen-Region
+Praze	Praha	LOC	GPE-Prague
+Středočeském	Středočeský	LOC	GPE-Central-Bohemian-Region
+Vysočině	Vysočina	LOC	GPE-Vysocina-region
+Zlínském	Zlínský	LOC	GPE-Zlin-region
+covid-19	covid-19	EVT	EVT-Covid-19
+Ústeckém kraji	Ústecký kraj	LOC	GPE-Usti-nad-Labem-region
+Česka	Česko	LOC	GPE-Czech-Republic

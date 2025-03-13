@@ -1,0 +1,23 @@
+161
+Biden	Biden	PER	PER-Joe-Biden
+Bidena	Biden	PER	PER-Joe-Biden
+Bidenowi	Biden	PER	PER-Joe-Biden
+CNN	CNN	PRO	PRO-CNN
+Chrisa Wallace'a	Chrisa Wallace	PER	PER-Chris-Wallace
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donaldem Trumpem	Donald Trump	PER	PER-Donald-Trump
+Floryda	Floryda	LOC	GPE-Florida
+Georgia	Georgia	LOC	GPE-Georgia-US-state
+Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+Michigan	Michigan	LOC	GPE-Michigan
+NBC	NBC	PRO	PRO-National-Broadcasting-Company
+Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+Trumpem	Trump	PER	PER-Donald-Trump
+USA	USA	LOC	GPE-USA
+Wall Street Journal	Wall Street Journal	PRO	PRO-Wall-Street-Journal
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+koronawirusa	koronawirus	EVT	EVT-Covid-19

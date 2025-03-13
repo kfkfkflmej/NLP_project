@@ -1,0 +1,37 @@
+ru-168
+CNN	CNN	PRO	PRO-CNN
+АО «АБ «РОССИЯ»	АО «АБ «РОССИЯ»	ORG	ORG-Rossiya-Bank
+Аризона	Аризона	LOC	GPE-Arizona
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Вермонт	Вермонт	LOC	GPE-Vermont
+Висконсин	Висконсин	LOC	GPE-Wisconsin
+Выборы президента США	Выборы президента США	EVT	EVT-2020-United-States-Presidential-Election
+Демократической партии США	Демократическая партия США	ORG	ORG-Democratic-Party-USA
+Демократы	Демократы	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Индиана	Индиана	LOC	GPE-Indiana
+Миссисипи	Миссисипи	LOC	GPE-Mississippi
+Мэриленд	Мериленд	LOC	GPE-Maryland
+Мэриленд	Мэриленд	LOC	GPE-Maryland
+Невада	Невада	LOC	GPE-Nevada
+Нью-Гэмпшир	Нью-Гэмпшир	LOC	GPE-New-Hampshire
+Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+ООО «МИЦ «Известия»	ООО «МИЦ «Известия»	ORG	ORG-Multimedia-Information-Centre-Izvestiya
+Огайо	Огайо	LOC	GPE-Ohio
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+РФ	РФ	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Теннесси	Теннесси	LOC	GPE-Tennessee
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Федерального агентства по печати и массовым коммуникациям	Федеральное агентство по печати и массовым коммуникациям	ORG	ORG-Federal-Agency-for-Press-and-Mass-Communications-Russia
+Южная Каролина	Южная Каролина	LOC	GPE-South-Carolina-US-State
+демократов	Демократы	ORG	ORG-Democratic-Party-USA
+коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+трамп	Трамп	PER	PER-Donald-Trump

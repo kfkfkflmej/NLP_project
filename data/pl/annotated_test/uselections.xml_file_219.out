@@ -1,0 +1,30 @@
+219
+Białym Domu	Biały Dom	LOC	LOC-White-House
+Bidena	Biden	PER	PER-Joe-Biden
+CBS News	CBS News	PRO	PRO-CBS-News
+CNN	CNN	PRO	PRO-CNN
+Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+Demokraty	Demokrata	PER	ORG-Democratic-Party-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Florydzie	Floryda	LOC	GPE-Florida
+Fox News	Fox News	PRO	PRO-Fox-News
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Joe Bidenem	Joe Biden	PER	PER-Joe-Biden
+Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+Latynosów	Latynosi	PER	GPE-Latin-America
+Michigan	Michigan	LOC	GPE-Michigan
+NYT	NYT	PRO	PRO-The-New-York-Times
+New York Times	New York Times	PRO	PRO-The-New-York-Times
+Ohio	Ohio	LOC	GPE-Ohio
+Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+Republikanina	Republikanin	PER	ORG-Republican-Party-USA
+Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+Teksasie	Teksas	LOC	GPE-Texas
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+Trumpem	Trump	PER	PER-Donald-Trump
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+twitter	twitter	PRO	PRO-Twitter

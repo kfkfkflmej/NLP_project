@@ -1,0 +1,42 @@
+uk-20331
+Fair Vote	Fair Vote	ORG	ORG-FairVote
+Reuters	Reuters	ORG	ORG-Reuters
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Брад Гіт	Брад Гіт	PER	PER-Brad-Heath
+Буш	Буш	PER	PER-George-Bush-Jr
+Білого дому	Білий дім	ORG	ORG-White-House
+Вашингтон	Вашингтон	LOC	GPE-Washington
+Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+Вермонт	Вермонт	LOC	GPE-Vermont
+Верховного суду США	Верховний суд США	ORG	ORG-Supreme-Court-of-the-United-States
+Вісконсин	Вісконсин	LOC	GPE-Wisconsin
+Вісконсину	Вісконсин	LOC	GPE-Wisconsin
+Джил Стейн	Джил Стейн	PER	PER-Jill-Stein
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джордж Буш	Джордж Буш	PER	PER-George-Bush-Jr
+Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Ел Франкен	Ел Франкен	PER	PER-Al-Franken
+Ела Ґора	Ел Ґор	PER	PER-Al-Gore
+Міннесота	Міннесота	LOC	GPE-Minnesota
+Міннесоти	Міннесота	LOC	GPE-Minnesota
+Норм Коулман	Норм Коулман	PER	PER-Norm-Coleman
+Партії зелених	Партія зелених	ORG	ORG-Green-Party-of-the-United-States
+Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
+Ребекка Ґрін	Ребекка Ґрін	PER	PER-Rebecca-Green
+США	США	LOC	GPE-USA
+Скотт Вокер	Скотт Вокер	PER	PER-Scott-Walker
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампові	Трамп	PER	PER-Donald-Trump
+Трампом	Трамп	PER	PER-Donald-Trump
+Флорида	Флорида	LOC	GPE-Florida
+Флориді	Флорида	LOC	GPE-Florida
+виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+виборів-2020	вибори-2020	EVT	EVT-2020-United-States-Presidential-Election
+виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election

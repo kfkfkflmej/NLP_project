@@ -1,0 +1,40 @@
+sl-162
+Američanov	Američani	PER	GPE-USA
+Arizoni	Arizona	LOC	GPE-Arizona
+Biden	Biden	PER	PER-Joe-Biden
+Bidna	Biden	PER	PER-Joe-Biden
+Bidnom	Biden	PER	PER-Joe-Biden
+Bidnove	Biden	PER	PER-Joe-Biden
+Clintonova	Clinton	PER	PER-Hillary-Clinton
+Clintonove	Clinton	PER	PER-Hillary-Clinton
+Clintonovo	Clinton	PER	PER-Hillary-Clinton
+Donaldom Trumpom	Donald Trump	PER	PER-Donald-Trump
+FBI	FBI	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+Floridi	Florida	LOC	GPE-Florida
+Georgii	Georgia	LOC	GPE-Georgia-US-state
+Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+Hunterja Bidna	Hunter Biden	PER	PER-Hunter-Biden
+Iowi	Iowa	LOC	GPE-Iowa
+James Comey	James Comey	PER	PER-James-Comey
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Kalifornijo	Kalifornija	LOC	GPE-California
+Michiganu	Michigan	LOC	GPE-Michigan
+Ohiu	Ohio	LOC	GPE-Ohio
+Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+RealClear Politics	RealClear Politics	ORG	ORG-RealClearPolitics
+Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+Teksasu	Teksas	LOC	GPE-Texas
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+Trumpov	Trump	PER	PER-Donald-Trump
+Trumpova	Trump	PER	PER-Donald-Trump
+Trumpove	Trump	PER	PER-Donald-Trump
+Ukrajini	Ukrajina	LOC	GPE-Ukraine
+Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+demokrate	demokrati	ORG	ORG-Democratic-Party-USA
+demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+demokratih	demokrati	ORG	ORG-Democratic-Party-USA
+demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+demokratov	demokrati	PER	ORG-Democratic-Party-USA
+koronavirusa	koronavirus	EVT	EVT-Covid-19
+republikancev	republikanci	PER	ORG-Republican-Party-USA

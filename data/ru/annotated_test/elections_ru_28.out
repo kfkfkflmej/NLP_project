@@ -1,0 +1,79 @@
+ru-28
+"538"	"538"	PRO	PRO-538
+FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
+Айова	Айова	LOC	GPE-Iowa
+Айове	Айова	LOC	GPE-Iowa
+Алабама	Алабама	LOC	GPE-USA-Alabama
+Аляске	Аляска	LOC	GPE-Alaska
+Аризона	Аризона	LOC	GPE-Arizona
+Аризоне	Аризона	LOC	GPE-Arizona
+Аризоны	Аризона	LOC	GPE-Arizona
+Арканзас	Арканзас	LOC	GPE-Arkansas
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+ВАШИНГТОН	Вашингтон	LOC	GPE-WashingtonDC
+Вайоминг	Вайоминг	LOC	GPE-Wyoming
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Великую старую партию	Великая старая партия	ORG	ORG-Grand-Old-Party
+Вирджинию	Вирджиния	LOC	GPE-Virginia
+Висконсин	Висконсин	LOC	GPE-Wisconsin
+Висконсине	Висконсин	LOC	GPE-Wisconsin
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Джозефом Байденом	Джозеф Байден	PER	PER-Joe-Biden
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Западная Вирджиния	Западная Вирджиния	LOC	GPE-West-Virginia
+Иллинойс	Иллинойс	LOC	GPE-Illinois
+Индиана	Индиана	LOC	GPE-Indiana
+Калифорнии	Калифорния	LOC	GPE-California
+Канзас	Канзас	LOC	GPE-Kansas
+Кентукки	Кентукки	LOC	GPE-Kentucky
+Колумбия	Колумбия	LOC	GPE-District-of-Columbia
+Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Коннектикут	Коннектикут	LOC	GPE-Connecticut
+Массачусетс	Масачузетс	LOC	GPE-Massachusetts
+Миннесоте	Миннесота	LOC	GPE-Minnesota
+Миссисипи	Миссисипи	LOC	GPE-Mississippi
+Миссури	Миссури	LOC	GPE-Missouri
+Мичиган	Мичиган	LOC	GPE-Michigan
+Мичигане	Мичиган	LOC	GPE-Michigan
+Мэриленд	Мериленд	LOC	GPE-Maryland
+Небраска	Небраска	LOC	GPE-Nebraska
+Неваде	Невада	ORG	GPE-Nevada
+Новой Англии	Новая Англия	LOC	GPE-New-England
+Нью-Джерси	Нью-Джерси	LOC	GPE-New-Jersey
+Огайо	Огайо	LOC	GPE-Ohio
+Оклахома	Оклахома	LOC	GPE-Oklahoma
+Орегоне	Орегон	LOC	GPE-Oregon
+Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+США	США	LOC	GPE-USA
+Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Северная	Северная Дакота	LOC	GPE-North-Dakota
+Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Сената	Сенат	ORG	ORG-United-States-Senate
+ТАСС	ТАСС	ORG	ORG-TASS-Agency
+Теннесси	Теннесси	LOC	GPE-Tennessee
+Техаса	Техас	LOC	GPE-Texas
+Техасе	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Флорида	Флорида	LOC	GPE-Florida
+Флориде	Флорида	LOC	GPE-Florida
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+Южная Дакоты	Южная Дакота	LOC	GPE-South-Dakota-US-State
+Юта	Юта	LOC	GPE-Utah
+американцев	американцы	PER	GPE-USA
+американцы	американцы	PER	GPE-USA
+демократа	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+коллегии	коллегия	ORG	ORG-United-States-Electoral-College
+коллегию	коллегия	ORG	ORG-United-States-Electoral-College
+коронавируса	коронавирус	EVT	EVT-Covid-19
+республиканца	республиканец	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA

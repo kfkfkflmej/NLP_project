@@ -1,0 +1,27 @@
+142
+Amerykanie	Amerykanie	PER	GPE-USA
+Baracka Obamy	Barack Obama	PER	PER-Barack-Obama
+Białego Domu	Biały Dom	LOC	LOC-White-House
+Biały Dom	Biały Dom	LOC	LOC-White-House
+Biden	Biden	PER	PER-Joe-Biden
+Bidena	Biden	PER	PER-Joe-Biden
+CNN	CNN	PRO	PRO-CNN
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+Donald John Trump	Donald John Trump	PER	PER-Donald-Trump
+Europie	Europa	LOC	LOC-Europe
+Josepha Robinette’a Bidena Jr.	Joseph Robinette Biden Jr.	PER	PER-Joe-Biden
+Melanie	Melania	PER	PER-Melania-Trump
+Obamie	Obama	PER	PER-Barack-Obama
+Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+Polsce	Polska	LOC	GPE-Poland
+Rafała Trzaskowskiego	Rafał Trzaskowski	PER	PER-Rafał-Trzaskowski
+Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+Ryszard Czarnecki	Ryszard Czarnecki	PER	PER-Ryszard-Czarnecki
+Stanach	Stany	LOC	GPE-USA
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+USA	USA	LOC	GPE-USA
+Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+koronawirus	koronawirus	EVT	EVT-Covid-19

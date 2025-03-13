@@ -1,0 +1,24 @@
+ru-60
+"Гам-КОВИД-Вак"	Гам-КОВИД-Вак	PRO	PRO-Gam-COVID-Vac
+"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
+"спутник v"	спутник V	PRO	PRO-Sputnik-V
+COVID-19	COVID-19	EVT	EVT-Covid-19
+covid-19	covid-19	EVT	EVT-Covid-19
+Андрей Каприн	Андрей Каприн	PER	PER-Andrey-Kaprin
+Гаврилова А.В.	Гаврилова А.В.	PER	PER-Gavrilova-A.-V.
+Каприн	Каприн	PER	PER-Andrey-Kaprin
+МИА «Россия сегодня»	МИА «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
+МОСКВА	МОСКВА	LOC	GPE-Moscow
+Международное информационное агентство «Россия сегодня»	Международное информационное агентство «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
+Минздрава России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+РАН	РАН	ORG	ORG-Russian-Academy-of-Sciences
+РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+России	Россия	LOC	GPE-Russia
+андрей каприн	андрей каприн	PER	PER-Andrey-Kaprin
+коронавирус	коронавирус	EVT	EVT-Covid-19
+минздрав россии	минздрав россии	ORG	ORG-Ministry-of-Health-Russia
+министерство здравоохранения рф	министерство здравоохранения рф	ORG	ORG-Ministry-of-Health-Russia
+россии	россия	LOC	GPE-Russia
+российская академия наук	российская академия наук	ORG	ORG-Russian-Academy-of-Sciences
+стопкоронавирус.рф	стопкоронавирус.рф	PRO	PRO-Stop-Coronavirus

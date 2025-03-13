@@ -1,0 +1,10 @@
+ru-90
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Moderna	Moderna	ORG	ORG-Moderna
+Telegram	Telegram	PRO	PRO-Telegram
+«ZN.UA»	«ZN.UA»	PRO	PRO-zn.ua
+«Интерфакс-Украина»	"Интерфакс-Украина"	PRO	PRO-Interfax-Ukraine
+США	США	LOC	GPE-USA
+Стефан Бансель	Стефан Бансель	PER	PER-Stephan-Bancel
+Украины	Украина	LOC	GPE-Ukraine
+коронавируса	коронавирус	EVT	EVT-Covid-19

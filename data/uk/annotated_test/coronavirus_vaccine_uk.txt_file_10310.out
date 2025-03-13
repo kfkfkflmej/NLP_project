@@ -1,0 +1,42 @@
+uk-10310
+BBC	BBC	ORG	ORG-BBC-Ltd
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Covid	Covid	EVT	EVT-Covid-19
+Deutsche Welle	Deutsche Welle	ORG	ORG-Deutsche-Welle
+Ford	Ford	ORG	ORG-Ford
+Ganymed Pharmaceuticals	Ganymed Pharmaceuticals	ORG	ORG-Ganymed-Pharmaceuticals-AG
+Lancet	Lancet	PRO	PRO-The-Lancet
+MIG AG	MIG AG	ORG	ORG-MIG-Verwaltungs-AG-(MIG-AG)
+Nasdaq	Nasdaq	ORG	ORG-Nasdaq-trading-exchange
+New York Times	New York Times	ORG	ORG-New-York-Times
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Telegram	Telegram	PRO	PRO-Telegram
+Viber	Viber	PRO	PRO-Viber
+Альберт Бурла	Альберт Бурла	PER	PER-Albert-Bourla
+Бурла	Бурла	PER	PER-Albert-Bourla
+Ганна Чорноус	Ганна Чорноус	PER	PER-Hanna-Chornous
+Кельн	Кельн	LOC	GPE-Koln
+Кельнського університету	Кельнський університет	ORG	ORG-University-of-Cologne
+Кельнському університеті	Кельнський університет	ORG	ORG-University-of-Cologne
+Китаї	Китай	LOC	GPE-China
+Крістофом Губером	Крістоф Губер	PER	PER-Christoph-Huber
+Майнц	Майнц	LOC	GPE-Mainz
+Майнцького університету	Майнцький університет	ORG	ORG-University-of-Mainz
+Майнцькому університеті	Майнцький університет	ORG	ORG-University-of-Mainz
+Маттіас Кромайер	Маттіас Кромайер	PER	PER-Matthias-Kromayer
+Німеччини	Німеччина	LOC	GPE-Germany
+Німеччину	Німеччина	LOC	GPE-Germany
+Озлем Тюреджі	Озлем Тюреджі	PER	PER-Özlem-Türeci
+Саарландського університету	Саарландський університет	ORG	ORG-Saarland-University
+Стамбула	Стамбул	LOC	GPE-Istanbul
+Туреччині	Туреччина	LOC	GPE-Turkey
+Тюреджі	Тюреджі	PER	PER-Özlem-Türeci
+Угур Шахін	Угур Шахін	PER	PER-Ugur-Sahin
+Угур	Угур	PER	PER-Ugur-Sahin
+Угуру Шахіну	Угур Шахін	PER	PER-Ugur-Sahin
+Фонд Білла та Мелінди Гейтс	Фонд Білла та Мелінди Гейтс	ORG	ORG-Bill-and-Melinda-Gates-Foundation
+Шахін	Шахін	PER	PER-Ugur-Sahin
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+пандемію	пандемія	EVT	EVT-Covid-19
+пандемії	пандемія	EVT	EVT-Covid-19

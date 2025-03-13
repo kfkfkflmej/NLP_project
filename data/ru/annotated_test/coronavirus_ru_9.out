@@ -1,0 +1,16 @@
+ru-9
+k-vrachu.volmed.org.ru	k-vrachu.volmed.org.ru	PRO	PRO-k-vrachu.volmed.org.ru
+«Гам-КОВИД-Вак»	Гам-КОВИД-Вак	PRO	PRO-Gam-COVID-Vac
+«Спутника V»	Спутник V	PRO	PRO-Sputnik-V
+«Спутником V»	Спутник V	PRO	PRO-Sputnik-V
+Вологодской области	Вологодская область	LOC	GPE-Vologda
+Лариса Каманина	Лариса Каманина	PER	PER-Larisa-Kamanina
+Минздрава РФ	Минздрав РФ	ORG	ORG-Ministry-of-Health-Russia
+Череповецкой городской больнице (ул. Ломоносова, 15)	Череповецкая городская больница №2	ORG	ORG-Cherepovets-City-Hospital
+Череповце	Череповец	LOC	GPE-Cherepovets
+взрослой поликлинике № 1 (ул. Милютина, 6)	Череповецкая городская поликлиника № 1	ORG	ORG-Cherepovets-City-Hospital
+ковида	Ковид	EVT	EVT-Covid-19
+ковидом	Ковид	EVT	EVT-Covid-19
+коронавируса	Коронавирус	EVT	EVT-Covid-19
+коронавирусными	Коронавирус	EVT	EVT-Covid-19
+прививочный пункт на базе медсанчасти «Северсталь»	Прививочный пункт на базе медсанчасти "Северсталь"	ORG	ORG-Vaccination-center-Severstal

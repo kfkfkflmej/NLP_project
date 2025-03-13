@@ -1,0 +1,84 @@
+ru-146
+Burisma	Burisma	ORG	ORG-Burisma
+CBS News	CBS News	PRO	PRO-CBS-News
+CNN	CNN	PRO	PRO-CNN
+Dominion Voting Systems	Dominion Voting Systems	ORG	ORG-Dominion-Voting-Systems
+Facebook	Facebook	ORG	ORG-Facebook
+NPR	NPR	PRO	PRO-NPR
+New York Post	New York Post	PRO	PRO-New-York-Post
+New York Times	New York Times	PRO	PRO-The-New-York-Times
+Twitter	Twitter	ORG	ORG-Twitter
+Washington Post	Washington Post	PRO	PRO-Washington-Post
+«Burisma»	«Burisma»	ORG	ORG-Burisma
+«Twitter»	«Twitter»	ORG	ORG-Twitter
+«Талибан»	«Талибан»	ORG	ORG-Taliban
+Айове	Айова	LOC	GPE-Iowa
+Америке	Америка	LOC	GPE-USA
+Америки	Америка	LOC	GPE-USA
+Афганистане	Афганистан	LOC	GPE-Afghanistan
+Байден-старший	Байден-старший	PER	PER-Joe-Biden
+Байден	Байден	PER	PER-Joe-Biden
+Байдена-старшего	Байден-старший	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байденом-старшим	Байден-старший	PER	PER-Joe-Biden
+Байдену-младшему	Байден-младший	PER	PER-Hunter-Biden
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Берни Сандерс	Берни Сандерс	PER	PER-Bernie-Sanders
+Берни Сандерсу	Берни Сандерс	PER	PER-Bernie-Sanders
+Ближнем Востоке	Ближний Восток	LOC	LOC-Near-East
+Блумберг	Блумберг	PER	PER-Michael-Bloomberg
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Висконсин	Висконсин	LOC	GPE-Wisconsin
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Демократы	Демократы	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джо	Джо	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Капитолий	Капитолий	ORG	ORG-United-States-Congress
+Капитолия	Капитолия	ORG	ORG-United-States-Congress
+Колумбия	Колумбия	LOC	GPE-Colombia
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Кэтлин Райс	Кэтлин Райс	PER	PER-Kathleen-Rice
+МИД России	МИД России	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+Майкл Блумберг	Майкл Блумберг	PER	PER-Michael-Bloomberg
+Митча Макконнелла	Митч Макконнелл	PER	PER-Mitch-McConnell
+Мичиган	Мичиган	LOC	GPE-Michigan
+Мэри Трамп	Мэри Трамп	PER	PER-Mary-Trump
+Мэри	Мэри	PER	PER-Mary-Trump
+Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+Пит Буттиджич	Пит Буттиджич	PER	PER-Peter-Buttigieg
+Республиканцы	Республиканцы	ORG	ORG-Republican-Party-USA
+Россию	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Саут-Бенда	Саут-Бенд	LOC	GPE-South-Bend
+Тед Льеу	Тед Льеу	PER	PER-Ted-Lieu
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Уильям Барр	Уильям Барр	PER	PER-William-Barr
+Украины	Украина	LOC	GPE-Ukraine
+Фондом Клинтонов	Фонд Клинтонов	ORG	ORG-Clinton-Foundation
+Хантера Байдена	Хантер Байден	PER	PER-Hunter-Biden
+Харрис	Харрис	PER	PER-Kamala-Harris
+Шокина	Шокин	PER	PER-Viktor-Shokin
+американских	американский	LOC	GPE-USA
+американской	американский	LOC	GPE-USA
+демократами	демократы	ORG	ORG-Democratic-Party-USA
+демократических	демократический	ORG	ORG-Democratic-Party-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+коронавирусе	коронавирус	EVT	EVT-Covid-19
+нижнюю палату конгресса	Нижняя палата Конгресса	ORG	ORG-House-of-Representatives(USA)
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+российская	российский	LOC	GPE-Russia
+сенат	Сенат	ORG	ORG-United-States-Senate
+сената	сенат	ORG	ORG-United-States-Senate

@@ -1,0 +1,24 @@
+sl-12
+AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+Andrew Pollard	Andrew Pollard	PER	PER-Andrew-Pollard
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+AstraZenece	AstraZeneca	ORG	ORG-AstraZeneca
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Braziliji	Brazilija	LOC	GPE-Brazil
+Japonskem	Japonska	LOC	GPE-Japan
+Južni Afriki	Južna Afrika	LOC	GPE-Republic-of-South-Africa
+Keniji	Kenija	LOC	GPE-Kenya
+Latinski Ameriki	Latinska Amerika	LOC	LOC-Latin-America
+Moderna	Moderna	ORG	ORG-Moderna
+Oxfordske univerze	Oxfordska univerza	ORG	ORG-University-of-Oxford
+Oxfordsko univerzo	Oxfordska univeza	ORG	ORG-University-of-Oxford
+Pascal Soriot	Pascal Soriot	PER	PER-Pascal-Soriot
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Rusiji	Rusija	LOC	GPE-Russia
+Svetovni zdravstveni organizaciji	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+ZDA	ZDA	LOC	GPE-USA
+covidom-19	covid-19	EVT	EVT-Covid-19
+covidu-19	covid-19	EVT	EVT-Covid-19
+koronavirusne bolezni 19	koronavirusna bolezen 19	EVT	EVT-Covid-19
+univerza Oxford	univerza Oxford	ORG	ORG-University-of-Oxford

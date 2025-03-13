@@ -1,0 +1,23 @@
+90
+Anthony Fauci	Anthony Fauci	PER	PER-Anthony-Fauci
+Barceloně	Barcelona	LOC	GPE-Barcelona
+Covidem-19	Covid-19	EVT	EVT-Covid-19
+FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+HCQ	HCQ	PRO	PRO-Hydroxychloroquine
+Houstonu	Houston	LOC	GPE-Houston
+Hydroxychloroquine	Hydroxychloroquine	PRO	PRO-Hydroxychloroquine
+Koronavirus	Koronavirus	EVT	EVT-Covid-19
+Milan Šmid	Milan Šmid	PER	PER-Milan-Smid
+Remdesivir	Remdesivir	PRO	PRO-Remdesivir
+Sars-Cov-2	Sars-Cov-2	EVT	EVT-Covid-19
+Stella Immanuel	Stella Immanuel	PER	PER-Stella-Immanuel
+Texasu	Texas	LOC	GPE-Texas
+USA	USA	LOC	GPE-USA
+Zinc	Zinc	PRO	PRO-Zinc
+Zincem	Zinc	PRO	PRO-Zinc
+Zithromax	Zithromax	PRO	PRO-Zithromax
+Zithromaxem	Zithromax	PRO	PRO-Zithromax
+covidové pandemie	covidová pandemie	EVT	EVT-Covid-19
+hydro-xychlo-roqu-ine	hydro-xychlo-roqu-ine	PRO	PRO-Hydroxychloroquine
+hydro-xychlo-roqu-inem	hydro-xychlo-roqu-inem	PRO	PRO-Hydroxychloroquine
+ČR	ČR	LOC	GPE-Czech-Republic

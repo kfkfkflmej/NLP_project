@@ -1,0 +1,27 @@
+45
+Austrálii	Austrálie	LOC	GPE-Australia
+Brexit	Brexit	EVT	EVT-Brexit
+Chrise Dickmana	Chris Dickman	PER	PER-Chris-Dickman
+Dermot O'Gorman	Dermot O'Gorman	PER	PER-Dermot-O-Gorman
+EU	EU	ORG	ORG-European-Union
+Evropskou unii	Evropská unie	ORG	ORG-European-Union
+Evropské unii	Evropská unie	ORG	ORG-European-Union
+Koronavirem	Koronavirus	EVT	EVT-Covid-19
+Mezinárodní fond pro australskou přírodu	Mezinárodní fond pro australskou přírodu	ORG	ORG-WWF-World-Wildlife-Fund
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Severního Irska	Serverní Irsko	LOC	GPE-Northern-Ireland
+Spojené království	Spojené království	LOC	GPE-Great-Britain
+Spojeného království Velké Británie	Spojené království Velké Británie	LOC	GPE-Great-Britain
+Světová zdravotnická organizace	Světová zdravotnická organizace	ORG	ORG-World-Health-Organization
+USA	USA	LOC	GPE-USA
+Univerzity v Sydney	Univerzita v Sydney	ORG	ORG-Sydney-University
+WHO	WHO	ORG	ORG-World-Health-Organization
+WWF	WWF	ORG	ORG-WWF-World-Wildlife-Fund
+Wu-chan	Wu-chan	LOC	GPE-Wuhan
+brexit	brexit	EVT	EVT-Brexit
+britská vláda	britská vláda	ORG	ORG-British-Government
+koronavirem	koronavirus	EVT	EVT-Covid-19
+koronavirovou pandemii	koronavirová pandemie	EVT	EVT-Covid-19
+koronaviru SARS-CoV-2	koronavirus SARS-CoV-2	EVT	EVT-Covid-19
+koronavirus	koronavirus	EVT	EVT-Covid-19
+Česku	Česko	LOC	GPE-Czech-Republic

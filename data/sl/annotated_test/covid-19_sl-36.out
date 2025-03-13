@@ -1,0 +1,13 @@
+sl-36
+Argentine	Argentina	LOC	GPE-Argentina
+Brazilije	Brazilija	LOC	GPE-Brazil
+Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+Janssen Pharmaceutical	Janssen Pharmaceutical	ORG	ORG-Janssen-Pharmaceutica
+Johnson & Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+Južne Afrike	Južna Afrika	LOC	GPE-Republic-of-South-Africa
+Kolumbije	Kolumbija	LOC	GPE-Columbia
+ZDA	ZDA	LOC	GPE-USA
+covid-19	covid-19	EVT	EVT-Covid-19
+covidu-19	covid-19	EVT	EVT-Covid-19
+eboli	ebola	EVT	EVT-Ebola
+novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19

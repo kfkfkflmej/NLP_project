@@ -1,0 +1,40 @@
+ru-39
+DW	DW	PRO	PRO-Deutsche-Welle
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Дебби Дингелл	Дебби Дингелл	PER	PER-Debbie-Dingell
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Капитолии	Капитолий	LOC	LOC-Capitol-Hill
+Капитолии	Капитолий	LOC	LOC-United-States-Capitol
+Капитолийском холме	Капитолийский холм	LOC	LOC-Capitol-Hill
+Капитолию	Капитолий	LOC	LOC-United-States-Capitol
+Капитолия	Капитолий	LOC	LOC-United-States-Capitol
+Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+Национальная гвардия США	Национальная гвардия США	ORG	ORG-United-States-National-Guard
+Национальная гвардия	Национальная гвардия	ORG	ORG-United-States-National-Guard
+Павел Мыльников	Павел Мыльников	PER	PER-Pavel-Mylnikov
+США	США	LOC	GPE-USA
+Сенате	Сенат	ORG	ORG-United-States-Senate
+Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+Трампа	Трамп	PER	PER-Donald-Trump
+Чак Шумер	Чак Шумер	PER	PER-Chuck-Schumer
+Штурм Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol
+выборах	выборы	EVT	EVT-2020-United-States-Presidential-Election
+выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+выборы	выборы	EVT	EVT-2020-United-States-Presidential-Election
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+инаугурации Джо Байдена	инаугурация Джо Байдена	EVT	EVT-2020-Inauguration-of-Joe-Biden
+правительства США	правительство США	ORG	ORG-Federal-Goverment-of-USA
+президентских выборов	президентские выборы	EVT	EVT-2020-United-States-Presidential-Election
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+штурма Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol

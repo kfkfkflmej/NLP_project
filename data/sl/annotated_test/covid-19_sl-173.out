@@ -1,0 +1,14 @@
+sl-173
+Aleksander Jus	Aleksander Jus	PER	PER-Aleksander-Jus
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Covid	Covid	EVT	EVT-Covid-19
+Jernej Završnik	Jernej Završnik	PER	PER-Jernej-Završnik
+Jus	Jus	PER	PER-Aleksander-Jus
+Maribor	Maribor	LOC	GPE-Maribor
+Mestne občine Maribor	Mestna občine Maribor	ORG	ORG-City-Municipality-of-Maribor
+SARS-Cov-2	SARS-Cov-2	EVT	EVT-Covid-19
+Splošno zdravstveno varstvo	Splošno zdravstveno varstvo	ORG	ORG-General-Health-Care-Unit
+Večer	Večer	PRO	PRO-Večer
+Zdravstvenega doma dr. Adolfa Drolca Maribor	Zdravstveni dom dr. Adolfa Drolca Maribor	ORG	LOC-Community-Health-Centre-Maribor
+novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19

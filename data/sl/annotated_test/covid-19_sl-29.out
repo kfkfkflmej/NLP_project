@@ -1,0 +1,19 @@
+sl-29
+Afriki	Afrika	LOC	LOC-Africa
+Albert Bourla	Albert Bourla	PER	PER-Albert-Bourla
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+Bourla	Bourla	PER	PER-Albert-Bourla
+IFPMA	IFPMA	ORG	ORG-IFPMA-International-Federation-of-Pharmaceutical-Manufacturers-&-Associations
+Johnson & Johnsonu	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+Paul Stoffels	Paul Stoffels	PER	PER-Paul-Stoffels
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Svetovna zdravstvena organizacija	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+Svetovne zdravstvene organizacije	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+Thomas Cueni	Thomas Cueni	PER	PER-Thomas-Cueni
+Združenja farmacevtskih podjetij in zvez	Združenje farmacevtskih podjetij in zvez	ORG	ORG-IFPMA-International-Federation-of-Pharmaceutical-Manufacturers-&-Associations
+covid-19	covid-19	EVT	EVT-Covid-19
+dpa	dpa	ORG	ORG-DPA
+koronavirusu	koronavirus	EVT	EVT-Covid-19
+novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+Ženevi	Ženeva	LOC	GPE-Geneva

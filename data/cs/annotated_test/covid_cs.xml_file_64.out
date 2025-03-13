@@ -1,0 +1,17 @@
+64
+Borisem Johnsonem	Boris Johnson	PER	PER-Boris-Johnson
+Británii	Británie	LOC	GPE-Great-Britain
+East Endu	East End	LOC	LOC-Eastend-London
+Johnsona	Johnson	PER	PER-Boris-Johnson
+NHS	NHS	PRO	PRO-National-Health-Service-Great-Britain
+National Health Service	National Health Service	PRO	PRO-National-Health-Service-Great-Britain
+New Yorku	New York	LOC	GPE-New-York
+Nightingale	Nightingale	LOC	LOC-Nightingale-mobile-hospital
+Slavík	Slavík	LOC	LOC-Nightingale-mobile-hospital
+Velkou Británii	Velká Británie	LOC	GPE-Great-Britain
+Země	Země	LOC	LOC-Earth
+covidem-19	covid-19	EVT	EVT-Covid-19
+koronavirem	koronavirus	EVT	EVT-Covid-19
+koronavirus	koronavirus	EVT	EVT-Covid-19
+severní Itálie	severní Itálie	LOC	GPE-Northern-Italy
+České republiky	Česká republika	LOC	GPE-Czech-Republic

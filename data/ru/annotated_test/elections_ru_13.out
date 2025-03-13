@@ -1,0 +1,63 @@
+ru-13
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Facebook	Facebook	PRO	PRO-Facebook
+RT	RT	PRO	PRO-RT-Russia-Today
+rt.com	rt.com	PRO	PRO-rt.com
+«Аллее славы»	«Аллея славы»	LOC	GPE-Hollywood-Walk-of-Fame
+«Бостон Брюинз»	«Бостон Брюинз»	ORG	ORG-Boston-Bruins
+«Вашингтон Кэпиталз»	«Вашингтон Кэпиталз»	ORG	ORG-Washington-Capitals
+«Национальная лига за демократию»	«Национальная лига за демократию»	ORG	ORG-National-League-for-Democracy
+«Неприкаянные»	«Неприкаянные»	PRO	PRO-The-Misfits
+«Оскар»	«Оскар»	PRO	PRO-The-Oscars
+«Сан-Франциско»	«Сан-Франциско»	PRO	PRO-San-Francisco
+«Трудный мужчина»	«Трудный мужчина»	PRO	PRO-It's-Tough-Being-a-Man
+«Унесённые ветром»	«Унесённые ветром»	PRO	PRO-Gone-with-the-Wind
+«Это случилось однажды ночью»	«Это случилось однажды ночью»	PRO	PRO-It-Happened-One-Night
+Александра Овечкина	Александра Овечкина	PER	PER-Aleksandra-Ovechkina
+Аун Сан Су Чжи	Аун Сан Су Чжи	PER	PER-Aung-San-Suu-Kyi
+Афганистане	Афганистан	LOC	GPE-Afghanistan
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Боровая улица	Боровая улица	LOC	LOC-Borovaya-Street
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Вин Мьина	Вин Мьина	PER	PER-Михаил-Виноградов
+Владимир Джабаров	Владимир Джабаров	PER	PER-Vladimir-Jabarov
+Владимир Зеленский	Владимир Зеленский	PER	PER-Volodymyr-Zelensky
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+Владимиру Путину	Владимир Путин	PER	PER-Vladimir-Putin
+Гейбла	Гейбла	PER	PER-Clark-Gable
+Голливуда	Голливуд	LOC	LOC-Hollywood
+ДНР	ДНР	LOC	LOC-Donbass
+ДСНВ	ДСНВ	PRO	PRO-New-START
+Джен Псаки	Джен Псаки	PER	PER-Jen-Psaki
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+Договора о сокращении и ограничении стратегических наступательных вооружений	Договор о сокращении и ограничении стратегических наступательных вооружений	PRO	PRO-Strategic-Arms-Reduction-Treaty
+Донбасса	Донбасс	LOC	LOC-Donbass
+Капитолии	Капитолии	LOC	LOC-United-States-Capitol
+Киева	Киев	LOC	GPE-Kiev
+Кларк Гейбл	Кларк Гейбл	PER	PER-Clark-Gable
+ЛНР	ЛНР	LOC	GPE-Luhansk-People's-Republic
+МИД	МИД	ORG	ORG-Foreign-Office
+Мин Аун Хлаина	Мин Аун Хлаина	PER	PER-Min-Aung-Hlaing
+Москва	Москва	LOC	GPE-Moscow
+Мьянме	Мьянме	LOC	GPE-Myanmar
+НЛД	НЛД	ORG	ORG-National-League-for-Democracy
+Национальной хоккейной лиги	Национальная хоккейная лига	ORG	ORG-National-Hockey-League
+Никлас Бекстрём	Никлас Бекстрём	PER	PER-Nicklas-Backstrom
+России	Россия	LOC	GPE-Russia
+Российский МИД	Российский МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+Россия	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+США	США	LOC	GPE-USA
+Симоньян М. С.	Симоньян М. С.	PER	PER-Margarita-Simonyan
+Совета Федерации	Совет Федерации	ORG	ORG-Council-of-Federation-Russia
+Соединённых Штатов	Соединённых Штатов	LOC	GPE-USA
+Украина	Украина	LOC	GPE-Ukraine
+Украины	Украина	LOC	GPE-Ukraine
+Фонд борьбы с коррупцией	Фонд борьбы с коррупцией	ORG	PRO-Anti-Corruption-Foundation
+Фонда борьбы с коррупцией	Фонд борьбы с коррупцией	ORG	PRO-Anti-Corruption-Foundation
+Энтони Блинкена	Энтони Блинкена	PER	PER-Antony-Blinken
+конгресса США	конгресс США	ORG	ORG-United-States-Congress
+украинский	украинский	LOC	GPE-Ukraine

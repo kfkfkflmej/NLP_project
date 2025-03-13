@@ -1,0 +1,23 @@
+uk-10032
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+COVID	COVID	EVT	EVT-Covid-19
+CureVac	CureVac	ORG	ORG-CureVac
+EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+EU	EU	ORG	ORG-European-Union
+Johnson & Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Sanofi	Sanofi	ORG	ORG-Sanofi
+Twitter	Twitter	PRO	PRO-Twitter
+ЄС	ЄС	LOC	ORG-European-Union
+Єврокомісія	Єврокомісія	ORG	ORG-European-Commission
+Єврокомісії	Єврокомісія	ORG	ORG-European-Commission
+Європейська комісія	Європейська комісія	ORG	ORG-European-Commission
+Європейське медичне агентство	Європейське медичне агентство	ORG	ORG-European-Medicines-Agency
+Європейської ради	Європейська рада	ORG	ORG-European-Parliament
+Баренди Лейтсо	Баренди Лейтсо	PER	PER-Barendi-Leitso
+ЕМА	ЕМА	ORG	ORG-EMA-European-Medicines-Agency
+Лейтсо	Лейтсо	PER	PER-Barendi-Leitso
+коронавірусом	коронавірус	EVT	EVT-Covid-19

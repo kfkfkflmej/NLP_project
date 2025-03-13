@@ -1,0 +1,21 @@
+ru-74
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Апострофу	Апостроф	PRO	PRO-Apostrof
+Африки	Африка	LOC	LOC-Africa
+ЕС	ЕС	ORG	ORG-European-Union
+Киевской школы экономики	Киевская школа экономики	ORG	ORG-Kyiv-School-of-Economics
+Коронавирус	Коронавирус	EVT	EVT-Covid-19
+Национальной технической группы экспертов по вопросам иммунопрофилактик	Национальная техническая группа экспертов по вопросам иммунопрофилактик	ORG	ORG-National-Technical-Expert-Group-on-Immunoprophylaxis
+Павел Ковтонюк	Павел Ковтонюк	PER	PER-Pavlo-Kovtonyuk
+РБК-Украина	РБК-Украина	ORG	ORG-RBC-Ukraine
+Средней Азии	Средняя Азия	LOC	GPE-Soviet-Central-Asia
+Украина	Украина	LOC	GPE-Ukraine
+Украине	Украина	LOC	GPE-Ukraine
+Украину	Украина	LOC	GPE-Ukraine
+Украины	Украина	LOC	GPE-Ukraine
+Федора Лапия	Федор Лапий	PER	PER-Fyodor-Lapiy
+ковидного	ковид	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+украинцев	украинцы	PER	GPE-Ukraine

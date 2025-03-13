@@ -1,0 +1,42 @@
+34
+AP	AP	ORG	ORG-AP-The-Associated-Press
+AstraZeneca/Oxford	AstraZeneca/Oxford	PRO	PRO-Oxford-AstraZeneca-Vaccine
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+Bharat Biotech	Bharat Biotech	ORG	ORG-Bharat-Biotech
+CDSCO	CDSCO	ORG	ORG-Indian-Institute-for-Drug-Control-CDSCO
+Covaxin	Covaxin	PRO	PRO-Covaxin
+Covishield	Covishield	PRO	PRO-Covishield-Vaccine
+Indického ústavu pro kontrolu léčiv	Indický ústav pro kontrolu léčiv	ORG	ORG-Indian-Institute-for-Drug-Control-CDSCO
+Indie	Indie	LOC	GPE-India
+Indii	Indie	LOC	GPE-India
+Institutu Roberta Kocha	Institut Roberta Kocha	ORG	ORG-Robert-Koch-Institute
+Maksyma Stepanova	Maksym Stepanov	PER	PER-Maksym-Stepanov
+Moskvany	Moskvané	PER	GPE-Moscow
+Moskvě	Moskva	LOC	GPE-Moscow
+Německo	Německo	LOC	GPE-Germany
+Německu	Německo	LOC	GPE-Germany
+Oxfordské univerzity	Oxfordská univerzita	ORG	ORG-University-of-Oxford
+RKI	RKI	ORG	ORG-Robert-Koch-Institute
+Reuters	Reuters	ORG	ORG-Reuters
+Ruska	Rusko	LOC	GPE-Russia
+Rusku	Rusko	LOC	GPE-Russia
+SII	SII	ORG	ORG-SII-Farmaceutic-company-India
+Sergej Sobjanin	Sergej Sobjanin	PER	PER-Sergej-Sobjanin
+Sobjanin	Sobjanin	PER	PER-Sergej-Sobjanin
+Sómání	Sómání	PER	PER-Venugopal-Somani
+Sómáního	Sómání	PER	PER-Venugopal-Somani
+TASS	TASS	ORG	ORG-TASS-Agency
+USA	USA	LOC	GPE-USA
+Ukrajině	Ukrajina	LOC	GPE-Ukraine
+Venugópál Sómání	Venugópál Sómání	PER	PER-Venugopal-Somani
+covid-19	covid-19	EVT	EVT-Covid-19
+covidem-19	covid-19	EVT	EVT-Covid-19
+covidu-19	covid-19	EVT	EVT-Covid-19
+koronavirem	koronavirus	EVT	EVT-Covid-19
+koronavirovou infekcí	koronavirová infekce	EVT	EVT-Covid-19
+koronaviru SARS-CoV-2	koronavirus SARS-CoV-2	EVT	EVT-Covid-19
+koronaviru	koronavirus	EVT	EVT-Covid-19
+koronavirus SARS-CoV-2	koronavirus SARS-CoV-2	EVT	EVT-Covid-19
+koronavirus	koronavirus	EVT	EVT-Covid-19
+Česká republika	Česká republika	LOC	GPE-Czech-Republic
+čtk	čtk	ORG	ORG-CTK

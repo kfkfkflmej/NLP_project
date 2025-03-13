@@ -1,0 +1,30 @@
+uk-10330
+B.1.1.7	B.1.1.7	EVT	EVT-B.1.1.7
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Європи	Європа	LOC	LOC-Europe
+Іспанія	Іспанія	LOC	GPE-Spain
+Італія	Італія	LOC	GPE-Italy
+ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+Велика Британія	Велика Британія	LOC	GPE-Great-Britain
+ГРВІ	ГРВІ	EVT	EVT-Viral-Respiratory-Infection
+Дарницькому районі	Дарницький район	LOC	LOC-Darnytsya-District
+Києва	Київ	LOC	GPE-Kyiv
+Києві	Київ	LOC	GPE-Kyiv
+Львова	Львів	LOC	GPE-Lviv
+МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+Нового року	Новий рік	EVT	EVT-New-Year
+Олена Л.	Олена Л.	PER	PER-Olena-L
+США	США	LOC	GPE-USA
+Світлана Гук	Світлана Гук	PER	PER-Svitlana-Huk
+ТСН.ua	ТСН.ua	PRO	PRO-TSN.ua
+Тарас Жиравецький	Тарас Жиравецький	PER	PER-Taras-Zhyravetskyi
+Україна	Україна	LOC	GPE-Ukraine
+Україні	Україна	LOC	GPE-Ukraine
+Феофанія	Феофанія	ORG	LOC-Feofaniya-Hospital
+коронавірус	коронавірус	EVT	EVT-Covid-19
+коронавірусом	коронавірус	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+пандемію	пандемія	EVT	EVT-Covid-19
+пандемія	пандемія	EVT	EVT-Covid-19
+пандемії	пандемія	EVT	EVT-Covid-19

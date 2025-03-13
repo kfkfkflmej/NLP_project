@@ -1,0 +1,16 @@
+ru-29
+COVID-19	COVID-19	EVT	EVT-Covid-19
+GLOBAL LOOK PRESS	Global Look Press	PER	PER-Global-Look-Press
+«Комсомолка»	Комсомолка	PRO	PRO-"Komsomolka"
+«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+«Спутника V»	Спутник V	PRO	PRO-Sputnik-V
+«Спутником V»	Спутник V	PRO	PRO-Sputnik-V
+Александр Гинцбург	Александр Гинцбург	PER	PER-Alexander-Ginzburg
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+Москве	Москва	LOC	GPE-Moscow
+РАН	РАН	ORG	ORG-Russian-Academy-of-Sciences
+ковида	ковид	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+московского	московский	PER	GPE-Moscow

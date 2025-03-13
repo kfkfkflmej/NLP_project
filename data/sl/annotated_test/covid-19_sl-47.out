@@ -1,0 +1,23 @@
+sl-47
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+Bahrajnu	Bahrajn	LOC	GPE-Kingdom-of-Bahrain
+BioNTech	BioNTech	ORG	ORG-BioNTech
+BioNTecha	BioNTech	ORG	ORG-BioNTech
+DW	DW	PRO	PRO-Deutsche-Welle
+Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+EU	EU	ORG	ORG-European-Union
+Ema	Ema	ORG	ORG-EMA-European-Medicines-Agency
+Emi	Ema	ORG	ORG-EMA-European-Medicines-Agency
+Evropska agencija za zdravila	Evropska agencija za zdravila	ORG	ORG-EMA-European-Medicines-Agency
+Moderna	Moderna	ORG	ORG-Moderna
+Modernino	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Pfizerja	Pfizer	ORG	ORG-Pfizer
+Slovenijo	Slovenija	LOC	GPE-Slovenia
+Wall Street Journal	Wall Street Journal	PRO	PRO-Wall-Street-Journal
+Wall Street Journala	Wall Street Journal	PRO	PRO-Wall-Street-Journal
+ZDA	ZDA	LOC	GPE-USA
+Združenem kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+covidu-19	covid-19	EVT	EVT-Covid-19
+koronavirusni bolezni 19	koronavirusna bolezen 19	EVT	EVT-Covid-19
+oxfordska univerza	oxfordska univerza	ORG	ORG-University-of-Oxford

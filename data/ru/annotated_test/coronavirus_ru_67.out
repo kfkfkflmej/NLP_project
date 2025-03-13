@@ -1,0 +1,37 @@
+ru-67
+Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+COVID-19	COVID-19	EVT	EVT-Covid-19
+DW	DW	PRO	PRO-Deutsche-Welle
+Max-Plank-Gesellschaft	Max-Plank-Gesellschaft	ORG	ORG-Max-Planck-Society
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Sciencemag	Sciencemag	PRO	PRO-Sciencemag
+Serum Institute of India	Serum Institute of India	ORG	ORG-Serum-Institute-of-India
+Stefan Kaufmann	Stefan Kaufmann	PER	PER-Stefan-Kaufmann
+VPM1002	VPM1002	PRO	PRO-VPM1002-vaccine
+VPM1002	VPM1002	PRO	PRO-VPM1002-vaccine
+Австралии	Австралия	LOC	GPE-Australia
+Ангеле Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+Берлине	Берлин	LOC	GPE-Berlin
+ГДР	ГДР	LOC	GPE-Germany
+Германии	Германия	LOC	GPE-Germany
+Институт инфекционной биологии имени Макса Планка	Институт инфекционной биологии имени Макса Планка	ORG	ORG-Max-Planck-Society
+Института инфекционной биологии имени Макса Планка	Институт инфекционной биологии имени Макса Планка	ORG	ORG-Max-Planck-Society
+Кауфман	Штефан Кауфман	PER	PER-Stefan-Kaufmann
+Кауфмана	Штефан Кауфман	PER	PER-Stefan-Kaufmann
+Меркель	Меркель	PER	PER-Angela-Merkel
+Минздравом России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+Нидерландах	Нидерланды	LOC	GPE-Holland
+Общества Макса Планка	Общество Макса Планка	ORG	ORG-Max-Planck-Society
+США	США	LOC	GPE-USA
+Соединенных Штатах	Соединенные Штаты	LOC	GPE-USA
+ФРГ	ФРГ	LOC	GPE-Germany
+Штефан Кауфман	Штефан Кауфман	PER	PER-Stefan-Kaufmann
+бациллы Кальмета - Герена	бацилла Кальмета-Герена	PRO	PRO-Bacillus-Calmette-Guérin
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусов	коронавирус	EVT	EVT-Covid-19
+коронавирусу	коронавирус	EVT	EVT-Covid-19
+научным Обществом Макса Планка	научное Общество Макса Планка	ORG	ORG-Max-Planck-Society
+немецкими	немецкий	LOC	GPE-Germany
+немецких	немецкий	LOC	GPE-Germany

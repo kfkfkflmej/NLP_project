@@ -1,0 +1,66 @@
+ru-24
+1876	1876	EVT	EVT-1876-United-States-Presidential-Election
+1888 годов	1888 год	EVT	EVT-1888-United-States-Presidential-Election
+2016	2016	EVT	EVT-2016-United-States-Presidential-Election
+2020 годов	2020 год	EVT	EVT-2020-United-States-Presidential-Election
+Electoral College	Electoral College	ORG	ORG-Electoral-College
+USA	USA	LOC	GPE-USA
+Алекс Григорьев	Алекс Григорьев	PER	PER-Алексей-Осин
+Аляска	Аляска	LOC	GPE-Alaska
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Буш	Буш	PER	PER-George-Bush-Jr
+Бушу	Буш	PER	PER-George-Bush-Jr
+ВАШИНГТОН	Вашингтон	LOC	GPE-WashingtonDC
+Вайоминг	Вайоминг	LOC	GPE-Wyoming
+Вайоминге	Вайоминг	LOC	GPE-Wyoming
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вермонт	Вермонт	LOC	GPE-Vermont
+Вирджиния	Вирджиния	LOC	GPE-Virginia
+Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+Джорджа Вашингтона	Джордж Вашингтон	PER	PER-George-Washington
+Джорджу Бушу-младшему	Джордж Буш-младший	PER	PER-George-Bush-Jr
+Европейским	Европейский	LOC	LOC-Europe
+Европы	Европа	LOC	LOC-Europe
+Институт Коллегии выборщиков	Институт Коллегии выборщиков	ORG	ORG-Electoral-College
+Исследовательской службы Конгресса США	Исследовательская служба Конгресса США	ORG	ORG-United-States-Congressional-Research-Service
+Калифорнии	Калифорния	LOC	GPE-California
+Калифорния	Калифорния	LOC	GPE-California
+Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+Коллегию	Коллегия	ORG	ORG-United-States-Electoral-College
+Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+Конституции	Конституция	PRO	PRO-The-USA-Constitution
+Конституция	Конституция	PRO	PRO-The-USA-Constitution
+Монтана	Монтана	LOC	GPE-Montana-US-State
+Мэн	Мэн	LOC	GPE-Maine
+Небраска	Небраска	LOC	GPE-Nebraska
+Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Республиканской партиями	Республиканская партия	ORG	ORG-Republican-Party-USA
+Римского Папы	Римский Папа	PER	PER-Pope
+США	США	LOC	GPE-USA
+Священной Римской империи	Священная Римская империя	LOC	GPE-Holy-Roman-Empire
+Северная Дакота	Северная Дакота	LOC	GPE-North-Dakota
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Сената	Сенат	ORG	ORG-United-States-Senate
+Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+Техаса	Техас	LOC	GPE-Texas
+Федерального округа Колумбия	Федеральный округ Колумбия	LOC	GPE-District-of-Columbia
+Финляндии	Финляндия	LOC	GPE-Finland
+Флорида	Флорида	LOC	GPE-Florida
+Флориды	Флорида	LOC	GPE-Florida
+Эл Гор	Эл Гор	PER	PER-Al-Gore
+американских	американский	LOC	GPE-USA
+американцев	американцы	LOC	GPE-USA
+демократ	демократ	PER	ORG-Democratic-Party-USA
+демократом	демократ	PER	ORG-Democratic-Party-USA
+калифорнийца	калифорниец	LOC	GPE-California
+калифорнийцев	калифорниец	LOC	GPE-California
+коллегия кардиналов	коллегия кардиналов	ORG	ORG-College-of-Cardinals
+президентских выборах 1824	президентские выборы 1824	EVT	EVT-2020-United-States-Presidential-Election
+президентских выборов 2012	президентские выборы 2012	EVT	EVT-2012-United-States-Presidential-Election

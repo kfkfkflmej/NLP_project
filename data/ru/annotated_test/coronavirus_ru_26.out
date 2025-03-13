@@ -1,0 +1,41 @@
+ru-26
+COVID-19	COVID-19	EVT	EVT-Covid-19
+COVID-19	COVID-19	EVT	EVT-Covid-19
+mos.ru	mos.ru	PRO	PRO-MASK-air
+«Геликон-опера»	Геликон-опера	LOC	LOC-Helikon-opera
+«Геликон-опере»	Геликон-опера	LOC	LOC-Helikon-opera
+«Геликоне»	Геликон	LOC	LOC-Helikon-opera
+«Госуслуги»	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+«Депо»	Депо	ORG	ORG-Depo-Mall-Moscow
+«Емиас.Инфо»	Емиас.Инфо	PRO	PRO-EMIAS-United-Medical-Information-and-Analytical-System-of-Moscow
+«МИР 24»	МИР 24	PRO	PRO-"MIR 24"
+«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+«ЭпиВакКорона»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+Анна Бажайкина	Анна Бажайкина	PER	PER-Anna-Bozhaykina
+Батыршин Р.И	Батыршин Р.И.	PER	PER-Batirshin-R-I
+Дмитрий Бертман	Дмитрий Бертман	PER	PER-Dmitriy-Bertman
+Закрытого акционерного общества МТРК "Мир"	Закрытое акционерное общество МТРК "Мир"	ORG	ORG-International-Television-and-Radio-Company-"Mir"
+Закрытое акционерное общество «Межгосударственная телерадиокомпания «Мир»	Закрытое акционерное общество «Межгосударственная телерадиокомпания «Мир»	ORG	ORG-International-Television-and-Radio-Company-"Mir"
+МТРК «Мир»	МТРК «Мир»	ORG	ORG-International-Television-and-Radio-Company-"Mir"
+Матвей Окутин	Матвей Окутин	PER	PER-Matvey-Akutin
+Москва	Москва	LOC	GPE-Moscow
+Москвы	Москва	LOC	GPE-Moscow
+Наталия Горина	Наталия Горина	PER	PER-Nataliya-Gorina
+России	Россия	LOC	GPE-Russia
+Ростов-на-Дону	Ростов-на-Дону	LOC	GPE-Rostov-on-Don
+СМИ ЭЛ № ФС77-50091	СМИ ЭЛ № ФС77-50091	PRO	PRO-Media-Outlet's-Registration-Certificate-MIR24
+Светлана Андреева	Светлана Андреева	PER	PER-Svetlana-Andreeva
+Ульяновск	Ульяновск	LOC	GPE-Ulyanovsk
+Ульяновске	Ульяновск	LOC	GPE-Ulyanovsk
+Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаци	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+Хабаровск	Хабаровск	LOC	GPE-Khabarovsk
+Хабаровске	Хабаровск	LOC	GPE-Khabarovsk
+ЮВО	Южный военный округ	LOC	GPE-Southern-Military-District
+Южном военном округе	Южный военный округ	LOC	GPE-Southern-Military-District
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+московский	московский	PER	GPE-Moscow
+московским	московский	PER	GPE-Moscow
+по-московски	по-московски	PER	GPE-Moscow
+поликлиникой №2	поликлиника №2	LOC	LOC-Polyclinic-2-Ulyanovsk
+российским	российский	PER	GPE-Russia

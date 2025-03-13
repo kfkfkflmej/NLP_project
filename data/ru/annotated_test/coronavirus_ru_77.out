@@ -1,0 +1,83 @@
+ru-77
+"Биолек"	"Биолек"	ORG	ORG-Biolec
+"Биолик"	"Биолик"	ORG	ORG-Biolic
+"Лекхим"	"Лекхим"	ORG	ORG-Leckhim
+"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
+"Спутником V"	Спутник V	PRO	PRO-Sputnik-V
+"Фармстандарт"	"Фармстандарт"	ORG	ORG-Pharmstandart
+COVAX	COVAX	ORG	ORG-Covax
+COVID-19	COVID-19	EVT	EVT-Covid-19
+DW	DW	PRO	PRO-Deutsche-Welle
+Gam-COVID-Vac	Спутник V	PRO	PRO-Sputnik-V
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+The Lancet	The Lancet	PRO	PRO-The-Lancet
+Viktor Martin	Виктор Мартин	PER	PER-Victor-Martin
+Австралия	Австралия	LOC	GPE-Australia
+Аргентине	Аргентина	LOC	GPE-Argentina
+Беларуси	Беларусь	LOC	GPE-Belarus
+Бразилией	Бразилия	LOC	GPE-Brazil
+ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+Виктор Мартин	Виктор Мартин	PER	PER-Victor-Martin
+Виктор Медведчук	Виктор Медведчук	PER	PER-Victor-Medvedchuk
+Виктора Мартина	Виктор Мартин	PER	PER-Victor-Martin
+Виктора Харитонина	Виктор Харитонин	PER	PER-Victor-Kharitonin
+Владимир Зеленский	Владимир Зеленский	PER	PER-Volodymyr-Zelensky
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Владимиром Путиным	Владимир Путин	PER	PER-Vladimir-Putin
+Всемирной организации здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+ГЭЦ	Государственный экспертный центр	ORG	ORG-State-Expert-Center
+Германии	Германия	LOC	GPE-Germany
+Государственного экспертного центра	Государственный экспертный центр	ORG	ORG-State-Expert-Center
+Государственный экспертный центр	Государственный экспертный центр	ORG	ORG-State-Expert-Center
+Европа	Европа	LOC	LOC-Europe
+Европы	Европа	LOC	LOC-Europe
+Евросоюзе	Евросоюз	ORG	ORG-European-Union
+Зеленского	Зеленский	PER	PER-Volodymyr-Zelensky
+Израилем	Израиль	LOC	GPE-Israel
+Индией	Индия	LOC	GPE-India
+Индии	Индия	LOC	GPE-India
+Канада	Канада	LOC	GPE-Canada
+Китаем	Китай	LOC	GPE-China
+Китай	Китай	LOC	GPE-China
+Коронавирус	Коронавирус	EVT	EVT-Covid-19
+Коронавирус	коронавирус	EVT	EVT-Covid-19
+Крыму	Крым	LOC	GPE-Crimea
+МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+Медведчуку	Медведчук	PER	PER-Victor-Medvedchuk
+Мексикой	Мексика	LOC	GPE-Mexico
+Минздрав Украины	Минздрав Украины	ORG	Ministry-of-Health-Ukraine
+Минздраве Украины	Минздрав Украины	ORG	Ministry-of-Health-Ukraine
+Минздраве	Минздрав	ORG	ORG-Ministry-of-Healthcare-Ukraine
+Министерство здравоохранения	Министерство здравоохранения	ORG	ORG-Ministry-of-Healthcare-Ukraine
+Москве	Москва	LOC	GPE-Moscow
+ОПЗЖ	"Оппозиционная платформа - За жизнь"	ORG	ORG-Opposition-Platform-For-Life
+Оппозиционная платформа - За жизнь"	Оппозиционная платформа - За жизнь	ORG	ORG-Opposition-Platform-For-Life
+Петербурге	Петербург	LOC	GPE-Saint-Petersburg
+Путин	Путин	PER	PER-Vladimir-Putin
+Путина	Путин	PER	PER-Vladimir-Putin
+РФ	РФ	LOC	GPE-Russia
+Рождества	Рождество	EVT	EVT-Christmas
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+СМИ	СМИ	PRO	PRO-Mass-Media
+США	США	LOC	GPE-USA
+Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+Сергей Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
+Сергея Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
+Татьяна Думенко	Татьяна Думенко	PER	PER-Tatiana-Dumenko
+Украина	Украина	LOC	GPE-Ukraine
+Украине	Украина	LOC	GPE-Ukraine
+Украины	Украина	LOC	GPE-Ukraine
+Федор Лапий	Федор Лапий	PER	PER-Fyodor-Lapiy
+Швейцария	Швейцария	LOC	GPE-Switzerland
+Япония	Япония	LOC	GPE-Japan
+ковид	ковид	EVT	EVT-Covid-19
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусе	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+украинское министерство здравоохранения	украинское министерство здравоохранения	ORG	ORG-Ministry-of-Healthcare-Ukraine
+украинцам	украинцы	PER	GPE-Ukraine

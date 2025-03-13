@@ -1,0 +1,91 @@
+ru-143
+Brookings Institution	Brookings Institution	PRO	PRO-Brookings-Institution
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Esquire	Esquire	PRO	PRO-Esquire
+Forbes	Forbes	PRO	PRO-Forbes
+NPR	NPR	PRO	PRO-NPR
+Nord Stream-2	Nord Stream-2	ORG	ORG-Nord-Stream-2-AG
+Real Clear Polls	Real Clear Polls	PRO	PRO-Real-Clear-Polls
+Reuters	Reuters	PRO	ORG-Reuters
+The Celebrity Apprentice	The Celebrity Apprentice	PRO	PRO-The-Apprentice
+Алабаму	Алабама	LOC	GPE-USA-Alabama
+Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Бараке Обаме	Барак Обама	PER	PER-Barack-Obama
+Берни Сандерса	Берни Сандерс	PER	PER-Bernie-Sanders
+Ближнем Востоке	Ближний Восток	LOC	LOC-Near-East
+Вермонта	Вермонт	LOC	GPE-Vermont
+Госдепа	Госдеп	ORG	ORG-Department-of-State-USA
+ДРСМД	ДРСМД	PRO	PRO-INF-Intermediate-Range-Nuclear-Forces-Treaty
+Делавэр	Делавэр	LOC	GPE-Delaware
+Джилл Трейси Якобс	Джилл Трейси Якобс	PER	PER-Jill-Biden
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Договора по открытому небу	Договор по открытому небу	PRO	PRO-The-Treaty-on-Open-Skies
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Европе	Европа	LOC	LOC-Europe
+Индианы	Индиана	LOC	GPE-Indiana
+Индии	Индия	LOC	GPE-India
+Калифорнии	Калифорния	LOC	GPE-California
+Калифорния	Калифорния	LOC	GPE-California
+Камала Харрис	Камала Харрис	PER	PER-Kamala-Harris
+Китаем	Китай	LOC	GPE-China
+Китай	Китай	LOC	GPE-China
+Колина Пауэлла	Колин Пауэлл	PER	PER-Colin-Powell
+Майкл Пенс	Майкл Пенс	PER	PER-Mike-Pence
+Мелании Трамп	Мелания Трамп	PER	PER-Melania-Trump
+Москвой	Москва	LOC	GPE-Moscow
+Москвы	Москва	LOC	GPE-Moscow
+Мэн	Мэн	LOC	GPE-Maine
+НАТО	НАТО	ORG	ORG-NATO
+Наоми	Наоми	PER	PER-Naomi-Biden
+Небраска	Небраска	LOC	GPE-Nebraska
+Небраске	Небраска	LOC	GPE-Nebraska
+Нелия	Нелия	PER	PER-Neilia-Biden
+Нью-Гэмпшир	Нью-Гэмпшир	LOC	GPE-New-Hampshire
+Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+США	США	LOC	GPE-USA
+Сан-Франциско	Сан-Франциско	LOC	GPE-San-Francisco
+Сиракузский университет	Сиракузский университет	ORG	ORG-Syracuse-University
+Словении	Словения	LOC	GPE-Slovenia
+Талибан	Талибан	PRO	PRO-Taliban
+Техасе	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Транстихоокеанскому партнерству	Транстизоокеанское партнерство	PRO	PRO-Trans-Pacific-Partnership
+Университет Делавэра	Университет Делавэра	ORG	ORG-University-of-Delaware
+Университета Индианы	Университет Индианы	ORG	ORG-University-of-Indiana
+Федеральная избирательная комиссия США	Федеральная избирательная комиссия США	ORG	ORG-Federal-Elections-Commission
+Флориде	Флорида	LOC	GPE-Florida
+Фреда Трампа	Фред Трамп	PER	PER-Fred-Trump-Jr
+Хантер	Хантер	PER	PER-Hunter-Biden
+Эшли	Эшли	PER	PER-Ashley-Biden
+Ямайки	Ямайка	LOC	GPE-Jamaica
+американских	американский	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американское	американский	LOC	GPE-USA
+американцев	американцы	PER	GPE-USA
+войны в Персидском заливе	война в Персидском заливе	EVT	EVT-Gulf-War
+вторжение в Ирак	вторжение в Ирак	EVT	EVT-Invasion-of-Iraq
+вторжения в Ливию	вторжение в Ливию	EVT	EVT-Invasion-of-Lebanon
+выборах 2016 года	выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+выборах в 2016 году	выборы в 2016 году	EVT	EVT-2016-United-States-Presidential-Election
+демократов	демократ	PER	ORG-Democratic-Party-USA
+демократы	демократы	PER	ORG-Democratic-Party-USA
+европейскими	европейские	LOC	LOC-Europe
+европейских	европейские	LOC	LOC-Europe
+иранскую сделку	иранская сделка	PRO	PRO-Iran-nuclear-deal
+коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+округ Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia
+палате представителей конгресса	палата представителей конгресса	ORG	ORG-United-States-House-of-Representatives
+президентские выборы	президентские выборы	EVT	EVT-2016-United-States-Presidential-Election
+республиканца	республиканец	PER	ORG-Republican-Party-USA
+республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+российской	российский	LOC	GPE-Russia

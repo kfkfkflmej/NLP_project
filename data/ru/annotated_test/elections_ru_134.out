@@ -1,0 +1,34 @@
+ru-134
+Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+Fox News	Fox News	PRO	PRO-Fox-News
+Moscow-Live	Moscow-Live	PRO	PRO-Moscow-Live
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Камала Харрис	Камала Харрис	PER	PER-Kamala-Harris
+Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Конституцию	Конституция	PRO	PRO-The-USA-Constitution
+Крылов Антон	Крылов Антон	PER	PER-Krylov-Anton
+Минюст	Минюст	ORG	ORG-Ministry-of-Justice-Russia
+Пентагоне	Пентагон	ORG	ORG-The-Pentagon
+США	США	LOC	GPE-USA
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Управление по общим вопросам администрации США	Управление по общим вопросам администрации США	ORG	ORG-Office-of-General-Affairs-of-the-United-States-Administration
+ФБР	ФБР	ORG	ORG-FBI
+Эмили Мерфи	Эмили Мерфи	PER	PER-Emily-Murphy
+американские	американские	LOC	GPE-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+конгресса	конгресс	ORG	ORG-United-States-Congress
+конгрессе	конгресс	ORG	ORG-United-States-Congress
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+сенате	сенат	ORG	ORG-United-States-Senate

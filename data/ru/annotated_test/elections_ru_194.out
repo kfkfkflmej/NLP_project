@@ -1,0 +1,78 @@
+ru-194
+Never Trump	Never Trump	PRO	PRO-Disloyal:-A-Memoir:-The-True-Story-of-the-Former-Personal-Attorney-to-President-Donald-J.-Trump
+zoom	Zoom	PRO	PRO-Zoom
+«Демократы»	Демократы	ORG	ORG-Democratic-Party-USA
+АЭС	АЭС	ORG	ORG-Nuclear-power-plant
+Америка	Америка	LOC	GPE-USA
+Американские	Американские	LOC	GPE-USA
+Америке	Америка	LOC	GPE-USA
+Америки	Америка	LOC	GPE-USA
+Америкой	Америка	LOC	GPE-USA
+Америку	Америка	LOC	GPE-USA
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Верховный Суд	Верховный Суд	ORG	ORG-Supreme-Court-of-the-United-States
+ГРЭС	ГРЭС	ORG	ORG-GRES
+Германия	Германия	LOC	GPE-Germany
+Голобородько	Голобородько	PER	PER-Aleksandr-Goloborodko
+Демократическая партия	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Дж. Буш	Дж. Буш.	PER	PER-George-Bush-Jr
+Джангирову	Джангиров	PER	PER-Dmitro Dzhanhirov
+ДиаМат	ДиаМат	PRO	PRO-Dialectical-materialism
+Дмитрия Гайдука	Дмитрий Гайдук	PER	PER-Dmirty-Gaiduk
+Израиля	Израиль	LOC	GPE-Israel
+Илона	Илон	PER	PER-Elon-Musk
+Кант	Кант	PER	PER-Immanuel-Kant
+Китая	Китай	LOC	GPE-China
+Клинтон	Клинтон	PER	PER-Hillary-Clinton
+Кортез	Кортез	PER	PER-Alexandria-Ocasio-Cortez
+Маккейн	Маккейн	PER	PER-John-McCain
+Максвелл	Максвелл	PER	PER-James-Clerk-Maxwell
+Маск	Маск	PER	PER-Elon-Musk
+Маска	Маск	PER	PER-Elon-Musk
+Меланье	Меланья	PER	PER-Melania-Trump
+Ньютона	Ньютон	PER	PER-Isaac-Newton
+Ньютона	Нюьтон	PER	PER-Isaac-Newton
+Обаму	Обама	PER	PER-Barack-Obama
+РФ	РФ	LOC	GPE-Russia
+Республиканская партия	Республиканская партия	ORG	ORG-Republican-Party-USA
+Республиканцы	Республиканцы	ORG	ORG-Republican-Party-USA
+России	Россия	LOC	GPE-Russia
+Российского	Российский	LOC	GPE-Russia
+СССР	СССР	LOC	GPE-USSR
+США	США	LOC	GPE-USA
+Сандерса	Сандерс	PER	PER-Bernie-Sanders
+ТЭЦ	ТЭЦ	ORG	ORG-combinated-heat-and-power-station
+Теслой	Тесла	ORG	ORG-Tesla-company
+Теслу	Тесла	ORG	ORG-Tesla-company
+Техас	Техас	LOC	GPE-Texas
+Тойоты	Тойота	ORG	ORG-Toyota
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампом	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+ФРС	ФРС	ORG	ORG-Federal-Reserve-System
+Фрейду	Фрейд	PER	PER-Sigmung-Freud
+Хиллари	Хиллари	PER	PER-Hillary-Clinton
+Холивуд	Холивуд	LOC	LOC-Hollywood
+Штатах	Штаты	LOC	GPE-USA
+американские	американские	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американской	американская	LOC	GPE-USA
+американцу	американец	PER	GPE-USA
+демократам	демократы	ORG	ORG-Democratic-Party-USA
+демократам	демократы	PER	ORG-Democratic-Party-USA
+демократами	демократы	ORG	ORG-Democratic-Party-USA
+демократическая	демократическая	ORG	ORG-Democratic-Party-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+коронавирусный	коронавирусный	EVT	EVT-Covid-19
+мексиканцами	мексиканцы	PER	GPE-Mexico
+мексиканцев	мексиканцы	PER	GPE-Mexico
+республиканская	республиканская	ORG	ORG-Republican-Party-USA
+республиканцами	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+российских	российские	LOC	GPE-Russia

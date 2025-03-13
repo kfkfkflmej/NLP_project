@@ -1,0 +1,13 @@
+uk-10274
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+COVID	COVID	EVT	EVT-Covid-19
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+Лондона	Лондон	LOC	GPE-London
+Лондоні	Лондон	LOC	GPE-London
+Метт Генкок	Метт Генкок	PER	PER-Matthew-Hancock
+Оксфордського університету	Оксфордський університет	ORG	ORG-Oxford-University
+Садік Кан	Садік Кан	PER	PER-Sadiq-Khan

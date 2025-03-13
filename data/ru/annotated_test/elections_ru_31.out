@@ -1,0 +1,43 @@
+ru-31
+"Царьград"	"Царьград"	PRO	PRO-Tsargrad
+"зелёных"	зелёные	ORG	ORG-Green-Party-of-the-United-States
+Алабама	Алабама	LOC	GPE-USA-Alabama
+Американская	американский	LOC	GPE-USA
+Америке	Америка	LOC	GPE-USA
+Америки	Америка	LOC	GPE-USA
+Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+Верховный суд США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+Института Гэллапа	Институт Гэллапа	ORG	ORG-American-Institute-of-Public-Opinion
+Калифорния	Калифорния	LOC	GPE-California
+Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Колумбия	Колумбия	LOC	GPE-District-of-Columbia
+Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+Росса Перо	Росс Перо	PER	PER-Ross-Perot
+России	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Теодора Рузвельта	Теодор Рузвельт	PER	PER-Theodore-Roosevelt
+Техас	Техас	LOC	GPE-Texas
+Техасе	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+Штатах	Штаты	LOC	GPE-USA
+Яндекс.Дзен	Яндекс.Дзен	PRO	PRO-Yandex.Dzen
+американская	американская	LOC	GPE-USA
+американская	американский	LOC	GPE-USA
+американских	американские	LOC	GPE-USA
+американской	американский	LOC	GPE-USA
+американцам	американцы	PER	GPE-USA
+американцев	американцы	PER	GPE-USA
+выборах президента США в 2016 году	выборы президента США 2016	EVT	EVT-2016-United-States-Presidential-Election
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+демократы	демократ	ORG	ORG-Democratic-Party-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+республиканец	республиканец	ORG	ORG-Republican-Party-USA
+республиканца	республиканец	ORG	ORG-Republican-Party-USA
+республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+техасского	техасский	LOC	GPE-Texas

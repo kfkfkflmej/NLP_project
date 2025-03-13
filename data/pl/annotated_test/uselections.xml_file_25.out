@@ -1,0 +1,27 @@
+25
+Arizonie	Arizona	LOC	GPE-Arizona
+Biały Dom	Biały Dom	LOC	LOC-White-House
+Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+Demokraty	Demokrata	PER	ORG-Democratic-Party-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Donaldem Trumpem	Donald Trump	PER	PER-Donald-Trump
+Fox News	Fox News	PRO	PRO-Fox-News
+GOP	GOP	ORG	ORG-Republican-Party-USA
+Georgii	Georgia	LOC	GPE-Georgia-US-state
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Joego Bidena	Joe Biden	PER	PER-Joe-Biden
+Michigan	Michigan	LOC	GPE-Michigan
+Partii Republikańskiej	Partia Republikańska	ORG	ORG-Republican-Party-USA
+Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+Powell	Powell	PER	PER-Sidney-Powell
+Republikanie	Republikanie	ORG	ORG-Republican-Party-USA
+Republikanina	Republikanin	PER	ORG-Republican-Party-USA
+Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+Sidney Powell	Sidney Powell	PER	PER-Sidney-Powell
+Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+Trump	Trump	PER	PER-Donald-Trump
+Twitterze	Twitter	PRO	PRO-Twitter
+USA	USA	LOC	GPE-USA
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+wyborów prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election

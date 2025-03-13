@@ -1,0 +1,18 @@
+32
+Afriky	Afrika	LOC	LOC-Africa
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Eboly	Ebola	EVT	EVT-Ebola
+Ghebreyesus	Ghebreyesus	PER	PER-Tedros-Adhanom-Ghebreyesus
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Nature	Nature	PRO	PRO-Nature-(journal)
+Spojené státy americké	Spojené státy americké	LOC	GPE-USA
+Světové zdravotnické organizace	Světová zdravotnická organizace	ORG	ORG-World-Health-Organization
+Tedros Adhanom Ghebreyesus	Tedros Adhanom Ghebreyesus	PER	PER-Tedros-Adhanom-Ghebreyesus
+USA	USA	LOC	GPE-USA
+Verena Mohaupt	Verena Mohaupt	PER	PER-Verena-Mohaupt
+WHO	WHO	ORG	ORG-World-Health-Organization
+Wuhanu	Wuhan	LOC	GPE-Wuhan
+koronavirem	koronavirus	EVT	EVT-Covid-19
+koronavirus	koronavirus	EVT	EVT-Covid-19
+Čínou	Čína	LOC	GPE-China

@@ -1,0 +1,85 @@
+ru-191
+"Газпром-медиа"	"Газпром-медиа"	ORG	ORG-Gazprom-Media
+"Имарат Кавказ"	"Имарат Кавказ"	ORG	ORG-The-Caucasus-Emirate
+"Песняры"	"Песняры"	ORG	ORG-vocal-and-instrumental-ensemble-pesnyary
+"Триколором"	"Триколором"	ORG	ORG-Tricolor
+"Экономика сегодня"	"Экономика сегодня"	ORG	ORG-Federal-News-Agency-Economics-Today
+Facebook	Facebook	ORG	ORG-Facebook
+Facebook	Facebook	PRO	PRO-Facebook
+Google	Google	ORG	ORG-Google
+MИ-6	МИ-6	ORG	ORG-MI6
+Neuralink	Neuralink	ORG	ORG-Neuralink
+Obamacare	Obamacare	PRO	PRO-Obamacare
+SpaceХ	SpaceX	ORG	ORG-SpaceX-company
+Tesla	Tesla	ORG	ORG-Tesla-company
+Twitter	Twitter	ORG	ORG-Twitter
+Twitter	Twitter	PRO	PRO-Twitter
+«Исламское государство»	«Исламское государство»	ORG	ORG-ISIS-Islamic-State-of-Iraq-and-the-Levant
+Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
+Борис Пивовар	Борис Пивовар	PER	PER-Boris-Pivovar
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Верховного суда РФ	Верховный суд РФ	ORG	ORG-Supreme-Court-of-Russian-Federation
+Виктории Юрьевны	Виктория Юрьевна	PER	PER-Victoria-Zhuravleva
+Виктория Журавлева	Виктория Журавлева	PER	PER-Victoria-Zhuravleva
+Владимир Ашурков	Владимир Ашурков	PER	PER-Vladimir-Ashurkov
+Владимир Зеленский	Владимир Зеленский	PER	PER-Volodymyr-Zelensky
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Волжского	Волжский	LOC	LOC-Volzhsky
+Вячеслав Володин	Вячеслав Володин	PER	PER-Viacheslav-Volodin
+Госдумы РФ	Госдума РФ	ORG	ORG-Russia-The-State-Duma
+Госпогранслужба	Госпогранслужба	ORG	ORG-Ukraine-State-Border-Guard
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Журавлева	Журавлева	PER	PER-Victoria-Zhuravleva
+ИГ	ИГ	ORG	ORG-ISIS-Islamic-State-of-Iraq-and-the-Levant
+Илон Маск	Илон Маск	PER	PER-Elon-Musk
+Ингушетии	Ингушетия	LOC	GPE-Ingushetia
+Института отраслевого менеджмента РАНХиГС	Институт отраслевого менеджмента РАНХиГС	ORG	ORG-Institute-of-Industry-Management-RANEPA
+Клинтон	Клинтон	PER	PER-Hillary-Clinton
+Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Крыма	Крым	LOC	GPE-Crimea
+Марин Афанасьева	Марина Афанасьева	PER	PER-Marina-Afanasyeva
+Москва	Москва	LOC	GPE-Moscow
+НАТО	НАТО	ORG	ORG-NATO
+РФ	РФ	LOC	GPE-Russia
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+Ростислав Ищенко	Ростислав Ищенко	PER	PER-Rostislav-Ischenko
+Ростуризм	Ростуризм	ORG	ORG-Rostourism
+США	США	LOC	GPE-USA
+Сергей Цеков	Сергей Цеков	PER	PER-Sergey-Tsekov
+Соединенных Штатах	Соединенные Штаты	LOC	GPE-USA
+Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Украину	Украина	LOC	GPE-Ukraine
+Украины	Украина	LOC	GPE-Ukraine
+ФБА «Экономика сегодня»	ФБА «Экономика сегодня»	ORG	ORG-Federal-News-Agency-Economics-Today
+ФБА «Экономика сегодня»	ФБА «Экономика сегодня»	ORG	ORG-Federal-News-Agency-Economics-Today
+ФСБ	ФСБ	ORG	ORG-FSB
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+американские	американские	LOC	GPE-USA
+американский Конгресс	американский Конгресс	ORG	ORG-United-States-Congress
+американский	американский	LOC	GPE-USA
+американским	американский	LOC	GPE-USA
+американскими	американский	LOC	GPE-USA
+американских	американский	LOC	GPE-USA
+американской	американская	LOC	GPE-USA
+американцев	американец	PER	GPE-USA
+британского посольства	британское посольство	ORG	ORG-British-Embassy-Russia
+конгресс США	конгресс США	ORG	ORG-United-States-Congress
+коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+министерство инвестиций, промышленности и науки Московской области	министерство инвестиций, промышленности и науки Московской области	ORG	ORG-Ministry-of-Investment-Industry-and-Science-of-the-Moscow-Region
+российский	российский	LOC	GPE-Russia
+российским	российский	LOC	GPE-Russia
+российскими	российский	LOC	GPE-Russia
+российскими	российский	LOC	GPE-Russia
+российских	российский	LOC	GPE-Russia
+российско	российский	LOC	GPE-Russia
+российскую	российская	LOC	GPE-Russia
+сектором внешней и внутренней политики ИМЭМО РАН	сектор внешней и внутренней политики ИМЭМО РАН	ORG	ORG-Sector-of-US-Foreign-and-Domestic-Policy-IMEMO

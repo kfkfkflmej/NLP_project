@@ -1,0 +1,11 @@
+uk-10315
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Pfizer	Pfizer	ORG	ORG-Pfizer
+The Guardian	The Guardian	ORG	ORG-The-Guardian
+Ангелу Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+Володимир Зеленський	Володимир Зеленський	PER	PER-Volodymyr-Zelensky
+Німеччини	Німеччина	LOC	GPE-Germany
+Райан Річардсон	Райан Річардсон	PER	PER-Ryan-Richardson
+Україною	Україна	LOC	GPE-Ukraine
+коронавірусу	коронавірус	EVT	EVT-Covid-19

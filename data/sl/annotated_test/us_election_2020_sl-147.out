@@ -1,0 +1,40 @@
+sl-147
+AP	AP	ORG	ORG-AP-The-Associated-Press
+Američani	Američani	PER	GPE-USA
+Arizoni	Arizona	LOC	GPE-Arizona
+Arizono	Arizona	LOC	GPE-Arizona
+Biden	Biden	PER	PER-Joe-Biden
+Bidnu	Biden	PER	PER-Joe-Biden
+Billa Clintona	Bill Clinton	PER	PER-Bill-Clinton
+Clintonu	Clinton	PER	PER-Bill-Clinton
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Georgia	Georgia	LOC	GPE-Georgia-US-state
+Georgie	Georgia	LOC	GPE-Georgia-US-state
+Georgii	Georgia	LOC	GPE-Georgia-US-state
+Georgio	Georgia	LOC	GPE-Georgia-US-state
+Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+Josephu Bidnu	Joseph Biden	PER	PER-Joe-Biden
+Mainu	Maine	LOC	GPE-Maine
+Michigan	Michigan	LOC	GPE-Michigan
+Nebraski	Nebraska	LOC	GPE-Nebraska
+Pensilvanijo	Pensilvanija	LOC	GPE-Pennsylvania
+Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+Trump	Trump	PER	PER-Donald-Trump
+Trumpova	Trump	PER	PER-Donald-Trump
+Trumpove	Trump	PER	PER-Donald-Trump
+Trumpovi	Trump	PER	PER-Donald-Trump
+Trumpovo	Trump	PER	PER-Donald-Trump
+Trumpu	Trump	PER	PER-Donald-Trump
+Washington Post	Washington Post	PRO	PRO-Washington-Post
+Washingtonu	Washington	LOC	GPE-WashingtonDC
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+ZDA	ZDA	LOC	GPE-USA
+demokrat	demokrat	PER	ORG-Democratic-Party-USA
+demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+demokrati	demokrati	PER	ORG-Democratic-Party-USA
+demokratom	demokrati	ORG	ORG-Democratic-Party-USA
+predstavniški dom zveznega kongresa	predstavniški dom zveznega kongresa	ORG	ORG-House-of-Representatives(USA)
+republikancem	republikanci	ORG	ORG-Republican-Party-USA
+republikancev	republikanci	ORG	ORG-Republican-Party-USA
+republikanci	republikanci	ORG	ORG-Republican-Party-USA
+republikanci	republikanci	PER	ORG-Republican-Party-USA

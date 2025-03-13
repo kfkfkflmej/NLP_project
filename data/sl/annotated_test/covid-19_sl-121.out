@@ -1,0 +1,16 @@
+sl-121
+Bergama	Bergamo	LOC	GPE-Bergamo
+COVID 19	COVID-19	EVT	EVT-Covid-19
+COVID	COVID	EVT	EVT-Covid-19
+Dragan Marušič	Dragan Marušič	PER	PER-Dragan-Marušič
+Federica Viktorja Potočnika	Federico Victor Potočnik	PER	PER-Federico-Victor-Potočnik
+New Yorka	New York	LOC	GPE-New-York
+Oddelku za infekcijske bolezni in vročinska stanja	Oddelek za infekcijske bolezni in vročinska stanja	LOC	LOC-Oddelek-za-infekcijske-bolezni-in-vročinska-stanja-SB-Celje
+SB Celje	SB Celje	LOC	LOC-Celje-General-Hospital
+Sars-Cov 2	Sars-Cov 2	EVT	EVT-Covid-19
+Sloveniji	Slovenija	LOC	GPE-Slovenia
+Splošna bolnišnica Celje	Splošna bolnišnica Celje	LOC	LOC-Celje-General-Hospital
+Univerze na Primorskem	Univerza na Primorskem	ORG	ORG-University-of-Primorska
+Vane T. Costa	Vane T. Costa	PER	PER-Vane-T-Costa
+ZZZS	ZZZS	ORG	ORG-Health-Insurance-Institute-of-Slovenia
+covid	covid	EVT	EVT-Covid-19

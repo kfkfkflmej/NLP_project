@@ -1,0 +1,21 @@
+uk-10313
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Moderna Inc.	Moderna Inc.	ORG	ORG-Moderna
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer Inc.	Pfizer Inc.	ORG	ORG-Pfizer
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+Бразилії	Бразилія	LOC	GPE-Brazil
+Китай	Китай	LOC	GPE-China
+Китаю	Китай	LOC	GPE-China
+МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+Сан-Паулу	Сан-Паулу	LOC	GPE-Sao-Paulo-state
+ТСН	ТСН	PRO	PRO-TSN.ua
+Україна	Україна	LOC	GPE-Ukraine
+України	Україна	LOC	GPE-Ukraine
+коронавірусної хвороби	коронавірусна хвороба	EVT	EVT-Covid-19
+коронавірусом	коронавірус	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19

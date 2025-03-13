@@ -1,0 +1,58 @@
+uk-20305
+FT	FT	PRO	PRO-Financial-Times
+Financial Times	Financial Times	PRO	PRO-Financial-Times
+Адміністрація	Адміністрація	ORG	ORG-US-President-Administration
+Америку	Америка	LOC	GPE-USA
+Афганістані	Афганістан	LOC	GPE-Afghanistan
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Блінкен	Блінкен	PER	PER-Antony-Blinken
+Білий дім	Білий дім	ORG	ORG-White-House
+Білого дому	Білий дім	ORG	ORG-White-House
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Верховного суду	Верховний суд	ORG	ORG-Supreme-Court-of-the-United-States
+Володимира Путіна	Володимир Путін	PER	PER-Vladimir-Putin
+Грузію	Грузія	LOC	GPE-Georgia
+Грузії	Грузія	LOC	GPE-Georgia
+Джейка Саллівана	Джейк Салліван	PER	PER-Jake-Sullivan
+Джен Псакі	Джен Псакі	PER	PER-Jen-Psaki
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джон Кірбі	Джон Кірбі	PER	PER-John-Kirby
+Джон Робертс	Джон Робертс	PER	PER-John-Roberts
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Ендрю Вайс	Ендрю Вайс	PER	PER-Andrew-Weiss
+Ентоні Блінкен	Ентоні Блінкен	PER	PER-Antony-Blinken
+Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+Китаю	Китай	LOC	GPE-China
+Кремлем	Кремль	ORG	ORG-Kremlin
+Кремль	Кремль	ORG	ORG-Kremlin
+Кремля	Кремль	ORG	ORG-Kremlin
+Криму	Крим	LOC	GPE-Crimea
+Москва	Москва	LOC	GPE-Moscow
+Москвою	Москва	LOC	GPE-Moscow
+НАТО	НАТО	ORG	ORG-NATO
+Навальним	Навальний	PER	PER-Alexei-Navalny
+Навального	Навальний	PER	PER-Alexei-Navalny
+Новий старт	Новий старт	EVT	EVT-New-START
+Нового старту	Новий старт	EVT	EVT-New-START
+Олексія Навального	Олексій Навальний	PER	PER-Alexei-Navalny
+Пентагону	Пентагон	ORG	ORG-The-Pentagon
+Путін	Путін	PER	PER-Vladimir-Putin
+Путіна	Путін	PER	PER-Vladimir-Putin
+Росію	Росія	LOC	GPE-Russia
+Росія	Росія	LOC	GPE-Russia
+Росією	Росія	LOC	GPE-Russia
+Росії	Росія	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Салліван	Салліван	PER	PER-Jake-Sullivan
+Сенату	Сенат	ORG	ORG-United-States-Senate
+Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Україні	Україна	LOC	GPE-Ukraine
+Фонду Карнегі за міжнародний мир	Фонд Карнегі за міжнародний мир	ORG	ORG-Carnegie-Endowment-for-International-Peace
+вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration

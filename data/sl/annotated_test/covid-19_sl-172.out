@@ -1,0 +1,61 @@
+sl-172
+Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+Antonio Guterres	Antonio Guterres	PER	PER-Antonio-Guterres
+Argentina	Argentina	LOC	GPE-Argentina
+Avstralija	Avstralija	LOC	GPE-Australia
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Brazilija	Brazilija	LOC	GPE-Brazil
+Charles Michel	Charles Michel	PER	PER-Charles-Michel
+Covax	Covax	ORG	ORG-Covax
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donalda Trumpa mlajšega	Donald Trump mlajši	PER	PER-Donald-Trump-Jr.
+EU	EU	ORG	ORG-European-Union
+Evropska unija	Evropska unija	ORG	ORG-European-Union
+Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+Evropskem svetu	Evropski svet	ORG	ORG-European-Council
+Evropski komisiji	Evropska komisija	ORG	ORG-European-Commission
+Evropski parlament	Evropski parlament	ORG	ORG-European-Parliament
+Francija	Francija	LOC	GPE-France
+G20	G20	ORG	ORG-G20
+Indija	Indija	LOC	GPE-India
+Indonezija	Indonezija	LOC	GPE-Indonesia
+Italija	Italija	LOC	GPE-Italy
+Japonska	Japonsko	LOC	GPE-Japan
+Južna Afrika	Južna Afrika	LOC	GPE-Republic-of-South-Africa
+Južna Koreja	Južna Koreja	LOC	GPE-South-Korea
+Kanada	Kanada	LOC	GPE-Canada
+Kitajska	Kitajska	LOC	GPE-China
+Mehika	Mehika	LOC	GPE-Mexico
+Nemčija	Nemčija	LOC	GPE-Germany
+Novinarji brez meja	Novinarji brez meja	ORG	ORG-Reporters-Without-Borders
+Putin	Putin	PER	PER-Vladimir-Putin
+Recep Tayyip Erdogan	Recep Tayyip Erdogan	PER	PER-Recep-Tayyip-Erdoğan
+Reuters	Reuters	ORG	ORG-Reuters
+Rijadu	Rijad	LOC	GPE-Riyadh
+Rusija	Rusija	LOC	GPE-Russia
+Salman	Salman	PER	PER-Salman-of-Saudi-Arabia
+Salmana	Salman	PER	PER-Salman-of-Saudi-Arabia
+Savdska Arabija	Savdska Arabija	LOC	GPE-Saudi-Arabia
+Savdski Arabiji	Savdska Arabija	LOC	GPE-Saudi-Arabia
+Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+Svetovne zdravstvene organizacije	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+Trumpa	Trump	PER	PER-Donald-Trump
+Turčija	Turčija	LOC	GPE-Turkey
+Ursula von der Leyen	Ursula von der Leyen	PER	PER-Ursula-von-der-Leyen
+Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+Vrh G20	Vrh G20	EVT	EVT-Summit-G20
+WHO	WHO	ORG	ORG-World-Health-Organization
+Xi Jinping	Xi Jinping	PER	PER-Xi-Jinping
+Xi	Xi	PER	PER-Xi-Jinping
+ZDA	ZDA	LOC	GPE-USA
+ZN	ZN	ORG	ORG-United-Nations
+covid-19	covid-19	EVT	EVT-Covid-19
+covida-19	covid-19	EVT	EVT-Covid-19
+covidu-19	covid-19	EVT	EVT-Covid-19
+dpa	dpa	ORG	ORG-DPA
+novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+vrha G20	vrh G20	EVT	EVT-Summit-G20
+vrhu G20	vrh G20	EVT	EVT-Summit-G20

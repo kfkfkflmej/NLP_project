@@ -1,0 +1,52 @@
+sl-100
+Afganistana	Afganistan	LOC	GPE-Afghanistan
+Aljaski	Aljaska	LOC	GPE-Alaska
+Amerike	Amerika	LOC	GPE-USA
+Ameriko	Amerika	LOC	GPE-USA
+Američanov	Američani	PER	GPE-USA
+Anthonyja Blinkna	Antony Blinken	PER	PER-Antony-Blinken
+Arktičnem naravnem rezervatu za divje živali	Arktični naravni rezervat za divje živali	LOC	LOC-Arctic-Sanctuary
+Biden	Biden	PER	PER-Joe-Biden
+Bidna	Biden	PER	PER-Joe-Biden
+Bidnovo	Biden	PER	PER-Joe-Biden
+Bidnu	Biden	PER	PER-Joe-Biden
+Bližnjega vzhoda	Bližnji vzhod	LOC	LOC-Middle-East
+Damask	Damask	LOC	GPE-Damascus
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+EU	EU	ORG	ORG-European-Union
+Evropa	Evropa	LOC	LOC-Europe
+Evropejcem	Evropejci	PER	LOC-Europe
+Evropi	Evropa	LOC	LOC-Europe
+Evropo	Evropa	LOC	LOC-Europe
+Evropska unija	Evropska unija	ORG	ORG-European-Union
+Evropske unije	Evropska unija	ORG	ORG-European-Union
+Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+Iranom	Iran	LOC	GPE-Iran
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Joe	Joe	PER	PER-Joe-Biden
+Kitajske	Kitajska	LOC	GPE-China
+Kitajskem	Kitajska	LOC	GPE-China
+Kitajski	Kitajska	LOC	GPE-China
+Kitajski	Kitajski	LOC	GPE-China
+Macron	Macron	PER	PER-Emmanuel-Macron
+Nata	NATO	ORG	ORG-NATO
+Obama	Obama	PER	PER-Barack-Obama
+Republikanci	Republikanci	PER	ORG-Republican-Party-USA
+Scrantona	Scranton	LOC	GPE-Scranton
+Sirijo	Sirija	LOC	GPE-Syria
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+Trumpove	Trump	PER	PER-Donald-Trump
+Trumpovih	Trump	PER	PER-Donald-Trump
+Trumpovo	Trump	PER	PER-Donald-Trump
+Washingtonu	Washington	LOC	GPE-WashingtonDC
+ZDA	ZDA	LOC	GPE-USA
+Združenih držav Amerike	Združene države Amerike	LOC	GPE-USA
+Združenimi državami	Združene države	LOC	GPE-USA
+ameriškem senatu	ameriški senat	ORG	ORG-United-States-Senate
+ameriško vrhovno sodišče	ameriško vrhovno sodišče	ORG	ORG-Supreme-Court-of-the-United-States
+covid	covid	EVT	EVT-Covid-19
+iranski jedrski sporazum	iranski jedrski sporazum	PRO	PRO-Iran-nuclear-deal
+pariškemu podnebnemu sporazumu	pariški podnebni sporazum	PRO	PRO-Paris-Agreement
+republikance	republikanci	PER	ORG-Republican-Party-USA
+republikanci	republikanci	PER	ORG-Republican-Party-USA

@@ -1,0 +1,94 @@
+ru-172
+Bernie Sanders	Bernie Sanders	PER	PER-Bernie-Sanders
+GDP	GDP	PRO	PRO-GDP
+Nancy Pelosi	Nancy Pelosi	PER	PER-Nancy-Pelosi
+Ocasia-Cortez	Ocasia-Cortez	PER	PER-Alexandria-Ocasio-Cortez
+USMCA	USMCA	PRO	PRO-USMCA
+Америку	Америка	LOC	GPE-USA
+Байден	Байден	PER	PER-Joe-Biden
+Билл Клинтон	Билл Клинтон	PER	PER-Bill-Clinton
+Браун	Браун	PER	PER-Kerry-Brown
+Букера	Букер	PER	PER-Cory-Booker
+Венгрии	Венгрия	LOC	GPE-Hungary
+Верховном Совете	Верховный Совет	ORG	ORG-Supreme-Court-of-the-United-States
+Висконсин	Висконсин	LOC	GPE-Wisconsin
+Выборы-2018	Выборы-2018	EVT	EVT-2018-United-States-Election
+Высший Верховных Суд	Высший Верховных Суд	ORG	ORG-Supreme-Court-of-the-United-States
+Гарсетти	Гарсетти	PER	PER-Eric-Garcetti
+Даллас	Даллас	LOC	GPE-Dallas
+Демократы	Демократы	ORG	ORG-Democratic-Party-USA
+КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+Клинтон	Клинтон	PER	PER-Hillary-Clinton
+Клинтона	Клинтон	PER	PER-Hillary-Clinton
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Лига Плюща	Лига Плюща	ORG	ORG-The-Ivy-League
+Миннесоту	Миннесота	LOC	GPE-Minnesota
+Мичиган	Мичиган	LOC	GPE-Michigan
+Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+О'Рурка	О'Рурк	PER	PER-Beto-O'Rourke
+Обаме	Обама	PER	PER-Barack-Obama
+Обамой	Обама	PER	PER-Barack-Obama
+Обамы	Обама	PER	PER-Barack-Obama
+Огайо	Огайо	LOC	GPE-Ohio
+Остин	Остин	LOC	GPE-Austin
+О’Рурка	О’Рурка	PER	PER-Beto-O'Rourke
+Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Палате	Палата	ORG	ORG-United-States-House-of-Representatives
+Палату	Палата	ORG	ORG-United-States-House-of-Representatives
+Палаты	Палата	ORG	ORG-United-States-House-of-Representatives
+Пенсильванию	Пенсильвания	LOC	GPE-Pennsylvania
+Республиканцы	Республиканцы	ORG	ORG-Republican-Party-USA
+Рузвельт	Рузвельт	PER	PER-Franklin-Roosevelt
+Рузвельта	Рузвельт	PER	PER-Franklin-Roosevelt
+США	США	LOC	GPE-USA
+Сальвадор	Сальвадор	LOC	GPE-El-Salvador
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Сената	Сенат	ORG	ORG-United-States-Senate
+Сенате	Сенат	ORG	ORG-United-States-Senate
+Советском Союзе	Советский Союз	LOC	GPE-Soviet-Union-USSR
+Солт Лейк Сити	Солт Лейк Сити	LOC	GPE-Solt-Lake-City
+Солт-Лейке	Солт-Лейке	LOC	GPE-Solt-Lake-City
+Сорос	Сорос	PER	PER-George-Soros
+Стёпка Бэннон	Стёпка Бэннон	PER	PER-Steve-Bannon
+Твиттере	Твиттер	PRO	PRO-Twitter
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампе	Трамп	PER	PER-Donald-Trump
+Трамповский	Трамповский	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Уоррен	Уоррен	PER	PER-Elizabeth-Warren
+ФБР	ФБР	ORG	ORG-FBI
+Феникса	Феникса	LOC	GPE-Phoenix
+Флориду	Флорида	LOC	GPE-Florida
+Фокс	Фокс	PRO	PRO-Fox-News
+Харрис	Харрис	PER	PER-Kamala-Harris
+Хьюстон	Хьюстон	LOC	GPE-Houston
+американские	американские	LOC	GPE-USA
+американский	американский	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американской	американская	LOC	GPE-USA
+американцы	американцы	PER	GPE-USA
+бруклинских	бруклинские	LOC	GPE-Brooklyn
+демократа	демократ	ORG	ORG-Democratic-Party-USA
+демократам	демократы	ORG	ORG-Democratic-Party-USA
+демократическая партия	демократическая партия	ORG	ORG-Democratic-Party-USA
+демократическая	демократическая	ORG	ORG-Democratic-Party-USA
+демократической	демократическая	ORG	ORG-Democratic-Party-USA
+демократическому	демократический	ORG	ORG-Democratic-Party-USA
+демократическую партию	демократическая партия	ORG	ORG-Democratic-Party-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+демократом	демократ	ORG	ORG-Democratic-Party-USA
+демократы	демократ	ORG	ORG-Democratic-Party-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+партию независимых	партия независимых	ORG	ORG-Independent-Party-USA
+президентских выборах 2016	президентские выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+республиканского	республиканский	ORG	ORG-Republican-Party-USA
+республиканцам	республиканец	ORG	ORG-Republican-Party-USA
+республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+русские	русский	LOC	GPE-Russia
+сенатских выборах-2018	сенатские выборы-2018	EVT	EVT-USA-Senate-elections-2018

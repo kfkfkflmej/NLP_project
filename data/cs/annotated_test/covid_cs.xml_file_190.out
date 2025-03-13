@@ -1,0 +1,11 @@
+190
+Američan	Američan	PER	GPE-USA
+BBC	BBC	PRO	PRO-BBC
+Nevady	Nevada	LOC	GPE-Nevada
+Spojených státech	Spojené státy	LOC	GPE-USA
+The Lancet	The Lancet	PRO	PRO-The-Lancet
+Washington	Washington	LOC	GPE-WashingtonDC
+covid-19	covid-19	EVT	EVT-Covid-19
+koronavirem	koronavirus	EVT	EVT-Covid-19
+koronaviru	koronavirus	EVT	EVT-Covid-19
+koronavirus	koronavirus	EVT	EVT-Covid-19

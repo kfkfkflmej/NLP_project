@@ -1,0 +1,45 @@
+ru-5
+Америке	Америка	LOC	GPE-USA
+Аризона	Аризона	LOC	GPE-Arizona
+Аризоне	Аризона	LOC	GPE-Arizona
+Аризону	Аризона	LOC	GPE-Arizona
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Берни Сандерс	Берни Сандерс	PER	PER-Bernie-Sanders
+Берни Сандерса	Берни Сандерс	PER	PER-Bernie-Sanders
+Висконсин	Висконсин	LOC	GPE-Wisconsin
+Висконсине	Висконсин	LOC	GPE-Wisconsin
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Калифорнии	Калифорния	LOC	GPE-California
+Калифорния	Калифорния	LOC	GPE-California
+Мичиган	Мичиган	LOC	GPE-Michigan
+Мичигане	Мичиган	LOC	GPE-Michigan
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Пенсильванию	Пенсильвания	LOC	GPE-Pennsylvania
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+Президентские выборы в США	Президентские выборы в США	EVT	EVT-2020-United-States-Presidential-Election
+США	США	LOC	GPE-USA
+Сандерс	Сандерс	PER	PER-Bernie-Sanders
+Сандерса	Сандерс	PER	PER-Bernie-Sanders
+Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Северную Каролину	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Техас	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Уоррен	Уоррен	PER	PER-Elizabeth-Warren
+Флорида	Флорида	LOC	GPE-Florida
+Флориде	Флорида	LOC	GPE-Florida
+Флориду	Флорида	LOC	GPE-Florida
+Элизабет Уоррен	Элизабет Уоррен	PER	PER-Elizabeth-Warren
+американские	американские	LOC	GPE-USA
+американский	американский	LOC	GPE-USA
+демократам	демократы	PER	ORG-Democratic-Party-USA
+демократов	демократы	PER	ORG-Democratic-Party-USA
+демократы	демократы	PER	ORG-Democratic-Party-USA
+президентских выборах в США	президентские выборы в США	EVT	EVT-2020-United-States-Presidential-Election
+президентских выборов	президентские выборы	EVT	EVT-2020-United-States-Presidential-Election
+республиканец	республиканец	PER	ORG-Republican-Party-USA
+республиканцы	республиканцы	PER	ORG-Republican-Party-USA

@@ -1,0 +1,34 @@
+211
+Amerykanie	Amerykanie	PER	GPE-USA
+Arizona	Arizona	LOC	GPE-Arizona
+Arizonie	Arizona	LOC	GPE-Arizona
+Colorado	Colorado	LOC	GPE-Colorado
+Dixville Notch	Dixville Notch	LOC	LOC-Dixville-Notch
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Floryda	Floryda	LOC	GPE-Florida
+Georgia	Georgia	LOC	GPE-Georgia-US-state
+Georgii	Georgia	LOC	GPE-Georgia-US-state
+Idaho	Idaho	LOC	GPE-Idaho
+Iowa	Iowa	LOC	GPE-Iowa
+Izby Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+Izbą Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+Kalifornia	Kalifornia	LOC	GPE-California
+Karolina Południowa	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+Maine	Maine	LOC	GPE-Maine
+Michigan	Michigan	LOC	GPE-Michigan
+Millsfield	Millsfield	LOC	LOC-Millsfield
+Montanie	Montana	LOC	GPE-Montana-US-State
+Nebrasce	Nebraska	LOC	GPE-Nebraska
+Nebraska	Nebraska	LOC	GPE-Nebraska
+Nowy Jork	Nowy Jork	LOC	GPE-New-York
+Ohio	Ohio	LOC	GPE-Ohio
+Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+Południowej	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+Senatem	Senat	ORG	ORG-United-States-Senate
+Teksas	Teksas	LOC	GPE-Texas
+USA	USA	LOC	GPE-USA
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+demokratów	demokraci	ORG	ORG-Democratic-Party-USA
+republikanie	republikanie	ORG	ORG-Republican-Party-USA

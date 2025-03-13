@@ -1,0 +1,27 @@
+uk-10341
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+ЄС	ЄС	LOC	ORG-European-Union
+Європейська комісія	Європейська комісія	ORG	ORG-European-Commission
+Європейське агентство лікарських засобів	Європейське агентство лікарських засобів	ORG	ORG-European-Medicines-Agency
+Європейського Союзу	Європейський Союз	ORG	ORG-European-Union
+Європейського агентства лікарських засобів	Європейське агентство лікарських засобів	ORG	ORG-European-Medicines-Agency
+Європейської комісії	Європейська комісія	ORG	ORG-European-Commission
+Європі	Європа	LOC	LOC-Europe
+Євросоюзу	Євросоюз	LOC	ORG-European-Union
+Єнс Шпан	Єнс Шпан	PER	PER-Jens-Spahn
+Італії	Італія	LOC	GPE-Italy
+Австрії	Австрія	LOC	GPE-Austria
+Бельгії	Бельгія	LOC	GPE-Belgium
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Велика Британія	Велика Британія	LOC	GPE-Great-Britain
+Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+Німеччини	Німеччина	LOC	GPE-Germany
+США	США	LOC	GPE-USA
+Сполучених Штатах	Сполучених Штатах	LOC	GPE-USA
+Урсула фон дер Ляєн	Урсула фон дер Ляєн	PER	PER-Ursula-von-der-Leyen
+Франції	Франція	LOC	GPE-France
+коронавірусу	коронавірус	EVT	EVT-Covid-19

@@ -1,0 +1,30 @@
+sl-230
+Američani	Američani	PER	GPE-USA
+Bidnovo	Biden	PER	PER-Joe-Biden
+Brian Kemp	Brian Kemp	PER	PER-Brian-Kemp
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Florida	Florida	LOC	GPE-Florida
+Gavin Newsom	Gavin Newsom	PER	PER-Gavin-Newsom
+Georgii	Georgia	LOC	GPE-Georgia-US-state
+Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+Giulianija	Giuliani	PER	PER-Rudy-Giuliani
+Illinois	Illinois	LOC	GPE-Illionis
+Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+Kaliforniji	Kalifornija	LOC	GPE-California
+Lansingu	Lansing	LOC	GPE-Lansing
+Michiganu	Michigan	LOC	GPE-Michigan
+New York	New York	LOC	GPE-New-York
+New Yorka	New York	LOC	GPE-New-York
+Rudy Giuliani	Rudy Giuliani	PER	PER-Rudy-Giuliani
+Teksas	Teksas	LOC	GPE-Texas
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+Trumpov	Trumpov	PER	PER-Donald-Trump
+Washingtonu	Washington	LOC	GPE-WashingtonDC
+ZDA	ZDA	LOC	GPE-USA
+covid-19	covid-19	EVT	EVT-Covid-19
+covida-19	covid-19	EVT	EVT-Covid-19
+koronavirusom	koronavirus	EVT	EVT-Covid-19
+novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+predsedniških volitvah 3. novembra	predsedniške volitve 3. novembra	EVT	EVT-2020-United-States-Presidential-Election

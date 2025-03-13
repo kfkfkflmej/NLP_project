@@ -1,0 +1,50 @@
+1
+ANO	ANO	ORG	ORG-ANO-political-party-CZ
+Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+Bohunicích	Bohunice	LOC	GPE-Bohunice-Brno
+Chebsku	Chebsko	LOC	GPE-Cheb-area
+Chebu	Cheb	LOC	GPE-Cheb
+Fakultní nemocnice Brno	Fakultní nemocnice Brno	LOC	LOC-University-Hospital-Brno
+Fakultní nemocnice Ostrava	Fakultní nemocnice Ostrava	LOC	LOC-University-Hospital-Ostrava
+Jan Blatný	Jan Blatný	PER	PER-Jan-Blatny
+Jesenicko	Jesenicko	LOC	GPE-Karlovy-Vary-region
+Jihlavě	Jihlava	LOC	GPE-Jihlava
+Jihočeský	Jihočeský	LOC	GPE-South-Bohemian-region
+Jihočeských nemocnic	Jihočeské nemocnice	ORG	ORG-South-Bohemia-Hospitals-organizations
+Jiří Havrlant	Jiří Havrlant	PER	PER-Jiri-Havrlant
+Karlovarskou krajskou nemocnici	Karlovarská krajská nemocnice	LOC	LOC-Karlovy-Vary-region-hospital
+Karlovarské krajské nemocnice	Karlovarská krajská nemocnice	LOC	LOC-Karlovy-Vary-region-hospital
+Karlovarského kraje	Karlovarský kraj	LOC	GPE-Karlovy-Vary-region
+Karlovarském kraji	Karlovarský kraj	LOC	GPE-Karlovy-Vary-region
+Karlovarském	Karlovarský	LOC	GPE-Karlovy-Vary-region
+Karlových Varech	Karlovy Vary	LOC	GPE-Karlovy-Vary
+Kraj Vysočina	Kraj Vysočina	LOC	GPE-Vysocina-region
+Libereckém kraji	Liberecký kraj	LOC	GPE-Liberec-region
+Libereckém	Liberecký	LOC	GPE-Liberec-region
+Martina Půty	Martin Půta	PER	PER-Martin-Puta
+Nového roku	Nový rok	EVT	EVT-New-Year
+PCR testů	PCR test	PRO	PRO-PCR-Test
+PES	PES	PRO	PRO-PES-Anti-epidemic-system-Czech-Republic
+Plzeňský kraj	Plzeňský kraj	LOC	GPE-Pilsen-Region
+Půta	Půta	PER	PER-Martin-Puta
+SLK	SLK	ORG	ORG-SLK-Mayors-for-Liberec-region-political-party
+Sokolovsku	Sokolovsko	LOC	GPE-Sokolov-area
+Tomáš Klimovič	Tomáš Klimovič	PER	PER-Tomas-Klimovic
+Veronika Plachá	Veronika Plachá	PER	PER-Veronika-Placha
+Vladimír Novotný	Vladimír Novotný	PER	PER-Vladimir-Novotny
+Vladislava Podrackého	Vladislav Podracký	PER	PER-Vladislav-Podracky
+Vánocích	Vánoce	EVT	EVT-Christmas
+Zlínském kraji	Zlínský kraj	LOC	GPE-Zlin-region
+Zuzana Roithová	Zuzana Roithová	PER	PER-Zuzana-Roithova
+covid-19	covid-19	EVT	EVT-Covid-19
+covid	covid	EVT	EVT-Covid-19
+covidem-19	covid-19	EVT	EVT-Covid-19
+koronavirem	koronavirus	EVT	EVT-Covid-19
+koronaviru	koronavirus	EVT	EVT-Covid-19
+koronavirus	koronavirus	EVT	EVT-Covid-19
+královéhradecká fakultní nemocnice	královéhradecká fakultní nemocnice	LOC	LOC-University-Hospital-Hradec-Kralove
+metodou PCR	metoda PCR	PRO	PRO-PCR-Test
+Ústavu zdravotnických informací a statistiky	Ústav zdravotnických informací a statistiky	ORG	ORG-Institute-of-Health-Information-and-Statistics-Czech-Republic
+ČSSD	ČSSD	ORG	ORG-CSSD-political-party-CZ
+Česka	Česko	LOC	GPE-Czech-Republic
+Česku	Česko	LOC	GPE-Czech-Republic

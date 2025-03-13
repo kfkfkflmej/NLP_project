@@ -1,0 +1,61 @@
+sl-117
+ATP	ATP	ORG	ORG-Association-of-Tennis-Professionals
+Adria Tour	Adria Tour	EVT	EVT-Adria-Tour
+Aleksander Zverev	Aleksander Zverev	PER	PER-Aleksander-Zverev
+Andrej Plenković	Andrej Plenković	PER	PER-Andrej-Plenković
+Avstrijec	Avstrijec	PER	GPE-Austria
+Banjaluke	Banjaluka	LOC	GPE-Banja-Luka
+Beograd	Beograd	LOC	GPE-Belgrade
+Beogradu	Beograd	LOC	GPE-Belgrade
+Bolgar	Bolgar	PER	GPE-Bulgaria
+Bolgara	Bolgar	PER	GPE-Bulgaria
+Bolgarom	Bolgar	PER	GPE-Bulgaria
+Bolgarove	Bolgar	PER	GPE-Bulgaria
+Borna Ćorić	Borna Ćorić	PER	PER-Borna-Ćorić
+Borni Ćoriću	Borna Ćorić	PER	PER-Borna-Ćorić
+Božidar Longin	Božidar Longin	PER	PER-Božidar-Longin
+Božinović	Božinović	PER	PER-Davor-Božinović
+Branko Dukić	Branko Dukić	PER	PER-Branko-Dukić
+Christian Groh	Christian Groh	PER	PER-Christian-Groh
+Davor Božinović	Davor Božinović	PER	PER-Davor-Božinović
+Dimitrov	Dimitrov	PER	PER-Grigor-Dimitrov
+Dimitrova	Dimitrov	PER	PER-Grigor-Dimitrov
+Dominic Thiem	Dominic Thiem	PER	PER-Dominic-Thiem
+Goran Ivanišević	Goran Ivanišević	PER	PER-Goran-Ivanišević
+Grigor Dimitrov	Grigor Dimitrov	PER	PER-Grigor-Dimitrov
+Grigorja Dimitrova	Grigor Dimitrov	PER	PER-Grigor-Dimitrov
+Hrvatu	Hrvat	PER	GPE-Croatia
+Hrvaška	Hrvaška	LOC	GPE-Croatia
+Hrvaškem	Hrvaška	LOC	GPE-Croatia
+Hrvaško	Hrvaška	LOC	GPE-Croatia
+Ivaniševićem	Ivanišević	PER	PER-Goran-Ivanišević
+Jelena Đoković	Jelena Đoković	PER	PER-Jelena-Đoković
+KK Zadar	KK Zadar	ORG	ORG-KK-Zadar
+Karlo Uljarević	Karlo Uljarević	PER	PER-Karlo-Uljarević
+Karlovca	Karlovec	LOC	GPE-Karlovac
+Karlovcu	Karlovec	LOC	GPE-Karlovac
+Marco Panichi	Marco Panichi	PER	PER-Marco-Panichi
+Marinom Čilićem	Marin Čilić	PER	PER-Marin-Čilić
+Nici	Nica	LOC	GPE-Nice
+Nico	Nica	LOC	GPE-Nice
+Nikola Janković	Nikola Janković	PER	PER-Nikola-Janković
+Novak Đoković	Novak Đoković	PER	PER-Novak-Đoković
+Novaka Đokovića	Novak Đoković	PER	PER-Novak-Đoković
+Olimpije	Olimpija	ORG	ORG-Košarkarski-klub-Union-Olimpija
+Partizana	Partizan	ORG	ORG-KK-Partizan
+Rus	Rus	PER	GPE-Russia
+Sarajeva	Sarajevo	LOC	GPE-Sarajevo
+Saša Arsenovič	Saša Arsenovič	PER	PER-Saša-Arsenović
+Srb	Srb	PER	GPE-Serbia
+Thiem	Thiem	PER	PER-Dominic-Thiem
+Zadru	Zadar	LOC	GPE-Zadar
+Zverev	Zverev	PER	PER-Aleksander-Zverev
+covid-19	covid-19	EVT	EVT-Covid-19
+novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+teniškega kluba Karlovac	teniški klub Karlovac	ORG	ORG-Teniški-Klub-Karlovac
+teniškem klubu Karlovac	teniški klub Karlovac	ORG	ORG-Teniški-Klub-Karlovac
+twitterju	twitter	PRO	PRO-Twitter
+Črni gori	Črna gora	LOC	GPE-Montenegro
+Đoković	Đoković	PER	PER-Novak-Đoković
+Đokovića	Đoković	PER	PER-Novak-Đoković
+Đokovićem	Đoković	PER	PER-Novak-Đoković

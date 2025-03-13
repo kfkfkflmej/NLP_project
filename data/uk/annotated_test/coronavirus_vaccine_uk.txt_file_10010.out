@@ -1,0 +1,15 @@
+uk-10010
+COVID-19	COVID-19	EVT	EVT-Covid-19
+COVID	COVID	EVT	EVT-Covid-19
+Telegram	Telegram	PRO	PRO-Telegram
+Twitter	Twitter	PRO	PRO-Twitter
+ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+Всесвітньої організації охорони здоров'я	Всесвітня організація охорони здоров'я	ORG	ORG-World-Health-Organization
+Гебреєсус	Гебреєсус	PER	PER-Tedros-Adhanom-Ghebreyesus
+Тедрос Адханом Гебреєсус	Тедрос Адханом Гебреєсус	PER	PER-Tedros-Adhanom-Ghebreyesus
+УП. Кляті питання	УП. Кляті питання	PRO	PRO-UP.Kliati-pytannia-Ukraine
+Українська правда	Українська правда	PRO	PRO-Ukrainian-Pravda
+коронавірус	коронавірус	EVT	EVT-Covid-19
+коронавірусом	коронавірус	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+пандемію COVID-19	пандемія COVID-19	EVT	EVT-Covid-19

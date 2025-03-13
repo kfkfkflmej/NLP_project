@@ -1,0 +1,50 @@
+ru-16
+"Ассошиэйтед пресс"	Ассошиэйтед пресс	ORG	ORG-AP-The-Associated-Press
+"Справочник врача"	Справочник врача	PRO	PRO-Doctor's-Handbook-App
+"Спутника V"	Спутник V	PRO	PRO-Sputnik-V
+"Спутником"	Спутник	PRO	PRO-Sputnik-V
+"Спутнику"	Спутник	PRO	PRO-Sputnik-V
+BioNTech	BioNTech	ORG	ORG-BioNTech
+FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+MHRA	MHRA	ORG	ORG-Medicines-and-Healthcare-products-Regulatory-Agency
+Moderna	Moderna	ORG	ORG-Moderna
+NHS	NHS	ORG	ORG-NHS
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Science	Science	PRO	PRO-Science-journal
+Superjob	Superjob	ORG	ORG-Superjob
+Агентство по регулированию лекарственных средств и медицинских товаров	Агентство по регулированию лекарственных средств и медицинских товаров	ORG	ORG-Medicines-and-Healthcare-products-Regulatory-Agency
+Альберто Фернандес	Альберто Фернандес	PER	PER-Alberto-Fernández
+Аляске	Аляска	LOC	GPE-Alaska
+Аргентины	Аргентина	LOC	GPE-Argentina
+Великобританию	Великобритания	LOC	GPE-Great-Britain
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Европе	Европа	LOC	LOC-Europe
+Ивонна Мальдонадо	Ивонна Мальдонадо	PER	ORG-Yvonne-Maldonado
+Канаду	Канада	LOC	GPE-Canada
+Москвы	Москва	LOC	GPE-Moscow
+Национальной системы здравоохранения	Национальная система здравоохранения	ORG	ORG-NHS
+Путин	Путин	PER	PER-Vladimir-Putin
+Путину	Путин	PER	PER-Vladimir-Putin
+Родриго Тутерте	Родриго Тутерте	PER	PER-Rodrigo-Duterte
+России	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+Русская служба Би-би-си	Русская служба Би-би-си	PRO	PRO-BBC-Russian
+США	США	LOC	GPE-USA
+Сергею Собянину	Сергей Собянин	PER	PER-Sergei-Sobyanin
+Собянин	Собянин	PER	PER-Sergei-Sobyanin
+Стэнфордского университета	Стэнфордский университет	ORG	ORG-Stanford-University
+Управление по санитарному надзору за качеством пищевых продуктов и медикаментов	Управление по санитарному надзору за качеством пищевых продуктов и медикаментов	ORG	ORG-FDA-Food-and-Drug-Administration
+Филиппинский	Филиппинский	PER	PER-Philippines
+Центр контроля и профилактики заболеваний США	Центр контроля и профилактики заболеваний США	ORG	ORG-Centers-for-Disease-Control-and-Prevention-USA
+американское	американский	PER	GPE-USA
+американской	американский	PER	GPE-USA
+американцев	американцы	PER	GPE-USA
+британское	британский	PER	GPE-Great-Britain
+британской	британский	PER	GPE-Great-Britain
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусную	коронавирусный	EVT	EVT-Covid-19
+министерство здравоохранения	министерство здравоохранения	ORG	ORG-Ministry-of-Health-Russia
+российского	российский	PER	GPE-Russia
+российском Центре Гамалеи	российский центр Гамалеи	ORG	ORG-Gamalea-center
+российскую	российский	PER	GPE-Russia
+россиян	россияне	PER	GPE-Russia

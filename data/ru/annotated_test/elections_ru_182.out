@@ -1,0 +1,88 @@
+ru-182
+"Доминион"	"Доминион"	PRO	PRO-Dominion-Voting-Systems
+"Кибер-Перл-Харбор"	"Кибер-Перл-Харбор"	PRO	PRO-Cyber-​​Pearl-Harbour
+"С Техасом не связываться"	"С Техасом не связываться"	PRO	PRO-Don't-Mess-with-Texas
+"Царьград"	"Царьград"	PRO	PRO-Tsargrad
+"великой Сидни"	"великая Сидни"	PER	PER-Sidney-Powell
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Christmas	Christmas	EVT	EVT-Christmas
+Don't Mess with Texas	Don't Mess with Texas	PRO	PRO-Don't-Mess-with-Texas
+Fox News	Fox News	PRO	PRO-Fox-News
+The Epoch Times	The Epoch Times	PRO	PRO-Financial-Times
+Twitter	Twitter	PRO	PRO-Twitter
+Америка	Америка	LOC	GPE-USA
+Америку	Америка	LOC	GPE-USA
+Байден	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белом доме	Белый дом	ORG	ORG-The-White-House
+Британии	Британия	LOC	GPE-Great-Britain
+ВМС	ВМС	ORG	ORG-United-States-Navy
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Венесуэлы	Венесуэла	LOC	GPE-Venezuela
+Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+Верховном суде	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+Верховный суд США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+Вест-Пойнт	Вест-Пойнт	LOC	GPE-West-Point
+Джон Рэтклифф	Джон Рэтклифф	PER	PER-John-Ratcliffe
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Закона о восстании 1807 года	Закон о восстании 1807 года	PRO	PRO-Insurrection-Act-of-1807
+Китаем	Китай	LOC	GPE-China
+Китая	Китай	LOC	GPE-China
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+Конституции	Конституция	PRO	PRO-The-USA-Constitution
+Конституцию США	Конституция США	PRO	PRO-The-USA-Constitution
+Майкл Флинн	Майкл Флинн	PER	PER-Michael-Flynn
+Нацгвардии	Нацгвардия	ORG	ORG-United-States-National-Guard
+Национальной разведки	Национальная разведка	ORG	ORG-National-Reconnaissance-Office
+Пауэлл	Пауэлл	PER	PER-Sidney-Powell
+Пентагоне	Пентагон	ORG	ORG-The-Pentagon
+России	Россия	LOC	GPE-Russia
+Рэтклифф	Рэтклифф	PER	PER-John-Ratcliffe
+Рэтклиффа	Рэтклифф	PER	PER-John-Ratcliffe
+США	США	LOC	GPE-USA
+Сенат США	Сенат США	ORG	ORG-United-States-Senate
+Сената	Сенат	ORG	ORG-United-States-Senate
+Сенате	Сенат	ORG	ORG-United-States-Senate
+Сидни Пауэлл	Сидни Пауэлл	PER	PER-Sidney-Powell
+Техаса	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампе	Трамп	PER	PER-Donald-Trump
+Трампом	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+ФРГ	ФРГ	LOC	GPE-Germany
+Флинн	Флинн	PER	PER-Michael-Flynn
+Франкфурте-на-Майне	Франкфурт-на-Майне	LOC	GPE-Frankfurt-am-Main
+ЦРУ	ЦРУ	ORG	ORG-CIA-Central-Intelligence-Agency
+Царьград	Царьград	PRO	PRO-Tsargrad
+Яндекс.Дзен	Яндекс.Дзен	PRO	PRO-Yandex.Dzen
+американские	американские	LOC	GPE-USA
+американским спецназом	американский спецназ	ORG	ORG-United-States-Army-Special-Forces
+американцев	американцы	PER	GPE-USA
+армии США	армия США	ORG	ORG-United-States-Army
+демократам	демократы	ORG	ORG-Democratic-Party-USA
+демократами	демократы	ORG	ORG-Democratic-Party-USA
+демократическом	демократический	ORG	ORG-Democratic-Party-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократы	демократ	ORG	ORG-Democratic-Party-USA
+западных	западные	LOC	LOC-West
+исполнительный указ №3848 от 2018 года о чрезвычайном положении в стране	исполнительный указ №3848 от 2018 года о чрезвычайном положении в стране	PRO	PRO-Executive-Order-3848
+китайских	китайские	LOC	GPE-China
+коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+парламента США	парламент США	ORG	ORG-United-States-Congress
+республиканское	республиканский	ORG	ORG-Republican-Party-USA
+республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+техасец	техасец	LOC	GPE-Texas
+техасская	техасская	LOC	GPE-Texas
+трамписты	трамписты	PER	PER-Donald-Trump
+церемония инаугурации президента США	церемония инаугурации президента США	EVT	EVT-2020-United-States-presidential-inauguration

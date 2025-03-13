@@ -1,0 +1,18 @@
+uk-20219
+Білий дім	Білий дім	ORG	ORG-White-House
+Верховний суд	Верховний суд	ORG	ORG-Supreme-Court-of-the-United-States
+Вісконсин	Вісконсин	LOC	GPE-Wisconsin
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Конгрес	Конгрес	ORG	ORG-United-States-Congress
+Мічиган	Мічиган	LOC	GPE-Michigan
+Невада	Невада	LOC	GPE-Nevada
+Пенсільванія	Пенсільванія	LOC	GPE-Pennsylvania
+США	США	LOC	GPE-USA
+Техас	Техас	LOC	GPE-Texas
+Трампа	Трамп	PER	PER-Donald-Trump
+виборів в США	вибори в США	EVT	EVT-2020-United-States-Presidential-Election
+виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+колегія вибірників	колегія вибірників	ORG	ORG-United-States-Electoral-College
+президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election

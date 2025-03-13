@@ -1,0 +1,13 @@
+sl-170
+COVID 19	COVID-19	EVT	EVT-Covid-19
+COVID19	COVID19	EVT	EVT-Covid-19
+COVID	COVID	EVT	EVT-Covid-19
+Celje	Celje	LOC	GPE-Celje
+Celju	Celje	LOC	GPE-Celje
+Dragan Kovačić	Dragan Kovačić	PER	PER-Dragan-Kovačić
+Kovačić	Kovačić	PER	PER-Dragan-Kovačić
+PU Celje	PU Celje	ORG	ORG-Policijska-Uprava-Celje
+SB Celje	SB Celje	LOC	LOC-Celje-General-Hospital
+Sloveniji	Slovenija	LOC	GPE-Slovenia
+Zdravstvenemu inšpektoratu	Zdravstveni inšpektorat	ORG	ORG-Health-Inspectorate-of-the-Republic-of-Slovenia
+dezinfekcijske enote PGE Celje	dezinfekcijska enota PGE Celje	ORG	ORG-Desinfection-Unit-PGE

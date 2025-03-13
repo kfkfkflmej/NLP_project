@@ -1,0 +1,16 @@
+381
+AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+Erna Solberg	Erna Solberg	PER	PER-Erna-Solberg
+Francji	Francja	LOC	GPE-France
+Grecji	Grecja	LOC	GPE-Greece
+Irlandii	Irlandia	LOC	GPE-Ireland
+Norwegia	Norwegia	LOC	GPE-Norway
+Paryżu	Paryż	LOC	GPE-Paris
+Reuters	Reuters	ORG	ORG-Reuters
+Turcji	Turcja	LOC	GPE-Turkey
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Włoszech	Włochy	LOC	GPE-Italy
+koronawirusa	koronawirus	EVT	EVT-Covid-19
+koronawirusem	koronawirus	EVT	EVT-Covid-19

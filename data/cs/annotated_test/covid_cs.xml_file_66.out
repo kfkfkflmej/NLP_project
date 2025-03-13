@@ -1,0 +1,17 @@
+66
+ANO	ANO	ORG	ORG-ANO-political-party-CZ
+Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+Chebu	Cheb	LOC	GPE-Cheb
+Karlovarskou krajskou nemocnici	Karlovarská krajská nemocnice	LOC	LOC-Karlovy-Vary-region-hospital
+Karlovarské krajské nemocnice	Karlovarská krajská nemocnice	LOC	LOC-Karlovy-Vary-region-hospital
+Karlovarském kraji	Karlovarský kraj	LOC	GPE-Karlovy-Vary-region
+Karlovarském	Karlovarský	LOC	GPE-Karlovy-Vary-region
+Karlových Varech	Karlovy Vary	LOC	GPE-Karlovy-Vary
+Libereckém kraji	Liberecký kraj	LOC	GPE-Liberec-region
+Libereckém	Liberecký	LOC	GPE-Liberec-region
+PES	PES	PRO	PRO-PES-Anti-epidemic-system-Czech-Republic
+Tomáš Klimovič	Tomáš Klimovič	PER	PER-Tomas-Klimovic
+Vladislava Podrackého	Vladislav Podracký	PER	PER-Vladislav-Podracky
+Zlínském kraji	Zlínský kraj	LOC	GPE-Zlin-region
+covidem-19	covid-19	EVT	EVT-Covid-19
+koronaviru	koronavirus	EVT	EVT-Covid-19

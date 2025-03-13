@@ -1,0 +1,74 @@
+ru-57
+"украинизация"	украинизация	LOC	GPE-Ukraine
+CNN	CNN	PRO	PRO-CNN
+Facebook	Facebook	ORG	ORG-Facebook
+Facebook	Facebook	PRO	PRO-Facebook
+Graphika	Graphika	ORG	ORG-Graphika
+Instagram	Instagram	PRO	PRO-Instagram
+NBC	NBC	PRO	PRO-National-Broadcasting-Company
+USA Today	USA Today	PRO	PRO-USA-Today
+cnn	CNN	PRO	PRO-CNN
+facebook	facebook	PRO	PRO-Facebook
+Америки	Америка	LOC	GPE-USA
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байденом	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+Восточной Европе	Восточная Европа	LOC	LOC-Eastern-Europe
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Иран	Иран	LOC	GPE-Iran
+Ирана	Иран	LOC	GPE-Iran
+Латинскую Америку	Латинская Америка	LOC	LOC-Latin-America
+Марк Цукерберг	Марк Цукенберг	PER	PER-Mark-Zuckerberg
+Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+Путин	Путин	PER	PER-Vladimir-Putin
+Путина	Путин	PER	PER-Vladimir-Putin
+Путину	Путин	PER	PER-Vladimir-Putin
+Путиным	Путин	PER	PER-Vladimir-Putin
+РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+России	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Северную Африку	Северная Африка	LOC	LOC-North-Africa
+Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+Соединенным Штатам	Соединенные Штаты	LOC	GPE-USA
+Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Украине	Украина	LOC	GPE-Ukraine
+Украины	Украина	LOC	GPE-Ukraine
+Цукерберг	Цукерберг	PER	PER-Mark-Zuckerberg
+американские выборы 2016 года	американские выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+американские	американские	LOC	GPE-USA
+американский	американский	LOC	GPE-USA
+американским	американский	LOC	GPE-USA
+американских	американский	LOC	GPE-USA
+американской	американская	LOC	GPE-USA
+американскому	американский	LOC	GPE-USA
+американцев	американцы	LOC	GPE-USA
+байденовский	байденовский	PER	PER-Joe-Biden
+владимир путин	Владимир Путин	PER	PER-Vladimir-Putin
+выборах 2020 года	выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+выборов-2020	выборы-2020	EVT	EVT-2020-United-States-Presidential-Election
+выборы 2020 года	выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+демократы	демократ	PER	ORG-Democratic-Party-USA
+дональд трамп	Дональд Трамп	PER	PER-Donald-Trump
+иранское	иранский	LOC	GPE-Iran
+иранскую	иранский	LOC	GPE-Iran
+латвийский	латвийский	LOC	GPE-Latvia
+марк цукерберг	Марк Цукерберг	PER	PER-Mark-Zuckerberg
+российских	российский	LOC	GPE-Russia
+российской	российский	LOC	GPE-Russia
+российскому	российский	LOC	GPE-Russia
+россиян	россияне	LOC	GPE-Russia
+россиянами	россияне	LOC	GPE-Russia
+россиянин	россиянин	LOC	GPE-Russia
+русские	русский	LOC	GPE-Russia
+русском	русский	LOC	GPE-Russia
+сша	США	LOC	GPE-USA
+украинский	украинский	LOC	GPE-Ukraine
+эстонский	эстонский	LOC	GPE-Estonia

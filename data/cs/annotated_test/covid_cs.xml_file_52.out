@@ -1,0 +1,12 @@
+52
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Britové	Britové	PER	GPE-Great-Britain
+Comirnaty	Comirnaty	PRO	PRO-Comirnaty
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Pfizeru	Pfizer	ORG	ORG-Pfizer
+Velké Británii	Velká Británie	LOC	GPE-Great-Britain
+covidu-19	covid-19	EVT	EVT-Covid-19
+koronaviru	koronavirus	EVT	EVT-Covid-19
+České republice	Česká republika	LOC	GPE-Czech-Republic

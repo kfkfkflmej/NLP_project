@@ -1,0 +1,42 @@
+ru-140
+"Живом журнале"	"Живой журнал"	PRO	PRO-LiveJournal
+2018	2018	EVT	EVT-2018-United-States-Election
+CNN Forecast	CNN Forecast	PRO	PRO-CNN-Forecast
+Fivethirtyeight.com	Fivethirtyeight.com	PRO	PRO-FiveThirtyEight
+Fivethirtyeight	Fivethirtyeight	PRO	PRO-FiveThirtyEight
+Fox News	Fox News	PRO	PRO-Fox-News
+MSNBC	MSNBC	PRO	PRO-MSNBC-TV
+NYT	NYT	PRO	PRO-The-New-York-Times
+Politico	Politico	PRO	PRO-Politico
+RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+Vox	Vox	PRO	PRO-Vox
+Америке	Америка	LOC	GPE-USA
+Демократы	демократы	ORG	ORG-Democratic-Party-USA
+Клинтон	Клинтон	PER	PER-Hillary-Clinton
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Константин Сонин	Константин Сонин	PER	PER-Konstantin-Sonin
+Обамой	Обама	PER	PER-Barack-Obama
+Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Сook Political Report	Сook Political Report	PRO	PRO-The-Cook-Political-Report
+США	США	LOC	GPE-USA
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Сенате	Сенат	ORG	ORG-United-States-Senate
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Харри Энтен	Харри Энтен	PER	PER-Harry-Enten
+Хиллари	Хиллари	PER	PER-Hillary-Clinton
+Чикагского университета	Чикагский университет	ORG	ORG-University-of-Chicago
+американцев	американцы	PER	GPE-USA
+выборами	выборы	EVT	EVT-2016-United-States-Presidential-Election
+выборы 2016	выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+генпрокуратуры	генпрокуратура	ORG	ORG-United-States-Department-of-Justice
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+демократы	демократы	PER	ORG-Democratic-Party-USA
+палате представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+президентских выборов 2020	президентские выборы 2020	EVT	EVT-2020-United-States-Presidential-Election
+республиканское	республиканский	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцы	республиканцы	ORG	ORG-Republican-Party-USA

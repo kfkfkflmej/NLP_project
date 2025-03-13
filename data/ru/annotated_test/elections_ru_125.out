@@ -1,0 +1,28 @@
+ru-125
+CNN	CNN	PRO	PRO-CNN
+Twitter	Twitter	PRO	PRO-Twitter
+katehon.com	katehon.com	PRO	PRO-Katehon-com
+lenta.ru	lenta.ru	PRO	PRO-Lenta-Ru
+news.rambler.ru	news.rambler.ru	PRO	PRO-News-Rambler-ru
+Америки	Америка	LOC	GPE-USA
+ВАШИНГТОН	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конституции	Конституция	PRO	PRO-The-USA-Constitution
+Конституцию	Конституция	PRO	PRO-The-USA-Constitution
+Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+Пенс	Пенс	PER	PER-Mike-Pence
+США	США	LOC	GPE-USA
+ТАСС	ТАСС	ORG	ORG-TASS-Agency
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Штатов	Штаты	LOC	GPE-USA
+американский	американский	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американскую	американский	LOC	GPE-USA
+демократа	демократ	ORG	ORG-Democratic-Party-USA
+конгрессе	конгресс	ORG	ORG-United-States-Congress
+республиканец	республиканец	ORG	ORG-Republican-Party-USA

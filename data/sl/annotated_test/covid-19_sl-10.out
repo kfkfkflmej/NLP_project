@@ -1,0 +1,33 @@
+sl-10
+Bregant	Bregant	PER	PER-Tina-Bregant
+EPP	EPP	ORG	ORG-EPP-European-Peoples-Party
+EU	EU	ORG	ORG-European-Union
+Estonija	Estonija	LOC	GPE-Estonia
+Evropa	Evropa	LOC	LOC-Europe
+Evropi	Evropa	LOC	LOC-Europe
+Evropskega raziskovalnega sveta	Evropski raziskovalni svet	ORG	ORG-ERC-European-Research-Council
+Evropski parlament	Evropski parlament	ORG	ORG-European-Parliament
+Franc Bogovič	Franc Bogovič	PER	PER-Franc-Bogovič
+Francija	Francija	LOC	GPE-France
+Gregor Anderluh	Gregor Anderluh	PER	PER-Gregor-Anderluh
+Instituta Jožef Stefan	Institut Jožef Stefan	ORG	ORG-Jožef-Stefan-Institute
+Jadran Lenarčič	Jadran Lenarčič	PER	PER-Jadran-Lenarčič
+Jerala	Jerala	PER	PER-Roman-Jerala
+Jeralovo	Jerala	PER	PER-Roman-Jerala
+Kemijskega inštituta	Kemijski inštitut	ORG	ORG-National-Institute-of-Chemistry
+Kemijski inštitut	Kemijski inštitut	ORG	ORG-National-Institute-of-Chemistry
+Kitajska	Kitajska	LOC	GPE-China
+Klemen Grošelj	Klemen Grošelj	PER	PER-Klemen-Grošelj
+Kliničnega oddelka za hematologijo na UKC Ljubljana	Klinični oddelek za hematologijo na UKC Ljubljana	ORG	ORG-Department-Of-Hematology-Of-Clinical-Health-Center-Ljubljana
+Obzorje Evropa	Obzorje Evropa	PRO	PRO-Horizon-Europe
+Pisarna Evropskega parlamenta v Sloveniji	Pisarna Evropskega parlamenta v Sloveniji	ORG	ORG-European-Parliament-Liaison-Office-in-Slovenia
+Renew	Renew	ORG	ORG-Renew
+Romana Jerale	Roman Jerala	PER	PER-Roman-Jerala
+Samo Zver	Samo Zver	PER	PER-Samo-Zver
+Slovenija	Slovenija	LOC	GPE-Slovenia
+Sloveniji	Slovenija	LOC	GPE-Slovenia
+Tina Bregant	Tina Bregant	PER	PER-Tina-Bregant
+ZDA	ZDA	LOC	GPE-USA
+covid-19	covid-19	EVT	EVT-Covid-19
+novem koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+program Marie Curie	program Marie Curie	PRO	PRO-Marie-Skłodowska-Curie-Actions

@@ -1,0 +1,27 @@
+uk-10030
+"Сегодня"	Сегодня	PRO	PRO-Siohodni
+"Страна"	Страна	PRO	PRO-Strana
+"Страни"	Страна	PRO	PRO-Strana
+"Страною"	Страна	PRO	PRO-Strana
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Telegram	Telegram	PRO	PRO-Telegram
+Viber	Viber	PRO	PRO-Viber
+Бродський	Бродський	PER	PER-Mykhailo-Brodskyi
+Бродського	Бродський	PER	PER-Mykhailo-Brodskyi
+Верховної Ради	Верховна Рада	ORG	ORG-Verkhovna-Rada
+Володимир Зеленський	Володимир Зеленський	PER	PER-Volodymyr-Zelensky
+Денис Шмигаль	Денис Шмигаль	PER	PER-Denys-Shmyhal
+Зеленський	Зеленський	PER	PER-Volodymyr-Zelensky
+Зеленського	Зеленський	PER	PER-Volodymyr-Zelensky
+МВС	МВС	ORG	ORG-Home-Office-UK
+МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+Михайло Бродський	Михайло Бродський	PER	PER-Mykhailo-Brodskyi
+Михайло Радуцький	Михайло Радуцький	PER	PER-Mykhailo-Radutsky
+Михайлом Бродським	Михайло Бродський	PER	PER-Mykhailo-Brodskyi
+СБУ	СБУ	ORG	ORG-Security-Service-Ukraine
+Україну	Україна	LOC	GPE-Ukraine
+Україні	Україна	LOC	GPE-Ukraine
+Шмигаль	Шмигаль	PER	PER-Denys-Shmyhal

@@ -1,0 +1,18 @@
+sl-35
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BioNTech	BioNTech	ORG	ORG-BioNTech
+CureVac	CureVac	ORG	ORG-CureVac
+ESI	ESI	PRO	ORG-The-Emergency-Support-Instrument
+EU	EU	ORG	ORG-European-Union
+Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+Evropski agenciji za zdravila	Evropska agencija za zdravila	ORG	ORG-EMA-European-Medicines-Agency
+GSK	GSK	ORG	ORG-GSK
+Janssen Pharmaceutical	Janssen Pharmaceutical	ORG	ORG-Janssen-Pharmaceutica
+Moderna	Moderna	ORG	ORG-Moderna
+Novavax	Novavax	ORG	ORG-Novavax
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Sanofi	Sanofi	ORG	ORG-Sanofi
+Slovenijo	Slovenija	LOC	GPE-Slovenia
+covidu-19	covid-19	EVT	EVT-Covid-19
+instrumenta za nujno pomoč	instrument za nujno pomoč	PRO	ORG-The-Emergency-Support-Instrument

@@ -1,0 +1,32 @@
+232
+Al Gore	Al Gore	PER	PER-Al-Gore
+Arizonie	Arizona	LOC	GPE-Arizona
+Barack Obama	Barack Obama	PER	PER-Barack-Obama
+Biden	Biden	PER	PER-Joe-Biden
+Bidena	Biden	PER	PER-Joe-Biden
+Demokraci	Demokraci	ORG	ORG-Democratic-Party-USA
+Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+Demokraty	Demokrata	PER	ORG-Democratic-Party-USA
+Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Georga W. Bush	Georg W. Bush	PER	PER-George-Bush-Jr
+Georga W. Busha	Georg W. Bush	PER	PER-George-Bush-Jr
+Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+John Kerry	John Kerry	PER	PER-John-Kerry
+Johna McCaina	John McCain	PER	PER-John-McCain
+Kamil Turecki	Kamil Turecki	PER	PER-Kamil-Turecki
+Maine	Maine	LOC	GPE-Maine
+Michigan	Michigan	LOC	GPE-Michigan
+Mitta Romneya	Mitt Romney	PER	PER-Mitt-Romney
+Nevady	Nevada	LOC	GPE-Nevada
+Nevadzie	Nevada	LOC	GPE-Nevada
+Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+Republikanin	Republikanin	PER	ORG-Republican-Party-USA
+Trump	Trump	PER	PER-Donald-Trump
+USA	USA	LOC	GPE-USA
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+demokratów	demokraci	ORG	ORG-Democratic-Party-USA
+republikanów	republikanie	ORG	ORG-Republican-Party-USA
+Środkowego-Zachodu	Środkowy-Zachód	LOC	LOC-Midwestern-United-States

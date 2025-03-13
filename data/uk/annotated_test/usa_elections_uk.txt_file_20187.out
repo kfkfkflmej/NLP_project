@@ -1,0 +1,20 @@
+uk-20187
+CNN	CNN	ORG	ORG-CNN
+Espreso.tv	Espreso.tv	PRO	PRO-Espreso.tv
+Reuters	Reuters	ORG	ORG-Reuters
+Telegram	Telegram	PRO	PRO-Telegram
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Вибори президента США	Вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Еспресо	Еспресо	PRO	PRO-Espreso.tv
+Колегії виборників	Колегія виборників	ORG	ORG-United-States-Electoral-College
+США	США	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Україні	Україна	LOC	GPE-Ukraine
+Флорида	Флорида	LOC	GPE-Florida
+Флориді	Флорида	LOC	GPE-Florida
+виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election

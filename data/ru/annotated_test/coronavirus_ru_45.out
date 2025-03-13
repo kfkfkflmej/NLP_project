@@ -1,0 +1,52 @@
+ru-45
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Jens Spahn	Jens Spahn	PER	PER-Jens-Spahn
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Ursula von der Leyen	Ursula von der Leyen	PER	PER-Ursula-von-der-Leyen
+Австрия	Австрия	LOC	GPE-Austria
+Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+Беларуси	Беларусь	LOC	GPE-Belarus
+Беларусь	Беларусь	LOC	GPE-Belarus
+Брюсселе	Брюссель	LOC	GPE-Brussles
+Германии	Германия	LOC	GPE-Germany
+Германию	Германия	LOC	GPE-Germany
+Германия	Германия	LOC	GPE-Germany
+Дании	Дания	LOC	GPE-Denmark
+Дания	Дания	LOC	GPE-Denmark
+ЕК	ЕК	ORG	ORG-European-Commission
+ЕС	ЕС	ORG	ORG-European-Union
+Еврокомиссии	Еврокомиссия	ORG	ORG-European-Commission
+Еврокомиссия	Еврокомиссия	ORG	ORG-European-Commission
+Европа	Европа	LOC	LOC-Europe
+Европа	Европа	ORG	ORG-European-Union
+Европу	Европа	LOC	LOC-Europe
+Европы	Европа	LOC	LOC-Europe
+Евросоюз	Евросоюз	ORG	ORG-European-Union
+Евросоюза	Евросоюз	ORG	ORG-European-Union
+Италии	Италия	LOC	GPE-Italy
+Италия	Италия	LOC	GPE-Italy
+Йенса Шпана	Йенс Шпан	PER	PER-Jens-Spahn
+Коронавирус	Коронавирус	EVT	EVT-Covid-19
+Лукашенко	Лукашенко	PER	PER-Alexander-Lukashenko
+Марина Барановская	Марина Барановская	PER	PER-Marina-Baranovskaya
+Минздрава	Минздрав	ORG	ORG-Ministry-of-Health-and-Social-Affairs-Sweden
+Москве	Москва	LOC	GPE-Moscow
+РФ	РФ	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+СМИ	СМИ	PRO	PRO-Mass-Media
+США	США	LOC	GPE-USA
+Украина	Украина	LOC	GPE-Ukraine
+Украине	Украина	LOC	GPE-Ukraine
+Урсула фон дер Ляйен	Урсула фон дер Ляйен	PER	PER-Ursula-von-der-Leyen
+ФРГ	ФРГ	LOC	GPE-Germany
+Франция	Франция	LOC	GPE-France
+Швеции	Швеция	LOC	GPE-Sweden
+Швеция	Швеция	LOC	GPE-Sweden
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусной инфекцией	коронавирусная инфекция	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+фон дер Ляйен	фон дер Ляйен	PER	PER-Ursula-von-der-Leyen

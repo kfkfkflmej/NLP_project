@@ -1,0 +1,18 @@
+uk-10034
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Ізраїлі	Ізраїль	LOC	GPE-Israel
+МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+Магдалена Юркемікова	Магдалена Юркемікова	PER	PER-Magdalena-Yurkemikova
+Норвегії	Норвегія	LOC	GPE-Norway
+Німеччині	Німеччина	LOC	GPE-Germany
+Португалії	Португалія	LOC	GPE-Portugal
+Північного Ізраїлю	Північний Ізраїль	LOC	GPE-Israel
+РІА Новини	РІА Новини	PRO	PRO-RIA-Novosti
+США	США	LOC	GPE-USA
+Словаччині	Словаччина	LOC	GPE-Slovakia
+Юркемікової	Юркемікова	PER	PER-Magdalena-Yurkemikova
+коронавіруса	коронавірус	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19

@@ -1,0 +1,113 @@
+ru-61
+ABC News	ABC News	PRO	PRO-ABC-News
+CNN	CNN	PRO	PRO-CNN
+Instagram	Instagram	PRO	PRO-Instagram
+New York Times	New York Times	PRO	PRO-The-New-York-Times
+OBOZREVATEL	OBOZREVATEL	PRO	PRO-Obozrevatel
+Proud Boys	Proud Boys	ORG	ORG-Proud-Boys
+QAnon	QAnon	ORG	ORG-QAnon
+Reuters	Reuters	PRO	ORG-Reuters
+Twitter	Twitter	PRO	PRO-Twitter
+USA Today	USA Today	PRO	PRO-USA-Today
+YouTube	YouTube	PRO	PRO-YouTube
+Александром Лукашенко	Александр Лукашенко	PER	PER-Alexander-Lukashenko
+Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+Анкара	Анкара	LOC	GPE-Ankara
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Беларуси	Беларусь	LOC	GPE-Belarus
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Виргиния	Вирджиния	LOC	GPE-Virginia
+Владимира) Путина	Владимир Путин	PER	PER-Vladimir-Putin
+Германии	Германия	LOC	GPE-Germany
+Давид Сассоли	Давид Сассоли	PER	PER-David-Sassoli
+Джейк Анджели	Джейк Анджели	PER	PER-Jake-Angeli
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Дмитрий Кулеба	Дмитрий Кулеба	PER	PER-Dmitry-Kuleba
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+ЕС	ЕС	LOC	ORG-European-Union
+Европарламента	Европарламент	ORG	ORG-European-Parliament
+Евросовета	Евросовет	ORG	ORG-European-Council
+Йенс Столтенберг	Йенс Столтенберг	PER	PER-Jens-Stoltenberg
+Канады	Канада	LOC	GPE-Canada
+Канцлер	Канцлер	PER	PER-Angela-Merkel
+Капитолием	Капитолий	LOC	ORG-United-States-Congress	
+Капитолии США	Капитолий США	LOC	ORG-United-States-Congress	
+Капитолии	Капитолий	LOC	ORG-United-States-Congress	
+Капитолий	Капитолий	LOC	ORG-United-States-Congress	
+Капитолийского холма	Капитолийский холм	LOC	ORG-United-States-Congress	
+Капитолийском холме	Капитолийский холм	LOC	ORG-United-States-Congress
+Капитолию	Капитолий	LOC	ORG-United-States-Congress	
+Капитолия США	Капитолий США	LOC	ORG-United-States-Congress
+Капитолия США	Капитолий США	ORG	ORG-United-States-Congress
+Капитолия	Капитолия	ORG	ORG-United-States-Capitol
+Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Конгрессу	Конгресс	ORG	ORG-United-States-Congress
+Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+Конституцию	Конституция	PRO	PRO-The-USA-Constitution
+Кулеба	Кулеба	PER	PER-Dmitry-Kuleba
+МИД Турции	МИД Турции	ORG	ORG-Ministry-of-Foreign-Affairs-Turkey
+МИД ФРГ	МИД ФРГ	ORG	ORG-Federal-Foreign-Office-Germany
+Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+Майка Пенса	Майк Пенс	PER	PER-Mike-Pence
+Меркель	Меркель	PER	PER-Angela-Merkel
+Мюриел Баузер	Мюриел Баузер	PER	PER-Muriel-Bowser
+Мюриэл Баузер	Мюриэл Баузер	PER	PER-Muriel-Bowser
+НАТО	НАТО	ORG	ORG-NATO
+Национального комитета Демократической партии	Национальный комитет Демократической партии	ORG	ORG-Democratic-National-Committee
+Национального комитета Республиканской партии	Национального комитета Республиканской партии	ORG	ORG-Respublican-National-Committee USA
+Национальной гвардии	Национальная гвардия	ORG	ORG-United-States-National-Guard
+Ненси Пелоси	Ненси Пелоси	PER	PER-Nancy-Pelosi
+Нэнси Пелоси	Нэнси Пелоси	PER	PER-Nancy-Pelosi
+Палаты представителей США	Палата представителей США	ORG	ORG-United-States-House-of-Representatives
+Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Пелоси	Пелоси	PER	PER-Nancy-Pelosi
+Пенса	Пенс	PER	PER-Mike-Pence
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+Пенсу	Пенс	PER	PER-Mike-Pence
+Пентагоне	Пентагон	ORG	ORG-The-Pentagon
+Путина	Путин	PER	PER-Vladimir-Putin
+Республиканского национального комитета	Республиканский национальный комитет	ORG	ORG-Republican-National-Committee
+России	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Сенат США	Сенат США	ORG	ORG-United-States-Senate
+Сената	Сенат	ORG	ORG-United-States-Senate
+Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Украины	Украина	LOC	GPE-Ukraine
+Франсуа-Филипп Шампань	Франсуа-Филипп Шампань	PER	PER-François-Philippe-Champagne
+Хейко Маас	Хейко Маас	PER	PER-Heiko-Maas
+Чак Шумер	Чак Шумер	PER	PER-Chuck-Schumer
+Чед Вулф	Чед Вулф	PER	PER-Chad-Wolf
+Шарль Мишель	Шарль Мишель	PER	PER-Charles-Michel
+американская	американская	LOC	GPE-USA
+американские	американский	LOC	GPE-USA
+американских	американский	LOC	GPE-USA
+американцы	американцы	PER	GPE-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+конгрессе США	Конгресс США	ORG	ORG-United-States-Congress
+конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+штурм Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol
+штурма Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol
+штурме Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol

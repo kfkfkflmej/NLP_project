@@ -1,0 +1,28 @@
+uk-10311
+Astrazeneka	Astrazeneka	ORG	ORG-AstraZeneca
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Covid	Covid	EVT	EVT-Covid-19
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+Інституту молекулярної біології та генетики	Інститут молекулярної біології та генетики	ORG	ORG-Institute-of-Molecular-Biology-NASU
+Аспірину	Аспірин	PRO	PRO-Aspirin
+ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+Зеновій Ткачук	Зеновій Ткачук	PER	PER-Zenoviy-Tkachuk
+НАН	НАН	ORG	ORG-National-Academy-of-Sciences-of-Ukraine
+США	США	LOC	GPE-USA
+Світлана Сліпченко	Світлана Сліпченко	PER	PER-Svitlana-Slipchenko
+Сліпченко	Сліпченко	PER	PER-Svitlana-Slipchenko
+Спутнік V	Спутнік V	PRO	PRO-Sputnik-V
+Ткачук	Ткачук	PER	PER-Zenoviy-Tkachuk
+Ткачука	Ткачук	PER	PER-Zenoviy-Tkachuk
+Україна	Україна	LOC	GPE-Ukraine
+України	Україна	LOC	GPE-Ukraine
+Україні	Україна	LOC	GPE-Ukraine
+Фактам ICTV	Факти ICTV	PRO	PRO-Fakty-ICTV
+Центру з контролю та профілактики захворювань	Центр з контролю та профілактики захворювань	ORG	ORG-Centers-for-Disease-Control-and-Prevention-USA
+коронавірус	коронавірус	EVT	EVT-Covid-19
+коронавірусної хвороби	коронавірусна хвороба	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+пандемія	пандемія	EVT	EVT-Covid-19
+пандемії	пандемія	EVT	EVT-Covid-19

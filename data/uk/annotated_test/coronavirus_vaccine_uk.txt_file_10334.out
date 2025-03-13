@@ -1,0 +1,34 @@
+uk-10334
+BRH	BRH	ORG	ORG-Bartlett-Regional-Hospital
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+mRNA-1237	mRNA-1237	PRO	PRO-mRNA-1237
+ЄС	ЄС	LOC	ORG-European-Union
+Єврокомісії	Єврокомісія	ORG	ORG-European-Commission
+Європейське агентство з лікарських засобів	Європейське агентство з лікарських засобів	ORG	ORG-EMA-European-Medicines-Agency
+Європейського Союзу	Європейський Союз	ORG	ORG-European-Union
+Європі	Європа	LOC	LOC-Europe
+Італію	Італія	LOC	GPE-Italy
+Алясці	Аляска	LOC	GPE-Alaska
+Бахрейні	Бахрейн	LOC	GPE-Kingdom-of-Bahrain
+Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+Джуно	Джуно	LOC	LOC-Juneau-Alaska
+Канада	Канада	LOC	GPE-Canada
+Канаді	Канада	LOC	GPE-Canada
+МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+Мексиці	Мексика	LOC	GPE-Mexico
+Польща	Польща	LOC	GPE-Poland
+США	США	LOC	GPE-USA
+Саудівській Аравії	Саудівська Аравія	LOC	GPE-Saudi-Arabia
+Угур Шахін	Угур Шахін	PER	PER-Ugur-Sahin
+України	Україна	LOC	GPE-Ukraine
+Управління з санітарного нагляду за якістю продовольства та медикаментів	Управління з санітарного нагляду за якістю продовольства та медикаментів	ORG	ORG-FDA-Food-and-Drug-Administration
+Цельсієм	Цельсій	PER	PER-Celsius
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+лікарні Бартлетта	лікарня Бартлетта	ORG	ORG-Bartlett-Regional-Hospital
+пандемію COVID-19	пандемія COVID-19	EVT	EVT-Covid-19
+паралічу Белла	параліч Белла	EVT	EVT-Bell's-palsy

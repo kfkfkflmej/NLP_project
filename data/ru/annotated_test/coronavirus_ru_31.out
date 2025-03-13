@@ -1,0 +1,32 @@
+ru-31
+"Шарите"	Шарите	ORG	ORG-Charité
+BfR	BfR	ORG	ORG-BfR
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Curevac	Curevac	ORG	ORG-CureVac
+DW	DW	PRO	PRO-Deutsche-Welle
+Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+Friedrich von Bohlen	Friedrich von Bohlen	PER	PER-Friedrich-von-Bohlen
+MERS	MERS	EVT	EVT-MERS-CoV
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+SARS	SARS	EVT	EVT-SARS
+dievini	dievini	ORG	ORG-Dievini
+Германии	Германия	LOC	GPE-Germany
+Германия	Германия	LOC	GPE-Germany
+Китае	Китай	LOC	GPE-China
+Китая	Китай	LOC	GPE-China
+Коронавирус	коронавирус	EVT	EVT-Covid-19
+Немецкая	Немецкая	PER	GPE-Germany
+Немецкая	немецкая	PER	GPE-Germany
+Ухань	Ухань	LOC	GPE-Wuhan
+ФРГ	ФРГ	LOC	GPE-Germany
+Фридрих фон Болен	Фридрих фон Болен	PER	PER-Friedrich-von-Bohlen
+Фридриху фон Болену	Фридрих фон Болен	PER	PER-Friedrich-von-Bohlen
+Цельсию	Цельсий	PER	PER-Celsius
+китайские	китайские	PER	GPE-China
+китайском	китайский	PER	GPE-China
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+коронавирусы	коронавирус	EVT	EVT-Covid-19
+немецкого Федерального ведомства по оценке рисков	немецкое федеральное ведомство по оценке рисков	ORG	ORG-BfR
+фон Боленом	фон Болен	PER	PER-Friedrich-von-Bohlen

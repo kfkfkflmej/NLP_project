@@ -1,0 +1,74 @@
+ru-12
+Бена Шапиро	Бен Шапиро	PER	PER-Ben-Shapiro
+РФ	РФ	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+CISA	CISA	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+RT	RT	ORG	ORG-RT
+Reuters	Reuters	ORG	ORG-Reuters
+The Washington Post	The Washington Post	ORG	PRO-Washington-Post
+Агентство кибербезопасности и инфраструктурной безопасности	Агентство кибербезопасности и инфраструктурной безопасности	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+Агентство по кибербезопасности и обеспечению защиты инфраструктуры США	Агентство по кибербезопасности и обеспечению защиты инфраструктуры США	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+Александр Асафов	Александр Асафов	PER	PER-Aleksandr-Asafov
+Америке	Америка	LOC	GPE-USA
+Байдена	Байден	PER	PER-Joe-Biden
+Батюк	Батюк	PER	PER-Vladimir-Batyuk
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Блохин	Блохин	PER	PER-Konstantin-Blohin
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Владимир Батюк	Владимир Батюк	PER	PER-Vladimir-Batyuk
+ГРУ	ГРУ	ORG	ORG-GRU-(Russian-GU)
+Генштаба ВС России	Генштаб ВС России	ORG	ORG-General-Staff-of-the-Armed-Forces-of-the-Russian-Federation
+Главное разведывательное управление	Главное разведывательное управление	ORG	ORG-GRU-(Russian-GU)
+Госдепа США	Госдеп США	ORG	ORG-Department-of-State-USA
+Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Егора Крючкова	Егор Крючков	PER	PER-Egor-Kryuchkov
+Исследовательская служба американского конгресса	Исследовательская служба американского конгресса	ORG	ORG-Congressional-Research-Service
+Константин Блохин	Константин Блохин	PER	PER-Konstantin-Blohin
+Лос-Анджелесе	Лос-Анджелес	LOC	GPE-Los-Angeles
+Майк Помпео	Майк Помпео	PER	PER-Mike-Pompeo
+Министерстве юстиции США	Министерство юстиции США	ORG	ORG-The-United-States-Department-of-Justice
+Минобороны США	Миноборона США	ORG	ORG-United-States-Department-of-Defense
+Москва	Москва	LOC	GPE-Moscow
+Москву	Москва	LOC	GPE-Moscow
+Москвы	Москва	LOC	GPE-Moscow
+Песков	Песков	PER	PER-Dmitry-Peskov
+Помпео	Помпео	PER	PER-Mike-Pompeo
+Путин	Путин	PER	PER-Vladimir-Putin
+Путина	Путин	PER	PER-Vladimir-Putin
+РФ	РФ	LOC	GPE-Russia
+РФ	РФ	LOC	GPE-Russia
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Республиканцы	Республиканец	ORG	ORG-Republican-Party-USA
+Роберт О'Брайен	Роберт О'Брайен	PER	PER-Robert-O'Brien
+Роскомнадзором	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+СВР	СВР	ORG	ORG-Foreign-Intelligence-Service-of-the-Russian-Federation
+США	США	LOC	GPE-USA
+США	США	LOC	GPE-USA
+Совета национальной безопасности Соединённых Штатов	Совет национальной безопасности США	ORG	ORG-United-States-National-Security-Council
+Соединённые Штаты	Соединённые Штаты	LOC	GPE-USA
+Соединённым Штатам	Соединенные Штаты	LOC	GPE-USA
+Соединённых Штатах	Соединенные Штаты	LOC	GPE-USA
+Соединённых Штатов	Соединенные Штаты	LOC	GPE-USA
+Соединённых Штатов	Соединенные штаты	LOC	GPE-USA
+Трампа	Трамп	PER	PER-Donald-Trump
+ФБР	ФБР	ORG	ORG-FBI
+Центра военно-политических исследований Института США и Канады РАН	Центр военно-политических исследований Института США и Канады РАН	ORG	ORG-Institute-for-US-and-Canadian-Studies
+Центра исследования проблем безопасности РАН	Центр исследования проблем безопасности РАН	ORG	ORG-Centre-for-Security-Studies-Russian-Academy-of-Sciences
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократы	демократ	ORG	ORG-Democratic-Party-USA
+коронавируса	коронавирус	EVT	EVT-Covid-19
+посольство России в США	посольство России в США	ORG	ORG-Embassy-of-the-Russian-Federation-in-the-USA
+республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+русские	русский	PER	GPE-Russia
+русских	русские	PER	GPE-Russia

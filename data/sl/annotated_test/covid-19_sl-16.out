@@ -1,0 +1,16 @@
+sl-16
+Albert Bourla	Albert Bourla	PER	PER-Albert-Bourla
+BNT162b2	BNT162b2	PRO	PRO-BNT162b2-Tozinameran
+BioNTech	BioNTech	ORG	ORG-BioNTech
+BoiNtecha	BoiNtech	ORG	ORG-BioNTech
+Bourla	Bourla	PER	PER-Albert-Bourla
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Pfizerja	Pfizer	ORG	ORG-Pfizer
+Trump	Trump	PER	PER-Donald-Trump
+ameriški agenciji za zdravila in hrano	ameriška agencija za zdravila in hrano	ORG	ORG-FDA-Food-and-Drug-Administration
+covida-19	covid-19	EVT	EVT-Covid-19
+covidu-19	covid-19	EVT	EVT-Covid-19
+dpa	dpa	ORG	ORG-DPA
+novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19

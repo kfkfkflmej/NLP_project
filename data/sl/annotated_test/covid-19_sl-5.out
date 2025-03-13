@@ -1,0 +1,18 @@
+sl-5
+AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+Gamaleja	Gamaleja	ORG	ORG-The-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+Mihail Muraško	Mihail Muraško	PER	PER-Mikhail-Murashko
+Moskvo	Moskva	LOC	GPE-Moscow
+Muraška	Muraško	PER	PER-Mikhail-Murashko
+Muraško	Muraško	PER	PER-Mikhail-Murashko
+Putin	Putin	PER	PER-Vladimir-Putin
+Putinove	Putin	PER	PER-Vladimir-Putin
+Rusija	Rusija	LOC	GPE-Russia
+Svetovna zdravstvena organizacija	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+Tass	Tass	ORG	ORG-TASS-Agency
+Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+WHO	WHO	ORG	ORG-World-Health-Organization
+covida-19	covid-19	EVT	EVT-Covid-19
+novemu koronavirus	novemu koronavirus	EVT	EVT-Covid-19
+novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19

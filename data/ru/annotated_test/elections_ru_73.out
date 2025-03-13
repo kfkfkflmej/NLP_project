@@ -1,0 +1,31 @@
+ru-73
+Байден	Байден	PER	PER-Joe-Biden
+ВАШИНГТОН	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Гаврилова А.В.	Гаврилова А.В.	PER	PER-Gavrilova-A.-V.
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+Ильхан Омар	Ильхан Омар	PER	PER-Ilhan-Omar
+МИА «Россия сегодня»	МИА «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
+РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+Роберт Конти	Роберт Конти	PER	PER-Robert-Conti
+США	США	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	ORG	ORG-International-News-Agency-RussiaToday
+американской столице	Американская столица	LOC	GPE-WashingtonDC
+демократ	демократ	ORG	ORG-Democratic-Party-USA
+демократам	демократы	ORG	ORG-Democratic-Party-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+конгресс	Конгресс	ORG	ORG-United-States-Congress
+конгресс	Конргресс	ORG	ORG-United-States-Congress
+конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+конгресса	Конгресс	ORG	ORG-United-States-Congress
+коронавируса	коронавирус	EVT	EVT-Covid-19
+палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+палаты представителей	Палата представитлей	ORG	ORG-United-States-House-of-Representatives
+палаты представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+протестами в Вашингтоне	Протесты в Вашингтоне	EVT	EVT-Protests-WashingtonDC

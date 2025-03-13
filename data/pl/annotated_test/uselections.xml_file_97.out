@@ -1,0 +1,30 @@
+97
+Amerykanie	Amerykanie	PER	GPE-USA
+Amerykanów	Amerykanie	PER	GPE-USA
+Arizona	Arizona	LOC	GPE-Arizona
+Białego Domu	Biały Dom	LOC	LOC-White-House
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Donaldem Trumpem	Donald Trump	PER	PER-Donald-Trump
+EPA	EPA	ORG	ORG-EPA-European-Pressphoto-Agency
+Floryda	Floryda	LOC	GPE-Florida
+Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+Joe Bidenem	Joe Biden	PER	PER-Joe-Biden
+Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+Michigan	Michigan	LOC	GPE-Michigan
+Nevada	Nevada	LOC	GPE-Nevada
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+Polskie Radio 24	Polskie Radio 24	PRO	PRO-Polskie-Radio-24
+Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+Trump	Trump	PER	PER-Donald-Trump
+USA	USA	LOC	GPE-USA
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+koronawirus	koronawirus	EVT	EVT-Covid-19
+koronawirusa	koronawirus	EVT	EVT-Covid-19
+koronawirusem	koronawirus	EVT	EVT-Covid-19
+wGospodarce	wGospodarce	PRO	PRO-wGospodarce

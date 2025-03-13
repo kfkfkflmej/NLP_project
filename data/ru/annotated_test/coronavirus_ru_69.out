@@ -1,0 +1,44 @@
+ru-69
+"Спутником"	Спутник	PRO	PRO-Sputnik-V
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Александр Сидякин	Александр Сидякин	PER	PER-Alexander-Sidyakin
+Андрей Воробьев	Андрей Воробьев	PER	PER-Andrey-Vorobyov
+Анна Семенова	Анна Семенова	PER	PER-Anna-Semyonova
+Балашова	Балашов	LOC	GPE-Balashov
+Балашовской районной больнице	Балашовская районная больница	LOC	GPE-Balashovskaya-district-Hospital
+Башкирии	Башкирия	LOC	GPE-Bashkortostan
+Башкортостана	Башкортостан	LOC	GPE-Bashkortostan
+Василий Дарган	Василий Дарган	PER	PER-Vasily-Dargan
+Вероника Богма	Вероника Богма	PER	PER-Veronika Bogma
+Виктор Меринов	Виктор Меринов	PER	PER-Victor-Merinov
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Вячеслав Черняев	Вячеслав Черняев	PER	PER-Vyacheslav-Chernyaev
+ГКБ №15 имени О.М. Филатова	ГКБ №15 имени О.М. Филатова	LOC	GPE-Clinical-Hospital-№15-named-after-O-M-Filatov
+ГУМе	ГУМ	LOC	GPE-Main-Department-Store
+Галина Буравитская	Галина Буравитская	PER	PER-Galina-Borovitskaya
+Главном универсальном магазине	Главный универсальный магазин	LOC	GPE-Main-Department-Store
+Госуслуг	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+Ирина Маршутина	Ирина Маршутина	PER	PER-Irina-Marshutina
+КНР	КНР	LOC	GPE-China
+Красной площади	Красная площадь	LOC	GPE-The-Red-Square
+Мария Волошина	Мария Волошина	PER	PER-Maria-Voloshina
+Москве	Москва	LOC	GPE-Moscow
+Московской области	Московская область	LOC	GPE-Moscow-region
+Мурат Зарипов	Мурат Зарипов	PER	PER-Murat Zaripov
+Подмосковье	Подмосковье	LOC	GPE-Moscow-region
+Роспотребнадзора	Роспотребнадзор	ORG	ORG-Federal-Service-for-Surveillance-on-Consumer-Rights-Protection-and-Human-Wellbeing
+России	Россия	LOC	GPE-Russia
+Ростовской области	Ростовская область	LOC	GPE-Rostov-region
+Руслан Бикбулатов	Руслан Бикбулатов	PER	PER-Ruslan Bikbulatov
+Саратовская область	Саратовская область	LOC	GPE-Saratov-region
+Саратовской области	Саратовская область	LOC	GPE-Saratov-region
+Сергиево-Посадской районной больницы	Сергиево-Посадская районная больница	LOC	GPE-Sergiev-Posad-District-Hospital
+Уфы	Уфа	LOC	GPE-Ufa
+ковидных	ковидные	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+российский	российский	PER	GPE-Russia
+российского	российский	PER	GPE-Russia
+российской	российский	PER	GPE-Russia
+россиян	россияне	PER	GPE-Russia
+россиянам	россияне	PER	GPE-Russia

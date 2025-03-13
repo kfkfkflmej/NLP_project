@@ -1,0 +1,15 @@
+sl-125
+Ansa	Ansa	ORG	ORG-Ansa
+FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+Ivic	Ivic	ORG	ORG-IVIC-Venezuelan-Institute-for-Scientific-Research
+Maduro	Maduro	PER	PER-Nicolas-Maduro
+Svetovni zdravstveni organizaciji	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+Venezueli	Venezuela	LOC	GPE-Venezuela
+WHO	WHO	ORG	ORG-World-Health-Organization
+ZDA	ZDA	LOC	GPE-USA
+covid-19	covid-19	EVT	EVT-Covid-19
+covida-19	covid-19	EVT	EVT-Covid-19
+dpa	dpa	ORG	ORG-DPA
+novim kornavirusom	nov koronavirus	EVT	EVT-Covid-19
+remdesivir	remdesivir	PRO	PRO-Remdesivir-(Veklury)
+sars-cov-2	sars-cov-2	EVT	EVT-Covid-19

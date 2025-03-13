@@ -1,0 +1,13 @@
+uk-10009
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Pfizer	Pfizer	ORG	ORG-Pfizer
+RBC.UA	RBC.UA	ORG	ORG-RBC-Ukraine
+Євросоюзі	Євросоюз	LOC	ORG-European-Union
+Антоніу Гутерреш	Антоніу Гутерреш	PER	PER-Antonio-Guterres
+Гутерреша	Гутерреш	PER	PER-Antonio-Guterres
+ООН	ООН	ORG	ORG-United-Nations
+Організації Об'єднаних Націй	Організація Об'єднаних Націй	ORG	ORG-United-Nations
+РБК-Україна	РБК-Україна	ORG	ORG-RBC-Ukraine
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+пандемії	пандемія	EVT	EVT-Covid-19

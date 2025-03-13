@@ -1,0 +1,17 @@
+uk-20013
+CNN	CNN	ORG	ORG-CNN
+OBOZREVATEL	OBOZREVATEL	PRO	PRO-Obozrevatel
+Байдена	Байден	PER	PER-Joe-Biden
+Бреда Рфенспергера	Бред Рфенспергер	PER	PER-Brad-Raffensperger
+Білого дому	Білий дім	ORG	ORG-White-House
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+США	США	LOC	GPE-USA
+Трампом	Трамп	PER	PER-Donald-Trump
+виборах президента США	вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election

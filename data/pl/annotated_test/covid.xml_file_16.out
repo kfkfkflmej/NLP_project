@@ -1,0 +1,15 @@
+16
+Astra Zeneca	Astra Zeneca	ORG	GPE-AstraZeneсa
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+CureVac	CureVac	ORG	ORG-CureVac
+Janssen Pharmaceutica NV	Janssen Pharmaceutica NV	ORG	ORG-Janssen-Pharmaceutica
+Johnson & Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+Krzysztof Kucharczyk	Krzysztof Kucharczyk	PER	PER-Krzysztof-Kucharczyk
+Moderna	Moderna	ORG	ORG-Moderna
+Narodowego Programu Szczepień	Narodowy Program Szczepień	PRO	PRO-Narodowy-Proram-Szczepień-Poland
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Polska	Polska	LOC	GPE-Poland
+Programie 1 Polskiego Radia	Program 1 Polskiego Radia	PRO	PRO-Polish-Radio-1
+Sygnałach Dnia	Sygnały Dnia	PRO	PRO-Sygnały-Dnia
+koronawirusowi	koronawirus	EVT	EVT-Covid-19

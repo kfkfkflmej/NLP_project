@@ -1,0 +1,21 @@
+sl-106
+Avstriji	Avstrija	LOC	GPE-Austria
+Berlinu	Berlin	LOC	GPE-Berlin
+EU	EU	ORG	ORG-European-Union
+Evropske unije	Evropska unija	ORG	ORG-European-Union
+Hrvaškem	Hrvaška	LOC	GPE-Croatia
+Italiji	Italija	LOC	GPE-Italy
+Jelko Kacin	Jelko Kacin	PER	PER-Jelko-Kacin
+Kacinovih	Kacin	PER	PER-Jelko-Kacin
+Madžarskem	Madžarska	LOC	GPE-Hungary
+Matej Tonin	Matej Tonin	PER	PER-Matej-Tonin
+NIJZ	NIJZ	ORG	ORG-Slovenian-National-Institute-of-Public-Health
+Nacionalnega inštituta za javno zdravje	Nacionalni inštitut za javno zdravje	ORG	ORG-Slovenian-National-Institute-of-Public-Health
+Simona Kustec	Simona Kustec	PER	PER-Simona-Kustec
+Slovenije	Slovenija	LOC	GPE-Slovenia
+ZDA	ZDA	LOC	GPE-USA
+covid-19	covid-19	EVT	EVT-Covid-19
+covida-19	covid-19	EVT	EVT-Covid-19
+covidom-19	covid-19	EVT	EVT-Covid-19
+koronavirusom	koronavirus	EVT	EVT-Covid-19
+novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19

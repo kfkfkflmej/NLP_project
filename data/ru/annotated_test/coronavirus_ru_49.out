@@ -1,0 +1,71 @@
+ru-49
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BioNTech/Pfizer	BioNTech/Pfizer	PRO	PRO-BioNTech/Pfizer
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Cookie	Cookie	PRO	PRO-Cookie
+DW	DW	PRO	PRO-Deutsche-Welle
+Der Spiegel	Der Spiegel	PRO	PRO-Der-Spiegel
+FECYT	FECYT	ORG	ORG-FECYT
+GlaxoSmithKline	GlaxoSmithKline	ORG	ORG-GlaxoSmithKline
+Kantar Group	Kantar Group	ORG	ORG-Kantar
+Markus Söder	Markus Söder	PER	PER-Markus-Soeder
+No Vax	No Vax	ORG	ORG-No-Vax
+Pandemrix	Pandemrix	PRO	PRO-Pandemrix
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+Victory in Europe Day	Victory in Europe Day	EVT	EVT-Victory-Day
+Австрии	Австрия	LOC	GPE-Austria
+Андерс Тегнелл	Андерс Тегнелл	PER	PER-Anders-Tegnell
+Баварии	Бавария	LOC	GPE-Bavaria
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Вене	Вена	LOC	GPE-Vienna
+Венского университета	Венский университет	ORG	ORG-University-of-Vienna
+Верхняя Австрия	Верхняя Австрия	LOC	GPE-Upper-Austria
+Германией	Германия	LOC	GPE-Germany
+Германии	Германия	LOC	GPE-Germany
+Днем победы	День победы	EVT	EVT-Victory-Day
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европе	Европа	LOC	LOC-Europe
+Евросоюзе	Евросоюз	ORG	ORG-European-Union
+Института Novus	Институт Novus	ORG	ORG-Novus-Group-International
+Испании	Испания	LOC	GPE-Spain
+Испания	Испания	LOC	GPE-Spain
+Испанского фонда науки и технологий	Испанский фонд науки и технологий	ORG	ORG-FECYT
+Италии	Италия	LOC	GPE-Italy
+Италия	Италия	LOC	GPE-Italy
+Мальмё	Мальмё	LOC	GPE-Malmo
+Маркус Зёдер	Маркус Зёдер	PER	PER-Markus-Soeder
+Национальном совете по здравоохранению и социальному обеспечению	Национальный совет по здравоохранению и социальному обеспечению	ORG	ORG-The-National-Board of-Health-and-Welfare-of-Sweden
+Оксфордского университета	Оксфордский университет	ORG	ORG-University-of-Oxford
+Сальвадор Илья	Сальвадор Илья	PER	PER-Salvador-Illa
+Себастиан Курц	Себастиан Курц	PER	PER-Sebastian-Kurz
+Стефано Боэри	Стефано Боэри	PER	PER-Stefano-Boeri
+Стокгольме	Стокгольм	LOC	GPE-Stockholm
+Франции	Франция	LOC	GPE-France
+Швеции	Швеция	LOC	GPE-Sweden
+Штирия	Штирия	LOC	GPE-Austrian-Styria
+австрийских	австрийский	PER	GPE-Austria
+американского	Американский	PER	GPE-USA
+британским	британский	PER	GPE-Great-Britain
+британского	британский	PER	GPE-Great-Britain
+британской	британский	PER	GPE-Great-Britain
+британцам	британцы	PER	GPE-Great-Britain
+британцев	британцы	PER	GPE-Great-Britain
+европейским	европейский	LOC	LOC-Europe
+европейских	европейские	PER	GPE-Europe
+европейцы	европейцы	PER	LOC-Europe
+западноевропейских	Западноевропейский	PER	GPE-Western-Europe
+испанское	испанский	PER	GPE-Spain
+испанцы	испанцы	PER	GPE-Spain
+итальянской	итальянский	PER	GPE-Italy
+итальянцев	Итальянцы	PER	GPE-Italia
+ковида	ковид	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+немецко	немецкий	PER	GPE-Germany
+французов	французы	PER	GPE-France
+шведов	шведы	PER	GPE-Sweden
+шведско	шведский	PER	GPE-Sweden
+шведского	шведский	PER	GPE-Sweden
+шведском	шведский	PER	GPE-Sweden
+шведы	шведы	PER	GPE-Sweden

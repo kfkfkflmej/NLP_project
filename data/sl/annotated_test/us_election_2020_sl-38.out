@@ -1,0 +1,36 @@
+sl-38
+AP	AP	ORG	ORG-AP-The-Associated-Press
+Američani	Američani	PER	GPE-USA
+Američanov	Američani	PER	GPE-USA
+Beli hiši	Bela hiša	LOC	LOC-White-House
+Biden	Biden	PER	PER-Joe-Biden
+Bidna	Biden	PER	PER-Joe-Biden
+Bidnova	Biden	PER	PER-Joe-Biden
+Bidnove	Biden	PER	PER-Joe-Biden
+Bidnovo	Biden	PER	PER-Joe-Biden
+Bidnu	Biden	PER	PER-Joe-Biden
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Emily W. Murphy	Emily W. Murphy	PER	PER-Emily-Murphy
+GSA	GSA	ORG	ORG-General-Services-Administration
+Huga Chaveza	Hugo Chavez	PER	PER-Hugo-Chavez
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Kitajska	Kitajska	LOC	GPE-China
+Kuba	Kuba	LOC	GPE-Cuba
+Michiganu	Michigan	LOC	GPE-Michigan
+Murphyjeva	Murphy	PER	PER-Emily-Murphy
+Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+Sidney Powell	Sidney Powell	PER	PER-Sidney-Powell
+Trump	Trump	PER	PER-Donald-Trump
+Trumpova	Trump	PER	PER-Donald-Trump
+Trumpove	Trump	PER	PER-Donald-Trump
+Trumpovega	Trump	PER	PER-Donald-Trump
+Venezuela	Venezuela	LOC	GPE-Venezuela
+Washingtonu	Washington	LOC	GPE-WashingtonDC
+ZDA	ZDA	LOC	GPE-USA
+božič	božič	EVT	EVT-Christmas
+centrom za preprečevanje in nadzor bolezni	center za preprečevanje in nadzor bolezni	ORG	ORG-European-Centre-for-Disease-Prevention-and-Control
+urada za splošne službe	urad za splošne službe	ORG	ORG-General-Services-Administration
+zahvalnem dnevu	zahvalni dan	EVT	EVT-Thanksgiving-Day
+zahvalni dan	zahvalni dan	EVT	EVT-Thanksgiving-Day
+zahvalnim dnevom	zahvalni dan	EVT	EVT-Thanksgiving-Day

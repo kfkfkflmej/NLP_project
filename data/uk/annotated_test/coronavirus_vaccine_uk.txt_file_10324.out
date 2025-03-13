@@ -1,0 +1,22 @@
+uk-10324
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+REUTERS	REUTERS	ORG	ORG-Reuters
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+The Guardian	The Guardian	ORG	ORG-The-Guardian
+Єльського університету	Єльський університет	ORG	ORG-Yale-University
+Іспанії	Іспанія	LOC	GPE-Spain
+Китаї	Китай	LOC	GPE-China
+Крістакіс	Крістакіс	PER	PER-Nicholas-Christakis
+Ніколас Крістакіс	Ніколас Крістакіс	PER	PER-Nicholas-Christakis
+Пандемія	Пандемія	EVT	EVT-Covid-19
+коронавірус	коронавірус	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+пандемій	пандемія	EVT	EVT-Covid-19
+пандемію	пандемія	EVT	EVT-Covid-19
+пандемія	пандемія	EVT	EVT-Covid-19
+пандемії	пандемія	EVT	EVT-Covid-19
+чума	чума	EVT	EVT-Plague
+чуми	чума	EVT	EVT-Plague
+іспанського грипу	іспанський грип	EVT	EVT-Influenza-Pandemic-1918

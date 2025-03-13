@@ -1,0 +1,18 @@
+113
+Amerykanie	Amerykanie	PER	GPE-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Dystrykt Kolumbii	Dystrykt Kolumbii	LOC	GPE-District-of-Columbia
+Florydę	Floryda	LOC	GPE-Florida
+Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+Izbie Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+Kolegium Elektorskiego	Kolegium Elektorskie	ORG	ORG-United-States-Electoral-College
+Kongresie Stanów Zjednoczonych	Kongres Stanów Zjednoczonych	ORG	ORG-United-States-Congress
+Kongresie	Kongres	ORG	ORG-United-States-Congress
+Konstytucji	Konstytucja	PRO	PRO-The-USA-Constitution
+Ohio	Ohio	LOC	GPE-Ohio
+Senacie	Senat	ORG	ORG-United-States-Senate
+Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+USA	USA	LOC	GPE-USA
+Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+wyborów prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2016-United-States-Presidential-Election
+wyborów prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election

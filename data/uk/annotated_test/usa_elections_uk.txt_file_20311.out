@@ -1,0 +1,33 @@
+uk-20311
+Аляска	Аляска	LOC	GPE-Alaska
+Аризона	Аризона	LOC	GPE-Arizona
+Аризоні	Аризона	LOC	GPE-Arizona
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Білий дім	Білий дім	ORG	ORG-White-House
+Вибори в США	Вибори в США	EVT	EVT-2020-United-States-Presidential-Election
+Вибори президента США	Вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+Вісконсині	Вісконсин	LOC	GPE-Wisconsin
+Демпартії	Демпартія	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Колегію	Колегія	ORG	ORG-United-States-Electoral-College
+Колегії вибірників	Колегія вибірників	ORG	ORG-United-States-Electoral-College
+Конгресу	Конгрес	ORG	ORG-United-States-Congress
+Невада	Невада	LOC	GPE-Nevada
+Палату представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+Пенсільванія	Пенсільванія	LOC	GPE-Pennsylvania
+Пенсільванії	Пенсільванія	LOC	GPE-Pennsylvania
+Північна Кароліна	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+Північній Кароліні	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+Республіканської партії	Республіканська партія	ORG	ORG-Republican-Party-USA
+США	США	LOC	GPE-USA
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election

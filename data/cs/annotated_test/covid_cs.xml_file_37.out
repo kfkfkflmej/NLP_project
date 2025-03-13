@@ -1,0 +1,26 @@
+37
+AP	AP	ORG	ORG-AP-The-Associated-Press
+Anglie	Anglie	LOC	GPE-England
+Anglii	Anglie	LOC	GPE-England
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Borise Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Gavin Williamson	Gavin Williamson	PER	PER-Gavin-Williamson
+Itálii	Itálie	LOC	GPE-Italy
+Kevin Courtney	Kevin Courtney	PER	PER-Kevin-Courtney
+Londýna	Londýn	LOC	GPE-London
+Londýně	Londýn	LOC	GPE-London
+Německo	Německo	LOC	GPE-Germany
+Německu	Německo	LOC	GPE-Germany
+Oxfordské univerzitě	Oxfordská univerzita	ORG	ORG-University-of-Oxford
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Rusku	Rusko	LOC	GPE-Russia
+Svaz britských učitelů	Svaz britských učitelů	ORG	ORG-Union-of-British-Teachers
+Ukrajině	Ukrajina	LOC	GPE-Ukraine
+Univerzity Johnse Hopkinse	Univerzita Johna Hopkinse	ORG	ORG-Johns-Hopkins-University
+Williamsona	Williamson	PER	PER-Gavin-Williamson
+covidem-19	covid-19	EVT	EVT-Covid-19
+koronavirem	koronavirus	EVT	EVT-Covid-19
+Česká republika	Česká republika	LOC	GPE-Czech-Republic

@@ -1,0 +1,33 @@
+ru-167
+Ballotpedia	Ballotpedia	PRO	PRO-Ballotpedia
+CNN Business	CNN Business	PRO	PRO-Business-Insider
+CNN	CNN	PRO	PRO-CNN
+StyleGAN	StyleGAN	PRO	PER-StyleGAN
+Twitter	Twitter	ORG	ORG-Twitter
+Twitter	Twitter	PRO	PRO-Twitter
+Александра Филиппенко	Александра Филиппенко	PER	PER-Alexandra-Filipenko
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+Канады	Канада	LOC	GPE-Canada
+Китай	Китай	LOC	GPE-China
+Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конкорд менеджмент и консалтинг	Конкорд менеджмент и консалтинг	ORG	ORG-Concorde
+Конкорд	Конкорд	PRO	PRO-Concorde
+Кремля	Кремль	ORG	ORG-Kremlin
+Мюллер	Мюллер	PER	PER-Robert-Mueller
+Политикой Сегодня	Политика Сегодня	PRO	PRO-Politics-Today
+Роберт Мюллер	Роберт Мюллер	PER	PER-Robert-Mueller
+Род-Айленд	Род-Айленд	LOC	GPE-Rhode-Island
+Россией	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Филиппенко	Филиппенко	PER	PER-Aleksandr-Filippenko
+Эндрю Уолц	Эндрю Уолц	PER	PER-Andrew-Wiles
+Эндрю Уолца	Эндрю Уолц	PER	PER-Andrew-Wiles
+Эндрю	Эндрю	PER	PER-Andrew-Wiles
+выборы 2016 года	выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+республиканской партии	республиканская партия	ORG	ORG-Republican-Party-USA

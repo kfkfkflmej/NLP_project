@@ -1,0 +1,70 @@
+ru-155
+AP	AP	PRO	PRO-Assosiated-Press
+Associated Press	Associated Press	ORG	ORG-AP-The-Associated-Press
+CrowdStrike	CrowdStrike	PRO	PRO-CrowdStrike
+Financial Times	Financial Times	PRO	PRO-Financial-Times
+Twitter	Twitter	PRO	PRO-Twitter
+Wilson Center	Wilson Center	ORG	LOC-Logistični-center-Pošte-Slovenija-Ljubljana
+Белом доме	Белый дом	ORG	ORG-The-White-House
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Владимиру Зеленскому	Владимир Зеленский	PER	PER-Volodymyr-Zelensky
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Джон Кеннеди	Джон Кеннеди	PER	PER-John-F-Kennedy
+Джордж Курц	Джордж Курц	PER	PER-George-Kurtz
+Дмитрий Алперович	Дмитрий Алперович	PER	PER-Dmitriy-Alperovich
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Европу	Европа	LOC	LOC-Europe
+Калифорнии	Калифорния	LOC	GPE-California
+Киев	Киев	LOC	GPE-Kiev
+Клинтон	Клинтон	PER	PER-Hillary-Clinton
+Конгрессу	Конгресс	ORG	ORG-United-States-Congress
+Лещенко	Лещенко	PER	PER-Sergey-Leschenko
+Манафорт	Манафорт	PER	PER-Paul-Manafort
+Нина Янкович	Нина Янкович	PER	PER-Nina-Yankovich
+Пол Манафорт	Пол Манафорт	PER	PER-Paul-Manafort
+Путин	Путин	PER	PER-Vladimir-Putin
+Разведывательные службы США	Разведывательные службы США	ORG	ORG-US-Intelligence-Community
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Рик Гейтс	Рик Гейст	PER	PER-Rick-Gates
+Роджер Стоун	Роджер Стоун	PER	PER-Rodger-Stone
+России	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+Руди Джулиани	Руди Джулиани	PER	PER-Rudy-Giuliani
+США	США	LOC	GPE-USA
+Сенате	Сенат	ORG	ORG-United-States-Senate
+Сергея Лещенко	Сергей Лещенко	PER	PER-Sergey-Leschenko
+Стоуна	Стоун	PER	PER-Rodger-Stone
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+УНИАН ИноСМИ	УНИАН ИноСМИ	PRO	PRO-UNIAN
+УНИАН	УНИАН	PRO	PRO-UNIAN
+Украина	Украина	LOC	GPE-Ukraine
+Украине	Украина	LOC	GPE-Ukraine
+Украиной	Украина	LOC	GPE-Ukraine
+Украину	Украина	LOC	GPE-Ukraine
+Украины	Украина	LOC	GPE-Ukraine
+ФБР	ФБР	ORG	ORG-FBI
+Фиона Хилл	Фиона Хилл	PER	PER-Fiona-Hill
+Хилл	Хилл	PER	PER-Fiona-Hill
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+Хиллари	Хиллари	PER	PER-Hillary-Clinton
+американские выборы в 2016 году	американские выборы в 2016 году	EVT	EVT-2016-United-States-Presidential-Election
+американские	американские	LOC	GPE-USA
+американскую	американский	LOC	GPE-USA
+американцев	американцы	PER	GPE-USA
+верхней палаты Конгресса	верхняя палата Конгресса	ORG	ORG-United-States-Senate
+выборы США	выборы в США	EVT	EVT-2020-United-States-Presidential-Election
+демократов	демократы	PER	ORG-Democratic-Party-USA
+избирательного штаба Трампа	избирательный штаб Трампа	ORG	ORG-Trump's-campaign-office
+разведывательные агентства США	разведывательные агентства США	ORG	ORG-US-Intelligence-Community
+республиканец	республиканец	PER	ORG-Republican-Party-USA
+республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+российских	российский	LOC	GPE-Russia
+российского	российский	LOC	GPE-Russia
+россиян	россияне	PER	GPE-Russia
+украинская	украинский	LOC	GPE-Ukraine
+украинского	украинский	LOC	GPE-Ukraine
+украинском	украинский	LOC	GPE-Ukraine
+украинском	украиский	LOC	GPE-Ukraine
+украинцу	украинец	PER	GPE-Ukraine

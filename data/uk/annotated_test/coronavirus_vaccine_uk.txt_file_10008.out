@@ -1,0 +1,23 @@
+uk-10008
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+CNBG	CNBG	ORG	ORG-CNBG-China
+COVID-19	COVID-19	EVT	EVT-Covid-19
+China National Biotec Group	China National Biotec Group	ORG	GPE-China
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Reuters	Reuters	ORG	ORG-Reuters
+Sinopharm	Sinopharm	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm
+Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+Ізраїлю	Ізраїль	LOC	GPE-Israel
+Індонезія	Індонезія	LOC	GPE-Indonesia
+ІноЗМІ	ІноЗМІ	PRO	PRO-InoZMI
+Бразилії	Бразилія	LOC	GPE-Brazil
+Китаю	Китай	LOC	GPE-China
+Китаї	Китай	LOC	GPE-China
+Міністерстві профілактики й охорони здоров'я ОАЕ	Міністерстві профілактики й охорони здоров'я ОАЕ	ORG	ORG-Ministry-of-Prevention-and-Health-of-the-UAE
+ОАЕ	ОАЕ	LOC	GPE-UEA-United-Arab-Emirates
+Пакистан	Пакистан	LOC	GPE-Pakistan
+Пекін	Пекін	LOC	GPE-Beijing
+УНІАН	УНІАН	ORG	ORG-UNIAN
+коронавірусу	коронавірус	EVT	EVT-Covid-19

@@ -1,0 +1,102 @@
+ru-163
+23-й улицы	23-я улица	LOC	LOC-23-Street-New-York
+42-й улице	42-я улица	LOC	LOC-42nd-Street-New-York
+47-й улицы	47-я улица	LOC	LOC-47th-Street-New-York
+5-й авеню	5-я авеню	LOC	LOC-5th-Avenue-New-York
+Craig Unger	Craig Unger	PER	PER-Craig-Unger
+Daily Mail	Daily Mail	PRO	PRO-Daily-Mail
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Jeffrey Epstein	Jeffrey Epstein	PER	PER-Jeffrey-Epstein
+Joy-Lud Electronics	Joy-Lud Electronics	PRO	PRO-Joy-Lud-Electronics
+KGB	KGB	ORG	ORG-KGB
+Roy Cohn	Roy Cohn	PER	PER-Roy-Cohn
+«Гранд Хаятт Нью-Йорк»	«Гранд Хаятт Нью-Йорк»	PRO	PRO-Hotel-Grand-Hyatt-New-York
+«Гранд Хаятт»	«Гранд Хаятт»	PRO	PRO-Hotel-Grand-Hyatt-New-York
+«Гранд Централ»	«Гранд Централ»	LOC	LOC-Grand-Central-Terminal
+«Джой-Луд Электроникс»	«Джой-Луд Электроникс»	PRO	PRO-Joy-Lud-Electronics
+«Джой-Луд»	«Джой-Луд Электроникс»	PRO	PRO-Joy-Lud-Electronics
+«Династия»	«Династия»	PRO	PRO-Dynast-tv-series
+«Дом Буша, дом Сауда»	«Дом Буша, дом Сауда»	PRO	PRO-Bush's-house-Saud's-house
+«Дом Трампа, дом Путина»	«Дом Трампа, дом Путина»	PRO	PRO-Trump's-house-Putin's-house
+«Коммодор»	«Коммодор»	PRO	PRO-Hotel-Commodore
+«Крейзи Эдди»	«Крейзи Эдди»	PRO	PRO-Crazy-Eddie
+«Фото»	«Фото»	PRO	PRO-Photo-Store
+Американский	Американский	LOC	GPE-USA
+Америку	Америка	LOC	GPE-USA
+Атлантик-Сити	Атлантик-Сити	LOC	LOC-Atlantic-City
+Билла Клинтона	Бил Клинтон	PER	PER-Bill-Clinton
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Гислейн Максвелл	Гислейн Максвелл	PER	PER-Gislaine-Maxwell
+Гислейн	Гислейн	PER	PER-Gislaine-Maxwell
+Джеффри Эпштейна	Джеффри Эпштейн	PER	PER-Jeffrey-Epstein
+Джеффри Эпштейном	Джеффри Эпштейн	PER	PER-Jeffrey-Epstein
+Джеффри	Джеффри	PER	PER-Jeffrey-Epstein
+Джоном Кеннеди	Джон Кеннеди	PER	PER-John-F-Kennedy
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Дональдом	Дональд Трамп	PER	PER-Donald-Trump
+Европе	Европа	LOC	LOC-Europe
+Иване Зельничковой	Ивана Зельничкова	PER	PER-Ivana-Zelnickova		
+ИноСМИ	ИноСМИ	PRO	PRO-InoSMI
+КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+Кислин	Кислин	PER	PER-Semyon-Kislin
+Кислина	Кислин	PER	PER-Semyon-Kislin
+Кислиным	Кислин	PER	PER-Semyon-Kislin
+Кони-Айленде	Кони-Айленд	LOC	GPE-Coney-Island
+Крейг Юнгер	Крейг Юнгер	PER	PER-Craig-Unger
+Кремниевую долину	Кремниевая долина	LOC	GPE-Silicon-Valley
+Кристина Оксенберг	Кристина Оксенберг	PER	PER-Christine-Oxenberg
+Кристины	Кристина Оксенберг	PER	PER-Christine-Oxenberg
+Куинса	Куинс	LOC	LOC-Queens
+Кэтрин Оксенберг	Кэтрин Оксенберг	PER	PER-Christine-Oxenberg
+Манхэттене	Манхэттен	LOC	LOC-Manhattan
+Мар-а-Лаго	Мар-а-Лаго	PRO	PRO-Mar-a-Lago
+Меланию	Мелания Трамп	PER	PER-Melania-Trump
+Меланию	Мелания	PER	PER-Melania-Trump
+Навального	Навальный	PER	PER-Alexei-Navalny
+Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+Одессе	Одесса	LOC	GPE-Odessa
+Одессы	Одесса	LOC	GPE-Odessa
+Оксенберг	Оксенберг	PER	PER-Christine-Oxenberg
+Палм-Бич	Палм-Бич	LOC	LOC-Palm-Beach
+Парк-Авеню	Парк-Авеню	LOC	LOC-Park-Avenue
+Политбюро	Политбюро	ORG	ORG-USSR-Politburo
+Путину	Путин	PER	PER-Vladimir-Putin
+Роем Коном	Рой Кон	PER	PER-Roy-Cohn
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+Руди Джулиани	Руди Джулиани	PER	PER-Rudy-Giuliani
+Русские	русские	LOC	GPE-Russia
+СССР	СССР	LOC	GPE-USSR
+США	США	LOC	GPE-USA
+Семен «Сэм» Кислин	Семен «Сэм» Кислин	PER	PER-Semyon-Kislin
+Советский Союз	Советский Союз	LOC	GPE-USSR
+Советского Союза	Советский Союз	LOC	GPE-USSR
+Тамир Сапир	Тамир Сапир	PER	PER-Tamir-Sapir
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампом	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Украины	Украина	LOC	GPE-Ukraine
+ФБР	ФБР	ORG	ORG-FBI
+Флорида	Флорида	LOC	GPE-Florida
+ЦРУ	ЦРУ	ORG	ORG-CIA-Central-Intelligence-Agency
+Чехословакии	Чехословакия	LOC	GPE-Czechoslovakia
+Эндрю	Эндрю	PER	Эндрю
+Эпштейн	Джеффри Эпштейн	PER	PER-Jeffrey-Epstein
+Эпштейн	Эпштейн	PER	PER-Jeffrey-Epstein
+Эпштейна	Эпштейн	PER	PER-Jeffrey-Epstein
+Эпштейном	Эпштейн	PER	PER-Jeffrey-Epstein
+Югославии	Югославия	LOC	GPE-Yugoslavia
+Юнгер	Крейг Юнгер	PER	PER-Craig-Unger
+Юнгер	Крейг Юнкер	PER	PER-Craig-Unger
+Юнгер	Юнгер	PER	PER-Craig-Unger
+Юрий Швец	Юрий Швец	PER	PER-Yuri-Shvets
+американские	американские	LOC	GPE-USA
+российским	российское	LOC	GPE-Russia
+российской	российский	LOC	GPE-Russia
+русским	русский	LOC	GPE-Russia
+русскими	русские	LOC	GPE-Russia
+русской	русский	LOC	GPE-Russia
+украинский	украинский	LOC	GPE-Ukraine

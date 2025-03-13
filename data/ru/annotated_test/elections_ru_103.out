@@ -1,0 +1,63 @@
+ru-103
+American Airlines	American Airlines	ORG	ORG-American-Airlines
+Boeing	Boeing	ORG	ORG-Boeing
+Harper’s Weekly	Harper’s Weekly	PRO	PRO-The-Weekly-Standard-Magazine
+Аврааму Линкольну	Авраам Линкольн	PER	PER-Abraham-Lincoln
+Адамса	Адамс	PER	PER-John-Adams
+Александр Гамильтон	Александр Гамильтон	PER	PER-Alexander-Hamilton
+Александру I	Александру I	PER	PER-Alexander-I
+Аляски	Аляска	LOC	GPE-Alaska
+Американцы	Американцы	PER	GPE-USA
+Америке	Америке	LOC	GPE-USA
+Андрей Макурин	Андрей Макурин	PER	PER-Andrey-Makurin
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Бараком Обамой	Барак Обама	PER	PER-Barack-Obama
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белом доме	Белый дом	ORG	ORG-The-White-House
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Вайоминга	Вайоминг	LOC	GPE-Wyoming
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Григорий Ярыгин	Григорий Ярыгин	PER	PER-Grigory-Yarygin
+Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+Демократов	Демократы	ORG	ORG-Democratic-Party-USA
+Джон Куинси Адамс	Джон Куинси Адамс	PER	PER-John-Adams
+Джон Маккейн	Джон Маккейн	PER	PER-John-McCain
+Иван Цветков	Иван Цветков	PER	PER-Ivan-Tsvetkov
+Калифорнии	Калифорния	LOC	GPE-California
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Линдон Джонсон	Линдон Джонсон	PER	PER-Lyndon-Johnson
+Миттом Ромни	Митт Ромни	PER	PER-Mitt-Romney
+Республиканской	Республиканская	ORG	ORG-Republican-Party-USA
+Россия	Россия	LOC	GPE-Russia
+СПбГУ	СПбГУ	ORG	ORG-Saint-Petersburg-State-University
+США	США	LOC	GPE-USA
+Санкт-Петербурге	Санкт-Петербург	LOC	GPE-Saint-Petersburg
+Сара Пейлен	Сара Пейлен	PER	PER-Sarah-Palin
+Томас Джефферсон	Томас Джефферсон	PER	PER-Thomas-Jefferson
+Томас Наст	Томас Наст	PER	PER-Thomas-Nast
+Эндрю Джексон	Эндрю Джексон	PER	PER-Andrew-Jackson
+американская	американская	LOC	GPE-USA
+американские	американские	LOC	GPE-USA
+американский	американский	LOC	GPE-USA
+американских	американский	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американской	американская	LOC	GPE-USA
+американском	американский	LOC	GPE-USA
+американцев	американцы	PER	GPE-USA
+американцы	американцы	PER	GPE-USA
+выборах 2012 года	выборы 2012 года	EVT	EVT-2012-United-States-Presidential-Election
+выборы 1828 года	выборы 1828 года	EVT	EVT-1828-United-States-Presidential-Election
+выборы	выборы	EVT	EVT-2008-US-Presidential-Election
+демократами	демократы	ORG	ORG-Democratic-Party-USA
+демократической партии	демократическая партия	ORG	ORG-Democratic-Party-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+демократы	демократ	ORG	ORG-Democratic-Party-USA
+коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+праймериз 2008 года	праймериз 2008	EVT	EVT-2008-Primaries
+республиканцами	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+русских	русские	LOC	GPE-Russia
+русского	русский	LOC	GPE-Russia

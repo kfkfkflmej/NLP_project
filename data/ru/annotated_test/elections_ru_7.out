@@ -1,0 +1,32 @@
+ru-7
+CNN	CNN	PRO	PRO-CNN
+Facebook	Facebook	PRO	PRO-Facebook
+ForumDaily New York	ForumDaily New York	PRO	PRO-NewYork.ForumDaily.com
+ForumDaily Woman	ForumDaily Woman	PRO	PRO-Woman.ForumDaily.com
+ForumDaily	ForumDaily	PRO	PRO-NewYork.ForumDaily.com
+Shutterstock	Shutterstock	PRO	PRO-Shutterstock
+Америку	Америка	LOC	GPE-USA
+Байдена	Байден	PER	PER-Joe-Biden
+Вайоминг	Вайоминг	LOC	GPE-Wyoming
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Вермонт	Вермонт	LOC	GPE-Vermont
+Гавайи	Гавайи	LOC	GPE-Hawaii
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Калифорнии	Калифорния	LOC	GPE-California
+Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Колумбия	Колумбия	LOC	GPE-Colombia
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Пятой авеню	Пятая авеню	LOC	LOC-The-Fifth-Avenu
+США	США	LOC	GPE-USA
+Сената	Сенат	ORG	ORG-United-States-Senate
+Техасе	Техас	LOC	GPE-Texas
+Флориде	Флорида	LOC	GPE-Florida
+Центрального парка	Центральный парк	LOC	LOC-Central-Park
+всенародного голосования 3 ноября	всенародное голосование 3 ноября	EVT	EVT-2020-United-States-Presidential-Election
+выборах президента США	выборы президента США	EVT	EVT-2020-United-States-Presidential-Election
+выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election

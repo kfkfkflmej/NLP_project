@@ -1,0 +1,31 @@
+ru-18
+AFP	AFP	PRO	PRO-AFP
+Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
+Афганистане	Афганистан	LOC	GPE-Afghanistan
+Байден	Байден	PER	PER-Joe-Biden
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Джен Псаки	Джен Псаки	PER	PER-Jen-Psaki
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Договор о сокращении стратегических наступательных вооружений (СНВ-3)	Договор о сокращении стратегических наступательных вооружений (СНВ-3)	PRO	PRO-Strategic-Arms-Reduction-Treaty
+Договора	Договор о сокращении стратегических наступательных вооружений (СНВ-3)	PRO	PRO-Strategic-Arms-Reduction-Treaty
+Кремля	Кремль	ORG	ORG-Kremlin
+Навального	Навальный	PER	PER-Alexei-Navalny
+Псаки	Псаки	PER	PER-Jen-Psaki
+Путиным	Путин	PER	PER-Vladimir-Putin
+России	Россия	LOC	GPE-Russia
+СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+США	США	LOC	GPE-USA
+Украине	Украина	LOC	GPE-Ukraine
+американские выборы 2020 года	Американские выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+американский	америкнаский	LOC	GPE-USA
+американских	американский	LOC	GPE-USA
+инаугурации Байдена	инаугурации Байдена	EVT	EVT-2020-United-States-presidential-inauguration
+иранскую	иранский	LOC	GPE-Iran
+коронавируса	коронавирус	EVT	EVT-Covid-19
+российская	российская	LOC	GPE-Russia
+российского	российский	LOC	GPE-Russia
+страны «Большой семерки»	страны «Большой семерки»	ORG	ORG-Group-of-Seven-G7
+украинского	украинский	LOC	GPE-Ukraine

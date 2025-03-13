@@ -1,0 +1,59 @@
+ru-142
+"Северный поток — 2"	"Северный поток — 2"	PRO	PRO-Nord-Stream-2
+CNN	CNN	PRO	PRO-CNN
+Fox News	Fox News	PRO	PRO-Fox-News
+NYP	NYP	PRO	PRO-New-York-Post
+New York Post	New York Post	PRO	PRO-New-York-Post
+«Политика Сегодня»	«Политика Сегодня»	PRO	PRO-Politics-Today
+Америка	Америка	LOC	GPE-USA
+Американская	Американский	LOC	GPE-USA
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Блохин	Блохин	PER	PER-Konstantin-Blohin
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Госдуму	Госдума	ORG	ORG-Russia-The-State-Duma
+Дженнифер Псаки	Дженнифер Псаки	PER	PER-Jen-Psaki
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+Дмитрий Медведев	Дмитрий Медведев	PER	PER-Dmitry-Medvedev
+Договора о стратегических наступательных вооружениях	Договор о стратегических наступательных вооружениях	PRO	PRO-Strategic-Arms-Reduction-Treaty
+Договора по дальнейшему сокращению и ограничению стратегических наступательных вооружений	Договор о стратегических наступательных вооружениях	PRO	PRO-Strategic-Arms-Reduction-Treaty
+Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+Константин Блохин	Константин Блохин	PER	PER-Konstantin-Blohin
+Кремле	Кремль	ORG	ORG-Kremlin
+Кремля	Кремль	ORG	ORG-Kremlin
+МИД	МИД	ORG	ORG-Foreign-Office
+Москва	Москва	LOC	GPE-Moscow
+Москве	Москва	LOC	GPE-Moscow
+Москвой	Москва	LOC	GPE-Moscow
+Москвы	Москва	LOC	GPE-Moscow
+Национального управления телекоммуникаций и информации США	Национальное управление телекоммуникаций и информации США	ORG	ORG-National-Telecommunications-and-Information-Administration-USA
+Путин	Путин	PER	PER-Vladimir-Putin
+Путина	Путин	PER	PER-Vladimir-Putin
+Путину	Путин	PER	PER-Vladimir-Putin
+Путиным	Путин	PER	PER-Vladimir-Putin
+РФ	РФ	LOC	GPE-Russia
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+США	США	LOC	GPE-USA
+Сергей Рябков	Сергей Рябов	PER	PER-Sergey-Ryabkov
+Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+Украине	Украина	LOC	GPE-Ukraine
+Украины	Украина	LOC	GPE-Ukraine
+Центра исследований проблем безопасности РАН	Центр исследований проблем безопасности РАН	ORG	ORG-Centre-for-Security-Studies-Russian-Academy-of-Sciences
+американские выборы 2020 года	Американские выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+американских	американский	LOC	GPE-USA
+американцы	американцы	PER	GPE-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+российская	российский	LOC	GPE-Russia
+украинскому	украинский	LOC	GPE-Ukraine

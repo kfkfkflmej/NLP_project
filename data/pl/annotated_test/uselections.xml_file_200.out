@@ -1,0 +1,33 @@
+200
+Arizona	Arizona	LOC	GPE-Arizona
+Biały Dom	Biały Dom	LOC	LOC-White-House
+Biden	Biden	PER	PER-Joe-Biden
+Delaware	Delaware	LOC	GPE-Delaware
+Demokracie	Demokrata	PER	ORG-Democratic-Party-USA
+Demokratom	Demokraci	ORG	ORG-Democratic-Party-USA
+Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Floryda	Floryda	LOC	GPE-Florida
+Georgia	Georgia	LOC	GPE-Georgia-US-state
+Iowa	Iowa	LOC	GPE-Iowa
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Kalifornia	Kalifornia	LOC	GPE-California
+Karolina Południowa	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+Kolegium Elektorskiego	Kolegium Elektorskie	ORG	ORG-United-States-Electoral-College
+Maine	Maine	LOC	GPE-Maine
+Mateusz Obremski	Mateusz Obremski	PER	PER-Mateusz-Obremski
+Michigan	Michigan	LOC	GPE-Michigan
+Nebrasce	Nebraska	LOC	GPE-Nebraska
+Nowy Jork	Nowy Jork	LOC	GPE-New-York
+Ohio	Ohio	LOC	GPE-Ohio
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+Republikanom	Republikanie	ORG	ORG-Republican-Party-USA
+Teksas	Teksas	LOC	GPE-Texas
+Trump	Trump	PER	PER-Donald-Trump
+USA	USA	LOC	GPE-USA
+Waszyngtonu	Waszyngton	LOC	GPE-WashingtonDC
+Wilmington	Wilmington	LOC	GPE-Wilmington
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+koronawirusa	koronawirus	EVT	EVT-Covid-19

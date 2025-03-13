@@ -1,0 +1,22 @@
+61
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+COVID	COVID	EVT	EVT-Covid-19
+CureVac	CureVac	ORG	ORG-CureVac
+Emmanuelle Charpentier	Emmanuelle Charpentier	PER	PER-Emmanuelle-Charpentier
+Episkopat	Episkopat	ORG	ORG-Polish-Bishops-Conference
+Europie	Europa	LOC	LOC-Europe
+Funduszu Odszkodowawczego	Fundusz Odszkodowawczy	PRO	ORG-Fundusz-Odszkodowawczy
+Jennifer Doudna	Jennifer Doudna	PER	PER-Jennifer-Doudna
+Kościół	Kościół	ORG	ORG-Catholic-Church
+Moderna	Moderna	ORG	ORG-Moderna
+Moderny	Moderna	ORG	ORG-Moderna
+Nagroda Nobla	Nagroda Nobla	EVT	EVT-Nobel-Prize
+Pfizer-BioNTech	Pfizer-BioNTech	ORG	ORG-Pfizer-BioNTech
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Pfizerem	Pfizer	ORG	ORG-Pfizer
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Watykańska Kongregacja Nauki	Watykańska Kongregacja Nauki	ORG	ORG-Congregation-for-the-Doctrine-of-the Faith-Vatican
+koronawirusa	koronawirus	EVT	EVT-Covid-19
+koronawirusem	koronawirus	EVT	EVT-Covid-19

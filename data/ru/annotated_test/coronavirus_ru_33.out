@@ -1,0 +1,39 @@
+ru-33
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Deutscher Ethikrat	Deutscher Ethikrat	ORG	ORG-VDMA-Verband-Deutscher-Maschinen-und-Anla
+Frankfurter Allgemeine Sonntagszeitung	Frankfurter Allgemeine Sonntagszeitung	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+Fred Zepp	Fred Zepp	PER	PER-Fred-Zepp
+Jens Spahn	Jens Spahn	PER	PER-Jens-Spahn
+Karl Lauterbach	Karl Lauterbach	PER	PER-Karl-Lauterbach
+Martin Terhardt	Martin Terhardt	PER	PER-Martin-Terhardt
+RKI	RKI	ORG	ORG-Robert-Koch-Institute
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Schott	Schott	ORG	ORG-Schott
+Stiko	Stiko	ORG	ORG-Permanent-Commission-for-Vaccination-in-Germany
+Thomas Mertens	Thomas Mertens	PER	PER-Thomas-Mertens
+ZDF Morgenmagazin	ZDF Morgenmagazin	PRO	PRO-ZDF-Morgenmagazin
+Берлине	Берлин	LOC	GPE-Berlin
+Германии	Германия	LOC	GPE-Germany
+Германия	Германия	LOC	GPE-Germany
+Европейском Союзе	Европейский Союз	ORG	ORG-European-Union
+Института вирусологии клиники Ульмского университета	Институт вирусологии клиники Ульмского университета	ORG	ORG-Institute-of-Virology-of-the-Ulm-University-Clinic
+Институте имени Роберта Коха	Институт имени Роберта Коха	ORG	ORG-Robert-Koch-Institute
+Йенс Шпан	Йенс Шпан	PER	PER-Jens-Spahn
+Йенса Шпана	Йенс Шпан	PER	PER-Jens-Spahn
+Карл Лаутербах	Карл Лаутербах	PER	PER-Karl-Lauterbach
+Майнцского университета	Майнцский университет	ORG	ORG-University-of-Mainz
+Мартин Терхардт	Мартин Терхардт	PER	PER-Martin-Terhardt
+Национальной академией наук Leopoldina	Национальная академия наук Leopoldina	ORG	ORG-National-Academy-of-Sciences-Leopoldina
+Немецкая	Немецкая	PER	GPE-Germany
+Немецким советом по этике	Немецкий совет по этике	ORG	ORG-German-ethics-Council
+Постоянную комиссию по вакцинации	Постоянная комиссия по вакцинации	ORG	ORG-Permanent-Commission-for-Vaccination-in-Germany
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Северной Америке	Северная Америка	LOC	LOC-North-America
+Томас Мертенс	Томас Мертенс	PER	PER-Thomas-Mertens
+ФРГ	ФРГ	LOC	GPE-Germany
+Фред Цепп	Фред Цепп	PER	PER-Fred-Zepp
+берлинском	берлинский	PER	GPE-Berlin
+ковидом	ковид	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+немецкие	немецкие	PER	GPE-Germany

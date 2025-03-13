@@ -1,0 +1,9 @@
+uk-10300
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+COVID	COVID	EVT	EVT-Covid-19
+EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Європейська агенція лікарських засобів	Європейська агенція лікарських засобів	ORG	ORG-EMA-European-Medicines-Agency
+Європейське агентство з лікарських засобів	Європейське агентство з лікарських засобів	ORG	ORG-EMA-European-Medicines-Agency

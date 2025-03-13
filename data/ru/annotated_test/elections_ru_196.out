@@ -1,0 +1,68 @@
+ru-196
+New York Times	New York Times	PRO	PRO-New-York-Times
+Obamacare	Obamacare	PRO	PRO-Obamacare
+SSRS	SSRS	ORG	ORG-SSRS
+Акт о защите гражданских прав	Акт о защите гражданских прав	PRO	PRO-US-The-Civil-Rights-Act
+Алина Полякова	Алина Полякова	PER	PER-Alina-Polyakova
+Алины Поляковой	Алина Полякова	PER	PER-Alina-Polyakova
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Би-би-си	Би-би-си	ORG	ORG-BBC-Ltd
+Билла Клинтона	Бил Клинтон	PER	PER-Bill-Clinton
+Брукингского института	Брукингский институт	ORG	ORG-Brookings-Institute
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Демократы	демократ	ORG	ORG-Democratic-Party-USA
+Джеффа Сешнса	Джефф Сешнс	PER	PER-Jeff-Sessions
+Джорджа Буша-младшего	Джордж Буш-младший	PER	PER-George-Bush-Jr
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Кремлем	Кремль	ORG	ORG-Kremlin
+Мексикой	Мексика	LOC	GPE-Mexico
+Наталка Писня	Наталка Писня	PER	PER-Natalka-Pisnya
+Нэнси Пэлоси	Нэнси Пэлоси	PER	PER-Nancy-Pelosi
+ООН	ООН	ORG	ORG-United-Nations
+Палате	Палата	ORG	ORG-United-States-House-of-Representatives
+Промежуточные выборы в США	Промежуточные выборы в США	EVT	EVT-2018-United-States-Election
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Ричарда Вайца	Ричард Вайц	PER	PER-Richard-Weitz
+Роберта Мюллера	Роберт Мюллер	PER	PER-Robert-Mueller
+Рода Розенстайна	Род Розенстайн	PER	PER-Rod-Rosenstein
+России	Россия	LOC	GPE-Russia
+Русская служба Би-би-си	Русская служба Би-би-си	ORG	ORG-BBC-News-Russian
+США	США	LOC	GPE-USA
+Сенате	Сенат	ORG	ORG-United-States-Senate
+Сергей Горяшко	Сергей Горяшко	PER	PER-Sergey-Goryashko
+Си-эн-эн	Си-эн-эн	ORG	ORG-SNN
+Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+администрации	администрация	ORG	ORG-US-Executive-Office-of-the-President
+американская	американский	LOC	GPE-USA
+американское	американский	LOC	GPE-USA
+выборов-2018	выборы-2018	EVT	EVT-2018-United-States-Election
+выборы 2016 года	выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+демократических	демократический	ORG	ORG-Democratic-Party-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократы	демократ	ORG	ORG-Democratic-Party-USA
+законодательного собрания	законодательное собрание	ORG	ORG-United-States-State-Legislature
+иракской военной кампании	иракская военная кампания	EVT	EVT-Iraqi-Military-Campaign
+конгресса	конгресс	ORG	ORG-United-States-Congress
+конституцией США	конституция США	PRO	PRO-The-USA-Constitution
+палате представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+палатой представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+палаты представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+парламента	парламент	ORG	ORG-British-Parlament
+президентской гонке-2020	президентская гонка-2020	EVT	EVT-2020-United-States-Presidential-Election
+республиканские	республиканский	ORG	ORG-Republican-Party-USA
+республиканских	республиканский	ORG	ORG-Republican-Party-USA
+республиканцам	республиканец	ORG	ORG-Republican-Party-USA
+республиканцами	республиканец	ORG	ORG-Republican-Party-USA
+республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+российского	российский	LOC	GPE-Russia
+российское	российский	LOC	GPE-Russia
+урагана Катрина	ураган Катрина	EVT	EVT-Hurricane-Katrina
+центра военного и политического анализа Института Хадсона	центр военного и политического анализа Института Хадсона	ORG	ORG-Hudson Institute-Centre-for-Military-and-Political-Analysis

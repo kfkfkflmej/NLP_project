@@ -1,0 +1,14 @@
+250
+Amerykanów	Amerykanie	PER	GPE-USA
+Biden	Biden	PER	PER-Joe-Biden
+BioNTech	BioNTech	ORG	ORG-BioNTech
+FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Moderny	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+USA	USA	LOC	GPE-USA
+Uniwersytet Johnsa Hopkinsa	Uniwersytet Johnsa Hopkinsa	ORG	ORG-Johns-Hopkins-University
+koronawirusa	koronawirus	EVT	EVT-Covid-19
+koronawirusem	koronawirus	EVT	EVT-Covid-19

@@ -1,0 +1,14 @@
+uk-10159
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+COVID-19	COVID-19	EVT	EVT-Covid-19
+COVID	COVID	EVT	EVT-Covid-19
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Корреспондент.net	Корреспондент.net	PRO	PRO-Korrespondent-net
+Мадсен	Мадсен	PER	PER-Steinar-Madsen
+Норвегія	Норвегія	LOC	GPE-Norway
+Норвегії	Норвегія	LOC	GPE-Norway
+Норвезьке агентство з лікарських препаратів	Норвезьке агентство з лікарських препаратів	ORG	ORG-Norwegian-Medicines-Agency
+Стейнар Мадсен	Стейнар Мадсен	PER	PER-Steinar-Madsen
+Стейнара Мадсена	Стейнар Мадсен	PER	PER-Steinar-Madsen

@@ -1,0 +1,44 @@
+uk-20040
+Fox News	Fox News	PRO	PRO-Fox-News
+Reuters	Reuters	ORG	ORG-Reuters
+Sputnik	Sputnik	PRO	PRO-Sputnik-V
+Аризона	Аризона	LOC	GPE-Arizona
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Білий дім	Білий дім	ORG	ORG-White-House
+Білого дому	Білий дім	ORG	ORG-White-House
+Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+Вибори в США	Вибори в США	EVT	EVT-2020-United-States-Presidential-Election
+Володимир Зеленський	Володимир Зеленський	PER	PER-Volodymyr-Zelensky
+Вілмінгтон	Вілмінгтон	LOC	GPE-Wilmington
+Віргінія	Віргінія	LOC	GPE-Virginia
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джуліані	Джуліані	PER	PER-Rudolph-Giuliani
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+Кеті Хоббс	Кеті Хоббс	PER	PER-Katie-Hobbs
+Колегії вибірників	Колегія вибірників	ORG	ORG-United-States-Electoral-College
+Конгресу	Конгрес	ORG	ORG-United-States-Congress
+Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+Піттсбурзі	Піттсбург	LOC	GPE-Pittsburgh
+Республіканська партія	Республіканська партія	ORG	ORG-Republican-Party-USA
+Рудольф Джуліані	Рудольф Джуліані	PER	PER-Rudolph-Giuliani
+Річард Блек	Річард Блек	PER	PER-Richard-Black
+США	США	LOC	GPE-USA
+Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+України	Україна	LOC	GPE-Ukraine
+Філадельфії	Філадельфія	LOC	GPE-Philadelphia
+Хілларі Клінтон	Хілларі Клінтон	PER	PER-Hillary-Clinton
+виборами	вибори	EVT	EVT-2020-United-States-Presidential-Election
+виборах президента США	вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+колегії вибірників	колегія вибірників	ORG	ORG-United-States-Electoral-College
+пандемію	пандемія	EVT	EVT-Covid-19
+президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration

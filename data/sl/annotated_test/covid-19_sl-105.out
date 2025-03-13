@@ -1,0 +1,34 @@
+sl-105
+Amazon	Amazon	ORG	ORG-Amazon
+Ameriški center za nadzor nad boleznimi	Ameriški center za nadzor nad boleznimi	ORG	ORG-Centers-for-Disease-Control
+Belgija	Belgija	LOC	GPE-Belgium
+CDC	CDC	ORG	ORG-Centers-for-Disease-Control
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+FedEx	FedEx	ORG	ORG-FedEx
+Instacart	Instacart	ORG	ORG-Instacart
+Italija	Italija	LOC	GPE-Italy
+Mike Pence	Mike Pence	PER	PER-Mike-Pence
+New York	New York	LOC	GPE-New-York
+Pence	Pence	PER	PER-Mike-Pence
+Penceu	Pence	PER	PER-Mike-Pence
+Target	Target	ORG	ORG-Target
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+Trumpov	Trump	PER	PER-Donald-Trump
+Trumpove	Trump	PER	PER-Donald-Trump
+Univerza Washington	Univerza Washington	ORG	ORG-Washington-University-in-St.-Louis
+Walmart	Walmart	ORG	ORG-Walmart
+Whole Foods	Whole Foods	ORG	ORG-Whole-Foods
+ZDA	ZDA	LOC	GPE-USA
+covid-19	covid-19	EVT	EVT-Covid-19
+klinike Mayo v Minnesoti	klinika Mayo v Minnesoti	LOC	LOC-Mayo-Clinic-Minnesota
+koronavirus	koronavirus	EVT	EVT-Covid-19
+koronavirusa	koronavirus	EVT	EVT-Covid-19
+koronavirusno boleznijo 19	koronavirusna bolezen 19	EVT	EVT-Covid-19
+koronavirusom	koronavirus	EVT	EVT-Covid-19
+koronavirusu	koronavirus	EVT	EVT-Covid-19
+vietnamska vojna	vietnamska vojna	EVT	EVT-Vietnam-War
+vietnamski vojni	vietnamska vojna	EVT	EVT-Vietnam-War
+Španija	Španija	LOC	GPE-Spain
+Švica	Švica	LOC	GPE-Switzerland

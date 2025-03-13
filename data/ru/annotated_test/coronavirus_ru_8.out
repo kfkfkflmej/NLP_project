@@ -1,0 +1,20 @@
+ru-8
+111-й поликлинике Приморского района	Городская поликлиника № 111 для взрослых	LOC	GPE-City-polyclinic-No.111-for-adults
+111-й поликлинике	Городская поликлиника № 111 для взрослых	LOC	GPE-City-polyclinic-No.111-for-adults
+COVID-19	COVID-19	EVT	EVT-Covid-19
+NTV.RU	NTV	PRO	PRO-NTV
+Гам-Ковид-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+Мария Сапожникова	Мария Сапожникова	PER	PER-Maria-Sapozhnikova
+НТВ-Петербург	НТВ-Петербург	PRO	PRO-NTV
+НТВ	НТВ	PRO	PRO-NTV
+Олег Аронович	Олег Аронович	PER	PER-Oleg-Aronovich
+Олегу Мееровичу	Олег Аронович	PER	PER-Oleg-Aronovich
+Петербурге	Санкт-Петербург	LOC	GPE-Saint-Petersburg
+Роскомнадзор	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+Союз журналистов России	Союз журналистов России	ORG	ORG-Russian-Union-Of-Journalists
+Спутник V	Спутник V	PRO	PRO-Sputnik-V
+Телекомпания НТВ	НТВ	PRO	PRO-NTV
+Федеральной службе по надзору в сфере связи, информационных технологий и массовых коммуникаций	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаций	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+госуслуг	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+коронавируса	Коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19

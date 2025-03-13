@@ -1,0 +1,14 @@
+ru-87
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+RKI	RKI	ORG	ORG-Robert-Koch-Institute
+ЕС	ЕС	ORG	ORG-European-Union
+Института имени Роберта Коха	Институт имени Роберта Коха	ORG	ORG-Robert-Koch-Institute
+Федеральном центре санитарного просвещения Германии	Федеральный центр санитарного просвещения Германии	ORG	ORG-Federal-Centre-for-Health-Education-Germany
+ковид	ковид	EVT	EVT-Covid-19
+ковида	ковид	EVT	EVT-Covid-19
+ковидом	ковид	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19

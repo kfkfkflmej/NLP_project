@@ -1,0 +1,95 @@
+ru-137
+CNN	CNN	PRO	PRO-CNN
+Getty Images	Getty Images	PRO	PRO-Getty-Images
+NYT	NYT	PRO	PRO-The-New-York-Times
+New York Times	New York Times	PRO	PRO-The-New-York-Times
+Youtube	Youtube	PRO	PRO-YouTube
+Америка	Америка	LOC	GPE-USA
+Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+Антониу Гутерриш	нтониу Гутерриш	PER	PER-Antonio-Guterres
+Аризона	Аризона	LOC	GPE-Arizona
+Аризоне	Аризона	LOC	GPE-Arizona
+Аризоной	Аризона	LOC	GPE-Arizona
+Аризону	Аризона	LOC	GPE-Arizona
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Билла Клинтона	Билл Клинтон	PER	PER-Bill-Clinton
+Биньямин Нетаньяху	Биньямин Нетаньяху	PER	PER-Benjamin-Netanyahu
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Германии	Германия	LOC	GPE-Germany
+Гринвичу	Гринвич	LOC	GPE-Greenwich
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джорджией	Джорджия	LOC	GPE-Georgia-US-state
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Джош Хоули	Джош Хоули	PER	PER-Josh-Hawley
+Джоша Хоули	Джош Хоули	PER	PER-Josh-Hawley
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+Дэна Скавино	Дэн Скавино	PER	PER-Dan-Scavino
+Израиля	Израиль	LOC	GPE-Israel
+Инстаграм	Инстаграм	PRO	PRO-Instagram
+Капитолии	Капитолий	LOC	LOC-Capitol-Hill
+Капитолий	Капитолий	LOC	LOC-United-States-Capitol
+Капитолийского холма	Капитолийский холм	LOC	LOC-Capitol-Hill
+Капитолийском холме	Капитолийский холм	LOC	LOC-Capitol-Hill
+Капитолию	Капитолий	LOC	LOC-United-States-Capitol
+Капитолия	Капитолий	LOC	LOC-Capitol-Hill
+Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+Китай	Китай	LOC	GPE-China
+Клинтон	Клинтон	PER	PER-Hillary-Clinton
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+Марко Рубио	Марко Рубио	PER	PER-Marco-Rubio
+Митт Ромни	Митт Ромни	PER	PER-Mitt-Romney
+Мичиганом	Мичиган	LOC	GPE-Michigan
+Мюриэл Баузер	Мюриэл Баузер	PER	PER-Muriel-Bowser
+Невадой	Невада	LOC	GPE-Nevada
+ООН	ООН	ORG	ORG-United-Nations
+Обама	Обама	PER	PER-Barack-Obama
+Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Пенс	Пенс	PER	PER-Mike-Pence
+Пенсильванией	Пенсильвания	LOC	GPE-Pennsylvania
+Путин	Путин	PER	PER-Vladimir-Putin
+Пэтом Чиполлоне	Пэт Чиполлоне	PER	PER-Pat-Cipollone
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Роберт Конти	Роберт Конти	PER	PER-Robert-Conti
+Ромни	Ромни	PER	PER-Mitt-Romney
+Россия	Россия	LOC	GPE-Russia
+Рубио	Рубио	PER	PER-Marco-Rubio
+США	США	LOC	GPE-USA
+Сан-Диего	Сан-Диего	LOC	GPE-San-Diego
+Сената	Сенат	ORG	ORG-United-States-Senate
+Стивеном Мнучиным	Стивен Мнучин	PER	PER-Steven-Mnuchin
+Твиттере	Твиттер	PRO	PRO-Twitter
+Твиттером	Твиттер	PRO	PRO-Twitter
+Тед Круз	Тед Круз	PER	PER-Ted-Cruz
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Фейсбуком	Фейсбук	PRO	PRO-Facebook
+Флориды	Флорида	LOC	GPE-Florida
+Хоули	Хоули	PER	PER-Josh-Hawley
+Штурм Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol
+американского	американский	LOC	GPE-USA
+американской	американская	LOC	GPE-USA
+демократ	демократ	ORG	ORG-Democratic-Party-USA
+демократы	демократ	ORG	ORG-Democratic-Party-USA
+округа Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia
+президентских выборов 2020 года	президентские выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+республиканец	республиканец	ORG	ORG-Republican-Party-USA
+республиканца	республиканец	ORG	ORG-Republican-Party-USA
+республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA	
+сенат	сенат	ORG	ORG-United-States-Senate
+штурма Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol
+штурмом Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol

@@ -1,0 +1,22 @@
+46
+AP	AP	ORG	ORG-AP-The-Associated-Press
+Bidena	Biden	PER	PER-Joe-Biden
+CNN	CNN	PRO	PRO-CNN
+Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Florydzie	Floryda	LOC	GPE-Florida
+Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+Miami	Miami	LOC	GPE-Miami
+Ohio	Ohio	LOC	GPE-Ohio
+Orlando	Orlando	LOC	GPE-Orlando
+Trumpa	Trump	PER	PER-Donald-Trump
+Vermoncie	Vermont	LOC	GPE-Vermont
+Wirginia Zachodnia	Wirginia Zachodnia	LOC	GPE-West-Virginia
+Wirginii Zachodniej	Wirginia Zachodnia	LOC	GPE-West-Virginia
+amerykańskich wyborów prezydenckich	amerykańskie wybory prezydenckie	EVT	EVT-2020-United-States-Presidential-Election
+demokratów	demokraci	ORG	ORG-Democratic-Party-USA
+republikanie	republikanie	ORG	ORG-Republican-Party-USA
+republikanów	republikanie	ORG	ORG-Republican-Party-USA

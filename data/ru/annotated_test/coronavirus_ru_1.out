@@ -1,0 +1,45 @@
+ru-1
+AZD1222	AZD1222	PRO	PRO-AZD1222-vaccine
+CanSino Biological Inc	CanSino Biological Inc	ORG	ORG-Cansino-Biologics
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Covid	Covid	EVT	EVT-Covid-19
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+«Вектор»	"Вектор"	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+«КарелИнформ»	КарелИнформ	PRO	PRO-KarelInform
+«ПремьерМедиаИнвест»	ПремьерМедиаИнвест	PRO	PRO-PremierMediaInvest
+«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+«Спутника V»	Спутник V	PRO	PRO-Sputnik-V
+«Спутником V»	Спутник V	PRO	PRO-Sputnik-V
+«Трис»	«Трис»	PRO	PRO-Tris
+«ЭпиВакКорона»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+Артура Парфенчкова	Артур Парфенчков	PER	PER-ArthurParfenchkov
+Гам-Ковид-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+Карелии	Карелия	LOC	GPE-Karelia
+Карелию	Карелия	LOC	GPE-Karelia
+Катерина	Катерина	PER	PER-Katerina
+Лузина О.А.	Ольга Лузина	PER	PER-Olga-Luzina
+Минздрава Карелии	Минздрав Карелии	ORG	ORG-Ministry-of-Healthcare-Karelia
+Минздрава России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+Минздраве	Минздрав	ORG	ORG-Ministry-of-Healthcare-Karelia
+Москва	Москва	LOC	GPE-Moscow
+Москве	Москва	LOC	GPE-Moscow
+Наталья Везикова	Наталья Везикова	PER	PER-NataliaVezikova
+Национального исследовательского центра эпидемиологии и микробиологии имени Н. Ф. Гамалеи	Национальный исследовательский центр эпидемиологии и микробиологии имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+ОРВИ	ОРВИ	EVT	EVT-ORVI
+Оксфордского университета	Оксфордский университет	ORG	ORG-University-of-Oxford
+Петрозаводске	Петрозаводск	LOC	GPE-Petrozavodsk
+России	Россия	LOC	GPE-Russia
+аденовируса	аденовирус	EVT	EVT-Adenovirus
+аденовирусный	аденовирусный	EVT	EVT-Adenovirus
+госуслуг	госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+ковид	ковид	EVT	EVT-Covid-19
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусной	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+коронавирусу	коронавирус	EVT	EVT-Covid-19
+научного центра исследований и разработки иммунобиологических препаратов имени М. П. Чумакова РАН	научный центр исследований и разработки иммунобиологических препаратов имени М. П. Чумакова РАН	ORG	ORG-Chumakov-Scientific-Center-Russia
+переулок Нижний Сусальный	переулок Нижний Сусальный	LOC	GPE-NizhnySusalny
+правительство РФ	правительство РФ	ORG	ORG-The-Government-of-Russia
+россиян	россияне	PER	GPE-Russia
+россияне	россияне	PER	GPE-Russia

@@ -1,0 +1,25 @@
+sl-4
+Američane	Američani	PER	GPE-USA
+Američani	Američani	PER	GPE-USA
+Bela hiša	Bela hiša	LOC	LOC-White-House
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+Gilead	Gilead	ORG	ORG-Gilead-Sciences
+Henry Ji	Henry Ji	PER	PER-Henry-Ji
+Moderna	Moderna	ORG	ORG-Moderna
+Moncef Slaoui	Moncef Slaoui	PER	PER-Moncef-Mohamed-Slaoui
+Mount Sinai Health System	Mount Sinai Health System	ORG	ORG-The-Mount-Sinai-Health-System
+New York	New York	LOC	GPE-New-York
+Remdesevir	Remdesevir	PRO	PRO-Remdesivir-(Veklury)
+STI-1499	STI-1499	PRO	PRO-antibody-STI-1499
+San Diega	San Diego	LOC	GPE-San-Diego
+San Diegu	San Diego	LOC	GPE-San-Diego
+Sorrento Therapeutics	Sorrento Therapeutics	ORG	ORG-Sorrento-Therapeutics
+ZDA	ZDA	LOC	GPE-USA
+covid 19	covid 19	EVT	EVT-Covid-19
+covidom-19	covid-19	EVT	EVT-Covid-19
+covidu 19	covidu 19	EVT	EVT-Covid-19
+druge svetovne vojne	druga svetovna vojna	EVT	EVT-World-War-II
+novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+operacije Warp Speed	operacije Warp Speed	ORG	ORG-Operation-Warp-Speed-(OWS)
+projekta Manhattan	projekta Manhattan	ORG	ORG-The-Manhattan-Project

@@ -1,0 +1,45 @@
+sl-17
+AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+Američanov	Američani	PER	GPE-USA
+Ameriškem uradu za hrano in zdravila	Ameriški urad za hrano in zdravila	ORG	ORG-FDA-Food-and-Drug-Administration
+Amsterdamu	Amsterdam	LOC	GPE-Amsterdam
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+Bele hiše	Bela hiša	LOC	LOC-White-House
+BioNTech	BioNTech	ORG	ORG-BioNTech
+BioNTecha	BioNTech	ORG	ORG-BioNTech
+Britancem	Britanec	PER	GPE-Great-Britain
+Britanska agencija za zdravila in medicinske izdelke	Britanska agencija za zdravila in medicinske izdelke	ORG	ORG-Medicines-and-Healthcare-products-Regulatory-Agency
+EU	EU	ORG	ORG-European-Union
+Ema	Ema	ORG	ORG-EMA-European-Medicines-Agency
+EpiVacCorona	EpiVacCorona	PRO	PRO-EpiVacCorona
+Evrope	Evropa	LOC	LOC-Europe
+Evropska agencija za zdravila	Evropska agencija za zdravila	ORG	ORG-EMA-European-Medicines-Agency
+Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+Evropska unija	Evropska unija	ORG	ORG-European-Union
+FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+Hancock	Hancock	PER	PER-Matthew-Hancock
+June Raine	June Raine	PER	PER-June-Raine
+Kitajskem	Kitajska	LOC	GPE-China
+MHRA	MHRA	ORG	ORG-Medicines-and-Healthcare-products-Regulatory-Agency
+Matt Hancock	Matt Hancock	PER	PER-Matthew-Hancock
+Moderna	Moderna	ORG	ORG-Moderna
+Modernino	Moderna	ORG	ORG-Moderna
+Moncef Slaoui	Moncef Slaoui	PER	PER-Moncef-Mohamed-Slaoui
+Otoku	otok	LOC	GPE-Great-Britain
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Pfizerja	Pfizer	ORG	ORG-Pfizer
+Rusiji	Rusija	LOC	GPE-Russia
+Sinopharm	Sinopharm	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm
+Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+Slaoui	Slaoui	PER	PER-Moncef-Mohamed-Slaoui
+Slovenijo	Slovenija	LOC	GPE-Slovenia
+Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+Wang Tao	Wang Tao	PER	PER-Wang-Tao
+ZDA	ZDA	LOC	GPE-USA
+Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+brexita	brexit	EVT	EVT-Brexit
+covida-19	covid-19	EVT	EVT-Covid-19
+covidu-19	covid-19	EVT	EVT-Covid-19
+koronavirusni bolezni 19	koronavirusna bolezen 19	EVT	EVT-Covid-19
+oxfordska univerza	oxfordska univerza	ORG	ORG-University-of-Oxford

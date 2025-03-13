@@ -1,0 +1,155 @@
+ru-84
+CNN	CNN	PRO	PRO-CNN
+FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
+Medicaid	Medicaid	PRO	PRO-Medicaid
+NASA	NASA	ORG	ORG-National-aeronautics-and-space-administration-NASA
+NBC News	NBC News	PRO	PRO-NBC-News
+Obamacare	Obamacare	PRO	PRO-Obamacare
+Quinnipiac	Quinnipiac	PRO	PRO-Quinnipiac-Today
+Reuters	Reuters	PRO	ORG-Reuters
+The Washington Post	The Washington Post	PRO	PRO-Washington-Post
+The Washington Post	The Washington Post	PRO	PRO-Washington-Post
+Азиатско-Тихоокеанского региона	Азиатско-Тихоокеанский регион	LOC	LOC-Asia-Pacific-Region
+Айовы	Айова	LOC	GPE-Iowa
+Американские	Американские	LOC	GPE-USA
+Американского	Американский	LOC	GPE-USA
+Америке	Америка	LOC	GPE-USA
+Америку	Америка	LOC	GPE-USA
+Аризона	Аризона	LOC	GPE-Arizona
+Аризоны	Аризона	LOC	GPE-Arizona
+Афганистане	Афганистан	LOC	GPE-Afghanistan
+Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+Бето О’Рурк	Бето О’Рурк	PER	PER-Beto-O'Rourke
+Билл Нельсон	Билл Нельсон	PER	PER-Clarens-William-'Bill'-Nelson-II
+Билла Клинтона	Бил Клинтон	PER	PER-Bill-Clinton
+Ближнем Востоке	Ближний Восток	LOC	LOC-Near-East
+Вирджинии	Вирджиния	LOC	GPE-Virginia
+Гарри Трумена	Гарри Трумен	PER	PER-Harry-S.-Truman
+Данкана Хантера	Данкан Хантер	PER	PER-Duncan-Hunter
+Демократам	Демократы	ORG	ORG-Democratic-Party-USA
+Демократическая партия	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Демократы	Демократы	ORG	ORG-Democratic-Party-USA
+Демократы	демократы	ORG	ORG-Democratic-Party-USA
+Джорджа Буша-младшего	Джордж Буш-младший	PER	PER-George-Bush-Jr
+Договора о ракетах средней и малой дальности 1987	Договор о ракетах средней и малой дальности 1987	PRO	PRO-INF-Intermediate-Range-Nuclear-Forces-Treaty
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Донбасса	Донбасс	LOC	LOC-Donbass
+Дэвида Леонхардта	Дэвид Леонхардт	PER	PER-David-Leonhardt
+ЕС	ЕС	ORG	ORG-European-Union
+Евросоюза	Евросоюз	ORG	ORG-European-Union
+Евросоюзом	Евросоюз	ORG	ORG-European-Union
+Западная Вирджиния	Западная Вирджиния	LOC	GPE-West-Virginia
+Израилем	Израиль	LOC	GPE-Israel
+Ираке	Ирак	LOC	GPE-Iraq
+Ирана	Иран	LOC	GPE-Iran
+Ирану	Иран	LOC	GPE-Iran
+Канзаса	Канзас	LOC	GPE-Kansas
+Киев	Киев	LOC	GPE-Kiev
+Китаем	Китай	LOC	GPE-China
+Китая	Китай	LOC	GPE-China
+Клинтон	Клинтон	PER	PER-Hillary-Clinton
+Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Кремль	Кремль	ORG	ORG-Kremlin
+Криса Коллинса	Крис Коллинс	PER	PER-Chris-Collins
+Круз	Круз	PER	PER-Ted-Cruz
+Круза	Круз	PER	PER-Ted-Cruz
+Крым	Крым	LOC	GPE-Crimea
+Линдона Джонсона	Линдон Джонсон	PER	PER-Lyndon-Johnson
+Марта Максалли	Марта Максалли	PER	PER-Martha-McSally
+Мексики	Мексика	LOC	GPE-Mexico
+Мексикой	Мексика	LOC	GPE-Mexico
+Миннесоты	Миннесота	LOC	GPE-Minnesota
+Мюллера	Мюллер	PER	PER-Jens-Muller
+Невада	Невада	LOC	GPE-Nevada
+Ненси Пелоси	Ненси Пелоси	PER	PER-Nancy-Pelosi
+Нью-Джерси	Нью-Джерси	LOC	GPE-New-Jersey
+Нью-Мексико	Нью-Мексико	LOC	GPE-New-Mexico
+ООН	ООН	ORG	ORG-United-Nations
+Обамы	Обама	PER	PER-Barack-Obama
+Оджеда	Оджеда	PER	PER-Richard-Ojeda
+О’Рурк	О’Рурк	PER	PER-Beto-O'Rourke
+Палате представителей США	Палата представителей США	ORG	ORG-United-States-House-of-Representatives
+Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Палату представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Путина	Путин	PER	PER-Vladimir-Putin
+РФ	РФ	LOC	GPE-Russia
+Республиканского национального комитета	Республиканский национальный комитет	ORG	ORG-Republican-National-Committee
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Республиканцы	Республиканцы	ORG	ORG-Republican-Party-USA
+Рик Скотт	Рик Скотт	PER	PER-Rick-Scott
+Рика Скотта	Рик Скотт	PER	PER-Rick-Scott
+Ричард Оджеда	Ричард Оджеда	PER	PER-Richard-Ojeda
+Рональда Рейгана	Рональд Рейган	PER	PER-Ronald-Reagan
+России	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Сената США	Сенат США	ORG	ORG-United-States-Senate
+Сенате	Сенат	ORG	ORG-United-States-Senate
+Сирии	Сирия	LOC	GPE-Syria
+Скотт	Скотт	PER	PER-Rick-Scott
+Совместного всеобъемлющего плана действий с Ираном	Совместный всеобъемлющий план действий с Ираном	PRO	PRO-Joint-Comprehensive-Plan-of-Action
+Тед Круз	Тед Круз	PER	PER-Ted-Cruz
+Тедом Крузом	Тед Круз	PER	PER-Ted-Cruz
+Техаса	Техас	LOC	GPE-Texas
+Техасе	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампом	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Транс-Тихоокеанское партнерство	Транс-Тихоокеанское партнерство	PRO	PRO-Trans-Pacific-Partnership
+Трансатлантическое торговое и инвестиционное партнерство	Трансатлантическое торговое и инвестиционное партнерство	PRO	PRO-Transatlantic-Trade-and-Investment-Partnership
+Турции	Турция	LOC	GPE-Turkey
+Украине	Украина	LOC	GPE-Ukraine
+Украину	Украина	LOC	GPE-Ukraine
+Украины	Украина	LOC	GPE-Ukraine
+Флорида	Флорида	LOC	GPE-Florida
+Флориде	Флорида	LOC	GPE-Florida
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+Штатах	Штаты	LOC	GPE-USA
+Штаты	Штаты	LOC	GPE-USA
+администрации президента США	администрация президента США	ORG	ORG-US-Executive-Office-of-the-President
+американские выборы 2016	американские выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+американские	американские	LOC	GPE-USA
+американский	американский	LOC	GPE-USA
+американских	американские	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американскому	американский	LOC	GPE-USA
+американскую	американская	LOC	GPE-USA
+американцев	американцы	PER	GPE-USA
+демократ	демократ	ORG	ORG-Democratic-Party-USA
+демократам	демократы	ORG	ORG-Democratic-Party-USA
+демократическим	демократический	ORG	ORG-Democratic-Party-USA
+демократического	демократический	ORG	ORG-Democratic-Party-USA
+демократическое	демократическое	ORG	ORG-Democratic-Party-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+китайских	китайские	LOC	GPE-China
+латиноамериканского	латиноамериканский	LOC	LOC-Latin-America
+латиноамериканского	латиноамериканское	LOC	LOC-Latin-America
+президентские выборы 2016	президентские выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+президентских выборах 2016	президентские выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+президентских выборов 2016	президентские выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+республиканец	республиканец	ORG	ORG-Republican-Party-USA
+республиканца	республиканец	ORG	ORG-Republican-Party-USA
+республиканцам	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+российские	российские	LOC	GPE-Russia
+российского	российский	LOC	GPE-Russia
+российского	российское	LOC	GPE-Russia
+российской	российская	LOC	GPE-Russia
+украинским	украинские	LOC	GPE-Ukraine
+украинскому	украинский	LOC	GPE-Ukraine
+эрдогановской	эрдогановский	PER	PER-Recep-Erdogan

@@ -1,0 +1,45 @@
+sl-217
+Američanom	Američani	PER	GPE-USA
+Barack Obama	Barack Obama	PER	PER-Barack-Obama
+Bernie Sanders	Bernie Sanders	PER	PER-Bernie-Sanders
+Bidnovo	Biden	PER	PER-Joe-Biden
+CDC	CDC	ORG	ORG-Centers-for-Disease-Control
+Center za nadzor nad boleznimi	Center za nadzor nad boleznimi	ORG	ORG-Centers-for-Disease-Control
+De Joy	De Joy	PER	PER-Louis-DeJoy
+DeJoy	DeJoy	PER	PER-Louis-DeJoy
+DeJoya	DeJoy	PER	PER-Louis-DeJoy
+DeJoyja	DeJoy	PER	PER-Louis-DeJoy
+Demokrati	demokrati	PER	ORG-Democratic-Party-USA
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+FedEx	FedEx	ORG	ORG-FedEx
+Floride	Florida	LOC	GPE-Florida
+Havaji	Havaji	LOC	GPE-Hawaii
+Josephom Bidnom	Joseph Biden	PER	PER-Joe-Biden
+Kalifornija	Kalifornija	LOC	GPE-California
+Kim Frum	Kim Frum	PER	PER-Kim-Frum
+Kolorado	Kolorado	LOC	GPE-Colorado
+Louisa DeJoyja	Louis DeJoyj	PER	PER-Louis-DeJoy
+Mark Meadows	Mark Meadows	PER	PER-Mark-Meadows
+Meadows	Meadows	PER	PER-Mark-Meadows
+Melanio Trump	Melania Trump	PER	PER-Melania-Trump
+Nancy Pelosi	Nancy Pelosi	PER	PER-Nancy-Pelosi
+Nevada	Nevada	LOC	GPE-Nevada
+Obama	Obama	PER	PER-Barack-Obama
+Oregon	Oregon	LOC	GPE-Oregon
+Pensilvanija	Pensilvanija	LOC	GPE-Pennsylvania
+Trump	Trump	PER	PER-Donald-Trump
+Trumpov	Trump	PER	PER-Donald-Trump
+Trumpov	Trumpov	PER	PER-Donald-Trump
+Trumpove	Trump	PER	PER-Donald-Trump
+Trumpovega	Trump	PER	PER-Donald-Trump
+UPS	UPS	ORG	ORG-UPS
+Utah	Utah	LOC	GPE-Utah
+Vermont	Vermont	LOC	GPE-Vermont
+Vermonta	Vermont	LOC	GPE-Vermont
+Washington	Washington	LOC	GPE-WashingtonDC
+Washingtonu	Washington	LOC	GPE-WashingtonDC
+ZDA	ZDA	LOC	GPE-USA
+demokrati	demokrati	PER	ORG-Democratic-Party-USA
+demokratom	demokrati	ORG	ORG-Democratic-Party-USA
+koronavirusa	koronavirus	EVT	EVT-Covid-19
+republikanci	republikanci	PER	ORG-Republican-Party-USA

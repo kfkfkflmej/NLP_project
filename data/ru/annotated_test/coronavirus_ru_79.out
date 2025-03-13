@@ -1,0 +1,27 @@
+ru-79
+COVID-19	COVID-19	EVT	EVT-Covid-19
+COVID‑19	COVID‑19	EVT	EVT-Covid-19
+SARS-CoV-2	SARS-CoV-2	PRO	EVT-Covid-19
+Австралии	Австралия	LOC	GPE-Australia
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+Гам-Ковид-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+Германии	Германия	LOC	GPE-Germany
+КОВИД	Ковид	EVT	EVT-Covid-19
+Китае	Китай	LOC	GPE-China
+Конституции России	Конституция России	PRO	PRO-Russian-Constitution
+Конституции	Конституция	PRO	PRO-Russian-Constitution
+Минздрава РФ	Минздрав РФ	ORG	ORG-Ministry-of-Health-Russia
+Москве	Москва	LOC	GPE-Moscow
+НИЦЭМ им. Н. Ф. Гамалеи	НИЦЭМ им. Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+Национальным центром эпидемиологии и микробиологии имени Н. Ф. Гамалеи	Национальный центр эпидемиологии и микробиологии имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+России	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Спутник V	Спутник V	PRO	PRO-Sputnik-V
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусной	коронавирус	EVT	EVT-Covid-19
+коронавирусу	коронавирус	EVT	EVT-Covid-19
+короновируса	короновирус	EVT	EVT-Covid-19
+россиян	россияне	PER	GPE-Russia

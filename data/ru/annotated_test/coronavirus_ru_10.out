@@ -1,0 +1,28 @@
+ru-10
+космодрома Восточный	космодром Восточный	ORG	ORG-Vostochny-Cosmodrome
+SARS-Cov-2	SARS-Cov-2	EVT	EVT-Covid-19
+«Амурской правды»	Амурская правда	PRO	PRO-Amur-truth
+«Гам-Ковид-Вак»	«Гам-Ковид-Вак»	PRO	PRO-Gam-COVID-Vac
+«Госуслуги»	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+«ЭпиВакКорона»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+«короны»	коронавирус	EVT	EVT-Covid-19
+Амурского газоперерабатывающего завода	Амурский газоперерабатывающий завод	ORG	ORG-Amur-Gas-Processing-Plant
+Амурской области	Амурская область	LOC	GPE-Amur-region
+Коронавирус	коронавирус	EVT	EVT-Covid-19
+МФЦ	МФЦ	ORG	ORG-Multifunctional-center
+Минздравом РФ	Минздрав РФ	ORG	ORG-Ministry-of-Health-Russia
+Приамурье	Приамурье	LOC	GPE-Amur-region
+РФ	РФ	LOC	GPE-Russia
+Российской Федерации	Российская Федерация	LOC	GPE-Russia
+Светлана Леонтьева	Светлана Леонтьева	PER	PER-Svetlana-Leonteva
+Светлана Николаевна	Светлана Леонтьева	PER	PER-Svetlana-Leonteva
+Светланы Леонтьевой	Светлана Леонтьева	PER	PER-Svetlana-Leonteva
+ФБУН «Государственный научный центр вирусологии и биотехнологии «Вектор»	ФБУН «Государственный научный центр вирусологии и биотехнологии «Вектор»	ORG	ORG-Vector
+ФГБУ «НИЦЭМ им. Н.Ф. Гамалеи»	ФГБУ «НИЦЭМ им. Н.Ф. Гамалеи»	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+амурчан	амурчане	PER	GPE-Amur-Region
+ковида	ковид	EVT	EVT-Covid-19
+ковидом	ковид	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусной	коронавирусной	EVT	EVT-Covid-19
+минздрава	Минздрав	ORG	ORG-Ministry-of-Health-Russia

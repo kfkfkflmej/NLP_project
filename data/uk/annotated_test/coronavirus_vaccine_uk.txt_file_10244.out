@@ -1,0 +1,12 @@
+uk-10244
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Pfizer	Pfizer	ORG	ORG-Pfizer
+TA3	TA3	PRO	PRO-TA3-TV-channel-Slovakia
+Державного медичного інституту	Державний медичний інститут	ORG	ORG-National-Institute-of-Public-Health-Czech
+Київ	Київ	LOC	GPE-Kyiv
+Павло Бржезовський	Павло Бржезовський	PER	PER-Pavel-Brezovsky
+Словаччини	Словаччина	LOC	GPE-Slovakia
+Словаччині	Словаччина	LOC	GPE-Slovakia
+України	Україна	LOC	GPE-Ukraine
+пандемії	пандемія	EVT	EVT-Covid-19

@@ -1,0 +1,20 @@
+ru-23
+Brazil P1	Brazil P1	EVT	EVT-Brazil-P1
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Facebook	Facebook	PRO	PRO-Facebook
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Голубовская	Ольга Голубовская	PER	PER-Olga-Golubovskaya
+Львова	Львов	LOC	GPE-Lviv
+Национального медицинского университета имени Богомольца	Национальный медицинский университет имени А. А. Богомольца	LOC	GPE-Bogomolets-National-Medical-University
+Ольга Голубовская	Ольга Голубовская	PER	PER-Olga-Golubovskaya
+Р1	Brazil P1	EVT	EVT-Brazil-P1
+США	США	LOC	GPE-USA
+ТСН.ua	ТСН.ua	PRO	PRO-TSN.ua
+Тарас Жиравецький	Тарас Жиравецький	PER	PER-Taras-Zhyravetskyi
+английские	английские	PER	GPE-Great-Britain
+бразильский	бразильский	PER	GPE-Brazil
+британский	британский	PER	GPE-Great-Britain
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19

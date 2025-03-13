@@ -1,0 +1,34 @@
+ru-38
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Instagram	Instagram	PRO	PRO-Instagram
+WhatsApp	WhatsApp	PRO	PRO-WhatsApp
+Бердск	Бердск	LOC	GPE-Berdsk
+Вектор	Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+Вектора	Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+Вектором	Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+ГНЦ ВБ "Вектор"	ГНЦ ВБ "Вектор"	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+ГНЦ вирусологии и биотехнологии "Вектор"	ГНЦ вирусологии и биотехнологии "Вектор"	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+Гинзбург	Гинзбург	PER	PER-Alan-Ginsburg
+Голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+Константин Хальзов	Константин Хальзов	PER	PER-Konstantin-Khalzov
+Курьер	Курьер	PRO	PRO-Courier-newspaper
+Минздрава России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+НИИ Гамалеи	НИИ Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+Нетёсов	Сергей Нетёсов	PER	PER-Sergey-Netesov
+Новосибирской области	Новосибирская область	LOC	GPE-Novosibirsk
+Новосибирской	Новосибирский	LOC	GPE-Novosibirsk
+Правительства РФ	Правительство РФ	ORG	ORG-The-Government-of-Russia
+Роспотребнадзора	Роспотребнадзор	ORG	ORG-Federal-Service-for-Surveillance-on-Consumer-Rights-Protection-and-Human-Wellbeing
+Сергей Нетёсов	Сергей Нетёсов	PER	PER-Sergey-Netesov
+Сергей Нетёсов	Сергей НетёсовСергей Нетёсов	PER	PER-Sergey-Netesov
+Спутник V	Спутник V	PRO	PRO-Sputnik-V
+Татьяна Голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+Федеральным исследовательским центром имени академика М.П. Чумакова РАН	Федеральный исследовательский центр имени академика М.П. Чумакова РАН	ORG	ORG-Chumakov-Scientific-Center-Russia
+Федеральным исследовательским центром имени академика Н.Ф.Гамалеи	Федеральный исследовательский центр имени академика Н.Ф.Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+ЭпиВакКорона	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+новосибирские	новосибирский	LOC	GPE-Novosibirsk
+новосибирского Государственного научного центра вирусологии и биотехнологии «Вектор»	Новосибирский Государственный научный центр вирусологии и биотехнологии Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+российские	российский	LOC	GPE-Russia

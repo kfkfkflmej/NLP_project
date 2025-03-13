@@ -1,0 +1,19 @@
+uk-10325
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVAX	COVAX	PRO	PRO-Covax-initiative
+Pfizer	Pfizer	ORG	ORG-Pfizer
+ЄС	ЄС	LOC	ORG-European-Union
+Європейському Союзі	Європейський Союз	ORG	ORG-European-Union
+Євросоюз	Євросоюз	ORG	ORG-European-Union
+Євросоюзу	Євросоюз	LOC	ORG-European-Union
+Євросоюзі	Євросоюз	LOC	ORG-European-Union
+Ізраїль	Ізраїль	LOC	GPE-Israel
+Ізраїлі	Ізраїль	LOC	GPE-Israel
+Всесвітньої організації охорони здоров'я	Всесвітня організація охорони здоров'я	ORG	ORG-World-Health-Organization
+Ковакс	Ковакс	PRO	PRO-Covax-initiative
+Німеччина	Німеччина	LOC	GPE-Germany
+Стелла Киріакідес	Стелла Киріакідес	PER	PER-Stella-Kyriakides
+Стелли Кирі-Акідес	Стелла Киріакідес	PER	PER-Stella-Kyriakides
+ТСН.Ранок	ТСН.Ранок	PRO	PRO-TSN-Morning
+коронавірус	коронавірус	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19

@@ -1,0 +1,79 @@
+ru-111
+America	America	LOC	GPE-USA
+Apple	Apple	PRO	PRO-Apple-Store
+Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Ford Motors	Ford Motors	ORG	ORG-General-Motors
+Fox News	Fox News	PRO	PRO-Fox-News
+Foxconn Technology Group	Foxconn Technology Group	ORG	ORG-ADS-Group-Limited
+RT	RT	ORG	ORG-RT
+RT	RT	PRO	PRO-RT-Russia-Today
+Ralph Lauren	Ralph Lauren	ORG	ORG-Ralph-Lauren
+Reuters	Reuters	ORG	ORG-Reuters
+Target Corp	Target Corp	ORG	ORG-Target
+Tesla	Tesla	ORG	ORG-Tesla-company
+Алексей Маслов	Алексей Маслов	PER	PER-Alexey-Maslov
+Америке	Америка	LOC	GPE-USA
+Америку	Америка	LOC	GPE-USA
+Аргентину	Аргентина	LOC	GPE-Argentina
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Боровая улица	Боровая улица	LOC	LOC-Borovaya-Street
+Бразилию	Бразилия	LOC	GPE-Brazil
+ВТО	ВТО	ORG	ORG-WTO-World-Trade-Organization
+Васильев	Васильев	PER	PER-Vladimir-Vasilyev
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+Владимир Васильев	Владимир Васильев	PER	PER-Vladimir-Vasilyev
+Всемирную торговую организацию	Всемирная торговая организация	ORG	ORG-WTO-World-Trade-Organization
+Государственного совета КНР	Государственный совет КНР	ORG	ORG-States-Council-of-the-People's-Republic-of-China
+Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Индию	Индия	LOC	GPE-India
+Института Дальнего Востока РАН	Институт Дальнего Востока РАН	ORG	ORG-Institute-of-Far-Eastern-Studies-of-the-Russian-Academy-of-Studies
+Института США и Канады РАН	Институт США и Канады РАН	ORG	ORG-Institute-for-US-and-Canadian-Studies-RAS
+КНР	КНР	LOC	GPE-China
+Китаем	Китай	LOC	GPE-China
+Китай	Китай	LOC	GPE-China
+Китайские	китайские	LOC	GPE-China
+Китая	Китай	LOC	GPE-China
+Лю Хэ	Лю Хэ	PER	PER-Liu-He
+Марк Эспер	Марк Эспер	PER	PER-Mark-Esper
+Маслов	Маслов	PER	PER-Alexey-Maslov
+Мидлтауне	Мидлтаун	LOC	GPE-Middletown
+Москва	Москва	LOC	GPE-Moscow
+Пекин	Пекин	LOC	GPE-Beijing
+Пекина	Пекин	LOC	GPE-Beijing
+Пекином	Пекин	LOC	GPE-Beijing
+Пекину	Пекин	LOC	GPE-Beijing
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Роскомнадзором	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+Россия	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Симоньян М. С.	Симоньян М. С.	PER	PER-Margarita-Simonyan
+Соединённые Штаты	Соединённые Штаты	LOC	GPE-USA
+Соединённым Штатам	Соединённые Штаты	LOC	GPE-USA
+Соединённых Штатов	Соединённые Штаты	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Хьюстоне	Хьюстон	LOC	GPE-Houston
+американские	американские	LOC	GPE-USA
+американских	американский	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американской	американская	LOC	GPE-USA
+американском	американский	LOC	GPE-USA
+американцам	американцы	PER	GPE-USA
+американцев	американцы	PER	GPE-USA
+китайские	китайские	LOC	GPE-China
+китайских	китайский	LOC	GPE-China
+китайско	китайские	LOC	GPE-China
+китайской	китайский	LOC	GPE-China
+китайском	китайский	LOC	GPE-China
+коронавируса	коронавирус	EVT	EVT-Covid-19
+республиканца	республиканец	ORG	ORG-Republican-Party-USA

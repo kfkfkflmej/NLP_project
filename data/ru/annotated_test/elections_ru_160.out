@@ -1,0 +1,44 @@
+ru-160
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+Fox News	Fox News	PRO	PRO-Fox-News
+Байдена	Байден	PER	PER-Joe-Biden
+Вадим ЯРМОЛИНЕЦ	Вадим ЯРМОЛИНЕЦ	PER	PER-Vadim-Yarmolinets
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Висконсина	Висконсин	LOC	GPE-Wisconsin
+Гретчен Уитмер	Гретчен Уитмер	PER	PER-Gretchen-Whitmer
+Демы	Демы	ORG	ORG-Democratic-Party-USA
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джорджем Бушем	Джордж Буш	PER	PER-George-Bush-Jr
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Калифорния	Калифорния	LOC	GPE-California
+Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Коллегию Выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Коллегия	Коллегия	ORG	ORG-United-States-Electoral-College
+Колумбия	Колумбия	LOC	GPE-Colombia
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конституция	Конституция	PRO	PRO-The-USA-Constitution
+Майку Пенсу	Майк Пенс	PER	PER-Mike-Pence
+Миллер	Миллер	PER	PER-Stephen-Miller
+Мичигана	Мичиган	LOC	GPE-Michigan
+Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+Палаты	Палата	ORG	ORG-United-States-House-of-Representatives
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+США	США	LOC	GPE-USA
+Сената	Сенат	ORG	ORG-United-States-Senate
+Стивен Миллер	Стивен Миллер	PER	PER-Stephen-Miller
+Техас	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Уильям Барр	Уильям Барр	PER	PER-William-Barr
+Флорида	Флорида	LOC	GPE-Florida
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+американской	американская	LOC	GPE-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+капитолиях	капитолия	LOC	LOC-United-States-Capitol
+коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+нью-йоркские	нью-йоркские	LOC	GPE-New-York
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцы	республиканцы	ORG	ORG-Republican-Party-USA

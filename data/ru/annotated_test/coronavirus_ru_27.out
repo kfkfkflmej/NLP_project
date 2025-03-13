@@ -1,0 +1,9 @@
+ru-27
+"Гам-КОВИД-Вак"	"Гам-КОВИД-Вак"	PRO	PRO-Gam-COVID-Vac
+COVID-19	COVID-19	EVT	EVT-Covid-19
+COVID	COVID-19	EVT	EVT-Covid-19
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+АО "Сбербанк-АСТ"	АО "Сбербанк-АСТ"	ORG	ORG-SBERBANK
+Минздрав России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+коронавирусе	коронавирус	EVT	EVT-Covid-19
+москвичам	москвичи	PER	GPE-Moscow

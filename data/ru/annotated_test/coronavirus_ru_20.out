@@ -1,0 +1,17 @@
+ru-20
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Pfizer	Pfizer	ORG	ORG-Pfizer
+REUTERS	Reuters	ORG	ORG-Reuters
+Telegram	Telegram	PRO	PRO-Telegram
+Британия	Британия	LOC	GPE-Great-Britain
+Британское правительство	Британское правительство	ORG	ORG-the-UK-Government
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Министерстве здравоохранения Англии	Министерство здравоохранения Англии	ORG	ORG-British-Ministry-of-Health
+Мэри Рамзи	Мэри Рамзи	PER	PER-Mary-Ramsay
+Нового года	Новый год	EVT	EVT-New-Year
+УНИАН	УНИАН	PRO	PRO-UNIAN
+Украины	Украина	LOC	GPE-Ukraine
+коронавируса	коронавирус	EVT	EVT-Covid-19

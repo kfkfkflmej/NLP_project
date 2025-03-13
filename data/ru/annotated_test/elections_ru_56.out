@@ -1,0 +1,72 @@
+ru-56
+США	США	LOC	GPE-USA
+AP	AP	PRO	PRO-Assosiated-Press
+CISA	CISA	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+CNN	CNN	PRO	PRO-CNN
+The Detroit Free Press	The Detroit Free Press	PRO	ORG-The-Detroit-Free-Press
+The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+Twitter	Twitter	PRO	PRO-Twitter
+Агентство по кибербезопасности и безопасности инфраструктуры	Агентство по кибербезопасности и безопасности инфраструктуры	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency
+Айове	Айова	LOC	GPE-Iowa
+Америки	Америка	LOC	GPE-USA
+Аризоне	Аризона	LOC	GPE-Arizona
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Берни Сандерс	Берни Сандерс	PER	PER-Bernie-Sanders
+Берни Сандерса	Берни Сандерс	PER	PER-Bernie-Sanders
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Висконсине	Висконсин	LOC	GPE-Wisconsin
+Делавэр	Делавэр	LOC	GPE-Delaware
+Демократическая партия	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+Джоном Кейсиком	Джон Кейсик	PER	PER-John-Kasich
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+Индиане	Индиана	LOC	GPE-Indiana
+Калифорнии	Калифорния	LOC	GPE-California
+Капитолия	Капитолий	LOC	LOC-United-States-Capitol
+Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Колумбия	Колумбия	LOC	GPE-Colombia
+Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+Конституционная партия	Конституционная партия	ORG	ORG-Constitution-Party-USA
+Либертарианская партия	Либертарианская партия	ORG	ORG-Libertarian-Party-USA
+Майку Пенсу	Майк Пенс	PER	PER-Mike-Pence
+Мартин О‘Мэлли	Мартин О‘Мэлли	PER	PER-Martin-O'Melly
+Маст	Маст	PER	PER-Thomas-Nast
+Мичигане	Мичиган	LOC	GPE-Michigan
+Национальное управление архивов и документации США	Национальное управление архивов и документации США	ORG	ORG-NARA-National-Archives-and-Records-Administration
+Неваде	Невада	LOC	GPE-Nevada
+Партия зеленых	Партия зеленых	ORG	ORG-Green-Party-USA
+Пенса	Пенс	PER	PER-Mike-Pence
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Республиканской	Республиканская	ORG	ORG-Republican-Party-USA
+США	США	LOC	GPE-USA
+Сената Конгресса США	Сенат Конгресса США	ORG	ORG-United-States-Senate
+Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+Тед Круз	Тед Круз	PER	PER-Ted-Cruz
+Томаса Маста	Томас Маст	PER	PER-Thomas-Nast
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Управления по общим вопросам администрации США	Управления по общим вопросам администрации США	ORG	ORG-General-Services-Administration-USA
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+Южной Дакоте	Южная Дакота	LOC	GPE-South-Dakota-US-State
+американских	американский	LOC	GPE-USA
+всеобщих выборах 3 ноября	Всеобщие выборы 3 ноября	EVT	EVT-2020-United-States-Presidential-Election
+голосовании 8 ноября 2016 года	голосование 8 ноября 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+демократа	демократ	ORG	ORG-Democratic-Party-USA
+демократами	демократы	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+коронавируса	коронавирус	EVT	EVT-Covid-19
+республиканец	республиканец	ORG	ORG-Republican-Party-USA
+республиканца	республиканец	ORG	ORG-Republican-Party-USA
+республиканца	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцами	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA

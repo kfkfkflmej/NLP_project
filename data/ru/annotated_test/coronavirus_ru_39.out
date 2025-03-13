@@ -1,0 +1,28 @@
+ru-39
+Pfizer-BioNTech	Pfizer-BioNTech	PRO	PRO-BioNTech-Vac
+The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+Tom Jamieson	Tom Jamieson	PER	PER-Tom-Jamieson
+Англии	Англия	LOC	GPE-Great-Britain
+Английская национальная служба здравоохранения	Английская национальная служба здравоохранения	ORG	ORG-National-Health-Service-UK
+Английская служба здравоохранения	Английская национальная служба здравоохранения	ORG	ORG-National-Health-Service-UK
+Англичане	Англичане	PER	GPE-Great-Britain
+Британии	Британия	LOC	GPE-Great-Britain
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Генри Мура	Генри Мур	PER	PER-Henry-Moore
+Грейсон Перри	Грейсон Перри	PER	PER-Grayson-Perry
+Джон Челленджер	Джон Челленджер	PER	PER-John-Challenger
+Дэвид Холлз	Дэвид Холлз	PER	PER-David-Hollz
+Дэн Хендерсон	Дэн Хендерсон	PER	PER-John-Henderson
+Лондона	Лондон	LOC	GPE-London
+Музей медицины ТАКР в Лидсе	Музей медицины Такрей	LOC	GPE-Thackray-Museum
+Николас Пападопулос	Николас Пападопулос	PER	PER-Nikolas-Papadopoulos
+Оксфорде	Оксфорд	LOC	GPE-Oxford
+Пападопулос	Николас Пападопулос	PER	PER-Nikolas-Papadopoulos
+Собор Солсбери	Собор в Солсбери	LOC	GPE-Salisbury
+Солсбери	Собор в Солсбери	LOC	GPE-Salisbury
+Хендерсон	Дэн Хендерсон	PER	PER-John-Henderson
+Элеонора Журавлева	Элеонора Журавлева	PER	PER-Eleonora-Zhuravleva
+британского правительства	Британское правительство	ORG	ORG-the-UK-Government
+коронавируса	Коронавирус	EVT	EVT-Covid-19
+соборе Солсбери	Собор в Солсбери	LOC	GPE-Salisbury
+театр Хартфорд	театр Хартфорд	LOC	LOC-Hartford-Stage

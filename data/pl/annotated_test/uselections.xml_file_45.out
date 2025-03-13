@@ -1,0 +1,60 @@
+45
+AP	AP	ORG	ORG-AP-The-Associated-Press
+Alabama	Alabama	LOC	GPE-USA-Alabama
+Arkansas	Arkansas	LOC	GPE-Arkansas
+Biden	Biden	PER	PER-Joe-Biden
+CNN	CNN	PRO	PRO-CNN
+Connecticut	Connecticut	LOC	GPE-Connecticut
+Dakota Południowa	Dakota Południowa	LOC	GPE-South-Dakota-US-State
+Dakota Północna	Dakota Północna	LOC	GPE-North-Dakota
+Delaware	Delaware	LOC	GPE-Delaware
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Dystrykt Kolumbii	Dystrykt Kolumbii	LOC	GPE-District-of-Columbia
+Floryda	Floryda	LOC	GPE-Florida
+Florydzie	Floryda	LOC	GPE-Florida
+Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+Idaho	Idaho	LOC	GPE-Idaho
+Illinois	Illinois	LOC	GPE-Illionis
+Indiana	Indiana	LOC	GPE-Indiana
+Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+Kalifornię	Kalifornia	LOC	GPE-California
+Kansas	Kansas	LOC	GPE-Kansas
+Karolina Południowa	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+Kentucky	Kentucky	LOC	GPE-Kentucky
+Kolorado	Kolorado	LOC	GPE-Colorado
+Louisiana	Louisiana	LOC	GPE-Louisiana
+Maryland	Maryland	LOC	GPE-Maryland
+Massachussetts	Massachussetts	LOC	GPE-Massachusetts
+Miami	Miami	LOC	GPE-Miami
+Michigan	Michigan	LOC	GPE-Michigan
+Mississippi	Mississippi	LOC	GPE-Mississippi
+Missouri	Missouri	LOC	GPE-Missouri
+Nebraska	Nebraska	LOC	GPE-Nebraska
+New Hampshire	New Hampshire	LOC	GPE-New-Hampshire
+New Jersey	New Jersey	LOC	GPE-New-Jersey
+Nowy Jork	Nowy Jork	LOC	GPE-New-York
+Nowy Meksyk	Nowy Meksyk	LOC	GPE-New-Mexico
+Ohio	Ohio	LOC	GPE-Ohio
+Oklahoma	Oklahoma	LOC	GPE-Oklahoma
+Oregon	Oregon	LOC	GPE-Oregon
+Orlando	Orlando	LOC	GPE-Orlando
+Pasa Rdzy	Pas Rdzy	LOC	LOC-Rust-Belt
+Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+Tennessee	Tennessee	LOC	GPE-Tennessee
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+USA	USA	LOC	GPE-USA
+Utah	Utah	LOC	GPE-Utah
+Vermont	Vermont	LOC	GPE-Vermont
+Waszyngton	Waszyngton	LOC	GPE-WashingtonDC
+Wirginia Zachodnia	Wirginia Zachodnia	LOC	GPE-West-Virginia
+Wirginii Zachodniej	Wirginia Zachodnia	LOC	GPE-West-Virginia
+Wirginię	Wirginia	LOC	GPE-Virginia
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+Wyoming	Wyoming	LOC	GPE-Wyoming
+amerykańskich wyborów prezydenckich	amerykańskie wybory prezydenckie	EVT	EVT-2020-United-States-Presidential-Election
+demokratów	demokraci	ORG	ORG-Democratic-Party-USA
+republikanie	republikanie	ORG	ORG-Republican-Party-USA
+republikanów	republikanie	ORG	ORG-Republican-Party-USA

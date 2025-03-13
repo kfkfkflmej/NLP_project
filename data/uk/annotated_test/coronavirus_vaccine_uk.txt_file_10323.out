@@ -1,0 +1,13 @@
+uk-10323
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+Південна Корея	Південна Корея	LOC	GPE-South-Korea
+Степанов	Степанов	PER	PER-Maksym-Stepanov
+Степанова	Степанов	PER	PER-Maksym-Stepanov
+Україна 24	Україна 24	PRO	PRO-Ukraine-24
+Україна	Україна	LOC	GPE-Ukraine
+Україну	Україна	LOC	GPE-Ukraine
+Японія	Японія	LOC	GPE-Japan
+грипу	грип	EVT	EVT-Influenza
+коронавірусу	коронавірус	EVT	EVT-Covid-19

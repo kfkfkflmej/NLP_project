@@ -1,0 +1,93 @@
+ru-147
+Burisma	Burisma	PRO	PRO-Burisma
+Fox News	Fox News	PRO	PRO-Fox-News
+NBC News	NBC News	PRO	PRO-NBC-News
+New York Post	New York Post	PRO	PRO-New-York-Post
+RT	RT	PRO	PRO-RT-Russia-Today
+Sunday Morning Futures	Sunday Morning Futures	PRO	PRO-Good-Morning-Britain
+The Hill	The Hill	PRO	PRO-The-Hill
+rt.com	rt.com	PRO	PRO-rt.com
+Байден	Байден	PER	PER-Joe-Biden
+Байдена-младшего	Байден-младший	PER	PER-Hunter-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байденом-старшим	Байден-старший	PER	PER-Joe-Biden
+Байденом	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Белого	Белый	ORG	ORG-The-White-House
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Боровая улица	Боровая улица	LOC	LOC-Borovaya-Street
+Вадима Пожарского	Вадим Пожарский	PER	PER-Vadim-Pozharskiy
+Васильев	Васильев	PER	PER-Vladimir-Vasilyev
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Виктор Шокин	Виктор Шокин	PER	PER-Viktor-Shokin
+Виктора Шокина	Виктора Шокина	PER	PER-Viktor-Shokin
+Владимир Васильев	Владимир Васильев	PER	PER-Vladimir-Vasilyev
+Владимир	Владимир	PER	PER-Volodymyr-Zelensky
+Владимира Васильева	Владимир Васильев	PER	PER-Vladimir-Vasilyev
+Делавэр	Делавэр	LOC	GPE-Delaware
+Демократы	демократы	PER	ORG-Democratic-Party-USA
+Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+Демпартия	Демпартия	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джонсон	Джонсон	PER	PER-Boris-Johnson
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Института США и Канады РАН	Институт США и Канады РАН	ORG	ORG-Institute-for-US-and-Canadian-Studies-RAS
+Киев	Киев	LOC	GPE-Kiev
+Киеве	Киев	LOC	GPE-Kiev
+Китае	Китай	LOC	GPE-China
+Кристоферу Рэю	Кристофер Рэй	PER	PER-Christopher-Ray
+Минюста	Минюст	ORG	ORG-Ministry-of-Justice-Russia
+Москва	Москва	LOC	GPE-Moscow
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+Роберту Костелло	Роберт Костелло	PER	PER-Roberto-Costello
+Рон Джонсон	Рон Джонсон	PER	PER-Ron-Johnson
+Роскомнадзором	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+России	Россия	LOC	GPE-Russia
+Рудольф Джулиани	Рудольф Джулиани	PER	PER-Rudolph-Giuliani
+Рудольфа Джулиани	Рудольф Джулиани	PER	PER-Rudolph-Giuliani
+США	США	LOC	GPE-USA
+Симоньян М. С.	Симоньян М. С.	PER	PER-Margarita-Simonyan
+Совета по международным отношениям	Совет по международным отношениям	ORG	ORG-WTO-World-Trade-Organization
+Соединённых Штатах	Соединённые Штаты	LOC	GPE-USA
+Соединённых Штатов	Соединённые Штаты	LOC	GPE-USA
+Трампа	Трам	PER	PER-Donald-Trump
+Украина	Украина	LOC	GPE-Ukraine
+Украине	Украина	LOC	GPE-Ukraine
+Украиной	Украина	LOC	GPE-Ukraine
+Украинский	украинский	LOC	GPE-Ukraine
+Украины	Украина	LOC	GPE-Ukraine
+ФБР	ФБР	ORG	ORG-FBI
+Федеральное бюро расследований	Федеральное бюро расследований	ORG	ORG-FBI
+Фонда изучения США имени Франклина Рузвельта при МГУ	Фонд изучения США имени Франклина Рузвельта при МГУ	ORG	ORG-Roosevelt-Fund-for-US-Studies-at-the-Moscow-State-University
+Хантер Байден	Хантер Байден	PER	PER-Hunter-Biden
+Хантер	Хантер	PER	PER-Hunter-Biden
+Хантера Байдена	Хантер Байден	PER	PER-Hunter-Biden
+Хантеру Байдену	Хантер Байден	PER	PER-Hunter-Biden
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+Шокин	Шокин	PER	PER-Viktor-Shokin
+Юрий Рогулёв	Юрий Рогулёв	PER	PER-Yury-Rogulev
+Юрия Рогулёва	Юрий Рогулёв	PER	PER-Yury-Rogulev
+американского	американский	LOC	GPE-USA
+американское	американский	LOC	GPE-USA
+американцев	американцы	LOC	GPE-USA
+верхней палаты конгресса США	верхняя палата конгресса США	ORG	ORG-United-States-Senate
+демократов	демократ	PER	ORG-Democratic-Party-USA
+демократы	демократ	PER	ORG-Democratic-Party-USA
+конгрессу США	конгресс США	ORG	ORG-United-States-Congress
+республиканец	республиканец	PER	ORG-Republican-Party-USA
+республиканцев	республиканец	PER	ORG-Republican-Party-USA
+республиканцы	республиканец	PER	ORG-Republican-Party-USA
+российского	российский	LOC	GPE-Russia
+российском	российский	LOC	GPE-Russia
+русского	русский	LOC	GPE-Russia
+русской	русский	LOC	GPE-Russia
+украинская	украинский	LOC	GPE-Ukraine
+украинский	украинский	LOC	GPE-Ukraine
+украинским	украинский	LOC	GPE-Ukraine
+украинских	украинский	LOC	GPE-Ukraine
+украинского	украинский	LOC	GPE-Ukraine
+украинское	украинский	LOC	GPE-Ukraine
+украинской	украинский	LOC	GPE-Ukraine

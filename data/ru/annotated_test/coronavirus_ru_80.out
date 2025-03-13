@@ -1,0 +1,39 @@
+ru-80
+COVID-19	COVID-19	EVT	EVT-Covid-19
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+SARS-CoV-2	SARS-CoV-2	PRO	EVT-Covid-19
+covid-19	covid-19	EVT	EVT-Covid-19
+Александр Гинцбург	Александр Гинцбург	PER	PER-Alexander-Ginzburg
+Вектор	Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Колымы	Колымский край	LOC	GPE-Kolyma-Region
+МОСКВА	Москва	LOC	GPE-Moscow
+Минздрав	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+Михаил Мурашко	Михаил Мурашко	PER	PER-Mikhail-Murashko
+НИЦЭМ имени Гамалеи	НИЦЭМ имени Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+Роспотребнадзора	Роспотребнадзор	ORG	ORG-Federal-Service-for-Surveillance-on-Consumer-Rights-Protection-and-Human-Wellbeing
+России	Россия	LOC	GPE-Russia
+России	Россия	PER	GPE-Russia
+Спутник V	Спутник V	PRO	PRO-Sputnik-V
+Спутника V	Спутник V	PRO	PRO-Sputnik-V
+Спутником V	Спутник V	PRO	PRO-Sputnik-V
+Татьяна Голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+Федеральном научном центре исследований и разработки иммунобиологических препаратов имени Чумакова	Федеральный научный центр исследований и разработки иммунобиологических препаратов им. М. П. Чумакова РАН	ORG	ORG-Chumakov-Scientific-Center-Russia
+ЭпиВакКорона	"ЭпиВакКорона"	PRO	PRO-EpiVacCorona
+ЭпиВакКорона	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+владимир путин	Владимир Путин	PER	PER-Vladimir-Putin
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусной	коронавирусной	EVT	EVT-Covid-19
+михаил мурашко	Михаил Мурашко	PER	PER-Mikhail-Murashko
+москва	Москва	LOC	GPE-Moscow
+роспотребнадзор	роспотребнадзор	ORG	ORG-Federal-Service-for-Surveillance-on-Consumer-Rights-Protection-and-Human-Wellbeing
+россии	Россия	LOC	GPE-Russia
+россия	Россия	LOC	GPE-Russia
+россиян	россияне	PER	GPE-Russia
+спутник v	Спутник V	PRO	PRO-Sputnik-V
+стопкоронавирус.рф	стопкоронавирус.рф	PRO	PRO-Stop-Coronavirus
+татьяна голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+федеральная служба по надзору в сфере защиты прав потребителей и благополучия человека	федеральная служба по надзору в сфере защиты прав потребителей и благополучия человека	ORG	ORG-Federal-Service-for-Surveillance-on-Consumer-Rights-Protection-and-Human-Wellbeing
+центра Гамалеи	НИЦЭМ имени Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology

@@ -1,0 +1,61 @@
+ru-95
+"Газпром-медиа"	"Газпром-медиа"	ORG	ORG-Gazprom-Media
+"Триколором"	"Триколором"	ORG	ORG-Tricolor
+MИ-6	МИ-6	ORG	ORG-MI6
+Neuralink	Neuralink	ORG	ORG-Neuralink
+SpaceХ	SpaceX	ORG	ORG-SpaceX-company
+Tesla	Tesla	ORG	ORG-Tesla-company
+rueconomics.ru	rueconomics.ru	PRO	PRO-Economy-Today
+Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
+Белом доме	Белый дом	ORG	ORG-The-White-House
+Борис Пивовар	Борис Пивовар	PER	PER-Boris-Pivovar
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Владимир Ашурков	Владимир Ашурков	PER	PER-Vladimir-Ashurkov
+Владимир Зеленский	Владимир Зеленский	PER	PER-Volodymyr-Zelensky
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Волжского	Волжский	LOC	LOC-Volzhsky
+Вячеслав Володин	Вячеслав Володин	PER	PER-Viacheslav-Volodin
+Госдумы РФ	Госдума РФ	ORG	ORG-Russia-The-State-Duma
+Госпогранслужба	Госпогранслужба	ORG	ORG-Ukraine-State-Border-Guard
+Девин Нюнес	Девин Нюнес	PER	PER-Devin-Nunes
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+Илон Маск	Илон Маск	PER	PER-Elon-Musk
+Имарат Кавказ	Имарат Кавказ	ORG	ORG-Caucasus-Emirate
+Ингушетии	Ингушетия	LOC	GPE-Ingushetia
+Института отраслевого менеджмента РАНХиГС	Институт отраслевого менеджмента РАНХиГС	ORG	ORG-Institute-of-Industry-Management-RANEPA
+Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресс Соединенных Штатов	Конгресс Соединенных Штатов	ORG	ORG-United-States-Congress
+Кремле	Кремль	ORG	ORG-Kremlin	
+Крыма	Крым	LOC	GPE-Crimea
+Марин Афанасьева	Марина Афанасьева	PER	PER-Marina-Afanasyeva
+НАТО	НАТО	ORG	ORG-NATO
+Песняры	Песняры	ORG	ORG-Pesniary
+РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+РФ	РФ	LOC	GPE-Russia
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+Ростислав Ищенко	Ростислав Ищенко	PER	PER-Rostislav-Ischenko
+Ростуризм	Ростуризм	ORG	ORG-Rostourism
+США	США	LOC	GPE-USA
+Сергей Цеков	Сергей Цеков	PER	PER-Sergey-Tsekov
+Украину	Украина	LOC	GPE-Ukraine
+Украины	Украина	LOC	GPE-Ukraine
+ФБР	ФБР	ORG	ORG-FBI
+ФСБ	ФСБ	ORG	ORG-FSB
+Федеральной службе по надзору в сфере связи, информационных технологий и массовых коммуникаций	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаций	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+ЦРУ	ЦРУ	ORG	ORG-CIA-Central-Intelligence-Agency
+Штатах	Штаты	LOC	GPE-USA
+Экономика сегодня	Экономика сегодня	PRO	PRO-Economy-Today
+американские выборы	американские выборы	EVT	EVT-2020-United-States-Presidential-Election
+американский	американский	LOC	GPE-USA
+британского посольства	британское посольство	ORG	ORG-British-Embassy-Russia
+выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+выборы США	выборы в США	EVT	EVT-2020-United-States-Presidential-Election
+выборы	выборы	EVT	EVT-2020-United-States-Presidential-Election
+коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+министерство инвестиций, промышленности и науки Московской области	министерство инвестиций, промышленности и науки Московской области	ORG	ORG-Ministry-of-Investment-Industry-and-Science-of-the-Moscow-Region
+палаты представителей	палаты представителей	ORG	ORG-United-States-House-of-Representatives
+российский	российский	LOC	GPE-Russia
+российским	российский	LOC	GPE-Russia

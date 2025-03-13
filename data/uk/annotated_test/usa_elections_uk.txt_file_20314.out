@@ -1,0 +1,29 @@
+uk-20314
+Алабама	Алабама	LOC	GPE-USA-Alabama
+Арканзас	Арканзас	LOC	GPE-Arkansas
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Берні Сандерс	Берні Сандерс	PER	PER-Bernie-Sanders
+Вермонт	Вермонт	LOC	GPE-Vermont
+Вірджинія	Вірджинія	LOC	GPE-Virginia
+Демократичної партії США	Демократична партія США	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Каліфорнії	Каліфорнія	LOC	GPE-California
+Колорадо	Колорадо	LOC	GPE-Colorado
+Майкла Блумберга	Майкл Блумберг	PER	PER-Michael-Bloomberg
+Массачусетс	Масачузетс	LOC	GPE-Massachusetts
+Мен	Мен	LOC	GPE-Maine
+Міннесота	Міннесота	LOC	GPE-Minnesota
+Оклахома	Оклахома	LOC	GPE-Oklahoma
+Північна Кароліна	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+США	США	LOC	GPE-USA
+Стейер	Стейер	PER	PER-Tom-Steyer
+Теннессі	Теннессі	LOC	GPE-Tennessee
+Тома Стейера	Том Стейер	PER	PER-Tom-Steyer
+Трамп	Трамп	PER	PER-Donald-Trump
+Юті	Юта	LOC	GPE-Utah
+вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+праймеріз демократів	праймеріз демократів	EVT	EVT-Democratic-Party-USA-primaries
+праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries

@@ -1,0 +1,60 @@
+ru-92
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Kinokomedija	Kinokomedija	PRO	PRO-Kinokomedija
+Kinomiks	Kinomiks	PRO	PRO-Kinomiks
+Manabalss.lv	Manabalss.lv	PRO	PRO-Manabalss.lv
+Ren TV Baltija	Ren TV Baltija	PRO	PRO-Ren-TV-Baltija
+Tet	Tet	ORG	ORG-Tet
+Американские	американские	LOC	GPE-USA
+Антрим	Антрим	LOC	GPE-Antrim
+Аризона	Аризона	LOC	GPE-Arizona
+Байдена	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+Висконсина	Висконсин	LOC	GPE-Wisconsin
+Висконсине	Висконсин	LOC	GPE-Wisconsin
+Детройте	Детройт	LOC	GPE-Detroit
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Кларк	Кларк	LOC	GPE-Clark-County-Nevada
+Консерваторы	консерваторы	ORG	ORG-Conservative-and-Unionist-Party-UK
+Кэти Буквар	Кэти Буквар	PER	PER-Katie-Bookvar
+Лас-Вегас	Лас-Вегас	LOC	GPE-Las-Vegas
+Латвии	Латвия	LOC	GPE-Latvia
+Мичигане	Мичиган	LOC	GPE-Michigan
+Монтгомери	Монтгомери	LOC	GPE-Montgomery
+НСЗ	НСЗ	ORG	ORG-NHS
+НТВ Мир	НТВ Мир	PRO	PRO-NTV-Mir
+Национальная служба здравоохранения	Национальная служба здравоохранения	ORG	ORG-NHS
+Невада	Невада	LOC	GPE-Nevada
+Неваде	Невада	LOC	GPE-Nevada
+Невады	Невада	LOC	GPE-Nevada
+ПБК	ПБК	PRO	PRO-Primais-Baltijas-kanals
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+Республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+Руди Джулиани	Руди Джулиани	PER	PER-Rudy-Giuliani
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Федеральный суд	Федеральный суд	ORG	ORG-Щербинский суд
+Филадельфии	Филадельфия	LOC	GPE-Philadelphia
+Филадельфия	Филадельфия	LOC	GPE-Philadelphia
+Эстонию	Эстония	LOC	GPE-Estonia
+выборы	выборы	EVT	EVT-2020-United-States-Presidential-Election
+демократа	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+коронавируса	коронавирус	EVT	EVT-Covid-19
+латвийской	латвийский	LOC	GPE-Latvia
+латвийцах	латвийцы	PER	GPE-Latvia
+президентских выборах	президентские выборы	EVT	EVT-2020-United-States-Presidential-Election
+республиканец	республиканец	ORG	ORG-Republican-Party-USA
+республиканца	республиканец	ORG	ORG-Republican-Party-USA
+республиканцам	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	PER	ORG-Republican-Party-USA
+республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+республиканцы	республиканцы	ORG	ORG-Republican-Party-USA

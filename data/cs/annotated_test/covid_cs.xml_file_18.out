@@ -1,0 +1,13 @@
+18
+CoroVent	CoroVent	PRO	PRO-CoroVent
+Koronavirová pandemie	Koronavirová pandemie	EVT	EVT-Covid-19
+Koronavirus	Koronavirus	EVT	EVT-Covid-19
+Martin Rychlík	Martin Rychlík	PER	PER-Martin-Rychlik
+PCR	PCR	PRO	PRO-PCR-Test
+Reuters	Reuters	ORG	ORG-Reuters
+The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+covid-19	covid-19	EVT	EVT-Covid-19
+koronaviru	koronavirus	EVT	EVT-Covid-19
+ČVUT	ČVUT	ORG	ORG-CVUT-Czech-Republic
+Česka	Česko	LOC	GPE-Czech-Republic
+Češi	Češi	PER	GPE-Czech-Republic

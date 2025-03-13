@@ -1,0 +1,50 @@
+sl-40
+AP	AP	ORG	ORG-AP-The-Associated-Press
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Empire Falls	Empire Falls	PRO	PRO-Empire-Falls
+Floridi	Florida	LOC	GPE-Florida
+Ivanka Trump	Ivanka Trump	PER	PER-Ivanka-Trump
+Ivanka	Ivanka	PER	PER-Ivanka-Trump
+Ivanke Trump	Ivanka Trump	PER	PER-Ivanka-Trump
+Ivanke	Ivanka	PER	PER-Ivanka-Trump
+Ivanki Trump	Ivanka Trump	PER	PER-Ivanka-Trump
+Ivankinega	Ivanka	PER	PER-Ivanka-Trump
+Ivankino	Ivanka	PER	PER-Ivanka-Trump
+Ivanko Trump	Ivanka Trump	PER	PER-Ivanka-Trump
+Ivanko	Ivanka	PER	PER-Ivanka-Trump
+Jared Kushner	Jared Kushner	PER	PER-Jared-Kushner
+Jareda Kushnerja	Jared Kushner	PER	PER-Jared-Kushner
+Jaredom Kushnerjem	Jared Kushner	PER	PER-Jared-Kushner
+Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+Kushnerja	Kushner	PER	PER-Jared-Kushner
+Libanona	Libanon	LOC	GPE-Lebanon
+Ly	Ly	PER	PER-Lysandra-Ohrstrom
+Lysandra Ohrstrom	Lysandra Ohrstrom	PER	PER-Lysandra-Ohrstrom
+Manhattnu	Manhattan	LOC	LOC-Manhattan
+Mar-a-Lago	Mar-a-Lago	LOC	LOC-Mar-a-Lago
+Marija Antoaneta	Marija Antoaneta	PER	PER-Marie-Antoinette
+Melania Trump	Melania Trump	PER	PER-Melania-Trump
+New Jersey	New Jersey	LOC	GPE-New-Jersey
+New York	New York	LOC	GPE-New-York
+New Yorka	New York	LOC	GPE-New-York
+New Yorku	New York	LOC	GPE-New-York
+Newyorčani	Newyorčani	PER	GPE-New-York
+Ohrstromova	Ohrstrom	PER	PER-Lysandra-Ohrstrom
+Ohrstromovi	Ohrstrom	PER	PER-Lysandra-Ohrstrom
+Palm Beach	Palm Beach	LOC	LOC-Palm-Beach
+Richarda Russoja	Richard Russo	PER	PER-Richard-Russo
+Times Squaru	Times Square	LOC	LOC-Times-Square
+Trump Tower	Trump Tower	LOC	LOC-Trump-Tower
+Trump	Trump	PER	PER-Donald-Trump
+Trumpov	Trumpov	PER	PER-Donald-Trump
+Trumpovega	Trump	PER	PER-Donald-Trump
+Trumpovi	Trump	PER	PER-Donald-Trump
+Trumpovim	Trump	PER	PER-Donald-Trump
+Vanity Fair	Vanity Fair	PRO	ORG-Vanity-Fair
+Washington	Washington	LOC	GPE-WashingtonDC
+ZDA	ZDA	LOC	GPE-USA
+covida-19	covid-19	EVT	EVT-Covid-19
+covidu-19	covid-19	EVT	EVT-Covid-19
+koronavirusa	koronavirus	EVT	EVT-Covid-19
+osnovni šoli Chapin	osnovna šola Chapin	ORG	ORG-The-Chapin-School

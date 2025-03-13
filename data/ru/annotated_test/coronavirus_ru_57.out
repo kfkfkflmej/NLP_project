@@ -1,0 +1,51 @@
+ru-57
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Cookie	Cookie	PRO	PRO-Cookie
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Pfizerили	Pfizer	ORG	ORG-Pfizer
+RKI	RKI	ORG	ORG-Robert-Koch-Institute
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Австрия	Австрия	LOC	GPE-Austria
+Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+Беларуси	Беларусь	LOC	GPE-Belarus
+Беларусь	Беларусь	LOC	GPE-Belarus
+Германии	Германия	LOC	GPE-Germany
+Германию	Германия	LOC	GPE-Germany
+Германия	Германия	LOC	GPE-Germany
+Дании	Дания	LOC	GPE-Denmark
+Дания	Дания	LOC	GPE-Denmark
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европу	Европа	LOC	LOC-Europe
+Европы	Европа	LOC	LOC-Europe
+Института имени Роберта Коха	Институт имени Роберта Коха	ORG	ORG-Robert-Koch-Institute
+Италии	Италия	LOC	GPE-Italy
+Италия	Италия	LOC	GPE-Italy
+Лукашенко	Лукашенко	PER	PER-Alexander-Lukashenko
+Минздрава	Минздрав	ORG	ORG-Ministry-of-Health-and-Social-Affairs-Sweden
+Москве	Москва	LOC	GPE-Moscow
+Немецкая	Немецкий	PER	GPE-Germany
+РФ	РФ	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+Украина	Украина	LOC	GPE-Ukraine
+Украине	Украина	LOC	GPE-Ukraine
+ФРГ	ФРГ	LOC	GPE-Germany
+Федеральном центре санитарного просвещения Германии	Федеральный центр санитарного просвещения Германии	ORG	ORG-Federal-Centre-for-Health-Education-Germany
+Франция	Франция	LOC	GPE-France
+Швеции	Швеция	LOC	GPE-Sweden
+Швеция	Швеция	LOC	GPE-Sweden
+австрийские	австрийский	PER	GPE-Austria
+американская	американский	PER	GPE-USA
+ковид	ковид	EVT	EVT-Covid-19
+ковида	ковид	EVT	EVT-Covid-19
+ковидом	ковид	EVT	EVT-Covid-19
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусной инфекцией	коронавирусная инфекция	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+немецких	немецкий	PER	GPE-Germany
+немецкого	немецкий	PER	GPE-Germany

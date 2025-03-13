@@ -1,0 +1,94 @@
+ru-171
+1876	1876	EVT	EVT-1876-United-States-Presidential-Election
+1888	1888	EVT	EVT-1888-United-States-Presidential-Election
+2016	2016	EVT	EVT-2016-United-States-Presidential-Election
+2020	2020	EVT	EVT-2020-United-States-Presidential-Election
+Electoral College	Electoral College	ORG	ORG-Electoral-College
+Facebook	Facebook	PRO	PRO-Facebook
+ForumDaily New York	ForumDaily New York	PRO	PRO-NewYork.ForumDaily.com
+ForumDaily Woman	ForumDaily Woman	PRO	PRO-Woman.ForumDaily.com
+Shutterstock	Shutterstock	PRO	PRO-Shutterstock
+«Звездных войн»	Звездные войны	PRO	PRO-Star-Wars
+АиФ	АиФ	PRO	PRO-Agrymenty-i-Facty-(Newspaper)
+Аляска	Аляска	LOC	GPE-Alaska
+Америку	Америка	LOC	GPE-USA
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белом доме	Белый дом	ORG	ORG-The-White-House
+Буш	Буш	PER	PER-George-Bush-Jr
+Бушу	Буш	PER	PER-George-Bush-Jr
+Вайоминг	Вайоминг	LOC	GPE-Wyoming
+Вайоминге	Вайоминг	LOC	GPE-Wyoming
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вермонт	Вермонт	LOC	GPE-Vermont
+Вирджиния	Вирджиния	LOC	GPE-Virginia
+Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+Гэри Джонсон	Гэри Джонсон	PER	PER-Gary-Johnson
+Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джорджа Вашингтона	Джордж Вашингтон	PER	PER-George-Washington
+Джорджу Бушу-младшему	Джордж Буш-младший	PER	PER-George-Bush-Jr
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+Европейским	Европейский	LOC	LOC-Europe
+Европы	Европа	LOC	LOC-Europe
+Зеленой	Зеленая	ORG	ORG-Green-Party-of-the-United-States
+Исследовательской службы Конгресса США	Исследовательская служба Конгресса США	ORG	ORG-United-States-Congressional-Research-Service
+Йоду	Йода	PER	PER-Yoda
+Калифорнии	Калифорния	LOC	GPE-California
+Калифорния	Калифорния	LOC	GPE-California
+Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+Коллегию	Коллегия	ORG	ORG-United-States-Electoral-College
+Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+Конституции	Конституция	PRO	PRO-The-USA-Constitution
+Конституционной	Конституционная	ORG	ORG-Constitution-Party-USA
+Конституция	Конституция	PRO	PRO-The-USA-Constitution
+Либертарианской	Либертарианская	ORG	ORG-Libertarian-Party-USA
+Монтана	Монтана	LOC	GPE-Montana-US-State
+Мэн	Мэн	LOC	GPE-Maine
+Небраска	Небраска	LOC	GPE-Nebraska
+Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+Нью-Мексико	Нью-Мексико	LOC	GPE-New-Mexico
+Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Пятой авеню	Пятая авеню	LOC	LOC-The-Fifth-Avenu
+Республиканской партиями	Республиканская партия	ORG	ORG-Republican-Party-USA
+Республиканской	Республиканская	ORG	ORG-Republican-Party-USA
+Римского Папы	Римский Папа	PER	PER-Pope
+США	США	LOC	GPE-USA
+Священной Римской империи	Священная Римская империя	LOC	GPE-Holy-Roman-Empire
+Северная Дакота	Северная Дакота	LOC	GPE-North-Dakota
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Сената	Сенат	ORG	ORG-United-States-Senate
+Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+Техаса	Техас	LOC	GPE-Texas
+Федерального округа Колумбия	Федеральный округ Колумбия	LOC	GPE-District-of-Columbia
+Финляндии	Финляндия	LOC	GPE-Finland
+Флорида	Флорида	LOC	GPE-Florida
+Флориды	Флорида	LOC	GPE-Florida
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+Центрального парка	Центральный парк	LOC	LOC-Central-Park
+Чака Норриса	Чак Норрис	PER	PER-Chuck-Norris
+Эл Гор	Эл Гор	PER	PER-Al-Gore
+американцев	американец	LOC	GPE-USA
+выборах 2016 года	выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+выборах 2020 года	выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+германских	германский	LOC	GPE-Germany
+германской	германский	LOC	GPE-Germany
+демократического	демократический	ORG	ORG-Democratic-Party-USA
+демократом	демократ	ORG	ORG-Democratic-Party-USA
+калифорнийца	калифорниец	LOC	GPE-California
+калифорнийцев	калифорниец	LOC	GPE-California
+коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+коллегия кардиналов	коллегия кардиналов	ORG	ORG-College-of-Cardinals
+президентских выборах 1824	президентские выборы 1824	EVT	EVT-2020-United-States-Presidential-Election
+президентских выборах 2000 года	президентские выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+президентских выборов 2012	президентские выборы 2012	EVT	EVT-2012-United-States-Presidential-Election
+республиканского	республиканский	ORG	ORG-Republican-Party-USA
+“Голос Америки”	“Голос Америки”	ORG	ORG-Voice-of-America
+“Медуза”	"Медуза"	ORG	ORG-Russia-Meduza

@@ -1,0 +1,20 @@
+ru-48
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+Губернские аптеки	Губернские аптеки	PRO	PRO-Gubernskie-Apteki
+Зоя Масленникова	Зоя Масленникова	PER	PER-Zoya-Maslennikova
+КП (107,1 FM)	КП	PRO	PRO-Komsomolskaya-Pravda
+Красноярске	Красноярск	LOC	GPE-Krasnoyarsk-Krai
+Мария ЛЕНЦ	Мария ЛЕНЦ	PER	PER-Maria-Lenz
+Нового года	Новый год	EVT	EVT-New-Year
+России	Россия	LOC	GPE-Russia
+Спутник V	Спутник V	PRO	PRO-Sputnik-V
+Центр СПИД	Центр СПИД	LOC	LOC-Krasnoyarsk-Regional-Center-for-AIDS-Prevention-and-Control
+ковида	ковид	EVT	EVT-Covid-19
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+минздрав	Минздрав	ORG	ORG-Ministry-of-Health-of -the-Krasnoyarsk
+минздрава	Минздрав	ORG	ORG-Ministry-of-Health-Krasnoyarsky-krai
+министерства здравоохранения	Министерство здравоохранения	ORG	ORG-Ministry-of-Health-Krasnoyarsky-krai
+министерством здравоохранения Красноярского края	Министерство здравоохранения Красноярского края	ORG	ORG-Ministry-of-Health-of -the-Krasnoyarsk

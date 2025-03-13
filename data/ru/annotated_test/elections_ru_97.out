@@ -1,0 +1,43 @@
+ru-97
+REGNUM	REGNUM	PRO	PRO-REGNUM
+Stratfor	Stratfor	PRO	PRO-Stratfor
+The National Interest	The National Interest	PRO	PRO-The-National-Interest-Magazine
+«Северный поток — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+Байдена	Байден	PER	PER-Joe-Biden
+Байдене	Джо Байден	PER	PER-Joe-Biden
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белоруссии	Белоруссия	LOC	GPE-Belarus
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Венесуэла	Венесуэла	LOC	GPE-Venezuela
+Германию	Германия	LOC	GPE-Germany
+Джен Псаки	Джен Псаки	PER	PER-Jen-Psaki
+Джон Кирби	Джон Кирби	PER	PER-John-Kirby
+Договора СНВ-3	Договор СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+Договора о сокращении стратегических наступательных вооружений	Договор о сокращении стратегических наступательных вооружений	PRO	PRO-Strategic-Arms-Reduction-Treaty
+Европу	Европа	LOC	LOC-Europe
+ИА REGNUM	ИА REGNUM	PRO	PRO-REGNUM
+Китая	Китай	LOC	GPE-China
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Кремлем	Кремль	ORG	ORG-Kremlin
+Кремля	Кремль	ORG	ORG-Kremlin	
+Москвой	Москва	LOC	GPE-Moscow
+Москву	Москва	LOC	GPE-Moscow
+Москвы	Москва	LOC	GPE-Moscow
+Пентагона	Пентагон	ORG	ORG-The-Pentagon
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+США	США	LOC	GPE-USA
+Сирии	Сирия	LOC	GPE-Syria
+Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+Украины	Украина	LOC	GPE-Ukraine
+Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор)	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор)	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+американские выборы	американские выборы	EVT	EVT-2016-United-States-Presidential-Election
+американские	американские	LOC	GPE-USA
+американскими	американский	LOC	GPE-USA
+иранская	иранская	LOC	GPE-Iran
+российские	российские	LOC	GPE-Russia
+российского МИД	российский МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+российского	российский	LOC	GPE-Russia

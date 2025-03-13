@@ -1,0 +1,75 @@
+ru-11
+AP	AP	PRO	PRO-Assosiated-Press
+Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+CNN	CNN	PRO	PRO-CNN
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Jim Bourg	Jim Bourg	PER	PER-Jim-Bourg
+YouGov	YouGov	PRO	PRO-YouGov
+Адольфом Гитлером	Адольф Гитлер	PER	PER-Adolf-Hitler
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байденом	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Батуриной	Батурина	PER	PER-Elena-Baturina
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Владимира] Путина	Владимир Путин	PER	PER-Vladimir-Putin
+Вторую мировую войну	Вторая мировая война	EVT	EVT-World-War-II
+Германии	Германия	LOC	GPE-Germany
+Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джо	Джо	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+Еленой Батуриной	Елена Батурина	PER	PER-Elena-Baturina
+Иран	Иран	LOC	GPE-Iran
+КНДР	КНДР	LOC	GPE-North-Korea
+КНР	КНР	LOC	GPE-China
+Ким Чен Ыном	Ким Чен Ын	PER	PER-Kim-Jong-Un
+Ким Чен Ыну	Ким Чен Ын	PER	PER-Kim-Jong-Un
+Китае	Китай	LOC	GPE-China
+Китаем	Китай	LOC	GPE-China
+Китай	Китай	LOC	GPE-China
+Китая	Китай	LOC	GPE-China
+Кремля	Кремль	ORG	ORG-Kremlin
+Москва	Москва	LOC	GPE-Moscow
+Москве	Москва	LOC	GPE-Moscow
+Москвы	Москва	LOC	GPE-Moscow
+Нэшвилле	Нэшвилл	LOC	GPE-Nashville
+Огайо	Огайо	LOC	GPE-Ohio
+Оклахома	Оклахома	LOC	GPE-Oklahoma
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+Путину	Путин	PER	PER-Vladimir-Putin
+России	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Северной Корее	Северная Корея	LOC	GPE-North-Korea
+Северную Корею	Северная Корея	LOC	GPE-North-Korea
+Техас	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамg	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампом	Трамп	PER	PER-Donald-Trump
+Украине	Украина	LOC	GPE-Ukraine
+Украины	Украина	LOC	GPE-Ukraine
+Хантер Байден	Хантер Байден	PER	PER-Hunter-Biden
+Юрием Лужковым	Юрий Лужков	PER	PER-Yury-Luzhkov
+американские	американские	LOC	GPE-USA	
+американские	американские	LOC	GPE-USA
+американских	американские	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американцами	американцы	PER	GPE-USA
+американцев	американцы	PER	GPE-USA
+американцы	американцы	PER	GPE-USA
+выборах 2016 года	выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+дебатов в Теннесси, 22 октября 2020 года	дебаты в Теннесси 22 октября 2020	EVT	EVT-2020-United-States-Presidential-Debates
+демократ	демократ	ORG	ORG-Democratic-Party-USA
+демократа	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+инаугурацией в 2017 году	инаугурация в 2017	EVT	EVT-2017-Presidential-Inauguration
+комиссию по президентским дебатам	комиссия по президентским дебатам	ORG	ORG-FEC-Federal-Election-Commission
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19

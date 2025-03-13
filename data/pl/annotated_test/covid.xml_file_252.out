@@ -1,0 +1,15 @@
+252
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Der Spiegel	Der Spiegel	PRO	PRO-Der-Spiegel
+Gut	Gut	PER	PER-Włodzimierz-Gut
+Mazowszu	Mazowsze	LOC	GPE-Poland-Masovian-Voivodeship
+Ministerstwo Zdrowia	Ministerstwo Zdrowia	ORG	ORG-Ministry-of-Health-Poland
+Nowego Roku	Nowy Rok	EVT	EVT-New-Year
+Nowym Roku	Nowy Rok	EVT	EVT-New-Year
+Polacy	Polacy	PER	GPE-Poland
+Ugur Sahin	Ugur Sahin	PER	PER-Ugur-Sahin
+Włodzimierz Gut	Włodzimierz Gut	PER	PER-Włodzimierz-Gut
+koronawirusem	koronawirus	EVT	EVT-Covid-19
+Świąt Bożego Narodzenia	Święta Bożego Narodzenia	EVT	EVT-Christmas

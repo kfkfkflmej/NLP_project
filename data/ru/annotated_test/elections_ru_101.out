@@ -1,0 +1,75 @@
+ru-101
+"Интерфакс"	"Интерфакс"	PRO	PRO-Interfax
+Brent	Brent	PRO	PRO-Brent
+CNN	CNN	PRO	PRO-CNN
+JPMorgan Chase & Co	JPMorgan Chase & Co	ORG	ORG-JPMorgan-Chase-&-Co
+TIME	TIME	PRO	PRO-TIME
+The Washington Post	The Washington Post	PRO	PRO-Washington-Post
+Аляски	Аляска	LOC	GPE-Alaska
+Америке	Америка	LOC	GPE-USA
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Билл Клинтоны	Билл Клинтон	PER	PER-Bill-Clinton
+Билла Клинтона	Билл Клинтон	PER	PER-Bill-Clinton
+Вайоминга	Вайоминг	LOC	GPE-Wyoming
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Вермонта	Вермонт	LOC	GPE-Vermont
+Вермонте	Вермонт	LOC	GPE-Vermont
+Вирджинии	Вирджиния	LOC	GPE-Virginia
+Вирджиния	Вирджиния	LOC	GPE-Virginia
+Делавэра	Делавэр	LOC	GPE-Delaware
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Западной Вирджинии	Западная Вирджиния	LOC	GPE-West-Virginia
+Индиане	Индиана	LOC	GPE-Indiana
+Калифорнии	Калифорния	LOC	GPE-California
+Кентукки	Кентукки	LOC	GPE-Kentucky
+Клинтон	Клинтон	PER	PER-Hillary-Clinton
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Коннектикуте	Коннектикут	LOC	GPE-Connecticut
+Ку-клукс-клан	Ку-клукс-клан	ORG	ORG-Ku-Klux-Klan
+Манхэттана	Манхэттан	LOC	LOC-Manhattan
+Массачусетса	Массачусетс	LOC	GPE-Massachusetts
+Мексике	Мексика	LOC	GPE-Mexico
+Мичигана	Мичиган	LOC	GPE-Michigan
+Монтаны	Монтана	LOC	GPE-Montana-US-State
+Москве	Москва	LOC	GPE-Moscow
+Мэн	Мэн	LOC	GPE-Maine
+Мэне	Мэн	LOC	GPE-Maine
+Мэриленда	Мэриленд	LOC	GPE-Maryland
+Небраска	Небраска	LOC	GPE-Nebraska
+Нью-Гэмпшира	Нью-Гэмпшира	LOC	GPE-New-Hampshire
+Нью-Джерси	Нью-Джерси	LOC	GPE-New-Jersey
+Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+Огайо	Огайо	LOC	GPE-Ohio
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+РФ	РФ	LOC	GPE-Russia
+Род-Айленда	Род-Айленд	LOC	GPE-Rhode-Island
+США	США	LOC	GPE-USA
+Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Северной Дакоты	Северная Дакота	LOC	GPE-North-Dakota
+Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Теннеси	Теннеси	LOC	GPE-Tennessee
+Трампа	Трам	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Флорида	Флорида	LOC	GPE-Florida
+Флориды	Флорида	LOC	GPE-Florida
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+Хиллари	Хиллари	PER	PER-Hillary-Clinton
+Южной Каролины	Южная Каролина	LOC	GPE-South-Carolina-US-State
+Южной	Южная Дакота	LOC	GPE-South-Dakota-US-State
+американских	американский	LOC	GPE-USA
+американцев	американцы	PER	GPE-USA
+восточному	восточное	LOC	LOC-East
+выборах в 2012 году	выборыв 2012	EVT	EVT-2012-United-States-Presidential-Election
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+екатеринбургском парке бабочек	екатеринбургский парк бабочек	LOC	LOC-Yekaterinburg-Butterfly-Park
+московскому	московское	LOC	GPE-Moscow
+президентские выборы	президентские выборы	EVT	EVT-2016-United-States-Presidential-Election
+республиканец	республиканец	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцы	республиканцы	ORG	ORG-Republican-Party-USA

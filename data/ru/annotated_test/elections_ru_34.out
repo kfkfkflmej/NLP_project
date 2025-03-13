@@ -1,0 +1,62 @@
+ru-34
+APT29	APT29	ORG	ORG-ART29
+Cozy Bear	Cozy Bear	ORG	ORG-ART29
+France 24	France 24	PRO	PRO-France-24
+NTIA	NTIA	ORG	ORG-National-Telecommunications-and-Information-Administration-USA
+The Washington Post (WP)	The Washington Post (WP)	PRO	PRO-Washington-Examiner
+Алекс ван дер Цван	Алекс ван дер Цван	PER	PER-Алексей-Осин
+Александра Филиппенко	Александра Филиппенко	PER	PER-Alexandra-Filipenko
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Виктором Януковичем	Виктор Янукович	PER	PER-Viktor-Yanukovych
+Делавэр	Делавэр	LOC	GPE-Delaware
+Департамент казначейства США	Департамент казначейства США	ORG	ORG-United-States-Department-of-the-Treasury
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+Джордж Пападопулос	Джордж Пападопулос	PER	PER-George-Papadopoulos
+Джорджа Пападопулоса	Джордж Пападопулос	PER	PER-George-Papadopoulos
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Дункан Хантер	Дункан Хантер	PER	PER-Duncan-Hunter
+Института США и Канады	Институт США и Канады	ORG	ORG-Institute-for-US-and-Canadian-Studies-RAN
+Китай	Китай	LOC	GPE-China
+Китая	Китай	LOC	GPE-China
+Кремля	Кремль	ORG	ORG-Kremlin
+Крис Коллинз	Крис Коллинз	PER	PER-Chris-Collins
+Москвы	Москва	LOC	GPE-Moscow
+Мюллер	Мюллер	PER	PER-Jens-Muller
+Мюллера	Мюллера	PER	PER-Robert-Mueller
+Национальное управление телекоммуникаций и информации	Национальное управление телекоммуникаций и информации	ORG	ORG-National-Telecommunications-and-Information-Administration-USA
+Пола Манафорта	Пол Манафорт	PER	PER-Paul-Manafort
+Роберт Мюллер	Роберт Мюллер	PER	PER-Robert-Mueller
+Роберта Мюллера	Роберт Мюллер	PER	PER-Robert-Mueller
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Уилмингтоне	Уилмингтон	LOC	GPE-Wilmington
+Украины	Украина	LOC	GPE-Ukraine
+ФБР	ФБР	ORG	ORG-FBI
+Филиппенко	Филиппенко	PER	PER-Alexandra-Filipenko
+американские	американские	LOC	GPE-USA
+американских	американский	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американцев	американцы	LOC	GPE-USA
+голландский	голландский	LOC	
+демократу	демократ	PER	ORG-Democratic-Party-USA
+департамента казначейства США	Департамент казначейства США	ORG	ORG-United-States-Department-of-the-Treasury
+департамента торговли	департамента торговли	ORG	ORG-US-Department-of-Commerce
+избирательной кампании Трампа в 2016	избирательная кампания Трампа в 2016	EVT	EVT-Donald-Trump-2016-presidential-campaign
+инаугурация Байдена	инаугурация Байдена	EVT	EVT-2020-Inauguration-of-Joe-Biden
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+президентской кампании 2016 года	президентская кампания 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+республиканец	республиканец	PER	ORG-Republican-Party-USA
+российским	российское	LOC	GPE-Russia
+российского	российский	LOC	GPE-Russia
+российском	российский	LOC	GPE-Russia
+русскими	русские	LOC	GPE-Russia

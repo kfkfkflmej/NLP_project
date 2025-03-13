@@ -1,0 +1,50 @@
+104
+Agencja Reutera	Agencja Reutera	ORG	ORG-Reuters
+Amerykanie	Amerykanie	PER	GPE-USA
+Amerykanów	Amerykanie	PER	GPE-USA
+Arizonę	Arizona	LOC	GPE-Arizona
+Battle for the soul of nation	Battle for the soul of nation	PRO	PRO-Battle-for-the-soul-of-nation
+Chicago	Chicago	LOC	GPE-Chicago
+Demokraci	Demokraci	ORG	ORG-Democratic-Party-USA
+Demokratom	Demokraci	ORG	ORG-Democratic-Party-USA
+Demokraty	Demokrata	PER	ORG-Democratic-Party-USA
+Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Florydy	Floryda	LOC	GPE-Florida
+Florydzie	Floryda	LOC	GPE-Florida
+Florydę	Floryda	LOC	GPE-Florida
+Iowa	Iowa	LOC	GPE-Iowa
+Izba Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+Kalifornia	Kalifornia	LOC	GPE-California
+Kamala Harris	Kamala Harris	PER	PER-Kamala-Harris
+Karolinie Południowej	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+Kolegium Elektorów Stanów Zjednoczonych	Kolegium Elektorów Stanów Zjednoczonych	ORG	ORG-United-States-Electoral-College
+Kolegium Elektorów USA	Kolegium Elektorów USA	ORG	ORG-United-States-Electoral-College
+Kongresu	Kongres	ORG	ORG-United-States-Congress
+MSNBC	MSNBC	PRO	PRO-MSNBC-TV
+Make America Great Again	Make America Great Again	PRO	PRO-Make-America-Great-Again
+Michigan	Michigan	LOC	GPE-Michigan
+Mike'a Pence'a	Mike Pence	PER	PER-Mike-Pence
+Nowym Jorku	Nowy Jork	LOC	GPE-New-York
+Pasa Rdzy	Pas Rdzy	LOC	LOC-Rust-Belt
+Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+Pensylwanię	Pensylwania	LOC	GPE-Pennsylvania
+RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+Reublikanie	Republikanie	ORG	ORG-Republican-Party-USA
+Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+Teksas	Teksas	LOC	GPE-Texas
+Trumpa	Trump	PER	PER-Donald-Trump
+U.S. Elections Project	U. S. Elections Project	PRO	PRO-United-States-Elections-Project
+USA	USA	LOC	GPE-USA
+Uczyńmy Amerykę znów wielką	Uczyńmy Amerykę znów wielką	PRO	PRO-Make-America-Great-Again
+Walka o duszę narodu	Walka o duszę narodu	PRO	PRO-Battle-for-the-soul-of-nation
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+Wybory prezydenckie w USA 2020	Wybory prezydenckie w USA 2020	EVT	EVT-2020-United-States-Presidential-Election
+Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+parlamencie USA	parlament USA	ORG	ORG-Parliament-of-USA
+wyborów w USA	wybory w USA	EVT	EVT-2020-United-States-Presidential-Election

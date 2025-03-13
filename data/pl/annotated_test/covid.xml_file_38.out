@@ -1,0 +1,34 @@
+38
+Amerykanów	Amerykanie	PER	GPE-USA
+Argentynie	Argentyna	LOC	GPE-Argentina
+Bahrajn	Bahrajn	LOC	GPE-Kingdom-of-Bahrain
+Białorusi	Białoruś	LOC	GPE-Belarus
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Bloomberga	Bloomberg	PRO	PRO-Bloomberg
+Brazylia	Brazylia	LOC	GPE-Brazil
+Brytyjkę	Brytyjka	PER	GPE-Great-Britain
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Chin	Chiny	LOC	GPE-China
+Chinach	Chiny	LOC	GPE-China
+Chiny	Chiny	LOC	GPE-China
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Europie Zachodniej	Europa Zachodnia	LOC	LOC-Western-Europe
+Indie	Indie	LOC	GPE-India
+Izrael	Izrael	LOC	GPE-Israel
+Michał Dworczyk	Michał Dworczyk	PER	PER-Michał-Dworczyk
+Moskwie	Moskwa	LOC	GPE-Moscow
+Petersburgu	Petersburg	LOC	GPE-Saint-Petersburg
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Pfizera	Pfizer	ORG	ORG-Pfizer
+Polsce	Polska	LOC	GPE-Poland
+Radiem Zet	Radio Zet	PRO	PRO-RadioZET
+Rosja	Rosja	LOC	GPE-Russia
+Rosji	Rosja	LOC	GPE-Russia
+Sinopharm	Sinopharm	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm
+Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+USA	USA	LOC	GPE-USA
+Wenezuela	Wenezuela	LOC	GPE-Venezuela
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+koronawirusa	koronawirus	EVT	EVT-Covid-19

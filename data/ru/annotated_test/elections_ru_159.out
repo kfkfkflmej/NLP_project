@@ -1,0 +1,47 @@
+ru-159
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Еdison research	Еdison research	ORG	ORG-Edison-Research
+Линдона Джонсона	Линдон Джонсон	PER	PER-Lyndon-Johnson
+Мичигане	Мичиган	LOC	GPE-Michigan
+Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Трампа	Трамп	PER	PER-Donald-Trump
+американцам	американцы	PER	GPE-USA
+демократом	демократ	ORG	ORG-Democratic-Party-USA
+CNN	CNN	PRO	PRO-CNN
+QAnon	QAnon	ORG	ORG-QAnon
+Telegram	Telegram	PRO	PRO-Telegram
+«Интерфакс-Украина»	"Интерфакс-Украина"	ORG	ORG-Interfax-Ukraine
+Америке	Америка	LOC	GPE-USA
+Америки	Америка	LOC	GPE-USA
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Вайоминг	Вайоминг	LOC	GPE-Wyoming
+Висконсине	Висконсин	LOC	GPE-Wisconsin
+Висконсине	Висконсин	LOC	GPE-Wisconsin
+Джо Байденом	Джо Байден	PER	PER-Joe-Biden
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+Калифорнии	Калифорния	LOC	GPE-California
+Мичигана	Мичиган	LOC	GPE-Michigan
+Мичигане	Мичиган	LOC	GPE-Michigan
+Монтана	Монтана	LOC	GPE-Montana-US-State
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+США	США	LOC	GPE-USA
+США	США	LOC	GPE-USA
+Сенат США	Сенат США	ORG	ORG-United-States-Senate
+Техас	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Флориде	Флорида	LOC	GPE-Florida
+американцев	американцы	PER	GPE-USA
+американцы	американцы	PER	GPE-USA
+выборов президента США 2020	выборы президента США 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+выборы президента США 2020 года	выборы президента США 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+декрет Федерального согласия 1982 года	декрет Федерального согласия 1982 года	EVT	EVT-Federal-Consent-Decree-of-1982
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+республиканцем	республиканец	ORG	ORG-Republican-Party-USA

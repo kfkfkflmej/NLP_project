@@ -1,0 +1,54 @@
+ru-183
+Американская	американская	LOC	GPE-USA
+Америке	Америка	LOC	GPE-USA
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Буш	Буш	PER	PER-George-Bush-Jr
+Буша	Буш	PER	PER-George-Bush-Jr
+Бушем	Буш	PER	PER-George-Bush-Jr
+Бушу	Буш	PER	PER-George-Bush-Jr
+Вайоминг	Вайоминг	LOC	GPE-Wyoming
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Верховного суда США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+Верховного суда штата Флорида	Верховный суд штата Флорида	ORG	ORG-Supreme-Court-of-Florida
+Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+Верховный суд США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+Вешняков	Вешняков	PER	PER-Alexandr-Veshnyakov
+Владимир Абаринов	Владимир Абаринов	PER	PER-Vladimir-Abarinov
+Гор	Гор	PER	PER-Al-Gore
+Гора	Гор	PER	PER-Al-Gore
+Грани.Ру	Грани.Ру	PRO	PRO-Grani.Ru
+Демократической партий США	Демократическая партия США	ORG	ORG-Democratic-Party-USA
+Демократы	демократы	PER	ORG-Democratic-Party-USA
+Джон Эдвардс	Джон Эдвардс	PER	PER-Johny-Edwards
+Джону Керри	Джон Керри	PER	PER-John-Kerry
+Джордж Буш	Джордж Буш	PER	PER-George-Bush-Jr
+Джорджу Бушу	Джордж Буш	PER	PER-George-Bush-Jr
+Западной Вирджинии	Западная Вирджиния	LOC	GPE-West-Virginia
+Керри	Керри	PER	PER-John-Kerry
+Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+Колорадо	Колорадо	LOC	GPE-Colorado
+Колумбия	Колумбия	LOC	GPE-Colombia
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конституции	Конституция	PRO	PRO-The-USA-Constitution
+Мэн	Мэн	LOC	GPE-Maine
+Мэна	Мэн	LOC	GPE-Maine
+Небраски	Небраска	LOC	GPE-Nebraska
+Огайо	Огайо	LOC	GPE-Ohio
+Палате представителей Конгресса	Палата представителей Конгресса	ORG	ORG-United-States-House-of-Representatives
+Ренквист	Ренквист	PER	PER-William-Rehnquist
+Республиканской	Республиканская	ORG	ORG-Republican-Party-USA
+США	США	LOC	GPE-USA
+Уильям Ренквист	Уильям Ренквист	PER	PER-William-Rehnquist
+Флорида	Флорида	LOC	GPE-Florida
+ЦИК РФ	ЦИК РФ	ORG	ORG-Central-Election-Commission-of-the-Russia
+Эдвардс	Эдвардс	PER	PER-Johny-Edwards
+Эл Гор	Эл Гор	PER	PER-Al-Gore
+американской	американская	LOC	GPE-USA
+американском	американский	LOC	GPE-USA
+демократ	демократ	PER	ORG-Democratic-Party-USA
+коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+колорадские	колорадские	LOC	GPE-Colorado
+колорадскую	колорадская	LOC	GPE-Colorado
+республиканец	республиканец	PER	ORG-Republican-Party-USA
+республиканцев	республиканец	PER	ORG-Republican-Party-USA
+республиканцы	республиканец	PER	ORG-Republican-Party-USA

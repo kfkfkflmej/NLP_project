@@ -1,0 +1,19 @@
+165
+ABC News	ABC News	PRO	PRO-ABC-News
+Biden	Biden	PER	PER-Joe-Biden
+Bidena	Biden	PER	PER-Joe-Biden
+Bill Clinton	Bill Clinton	PER	PER-Bill-Clinton
+CNN	CNN	PRO	PRO-CNN
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Floryda	Floryda	LOC	GPE-Florida
+Georgia	Georgia	LOC	GPE-Georgia-US-state
+Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+Michigan	Michigan	LOC	GPE-Michigan
+Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+Trump	Trump	PER	PER-Donald-Trump
+Trumpem	Trump	PER	PER-Donald-Trump
+Trumpowi	Trump	PER	PER-Donald-Trump
+USA	USA	LOC	GPE-USA
+Washington Post	Washington Post	PRO	PRO-Washington-Post
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin

@@ -1,0 +1,24 @@
+ru-86
+BioNTech	BioNTech	ORG	ORG-BioNTech
+BioNTech	BioNTech	PRO	PRO-BioNTech-Vac
+Dmitry Lobanov	Dmitry Lobanov	PER	PER-Dmitry-Bavyrin
+Facebook	Facebook	PRO	PRO-Facebook
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Pfizer	Pfizer	PRO	PRO-Pfizer-Vac
+Rusmediabank.ru	Rusmediabank.ru	PRO	PRO-Rusmediabank
+myJane.ru	myJane.ru	PRO	PRO-myJane.ru
+myJane	myJane	PRO	PRO-myJane.ru
+«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+В.В. Путина	В.В. Путин	PER	PER-Vladimir-Putin
+Гинцбургу	Гинцбург	PER	PER-Alexander-Ginzburg
+Институт им. Н.Ф. Гамалеи	Институт им. Н.Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+Марианна Максимовская	Марианна Максимовская	PER	PER-Marianna-Maksimovsky
+Марианна	Марианна	PER	PER-Marianna-Maksimovsky
+Норвегии	Норвегия	LOC	GPE-Norway
+ОРВИ	ОРВИ	EVT	EVT-ORVI
+Родион Газманов	Родион Газманов	PER	PER-Rodion-Gazmanov
+американской	американская	PER	GPE-USA
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+немецкой	немецкий	PER	GPE-Germany

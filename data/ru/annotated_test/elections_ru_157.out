@@ -1,0 +1,28 @@
+ru-157
+CNN	CNN	PRO	PRO-CNN
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Верховным Судом США	Верховный Суд США	ORG	ORG-Supreme-Court-of-the-United-States
+Выборы	Выборы	EVT	EVT-2020-United-States-Presidential-Election
+Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Ракетных войск стратегического назначения вооружённых сил России	Ракетные войска стратегического назначения вооружённых сил России	ORG	ORG-Strategic-Rocket-Forces-of-the-Russian-Federation
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампусик	Трампусик	PER	PER-Donald-Trump
+Трампушу	Трампуша	PER	PER-Donald-Trump
+американские выборы	американские выборы	EVT	EVT-2020-United-States-Presidential-Election
+американских	американский	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американской	американская	LOC	GPE-USA
+выборах	выборы	EVT	EVT-2020-United-States-Presidential-Election
+выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+выборы	выборы	EVT	EVT-2020-United-States-Presidential-Election
+инаугурации	инаугурация	EVT	EVT-2020-United-States-presidential-inauguration
+коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+республиканца	республиканец	ORG	ORG-Republican-Party-USA

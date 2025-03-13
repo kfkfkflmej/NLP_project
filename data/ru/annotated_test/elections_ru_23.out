@@ -1,0 +1,44 @@
+ru-23
+Baza	Baza	PRO	PRO-Baza
+NYT	NYT	PRO	PRO-The-New-York-Times
+New York Times	New York Times	PRO	PRO-The-New-York-Times
+«твиттере»	«твиттер»	PRO	PRO-Twitter
+«фейсбуке»	«фейсбук»	PRO	PRO-Facebook
+Аляске	Аляска	LOC	GPE-Alaska
+Американцы	американцы	PER	GPE-USA
+Антрим	Антрим	LOC	GPE-Antrim
+Аризона	Аризона	LOC	GPE-Arizona
+Аризону	Аризона	LOC	GPE-Arizona
+Байден	Байден	PER	PER-Joe-Biden
+Байденом	Байден	PER	PER-Joe-Biden
+Вайоминга	Вайоминг	LOC	GPE-Wyoming
+Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+Висконсин	Висконсин	LOC	GPE-Wisconsin
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдну	Джо Байден	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Калифорнии	Калифорния	LOC	GPE-California
+Канье Уэст	Канье Уэст	PER	PER-Kanye-West
+Коллегию выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Коллегию	Коллегия	ORG	ORG-United-States-Electoral-College
+Мичиган	Мичиган	LOC	GPE-Michigan
+Мэн	Мэн	LOC	GPE-Maine
+Невада	Невада	LOC	GPE-Nevada
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+Республиканец	Республиканец	ORG	ORG-Republican-Party-USA
+России	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Флорида	Флорида	LOC	GPE-Florida
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+демократ	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+демократов	демократы	PER	ORG-Democratic-Party-USA
+демократу	демократ	ORG	ORG-Democratic-Party-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+республиканец	республиканец	ORG	ORG-Republican-Party-USA
+республиканский	республиканский	ORG	ORG-Republican-Party-USA
+республиканца	республиканец	ORG	ORG-Republican-Party-USA

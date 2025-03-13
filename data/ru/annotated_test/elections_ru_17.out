@@ -1,0 +1,65 @@
+ru-17
+Emerson	emerson	PRO	PRO-Emerson
+New York Post	New York Post	PRO	PRO-New-York-Post
+New Yorker	New Yorker	PRO	ORG-The-New-Yorker
+RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+Американские	американский	LOC	GPE-USA
+Артур Джонс	Артур Джонс	PER	PER-Arthur-Jones
+Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Демократы	демократ	PER	ORG-Democratic-Party-USA
+Демократы	демократы	PER	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джон Маккейн	Джон Маккейн	PER	PER-John-McCain
+Джонс	Джонс	PER	PER-Arthur-Jones
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Донбассе	Донбасс	LOC	LOC-Donbass
+Иллинойс	Иллинойс	LOC	GPE-Illinois
+Киев	Киев	LOC	GPE-Kiev
+Киева	Киев	LOC	GPE-Kiev
+Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+Крыма	Крым	LOC	GPE-Crimea
+Москвы	Москва	LOC	GPE-Moscow
+Обама	Обама	PER	PER-Barack-Obama
+Обамы	Обама	PER	PER-Barack-Obama
+Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Палату представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Пола Манафорта	Пол Манафорт	PER	PER-Paul-Manafort
+Республиканская партия	Республиканская партия	ORG	ORG-Republican-Party-USA
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Сената	Сенат	ORG	ORG-United-States-Senate
+Сенате	Сенат	ORG	ORG-United-States-Senate
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампе	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Украине	Украина	LOC	GPE-Ukraine
+Украину	Украина	LOC	GPE-Ukraine
+Украины	Украина	LOC	GPE-Ukraine
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+американской	американская	LOC	GPE-USA
+американскую	американский	LOC	GPE-USA
+американцев	американцы	LOC	GPE-USA
+американцы	американцы	LOC	GPE-USA
+демократ	демократ	PER	ORG-Democratic-Party-USA
+демократа	демократ	PER	ORG-Democratic-Party-USA
+демократами	демократы	PER	ORG-Democratic-Party-USA
+демократов	демократ	PER	ORG-Democratic-Party-USA
+демократы	демократ	PER	ORG-Democratic-Party-USA
+киевской	киевский	LOC	GPE-Kiev
+президентских выборов-2016	президентские выборы-2016	EVT	EVT-2016-United-States-Presidential-Election
+республиканце	республиканец	PER	ORG-Republican-Party-USA
+республиканцев	республиканец	PER	ORG-Republican-Party-USA
+республиканцы	республиканец	PER	ORG-Republican-Party-USA
+украинцам	украинцы	LOC	GPE-Ukraine

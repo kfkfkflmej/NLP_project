@@ -1,0 +1,32 @@
+ru-53
+"Российская газета"	Российская газета	PRO	PRO-Rossiyskaya-Gazeta
+"Россия 1"	Россия 1	PRO	PRO-Russia-1-TV
+"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
+COVID-19	COVID-19	EVT	EVT-Covid-19
+«Москва 24»	Москва 24	PRO	PRO-Moskva-24
+«России 1»	Россия 1	PRO	PRO-Russia-1-TV
+«Россия 1»	Россия 1	PRO	PRO-Russia-1-TV
+Владмира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+КоАП	КоАП	PRO	PRO-Code-of-the-Russian-Federation-on-Administrative-Offenses
+Минздрава	Минздрав	ORG	ORG-Department-of-Health
+Минздрава	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+Минздраве	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+Минздравом	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+Минюст	Минюст	ORG	ORG-Ministry-of-Justice-Russia
+Москве	Москва	LOC	GPE-Moscow
+Москвы	Москва	LOC	GPE-Moscow
+Московские	Московский	PER	GPE-Moscow
+Ольга Ткачева	Ольга Ткачева	PER	PER-Olga-Tkacheva
+Ольгу Ткачеву	Ольга Ткачева	PER	PER-Olga-Tkacheva
+Путина	Путин	PER	PER-Vladimir-Putin
+РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+России	Россия	LOC	GPE-Russia
+Сергей Собянин	Сергей Собянин	PER	PER-Sergei-Sobyanin
+Собянин	Собянин	PER	PER-Sergei-Sobyanin
+Собянина	Собянин	PER	PER-Sergei-Sobyanin
+Ткачева	Ткачева	PER	PER-Olga-Tkacheva
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+москвичей	москвичи	PER	GPE-Moscow
+российский	российский	PER	GPE-Russia

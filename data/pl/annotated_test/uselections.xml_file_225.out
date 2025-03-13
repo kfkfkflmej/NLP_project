@@ -1,0 +1,35 @@
+225
+Anthony'ego Fauciego	Anthony Fauci	PER	PER-Anthony-Fauci
+Białego Domu	Biały Dom	LOC	LOC-White-House
+Biały Dom	Biały Dom	LOC	LOC-White-House
+Biden	Biden	PER	PER-Joe-Biden
+Bidena	Biden	PER	PER-Joe-Biden
+Bożego Narodzenia	Boże Narodzenie	EVT	EVT-Christmas
+Cleveland	Cleveland	LOC	GPE-Cleveland
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Czwartego Lipca	Czwarty Lipca	EVT	EVT-Independence-Day
+Delaware	Delaware	LOC	GPE-Delaware
+Demokracie	Demokrata	PER	ORG-Democratic-Party-USA
+Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Fauciego	Fauci	PER	PER-Anthony-Fauci
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+Kenoshę	Kenosha	LOC	GPE-Kenosha
+Michigan	Michigan	LOC	GPE-Michigan
+Ohio	Ohio	LOC	GPE-Ohio
+Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+Republikanin	Republikanin	PER	ORG-Republican-Party-USA
+Scranton	Scranton	LOC	GPE-Scranton
+Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+USA	USA	LOC	GPE-USA
+Wielkanocy	Wielkanoc	EVT	EVT-Easter
+Wilmington	Wilmington	LOC	GPE-Wilmington
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+Wschodnim Wybrzeżu	Wschodnie Wybrzeże	LOC	LOC-USA-East-Coast
+koronawirusa	koronawirus	EVT	EVT-Covid-19
+Środkowym Zachodzie	Środkowy Zachód	LOC	LOC-Midwestern-United-States
+Święta Dziękczynienia	Święto Dziękczynienia	EVT	EVT-Thanksgiving-Day

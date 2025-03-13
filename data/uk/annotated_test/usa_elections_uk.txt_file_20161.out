@@ -1,0 +1,17 @@
+uk-20161
+Tweeter	Twitter	PRO	PRO-Twitter
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+Капітолії	Капітолій	LOC	LOC-United-States-Capitol
+Конгрес	Конгрес	ORG	ORG-United-States-Congress
+Сполучених Штатів Америки	Сполучені Штати Америки	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+всенародному голосуванні	всенародне голосування	EVT	EVT-2020-United-States-Presidential-Election
+колегії виборників	колегія виборників	ORG	ORG-United-States-Electoral-College
+інавгурацію	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration

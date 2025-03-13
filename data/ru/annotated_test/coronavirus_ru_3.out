@@ -1,0 +1,89 @@
+ru-3
+«Мосмедпрепараты»	Мосмедпрепараты	ORG	ORG-Mosmedpreparaty
+Anthony Fauci	Anthony Fauci	PER	PER-Anthony-Fauci
+BNT162b2	BNT162b2	PRO	PRO-BNT162b2-Tozinameran
+BioNTech	BioNTech	ORG	ORG-BioNTech
+BioNTech	BioNTech	PRO	PRO-BioNTech-Vac
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Comirnaty	Comirnaty	PRO	PRO-Comirnaty
+Covuity	Covuity	PRO	PRO-Covuity
+DHL	DHL	ORG	ORG-DHL
+DocuSign	DocuSign	PRO	PRO-DocuSign
+FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+Kovimerna	Kovimerna	PRO	PRO-Kovimerna
+Moderna	Moderna	ORG	ORG-Moderna
+Mosmedpreparaty.ru	Mosmedpreparaty.ru	PRO	PRO-Mosmedpreparaty
+NIAID	NIAID	ORG	ORG-National-Institute-of-Allergy-and-Infectious-Diseases
+Nature Medicine	Nature Medicine	PRO	PRO-Nature-Medicine
+Netflix	Netflix	PRO	PRO-Netflix
+Peloton	Peloton	PRO	PRO-Peloton
+Pew Research Center	Pew Research Center	ORG	ORG-Pew-research-center
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Pfizer	Pfizer	PRO	PRO-Pfizer-Vac
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Zoom	Zoom	PRO	PRO-Zoom
+mRNA-1273	mRNA-1273	PRO	PRO-mRNA-Vaccine
+«Байонтек»	BioNTech	ORG	ORG-BioNTech
+«Байонтек»	BioNTech	PRO	PRO-BioNTech-Vac
+«Байонтек»	Biontech	ORG	ORG-BioNTech
+«Ковимерна»	Ковимерна	PRO	PRO-Kovimerna
+«Ковьюити»	Ковьюити	PRO	PRO-Covuity
+«Комирнати»	Комирнати	PRO	PRO-Cominarty
+«Модерна»	Moderna	ORG	ORG-Moderna
+«Мосмедпрепараты»	Мосмедпрепараты	ORG	ORG-Mosmedpreparaty
+«Пфайзер»	Pfizer	ORG	ORG-Pfizer
+«Пфайзер»	Pfizer	PRO	PRO-Pfizer-Vac
+Австралия	Австралия	LOC	GPE-Australia
+Аргентине	Аргентина	LOC	GPE-Argentina
+Аргентины	Аргентина	LOC	GPE-Argentina
+Бахрейн	Бахрейн	LOC	GPE-Kingdom-of-Bahrain
+Бельгии	Бельгия	LOC	GPE-Belgium
+Бразилии	Бразилия	LOC	GPE-Brazil
+Бразилия	Бразилия	LOC	GPE-Brazil
+ВИЧ	ВИЧ	EVT	EVT-HIV
+Великобританией	Великобритания	LOC	GPE-Great-Britain
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Германии	Германия	LOC	GPE-Germany
+Гонконг	Гонконг	LOC	GPE-China
+Европейский союз	Европейский союз	ORG	ORG-European-Union
+Земли	Земля	LOC	LOC-Earth
+Израиль	Израиль	LOC	GPE-Israel
+Исследовательским центром Пью	Pew Research Center	ORG	ORG-Pew-research-center
+Канада	Канада	LOC	GPE-Canada
+Китае	Китай	LOC	GPE-China
+Коронавирус	ковид	EVT	EVT-Covid-19
+Коста-Рика	Коста-Рика	LOC	GPE-Costa-Rica
+Кувейт	Кувейт	LOC	GPE-Kuwait
+Макао	Макао	LOC	GPE-Macao
+Мексика	Мексика	LOC	GPE-Mexico
+Национального института изучения аллергических и инфекционных заболеваний США	Национальный института изучения аллергических и инфекционных заболеваний США	ORG	ORG-National-Institute-of-Allergy-and-Infectious-Diseases
+Новая Зеландия	Новая Зеландия	LOC	GPE-New-Zealand
+Перу	Перу	LOC	GPE-Peru
+РНК	РНК	PRO	PRO-RN
+России	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Саудовская Аравия	Саудовская Аравия	LOC	GPE-Saudi-Arabia
+Сингапур	Сингапур	LOC	GPE-Singapore
+Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+Старый Свет	Старый Свет	PRO	PRO-Stary-Svet
+Турции	Турция	LOC	GPE-Turkey
+Управления по санитарному надзору за качеством пищевых продуктов и медикаментов США	Управление по санитарному надзору за качеством пищевых продуктов и медикаментов США	ORG	ORG-FDA-Food-and-Drug-Administration
+Филиппины	Филиппины	LOC	GPE-Republic-of-the-Philippines
+Чили	Чили	LOC	GPE-Chile
+Швейцария	Швейцария	LOC	GPE-Switzerland
+Эквадор	Эквадор	LOC	GPE-Ecuador
+Энтони Фаучи	Энтони Фаучи	PER	PER-Anthony-Fauci
+ЮАР	ЮАР	LOC	GPE-Republic-of-South-Africa
+Южной Африки	Южная Африка	LOC	GPE-Republic-of-South-Africa
+Япония	Япония	LOC	GPE-Japan
+американцев	американцы	PER	GPE-USA
+ковид	ковид	EVT	EVT-Covid-19
+ковида	ковид	EVT	EVT-Covid-19
+ковиде	ковид	EVT	EVT-Covid-19
+ковидной	ковид	EVT	EVT-Covid-19
+ковидом	ковид	EVT	EVT-Covid-19
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусная	коронавирус	EVT	EVT-Covid-19
+коронавирусной	коронавирусной	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19

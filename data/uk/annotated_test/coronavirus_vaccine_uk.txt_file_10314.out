@@ -1,0 +1,22 @@
+uk-10314
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Telegram	Telegram	PRO	PRO-Telegram
+Viber	Viber	PRO	PRO-Viber
+Альберт Бурла	Альберт Бурла	PER	PER-Albert-Bourla
+Аргентині	Аргентина	LOC	GPE-Argentina
+Бразилії	Бразилія	LOC	GPE-Brazil
+Джеймс Галлахер	Джеймс Галлахер	PER	PER-James-Gallagher
+Джон Белл	Джон Белл	PER	PER-John-Bell
+Німеччині	Німеччина	LOC	GPE-Germany
+Оксфордського університету	Оксфордський університет	ORG	ORG-Oxford-University
+Оксфордському університеті	Оксфордський університет	ORG	ORG-Oxford-University
+Південній Африці	Південна Африка	LOC	GPE-Republic-of-South-Africa
+Пітер Горбі	Пітер Горбі	PER	PER-Peter-Horby
+США	США	LOC	GPE-USA
+Туреччині	Туреччина	LOC	GPE-Turkey
+Угур Сахін	Угур Сахін	PER	PER-Ugur-Sahin
+коронавірусом	коронавірус	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+пандемія	пандемія	EVT	EVT-Covid-19

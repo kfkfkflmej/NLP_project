@@ -1,0 +1,90 @@
+ru-27
+Obamacare	Obamacare	PRO	PRO-Obamacare
+Пятой авеню	Пятое Авеню	LOC	LOC-The-Fifth-Avenu
+FiveThirtyEight	FiveThirtyEight	ORG	ORG-FiveThirtyEight
+FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
+Obamacare	Obamacare	PRO	PRO-Obamacare
+Pew Research Center	Pew Research Center	ORG	ORG-Pew-research-center
+RBC.UA	RBC.UA	PRO	PRO-RBK
+Америка	Америка	LOC	GPE-USA
+Американские	Американские	LOC	GPE-USA
+Америке	Америка	LOC	GPE-USA
+Америку	Америка	LOC	GPE-USA
+Барак Обама	Барак Обама	PER	PER-Barack-Obama
+Бараком Обамой	Барак Обама	PER	PER-Barack-Obama
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Бретта Кавано	Бретт Кавано	PER	PER-Brett-Kavanaugh
+Буэнос-Айресе	Буэнос-Айрес	LOC	GPE-Buenos-Aires
+Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+Владимиром Путиным	Владимир Путин	PER	PER-Vladimir-Putin
+Демократы	Демократы	ORG	ORG-Democratic-Party-USA
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Индиана	Индиана	LOC	GPE-Indiana
+Кавано	Кавано	PER	PER-Brett-Kavanaugh
+Кавано	Кавано	PER	PER-Brett-Kavanaugh
+Кавано	Кавано	PER	PER-Brett-Kavanaugh
+Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+Кристин Блази Форд	Кристин Блази Форд	PER	PER-Christine-Blasey-Ford
+Мексикой	Мексика	LOC	GPE-Mexico
+Мексику	Мексика	LOC	GPE-Мexico
+Миссури	Миссури	LOC	GPE-Missouri
+Москвой	Москва	LOC	GPE-Moscow
+Огайо	Огайо	LOC	GPE-Ohio
+Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Палату представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Париже	Париж	LOC	GPE-Paris
+Пентагон	Пентагон	ORG	ORG-The-Pentagon
+Питтсбурге	Питтсбург	LOC	GPE-Pittsburgh
+Пола Раяна	Пол Раян	PER	PER-Paul-Ryan
+Путина	Путин	PER	PER-Vladimir-Putin
+Путину	Путин	PER	PER-Vladimir-Putin
+РБК	РБК	ORG	ORG-RBK-Group
+РФ	РФ	LOC	GPE-Russia
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Республиканцы	Республиканцы	ORG	ORG-Republican-Party-USA
+России	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Сайока	Сайок	PER	PER-Caesar-Sayoc
+Сайока	Сайок	PER	PER-Caesar-Sayoc
+Северного потока	Северный поток	PRO	PRO-Nord-Stream-2
+Северный поток	Северный поток	PRO	PRO-Nord-Stream-2
+Сената	Сенат	ORG	ORG-United-States-Senate
+Сенате	Сенат	ORG	ORG-United-States-Senate
+Трамп	Трамп	PER	PER-Donald-Trump
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампе	Трамп	PER	PER-Donald-Trump
+Трампом	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Украина	Украина	LOC	GPE-Ukraine
+Украину	Украина	LOC	GPE-Ukraine
+Украины	Украина	LOC	GPE-Ukraine
+Флориде	Флорида	LOC	GPE-Florida
+Форд	Форд	PER	PER-Christine-Blasey-Ford
+Цезарь Сайок	Цезарь Сайок	PER	PER-Caesar Sayoc
+Центральной Америки	Центральная Америка	LOC	GPE-Central-America
+американские выборы в 2016 году	американские выборы в 2016 году	EVT	EVT-2016-United-States-Presidential-Election
+американский	американский	LOC	GPE-USA
+американской	американская	LOC	GPE-USA
+американской	американская	PER	GPE-USA
+американцев	американцы	PER	GPE-USA
+демократам	демократы	ORG	ORG-Democratic-Party-USA
+демократам	демократы	ORG	ORG-Democratic-Party-USA
+демократами	демократы	ORG	ORG-Democratic-Party-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+демократы	демократ	ORG	ORG-Democratic-Party-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+республиканцам	республиканец	ORG	ORG-Republican-Party-USA
+республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+республиканцы	республиканцы	ORG	ORG-Republican-Party-USA

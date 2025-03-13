@@ -1,0 +1,12 @@
+sl-104
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Jelka Kacina	Jelko Kacin	PER	PER-Jelko-Kacin
+Jelko Kacin	Jelko Kacin	PER	PER-Jelko-Kacin
+Kacin	Kacin	PER	PER-Jelko-Kacin
+Slovenija	Slovenija	LOC	GPE-Slovenia
+Sloveniji	Slovenija	LOC	GPE-Slovenia
+koronavirusa	koronavirus	EVT	EVT-Covid-19
+koronavirusu	koronavirus	EVT	EVT-Covid-19
+novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+vlade RS	vlada RS	ORG	ORG-Government-of-Slovenia

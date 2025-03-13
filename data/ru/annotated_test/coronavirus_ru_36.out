@@ -1,0 +1,44 @@
+ru-36
+COVID-19	COVID-19	EVT	EVT-Covid-19
+COVID	COVID-19	EVT	EVT-Covid-19
+Cookie	Cookie	PRO	PRO-Cookie
+DW	DW	PRO	PRO-Deutsche-Welle
+Deutscher Städtetag	Deutscher Städtetag	ORG	ORG-Association-of-German-Cities
+Helmut Dedy	Helmut Dedy	PER	PER-Helmut-Dedy
+Hubertus Heil	Hubertus Heil	PER	PER-Hubertus-Heil
+Markus Söder	Markus Söder	PER	PER-Markus-Soeder
+Michael Theurer	Michael Theurer	PER	PER-Michael-Theurer
+Petra Bahr	Petra Bahr	PER	PER-Petra-Bahr
+Süddeutsche Zeitung	Süddeutsche Zeitung	PRO	PRO-SUddeutsche-Zeitung
+Wolfgang Henn	Wolfgang Henn	PER	PER-Wolfgang-Henn
+ZDF	ZDF	PRO	PRO-ZDF-TV
+Баварии	Бавария	LOC	GPE-Bavaria
+Вольфганг Хенн	Вольфганг Хенн	PER	PER-Wolfgang-Henn
+Германии	Германия	LOC	GPE-Germany
+Германия	Германия	LOC	GPE-Germany
+Деди	Хельмут Деди	PER	PER-Helmut-Dedy
+Зёдер	Маркус Зёдер	PER	PER-Markus-Soeder
+Зёдера	Маркус Зёдер	PER	PER-Markus-Soeder
+Зёдером	Маркус Зёдер	PER	PER-Markus-Soeder
+Маркус Зёдер	Маркус Зёдер	PER	PER-Markus-Soeder
+Маркуса Зёдера	Маркус Зёдер	PER	PER-Markus-Soeder
+Михаэль Тойрер	Михаэль Тойрер	PER	PER-Michael-Theurer
+Немецкие	Немецкие	PER	GPE-German
+Немецкое правительство	Немецкое правительство	ORG	ORG-German-Government
+Немецком совете по этике	Немецкий совет по этике	ORG	ORG-German-ethics-Council
+Немецкому совету по этике	Немецкий совет по этике	ORG	ORG-German-ethics-Council
+Объединении немецких городов	Объединение немецких городов	ORG	ORG-Association-of-German-Cities
+Петра Бар	Петра Бар	PER	PER-Petra-Bahr
+ФРГ	ФРГ	LOC	GPE-Germany
+Хельмута Деди	Хельмут Деди	PER	PER-Helmut-Dedy
+Хенн	Вольфганг Хенн	PER	PER-Wolfgang-Henn
+Хенна	Вольфганг Хенн	PER	PER-Wolfgang-Henn
+Хубертус Хайль	Хубертус Хайль	PER	PER-Hubertus-Heil
+баварский	Баварский	PER	GPE-Bayern-Munich
+бундестаге	бундестаг	ORG	ORG-Bundestag
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусного	коронавирусный	EVT	EVT-Covid-19
+немцев	немцы	PER	GPE-Germany
+финского	финский	LOC	GPE-Finland
+фракции оппозиционных либералов	фракция оппозиционных либералов	ORG	ORG-Free-Democratic-Party-Germany

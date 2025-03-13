@@ -1,0 +1,48 @@
+ru-45
+AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+CNN	CNN	PRO	PRO-CNN
+NBC	NBC	PRO	PRO-National-Broadcasting-Company
+Sydney Morning Herald	Sydney Morning Herald	PRO	PRO-Good-Morning-Britain
+United Oister House	United Oister House	ORG	ORG-The-White-House
+Zogby	Zogby	ORG	ORG-Zogby
+АВС	АВС	PRO	PRO-ABC
+Американские выборы	Американские выборы	EVT	EVT-2004-United-States-Presidential-Election
+Американские	Американские	LOC	GPE-USA
+Америке	Америка	LOC	GPE-USA
+Буш	Буш	PER	PER-George-Bush-Jr
+Буша	Буш	PER	PER-George-Bush-Jr
+ВВС	BBC	PRO	PRO-BBC
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Висконсин	Висконсин	LOC	GPE-Wisconsin
+Вьетнамской войны	Вьетнамская войны	EVT	EVT-Vietnam-War
+Грани.Ру	Грани.Ру	PRO	PRO-Grani.Ru
+Джо Локхарт	Джо Локхарт	PER	PER-Joe-Lockhart
+Джон Керри	Джон Керри	PER	PER-John-Kerry
+Джордж Буш	Джордж Буш	PER	PER-George-Bush-Jr
+Керри	Керри	PER	PER-John-Kerry
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+Кроуфорд	Кроуфорд	LOC	GPE-Crawford-County
+Массачусетс	Масачузетс	LOC	GPE-Massachusetts
+Огайо	Огайо	LOC	GPE-Ohio
+Палаты представителей Конгресса	Палаты представителей Конгресса	ORG	ORG-United-States-House-of-Representatives
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+Президентские выборы	Президентские выборы	EVT	EVT-2004-United-States-Presidential-Election
+США	США	LOC	GPE-USA
+Сенате	Сенат	ORG	ORG-United-States-Senate
+Техасе	Техас	LOC	GPE-Texas
+Флориде	Флорида	LOC	GPE-Florida
+Эха Москвы	Эхо Москвы	PRO	PRO-Эхо-Москвы
+Южной Дакоте	Южная Дакота	LOC	GPE-South-Dakota-US-State
+американские	американские	LOC	GPE-USA
+американский	американский	LOC	GPE-USA
+американцам	американцы	PER	GPE-USA
+выборах	выборы	EVT	EVT-2004-United-States-Presidential-Election
+выборов	выборы	EVT	EVT-2004-United-States-Presidential-Election
+выборы	выборы	EVT	EVT-2004-United-States-Presidential-Election
+коллегии выборщиков	коллегии выборщиков	ORG	ORG-United-States-Electoral-College
+коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+округе Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia
+сенаторов	сенаторы	ORG	ORG-United-States-Senate
+федеральный округ Колумбия	федеральный округ Колумбия	LOC	GPE-District-of-Columbia

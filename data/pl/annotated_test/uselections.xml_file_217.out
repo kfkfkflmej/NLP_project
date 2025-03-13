@@ -1,0 +1,33 @@
+217
+(Donalda) Trumpa	(Donald) Trump	PER	PER-Donald-Trump
+Alabama	Alabama	LOC	GPE-USA-Alabama
+Amerykanów	Amerykanie	PER	GPE-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Dystrykcie Kolumbii	Dystrykt Kolumbia	LOC	GPE-District-of-Columbia
+Florydzie	Floryda	LOC	GPE-Florida
+Głębokiego Południa	Głębokie Południe	LOC	LOC-Deep-South
+Illinois	Illinois	LOC	GPE-Illionis
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Kalifornia	Kalifornia	LOC	GPE-California
+Karolina Południowa	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+Luizjana	Luizjana	LOC	GPE-Louisiana
+Michigan	Michigan	LOC	GPE-Michigan
+Mississippi	Mississippi	LOC	GPE-Mississippi
+NYT	NYT	PRO	PRO-The-New-York-Times
+Nebrasce	Nebraska	LOC	GPE-Nebraska
+New York Times	New York Times	PRO	PRO-The-New-York-Times
+Nowym Jorku	Nowy Jork	LOC	GPE-New-York
+Ohio	Ohio	LOC	GPE-Ohio
+Oregon	Oregon	LOC	GPE-Oregon
+Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+Trump	Trump	PER	PER-Donald-Trump
+USA	USA	LOC	GPE-USA
+Waszyngton	Waszyngton	LOC	GPE-WashingtonDC
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+koronawirusa	koronawirus	EVT	EVT-Covid-19
+wyborach prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+zachodnim wybrzeżu	zachodnie wybrzeże	LOC	GPE-West-Bank

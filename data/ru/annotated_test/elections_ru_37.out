@@ -1,0 +1,71 @@
+ru-37
+rt.com	rt.com	PRO	PRO-rt.com
+Facebook	Facebook	ORG	ORG-Facebook
+Fox News	Fox News	PRO	PRO-Fox-News
+New York Post	New York Post	PRO	PRO-New-York-Post
+RT	RT	ORG	ORG-RT
+Twitter	Twitter	ORG	ORG-Twitter
+Twitter	Twitter	PRO	PRO-Twitter
+Американская	Американский	LOC	GPE-USA
+Америке	Америка	LOC	GPE-USA
+Аризона	Аризона	LOC	GPE-Arizona
+Аризоне	Аризона	LOC	GPE-Arizona
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Верховные суды штатов Пенсильвания	Верховный суд штата Пенсильвания	ORG	ORG-Supreme-Court-of-Pennsylvania
+Висконсин	Висконсин	LOC	GPE-Wisconsin
+Висконсин	Висконсин	ORG	ORG-Supreme-Court-of-Wisconsin
+Гражданской войны в США	Гражданская война в США	EVT	EVT-USA-Civil-War
+Делавэре	Делавэр	LOC	GPE-Delaware
+Демократов	Демократ	ORG	ORG-Democratic-Party-USA
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Зелёная	Зелёный	ORG	ORG-Green-Party-of-the-United-States
+Зелёной партии	Зелёная партия	ORG	ORG-Green-Party-of-the-United-States
+Кларк	Кларк	LOC	GPE-Clark-County-Nevada
+Конституции	Конституция	PRO	PRO-The-USA-Constitution
+Конституционная	Конституционный	ORG	ORG-Constitution-Party-USA
+Либертарианская	Либертарианский	ORG	ORG-Libertarian-Party-USA
+Марикопа	Марикопа	LOC	GPE-Maricopa-County
+Мичиган	Мичиган	LOC	GPE-Michigan
+Мичигана	Мичиган	LOC	GPE-Michigan
+Мичигане	Мичиган	LOC	GPE-Michigan
+Москва	Москва	LOC	GPE-Moscow
+Невада	Невада	LOC	GPE-Nevada
+Неваде	Невада	LOC	GPE-Nevada
+Невады	Невада	LOC	GPE-Nevada
+ОБСЕ	ОБСЕ	ORG	ORG-Organization-for-Security-and-Co-operation-in-Europe
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+Республиканская партия	Республиканская партия	ORG	ORG-Republican-Party-USA
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Республиканцев	Республиканец	ORG	ORG-Republican-Party-USA
+Роскомнадзором	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+США	США	LOC	GPE-USA
+Соединённых Штатах	Соединённые Штаты	LOC	GPE-USA
+Трампа	Трам	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Филадельфии	Филадельфия	LOC	GPE-Philadelphia
+Фултон	Фултон	LOC	GPE-Fulton-County
+Хантера	Хантер	PER	PER-Hunter-Biden
+Харрис	Харрис	PER	PER-Kamala-Harris
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+Шайавасси	Шайавасси	LOC	GPE-Shiawassee-County
+агентство Associated Press	агентство Associated Press	ORG	ORG-AFP-Agence-France-Press
+американские	американский	LOC	GPE-USA
+американской	американский	LOC	GPE-USA
+выборах 2020 года	выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+демократам	демократ	ORG	ORG-Democratic-Party-USA
+демократическому	демократический	ORG	ORG-Democratic-Party-USA
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+демократом	демократ	ORG	ORG-Democratic-Party-USA
+демократы	демократ	ORG	ORG-Democratic-Party-USA
+зелёные	зелёный	ORG	ORG-Green-Party-of-the-United-States
+коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+конгрессом США	конгресс США	ORG	ORG-United-States-Congress
+коронавируса	коронавирус	EVT	EVT-Covid-19
+президентских выборов 2016 года	президентские выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+республиканцев	республиканец	ORG	ORG-Republican-Party-USA

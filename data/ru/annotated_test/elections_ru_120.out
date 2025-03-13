@@ -1,0 +1,94 @@
+ru-120
+"Интерфакс"	"Интерфакс"	PRO	PRO-Interfax
+"Свобода"	"Свобода"	PRO	PRO-RFE-Radio-Free -Europe
+"Северный поток - 2"	"Северный поток - 2"	PRO	PRO-Nord-Stream-2
+America	America	LOC	GPE-USA
+FoxNews	FoxNews	PRO	PRO-Fox-News
+G7	G7	ORG	ORG-G7
+RNC2020 GOP Convention	RNC2020 GOP Convention	EVT	EVT-2020-Republican-National-Convention
+Twitter	Twitter	PRO	PRO-Twitter
+USMCA	USMCA	PRO	PRO-USMCA
+Америка	Америка	LOC	GPE-USA
+Америку	Америка	LOC	GPE-USA
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+Ближний Восток	Ближний Восток	LOC	LOC-Near-East
+ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтону	Вашингтон	LOC	GPE-WashingtonDC
+Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+Всемирной организации здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+ДОН	ДОН	PRO	PRO-The-Treaty-on-Open-Skies
+ДРСМД	ДРСМД	PRO	PRO-INF-Intermediate-Range-Nuclear-Forces-Treaty
+ДСНВ	ДСНВ	PRO	PRO-New-START
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Договора о ликвидации ракет средней и меньшей дальности	Договор о ликвидации ракет средней и меньшей дальности	PRO	PRO-IRNFT
+Договора о мерах по дальнейшему сокращению и ограничению стратегических наступательных вооружений	Договор о мерах по дальнейшему сокращению и ограничению стратегических наступательных вооружений	PRO	PRO-New-START
+Договора по открытому небу	Договор по открытому небу	PRO	PRO-The-Treaty-on-Open-Skies
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+ЕС	ЕС	LOC	ORG-European-Union
+Ираном	Иран	LOC	GPE-Iran
+КНДР	КНДР	LOC	GPE-North-Korea
+Камала Харрис	Камала Харрис	PER	PER-Kamala-Harris
+Камалу Харрис	Камала Харрис	PER	PER-Kamala-Harris
+Канадой	Канада	LOC	GPE-Canada
+Канады	Канада	LOC	GPE-Canada
+Китай	Китай	LOC	GPE-China
+Китая	Китай	LOC	GPE-China
+Кубой	Куба	LOC	GPE-Cuba
+Майкла Пенса	Майкл Пенс	PER	PER-Mike-Pence
+Мексики	Мексика	LOC	GPE-Mexico
+Мексикой	Мексика	LOC	GPE-Mexico
+Москва	Москва	LOC	GPE-Moscow
+Москве	Москва	LOC	GPE-Moscow
+Москвой	Москва	LOC	GPE-Moscow
+НАФТА	НАФТА	PRO	PRO-North-American-Free-Trade-Agreement
+Овального кабинета	Овальный кабинет	LOC	LOC-Oval-Office
+Организацию Объединенных Наций по вопросам образования, науки и культуры	Организация Объединенных Наций по вопросам образования, науке и культуре	ORG	ORG-UNESCO
+Парижского соглашения по климату	Парижское соглашение по климату	PRO	PRO-Paris-Agreement
+Пекин	Пекин	LOC	GPE-Beijing
+Пекином	Пекин	LOC	GPE-Beijing
+Пенс	Пенс	PER	PER-Mike-Pence
+РФ	РФ	LOC	GPE-Russia
+Республиканской партии США	Республиканская партия США	ORG	ORG-Republican-Party-USA
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Республиканцы	Республиканцы	ORG	ORG-Republican-Party-USA
+Рональда Рейгана	Рональд Рейган	PER	PER-Ronald-Reagan
+России	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+СВПД	СВПД	PRO	PRO-Joint-Comprehensive-Plan-of-Action
+СПЧ	СПЧ	ORG	ORG-The-United-Nations-Human-Rights-Council
+США	США	LOC	GPE-USA
+Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Сенате США	Сенат США	ORG	ORG-United-States-Senate
+Совет ООН по правам человека	Совет ООН по правам человека	ORG	ORG-The-United-Nations-Human-Rights-Council
+Совместного всеобъемлющего плана действий	Совместный всеобъемлющий план действий	PRO	PRO-Joint-Comprehensive-Plan-of-Action
+Соглашения о североамериканской зоне свободной торговли	Соглашение о североамериканской зоне свободной торговли	PRO	PRO-North-American-Free-Trade-Agreement
+ТАСС	ТАСС	PRO	ORG-TASS-Agency
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампе	Трамп	PER	PER-Donald-Trump
+Украине	Украина	LOC	GPE-Ukraine
+Шарлотт	Шарлотт	LOC	GPE-Charlotte
+Шарлотте	Шарлотт	LOC	GPE-Charlotte
+ЮНЕСКО	ЮНЕСКО	ORG	ORG-UNESCO
+американская	американский	LOC	GPE-USA
+американские	американский	LOC	GPE-USA
+американский	американский	LOC	GPE-USA
+американских	американский	LOC	GPE-USA
+американского	американский	LOC	GPE-USA
+американцев	американец	PER	GPE-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+палестинской	палестинский	LOC	GPE-Palestine
+президентских выборов 2016 года	президентские выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+присоединения украинского Крыма в 2014 году	Присоединение украинского Крыма в 2014 году	EVT	EVT-Annexation-of-Crimea
+республиканских	республиканский	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+российские	российский	LOC	GPE-Russia
+российскому	российский	LOC	GPE-Russia

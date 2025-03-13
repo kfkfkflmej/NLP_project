@@ -1,0 +1,98 @@
+ru-52
+"Ета"	"Эта"	EVT	EVT-Hurricane-Eta
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Corriere della Sera	Corriere della Sera	PRO	PRO-Corriere-della-sera
+Facebook	Facebook	PRO	PRO-Facebook
+NBC News	NBC News	PRO	PRO-NBC-News
+Reuters	Reuters	PRO	ORG-Reuters
+The Oregonian	The Oregonian	PRO	PRO-The-Oregonian
+Twitter	Twitter	PRO	PRO-Twitter
+Worldometers	Worldometers	PRO	PRO-Worldometers
+Італії	Італія	LOC	GPE-Italy
+Айова	Айова	LOC	GPE-Iowa
+Аризона	Аризона	LOC	GPE-Arizona
+Арканзас	Арканзас	LOC	GPE-Arkansas
+Байден	Байден	PER	PER-Joe-Biden
+Бангладеш	Бангладеш	LOC	GPE-Bangladesh
+Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Білого дому	Білий дім	ORG	ORG-The-White-House
+Білорусі	Білорусь	LOC	GPE-Belarus
+Вермонт	Вермонт	LOC	GPE-Vermont
+Верхней палате	Верхняя палата	ORG	ORG-United-States-Senate
+Верхней палаты	Верхняя палата	ORG	ORG-United-States-Senate
+Верховном суде США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+Верховный суд США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+Висконсин	Висконсин	LOC	GPE-Wisconsin
+Волкер	Волкер	PER	PER-Kurt-Volker
+Володимир Путін	Владимир Путин	PER	PER-Vladimir-Putin
+Демократической партией	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Демократичної партії США	Демократична партія США	ORG	ORG-Democratic-Party-USA
+Держдепартаменту США з питань України	Департамент США по вопросам Украины	ORG	ORG-US-Department-of-Ukraine-Affairs
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+Коллегия	Коллегия	ORG	ORG-United-States-Electoral-College
+Колорадо	Колорадо	LOC	GPE-Colorado
+Колумбия	Колумбия	LOC	GPE-Colombia
+Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+Курт Волкер	Курт Волкер	PER	PER-Kurt-Volker
+Луизиана	Луизиана	LOC	GPE-Louisiana
+Миннесота	Миннесота	LOC	GPE-Minnesota
+Мичиган	Мичиган	LOC	GPE-Michigan
+Мичигане	Мичиган	LOC	GPE-Michigan
+Мэн	Мэн	LOC	GPE-Maine
+Небраска	Небраска	LOC	GPE-Nebraska
+Невада	Невада	LOC	GPE-Nevada
+Нижней палате Конгресса	Нижняя палата Конгресса	ORG	ORG-House-of-Representatives(USA)
+Нижнюю палату	Нижняя палата	ORG	ORG-United-States-House-of-Representatives
+Нью-Гэмпшир	Нью-Гэмпшир	LOC	GPE-New-Hampshire
+Овальном кабинете	Овальный кабинет	ORG	ORG-Oval-Office
+Огайо	Огайо	LOC	GPE-Ohio
+Орегон	Орегон	LOC	GPE-Oregon
+Палата представителей США	Палата представителей США	ORG	ORG-United-States-House-of-Representatives
+Палате	Палата	ORG	ORG-United-States-House-of-Representatives
+Палату представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+Північна Кароліна	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Республіканської партії	Республіканська партія	ORG	ORG-Republican-Party-USA
+Росії	Росія	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Сара Макбрайд	Сара Макбрайд	PER	PER-Sarah-McBride
+Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Сенат США	Сенат США	ORG	ORG-United-States-Senate
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Сенате Конгресса США	Сенат Конгресса США	ORG	ORG-United-States-Senate
+Сенатом	Сенат	ORG	ORG-United-States-Senate
+Соединённых Штатах	Соединенные Штаты	LOC	GPE-USA
+Техас	Техас	LOC	GPE-Texas
+Техасе	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Флорида	Флорида	LOC	GPE-Florida
+Флориде	Флорида	LOC	GPE-Florida
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+Центральну Америку	Центральная Америка	LOC	GPE-Central-America
+Центральній Америці	Центральная Америка	LOC	GPE-Central-America
+Южном Кавказе	Южный Кавказ	LOC	GPE-South-Caucasus
+американские	американский	LOC	GPE-USA
+американцев	американцы	PER	GPE-USA
+американцы	американцы	PER	GPE-USA
+демократам	демократы	ORG	ORG-Democratic-Party-USA
+демократами	демократы	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+конституции	конституция	PRO	PRO-The-USA-Constitution
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцы	республиканцы	ORG	ORG-Republican-Party-USA

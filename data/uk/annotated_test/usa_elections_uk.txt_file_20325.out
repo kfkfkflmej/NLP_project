@@ -1,0 +1,25 @@
+uk-20325
+ABC	ABC	PRO	PRO-ABC-News
+CNN	CNN	ORG	ORG-CNN
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Білому домі	Білий дім	ORG	ORG-White-House
+Верховний суд	Верховний суд	ORG	ORG-Supreme-Court-of-the-United-States
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Каліфорнія	Каліфорнія	LOC	GPE-California
+Конгресом	Конгрес	ORG	ORG-United-States-Congress
+Конгресі	Конгрес	ORG	ORG-United-States-Congress
+Палати представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+Президентські вибори в США	Президентські вибори в США	EVT	EVT-2020-United-States-Presidential-Election
+Руді Джуліані	Руді Джуліані	PER	PER-Rudy-Giuliani
+США	США	LOC	GPE-USA
+Сенату	Сенат	ORG	ORG-United-States-Senate
+Трампа	Трамп	PER	PER-Donald-Trump
+виборах президента США	вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+колегії вибірників	колегія вибірників	ORG	ORG-United-States-Electoral-College
+округу Колумбія	округ Колумбія	LOC	GPE-District-of-Columbia
+інавгурація	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration

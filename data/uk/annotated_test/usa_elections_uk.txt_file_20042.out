@@ -1,0 +1,25 @@
+uk-20042
+CNN	CNN	ORG	ORG-CNN
+ONLINE.UA	ONLINE.UA	PRO	PRO-ONLINE-UA
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Бейтс	Бейтс	PER	PER-Andrew-Bates
+Білий дім	Білий дім	ORG	ORG-White-House
+Білого дому	Білий дім	ORG	ORG-White-House
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+Ендрю Бейтс	Ендрю Бейтс	PER	PER-Andrew-Bates
+Метт Морган	Метт Морган	PER	PER-Matt-Morgan
+Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
+США	США	LOC	GPE-USA
+Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Філадельфія	Філадельфія	LOC	GPE-Philadelphia
+виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election

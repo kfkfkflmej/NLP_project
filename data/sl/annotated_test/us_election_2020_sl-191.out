@@ -1,0 +1,36 @@
+sl-191
+Američane	Američani	PER	GPE-USA
+Bele hiše	Bela hiša	LOC	LOC-White-House
+Biblijo	Biblija	PRO	PRO-The-Bible
+BioNTecha	BioNTech	ORG	ORG-BioNTech
+Christopher C. Miller	Christopher C. Miller	PER	PER-Christopher-Miller
+Christopher Wray	Christopher Wray	PER	PER-Christopher-Wray
+Christopherja Wraya	Christopher Wray	PER	PER-Christopher-Wray
+Cie	cia	ORG	ORG-CIA-Central-Intelligence-Agency
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donaldu Trumpu	Donald Trump	PER	PER-Donald-Trump
+Esper	Esper	PER	PER-Mark-Esper
+Esperja	Esper	PER	PER-Mark-Esper
+Esperjem	Esper	PER	PER-Mark-Esper
+FBI	FBI	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+Georgea Floyda	George Floyd	PER	PER-George-Floyd
+Gino Haspel	Gina Haspel	PER	PER-Gina-Haspel
+Haspelova	Haspel	PER	PER-Gina-Haspel
+Hunterju	Hunter	PER	PER-Hunter-Biden
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Joeju Bidnu	Joe Biden	PER	PER-Joe-Biden
+Marka Esperja	Mark Esper	PER	PER-Mark-Esper
+Minneapolisu	Minneapolis	LOC	GPE-Minneapolis
+Pentagon	Pentagon	ORG	ORG-The-Pentagon
+Pfizerja	Pfizer	ORG	ORG-Pfizer
+Trump	Trump	PER	PER-Donald-Trump
+Trumpovemu	Trump	PER	PER-Donald-Trump
+Trumpovi	Trump	PER	PER-Donald-Trump
+Ukrajini	Ukrajina	LOC	GPE-Ukraine
+Washington	Washington	LOC	GPE-WashingtonDC
+Wray	Wray	PER	PER-Christopher-Wray
+ZDA	ZDA	LOC	GPE-USA
+cerkvi Sv. Janeza	cerkev sv. Janeza	LOC	LOC-St.-John's-Episcopal-Church
+covida 19	covid 19	EVT	EVT-Covid-19
+obveščevalne agencije Cia	obveščevalna agencija Cia	ORG	ORG-CIA-Central-Intelligence-Agency
+zveznega preiskovalnega urada	zvezni preiskovalni urad	ORG	ORG-FBI-Federal-Bureau-of-Investigation

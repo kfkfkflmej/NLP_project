@@ -1,0 +1,35 @@
+41
+AP	AP	ORG	ORG-AP-The-Associated-Press
+Biden	Biden	PER	PER-Joe-Biden
+CNN	CNN	PRO	PRO-CNN
+Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Florydzie	Floryda	LOC	GPE-Florida
+Florydę	Floryda	LOC	GPE-Florida
+Gabinecie Owalnym	Gabinet Owalny	LOC	LOC-Oval-Office
+Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+Miami	Miami	LOC	GPE-Miami
+Michigan	Michigan	LOC	GPE-Michigan
+Ohio	Ohio	LOC	GPE-Ohio
+Orlando	Orlando	LOC	GPE-Orlando
+Pasa Rdzy	Pas Rdzy	LOC	LOC-Rust-Belt
+Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+TVN24	TVN24	PRO	PRO-TVN24
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+USA	USA	LOC	GPE-USA
+Vermoncie	Vermont	LOC	GPE-Vermont
+Wirginia Zachodnia	Wirginia Zachodnia	LOC	GPE-West-Virginia
+Wirginii Zachodniej	Wirginia Zachodnia	LOC	GPE-West-Virginia
+Wirginię	Wirginia	LOC	GPE-Virginia
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+demokratów	demokraci	ORG	ORG-Democratic-Party-USA
+republikanie	republikanie	ORG	ORG-Republican-Party-USA
+republikanów	republikanie	ORG	ORG-Republican-Party-USA
+tvn24.pl	tvn24.pl	PRO	PRO-TVN24
+zachodnim wybrzeżu Stanów Zjednoczonych	zachodnie wybrzeże Stanów Zjednoczonych	LOC	GPE-West-Coast-of-the-United-States
+środkowym wschodzie	środkowy wschód	LOC	LOC-Middle-East
+środkowym zachodzie	środkowy zachód	LOC	LOC-Midwestern-United-States

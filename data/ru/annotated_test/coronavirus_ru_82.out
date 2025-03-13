@@ -1,0 +1,27 @@
+ru-82
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Covid-19	Covid-19	EVT	EVT-Covid-19
+FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+GAM-Covid-Vec	GAM-Covid-Vac	PRO	PRO-Gam-COVID-Vac
+GSK	GSK	ORG	ORG-GSK
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+SARS-CoV2	SARS-CoV2	EVT	EVT-Covid-19
+Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Всемирная организация здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+Ксения Бочарова	Ксения Бочарова	PER	PER-Ksenia-Bocharova
+Москва	Москва	LOC	GPE-Moscow
+Нового года	Новый год	EVT	EVT-New-Year
+России	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Спутник V	Спутник V	PRO	PRO-Sputnik-V
+Управление по санитарному надзору за качеством пищевых продуктов и медикаментов	Управление по санитарному надзору за качеством пищевых продуктов и медикаментов	ORG	ORG-FDA-Food-and-Drug-Administration
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусе	коронавирус	EVT	EVT-Covid-19
+коронавирусной	коронавирусной	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+коронавирусу	коронавирус	EVT	EVT-Covid-19
+короновируса	короновирус	EVT	EVT-Covid-19
+коронравирусу	коронравирус	EVT	EVT-Covid-19

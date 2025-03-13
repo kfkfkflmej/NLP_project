@@ -1,0 +1,17 @@
+95
+ARM	ARM	ORG	ORG-The-Materials-Reserves-Agency-Poland
+Agencji Rezerw Materiałowych	Agencja Rezerw Materiałowych	ORG	ORG-The-Materials-Reserves-Agency-Poland
+COVID-19	COVID-19	EVT	EVT-Covid-19
+COVID	COVID	EVT	EVT-Covid-19
+Dworczyk	Dworczyk	PER	PER-Michał-Dworczyk
+KPRM	KPRM	ORG	ORG-Office-of-the-Prime-Minister-Poland
+Michał Dworczyk	Michał Dworczyk	PER	PER-Michał-Dworczyk
+Ministerstwa	Ministerstwo	ORG	ORG-Ministry-of-Health-Poland
+Ministerstwo Zdrowia	Ministerstwo Zdrowia	ORG	ORG-Ministry-of-Health-Poland
+NFZ	NFZ	ORG	ORG-National-Health-Fund-Poland
+Narodowego Programu Szczepień	Narodowy Program Szczepień	PRO	PRO-Narodowy-Proram-Szczepień-Poland
+Narodowy Fundusz Zdrowia	Narodowy Fundusz Zdrowia	ORG	ORG-National-Health-Fund-Poland
+POZ-ty	POZ-ty	LOC	LOC-Powiatowy-Ośrodek-Zdrowia-Poland
+Polsce	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+koronawirusa	koronawirus	EVT	EVT-Covid-19

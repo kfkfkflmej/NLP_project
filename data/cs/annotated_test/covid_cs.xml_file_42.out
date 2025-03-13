@@ -1,0 +1,23 @@
+42
+Amerika	Amerika	LOC	GPE-USA
+Američané	Američané	PER	GPE-USA
+Antonína Holého	Antonín Holý	PER	PER-Antonin-Holy
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Britové	Britové	PER	GPE-Great-Britain
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Evropská unie	Evropská unie	ORG	ORG-European-Union
+Evropy	Evropa	LOC	LOC-Europe
+HIV	HIV	EVT	EVT-AIDS
+Izrael	Izrael	LOC	GPE-Israel
+Izraelci	Izraelci	PER	GPE-Israel
+Moderna	Moderna	ORG	ORG-Moderna
+Moderny	Moderna	ORG	ORG-Moderna
+Němci	Němci	PER	GPE-Germany
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Pfizerem	Pfizer	ORG	ORG-Pfizer
+Pfizeru	Pfizer	ORG	ORG-Pfizer
+Spojené státy	Spojené státy	LOC	GPE-USA
+Zdeněk Hostomský	Zdeněk Hostomský	PER	PER-Zdenek-Hostomsky
+covidu	covid	EVT	EVT-Covid-19
+koronavirus	koronavirus	EVT	EVT-Covid-19
+Ústavu organické chemie a biochemie Akademie věd	Ústav organické chemie a biochemie Akademie věd	ORG	ORG-Ustav-organicke-chemie-biochemie-akademie-ved

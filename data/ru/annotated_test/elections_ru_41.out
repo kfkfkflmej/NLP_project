@@ -1,0 +1,25 @@
+ru-41
+CNN	CNN	PRO	PRO-CNN
+Американский	Американский	PER	GPE-USA
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Демократической и Республиканской партиями	Демократическая и Республиканская партии	ORG	ORG-Democratic-and-Republican-Parties-USA
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Коллегию выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Колумбия	Колумбия	LOC	GPE-Colombia
+Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+Конституция США	Конституция США	PRO	PRO-The-USA-Constitution
+Мэн	Мэн	LOC	GPE-Maine
+Небраска	Небраска	LOC	GPE-Nebraska
+Палатой Представителей	Палата Представителей	ORG	ORG-United-States-House-of-Representatives
+США	США	LOC	GPE-USA	
+выборов в США	выборы в США	EVT	EVT-2020-United-States-Presidential-Election
+инаугурация Байдена	инаугурация Байдена	EVT	EVT-2020-Inauguration-of-Joe-Biden

@@ -1,0 +1,15 @@
+uk-10013
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Англії	Англія	LOC	GPE-England
+Велика Британія	Велика Британія	LOC	GPE-Great-Britain
+Канада	Канада	LOC	GPE-Canada
+Канаді	Канада	LOC	GPE-Canada
+Лондоні	Лондон	LOC	GPE-London
+Маргарет Кінан	Маргарет Кінан	PER	PER-Margaret-Keenan
+Нідерландах	Нідерланди	LOC	GPE-Holland
+Оттаві	Оттава	LOC	GPE-Ottawa
+Торонто	Торонто	LOC	GPE-Toronto
+Франції	Франція	LOC	GPE-France
+коронавірус	коронавірус	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19

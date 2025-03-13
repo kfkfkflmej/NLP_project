@@ -1,0 +1,13 @@
+uk-10333
+"Інтерфакс-Україна"	"Інтерфакс-Україна"	PRO	PRO-Interfax-Ukraine
+COVID-19	COVID-19	EVT	EVT-Covid-19
+COVID	COVID	EVT	EVT-Covid-19
+МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+Міністерства охорони здоров’я	Міністерство охорони здоров’я	ORG	ORG-Ministry-of-Healthcare-Ukraine
+Степанов	Степанов	PER	PER-Maksym-Stepanov
+України	Україна	LOC	GPE-Ukraine
+Укрінформ	Укрінформ	ORG	ORG-Ukrinform
+коронавірусної хвороби	коронавірусна хвороба	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+пандемією	пандемія	EVT	EVT-Covid-19

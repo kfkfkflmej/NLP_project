@@ -1,0 +1,53 @@
+ru-63
+"Спутника V"	Спутник V	PRO	PRO-Sputnik-V
+"ЭпиВакКорона"	"ЭпиВакКорона"	PRO	PRO-EpiVacCorona
+"короны"	корона	EVT	EVT-Covid-19
+Александр Лукашев	Александр Лукашев	PER	PER-Alexander-Lukashev
+Александр Федорович	Александр Федорович	PER	PER-Alexander-Feodorovich
+Андрей Шкода	Андрей Шкода	PER	PER-Andrey-Skoda
+Анна Матвеева	Анна Матвеева	PER	PER-Anna-Matveeva
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+ГБУ РД "Хунзахская ЦРБ"	ГБУ РД "Хунзахская ЦРБ"	ORG	ORG-Khunzakh-Central-District-Hospital
+ГКБ 67	ГКБ 67	ORG	ORG-Vorohobov-City-Clinical-Hospital-67
+ГП 62	ГП 62	ORG	ORG-City-Polyclinic-68-Moscow
+Дагестан	Дагестан	LOC	GPE-Republic-of-Dagestan
+Дагестана	Дагестан	LOC	GPE-Republic-of-Dagestan
+Дагестанский Хунзах	Дагестанский Хунзах	LOC	GPE-Khunzakh-District
+Дарина Чернова	Дарина Чернова	PER	PER-Darina-Chernova
+Дарина	Дарина	PER	PER-Darina-Chernova
+Дмитрий Лиознов	Дмитрий Лиознов	PER	PER-Dmitry-Lioznov
+Институт Чумакова	Институт Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+Ирина Роот	Ирина Роот	PER	PER-Irina-Root
+Ирина Самойлова	Ирина Самойлова	PER	PER-Irina-Samoylova
+Ирина	Ирина	PER	PER-Irina-Samoylova
+Калининграде	Калининград	LOC	GPE-Kaliningrad
+Константин Чернов	Константин Чернов	PER	PER-Konstantin-Chernov
+Москве	Москва	LOC	GPE-Moscow
+НИИ гриппа им. А. А.Смородинцева	НИИ гриппа им. А. А.Смородинцева	ORG	ORG-Smorodintsev-Research-Institute-of-Influenza
+Наби Кураев	Наби Кураев	PER	PER-Nabi-Kuraev
+Оксана Чигринева	Оксана Чигринева	PER	PER-Oksana-Chigrineva
+РАН	РАН	ORG	ORG-Russian-Academy-of-Sciences
+Роспотребнадзора	Роспотребнадзор	ORG	ORG-Federal-Service-for-Surveillance-on-Consumer-Rights-Protection-and-Human-Wellbeing
+России	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+Ростове	Ростов	LOC	GPE-Rostov-on-Don
+СOVID-19	СOVID-19	EVT	EVT-Covid-19
+Саратове	Саратов	LOC	GPE-Saratov
+ФГБНУ ФНЦИРИП им. М. П. Чумакова РАН	ФГБНУ ФНЦИРИП им. М. П. Чумакова РАН	ORG	ORG-Chumakov-Scientific-Center-Russia
+Хунзахском районе	Хунзахский районе	LOC	GPE-Khunzakh-District
+Центра Гамалеи	Центр Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+ковид	ковид	EVT	EVT-Covid-19
+ковида	ковид	EVT	EVT-Covid-19
+ковидом	ковид	EVT	EVT-Covid-19
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусная инфекция	коронавирусная инфекция	EVT	EVT-Covid-19
+коронавирусной инфекцией	коронавирусная инфекция	EVT	EVT-Covid-19
+коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+коронавирусную инфекцию	коронавирусная инфекция	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+коронавирусу	коронавирус	EVT	EVT-Covid-19
+научным центром "Вектор"	научный центр "Вектор"	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+российская	российская	PER	GPE-Russia
+российских	российские	PER	GPE-Russia
+центра Чумакова	центр Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia

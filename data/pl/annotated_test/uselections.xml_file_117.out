@@ -1,0 +1,21 @@
+117
+Arizonie	Arizona	LOC	GPE-Arizona
+Biden	Biden	PER	PER-Joe-Biden
+Demokraci	Demokraci	ORG	ORG-Democratic-Party-USA
+Demokraty	Demokrata	PER	ORG-Democratic-Party-USA
+Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Florydy	Floryda	LOC	GPE-Florida
+Florydzie	Floryda	LOC	GPE-Florida
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Joego Bidena	Joe Biden	PER	PER-Joe-Biden
+Michigan	Michigan	LOC	GPE-Michigan
+Minnesotę	Minnesota	LOC	GPE-Minnesota
+Ohio	Ohio	LOC	GPE-Ohio
+Onet	Onet	PRO	PRO-Onet
+Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+Trump	Trump	PER	PER-Donald-Trump
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election

@@ -1,0 +1,27 @@
+uk-20004
+CNN	CNN	ORG	ORG-CNN
+Fox News	Fox News	PRO	PRO-Fox-News
+New York Times	New York Times	ORG	ORG-New-York-Times
+Аляски	Аляска	LOC	GPE-Alaska
+Алясці	Аляска	LOC	GPE-Alaska
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Демократичну партію	Демократична партія	ORG	ORG-Democratic-Party-USA
+Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Невади	Невада	LOC	GPE-Nevada
+Неваді	Невада	LOC	GPE-Nevada
+Пенсільванії	Пенсільванія	LOC	GPE-Pennsylvania
+Північної Кароліни	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+Північній Кароліні	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+Республіканську	Республіканська	ORG	ORG-Republican-Party-USA
+Рональда Рейгана	Рональд Рейган	PER	PER-Ronald-Reagan
+СNN	СNN	ORG	ORG-CNN
+США	США	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+виборах президента США	вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+колегії виборників	колегія виборників	ORG	ORG-United-States-Electoral-College
+президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration

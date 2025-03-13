@@ -1,0 +1,34 @@
+ru-4
+AP	AP	PRO	PRO-Assosiated-Press
+CNN	CNN	PRO	PRO-CNN
+WhatsApp	WhatsApp	PRO	PRO-WhatsApp
+Аризоне	Аризона	LOC	GPE-Arizona
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Бараке Обаме	Барак Обама	PER	PER-Barack-Obama
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Висконсине	Висконсин	LOC	GPE-Wisconsin
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+Калифорнии	Калифорния	LOC	GPE-California
+Камала Харрис	Камала Харрис	PER	PER-Kamala-Harris
+Клинтон	Клинтон	PER	PER-Hillary-Clinton
+Колумбия	Колумбия	LOC	GPE-Colombia
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Мичигане	Мичиган	LOC	GPE-Michigan
+Мэн	Мэн	LOC	GPE-Maine
+Небраска	Небраска	LOC	GPE-Nebraska
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+РБК	РБК	PRO	PRO-RBK
+США	США	LOC	GPE-USA
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College

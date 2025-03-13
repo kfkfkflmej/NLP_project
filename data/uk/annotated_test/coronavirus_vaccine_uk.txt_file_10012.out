@@ -1,0 +1,14 @@
+uk-10012
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+REUTERS	REUTERS	ORG	ORG-Reuters
+Євген Дубровський	Євген Дубровський	PER	PER-Eugene-Dubrovsky
+Ангелу Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+Володимир Зеленський	Володимир Зеленський	PER	PER-Volodymyr-Zelensky
+Дубровський	Дубровський	PER	PER-Eugene-Dubrovsky
+Німеччини	Німеччина	LOC	GPE-Germany
+Україна 24	Україна 24	PRO	PRO-Ukraine-24
+України	Україна	LOC	GPE-Ukraine
+коронавірус	коронавірус	EVT	EVT-Covid-19
+коронавірусну інфекцію	коронавірусна інфекція	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19

@@ -1,0 +1,51 @@
+ru-55
+C-SPAN	C-SPAN	PRO	PRO-C-SPAN
+REUTERS	REUTERS	PRO	ORG-Reuters
+Telegram	Telegram	PRO	PRO-Telegram
+Youtube	Youtube	PRO	PRO-YouTube
+Афганистане	Афганистан	LOC	GPE-Afghanistan
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байденом	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Иран	Иран	LOC	GPE-Iran
+Китае	Китай	LOC	GPE-China
+Китай	Китай	LOC	GPE-China
+Китая	Китай	LOC	GPE-China
+Москве	Москва	LOC	GPE-Moscow
+Москвы	Москва	LOC	GPE-Moscow
+НАТО	НАТО	ORG	ORG-NATO
+Нэшвилле	Нэшвилл	LOC	GPE-Nashville
+Президентские выборы	Президентские выборы	EVT	EVT-2020-United-States-Presidential-Election
+Путина	Путин	PER	PER-Vladimir-Putin
+Путину	Путин	PER	PER-Vladimir-Putin
+РФ	РФ	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Российской Федерации	Российская Федерация	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Соединенных Штатов Америки	Соединенные Штаты Америки	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампом	Трамп	PER	PER-Donald-Trump
+УНИАН	УНИАН	PRO	PRO-UNIAN
+Украине	Украина	LOC	GPE-Ukraine
+Украины	Украина	LOC	GPE-Ukraine
+Хантер Байден	Хантер Байден	PER	PER-Hunter-Biden
+американские	американские	LOC	GPE-USA
+американский	американский	LOC	GPE-USA
+американским	американский	LOC	GPE-USA
+американских	американские	LOC	GPE-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+российский	российский	LOC	GPE-Russia
+российского	российский	LOC	GPE-Russia
+украинской	украинская	LOC	GPE-Ukraine

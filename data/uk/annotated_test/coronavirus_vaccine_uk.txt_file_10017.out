@@ -1,0 +1,14 @@
+uk-10017
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+COVID	COVID	EVT	EVT-Covid-19
+Pfizer	Pfizer	ORG	ORG-Pfizer
+ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+Всесвітньою організацією охорони здоров'я	Всесвітня організація охорони здоров'я	ORG	ORG-World-Health-Organization
+Віктор Ляшко	Віктор Ляшко	PER	PER-Viktor-Liashko
+Ляшко	Ляшко	PER	PER-Viktor-Liashko
+Пандемія	Пандемія	EVT	EVT-Covid-19
+Україні	Україна	LOC	GPE-Ukraine
+Укрінформ	Укрінформ	ORG	ORG-Ukrinform
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+пандемії	пандемія	EVT	EVT-Covid-19

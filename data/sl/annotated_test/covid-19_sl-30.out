@@ -1,0 +1,13 @@
+sl-30
+AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BNT162b1	BNT162b1	PRO	PRO-BNT162b1-vaccine
+BioNTech	BioNTech	ORG	ORG-BioNTech
+BioNTecha	BioNTech	ORG	ORG-BioNTech
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Ugur Sahin	Ugur Sahin	PER	PER-Ugur-Sahin
+covid-19	covid-19	EVT	EVT-Covid-19
+covidu-19	covid-19	EVT	EVT-Covid-19
+koronavirusu	koronavirus	EVT	EVT-Covid-19
+oxfordske univerze	oxfordska univerza	ORG	ORG-University-of-Oxford

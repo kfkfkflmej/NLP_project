@@ -1,0 +1,23 @@
+ru-68
+CNN	CNN	PRO	PRO-CNN
+Fox News	Fox News	PRO	PRO-Fox-News
+New York Times	New York Times	ORG	ORG-New-York-Times
+Аляске	Аляска	LOC	GPE-Alaska
+Аляски	Аляска	LOC	GPE-Alaska
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Демократическую партию	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Неваде	Невада	LOC	GPE-Nevada
+Невады	Невада	LOC	GPE-Nevada
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Республиканскую	Республиканская	ORG	ORG-Republican-Party-USA
+Рональда Рейгана	Рональд Рейган	PER	PER-Ronald-Reagan
+США	США	LOC	GPE-USA
+Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Северной Каролины	Северная Каролина	LOC	GPE-North-Carolina-US-State
+Трамп	Трамп	PER	PER-Donald-Trump
+американские	американский	LOC	GPE-USA
+коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College

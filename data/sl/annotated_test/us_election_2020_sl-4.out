@@ -1,0 +1,17 @@
+sl-4
+AP	AP	ORG	ORG-AP-The-Associated-Press
+Al Gore	Al Gore	PER	PER-Al-Gore
+Antonina Scalie	Antonin Scalia	PER	PER-Antonin-Scalia
+Bader Ginsburgove	Bader Ginsburg	PER	PER-Ruth-Bader-Ginsburg
+Busha	Bush	PER	PER-George-Bush-Jr
+Floridi	Florida	LOC	GPE-Florida
+Georgu Bushu mlajšemu	George Bush mlajši	PER	PER-George-Bush-Jr
+Josepha Bidna	Joseph Biden	PER	PER-Joe-Biden
+Merricka Garlanda	Merrick Garland	PER	PER-Merrick-Garland
+Republikanci	Republikanci	ORG	ORG-Republican-Party-USA
+Trump	Trump	PER	PER-Donald-Trump
+Vrhovno sodišče ZDA	Vrhovno sodišče ZDA	ORG	ORG-Supreme-Court-of-the-United-States
+ZDA	ZDA	LOC	GPE-USA
+demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+koronavirusa	koronavirus	EVT	EVT-Covid-19
+vrhovnim sodiščem ZDA	vrhovno sodišče ZDA	ORG	ORG-Supreme-Court-of-the-United-States

@@ -1,0 +1,32 @@
+274
+Berlin	Berlin	LOC	GPE-Berlin
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Brukseli	Bruksela	LOC	GPE-Brussles
+Bundestagu	Bundestag	ORG	ORG-Bundestag
+Chiny	Chiny	LOC	GPE-China
+Europie	Europa	LOC	LOC-Europe
+Francją	Francja	LOC	GPE-France
+Frankfurter Allgemeine Zeitung	Frankfurter Allgemeine Zeitung	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+Izrael	Izrael	LOC	GPE-Israel
+Jens Spahn	Jens Spahn	PER	PER-Jens-Spahn
+Komisji Stałych Szczepień przy RKI	Komisja Stałych Szczepień przy RKI	ORG	ORG-Vaccination-Commitee-Robert-Koch-Institute
+Magdeburga	Magdeburg	LOC	GPE-Magdeburg
+Mertensa	Mertens	PER	PER-Thomas-Mertens
+Neue Osnabruecker Zeitung	Neue Osnabruecker Zeitung	PRO	PRO-Neue-Osnabruecker-Zeitung
+Niderlandami	Niderlandy	LOC	GPE-The-Netherlands
+Niemczech	Niemcy	LOC	GPE-Germany
+Niemców	Niemcy	PER	GPE-Germany
+Niemiec	Niemcy	LOC	GPE-Germany
+Nordbayerischer Kurier	Nordbayerischer Kurier	PRO	PRO-Nordbayerischer-Kurier
+Querdenker	Querdenker	ORG	ORG-Querdenker
+Reutlinger General-Anzeiger	Reutlinger General-Anzeiger	PRO	PRO-Reutlinger-General-Anzeiger
+SPD	SPD	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+Thomasa Mertensa	Thomas Mertens	PER	PER-Thomas-Mertens
+UE	UE	ORG	ORG-European-Union
+USA	USA	LOC	GPE-USA
+Ugur Sahin	Ugur Sahin	PER	PER-Ugur-Sahin
+Volksstimme	Volksstimme	PRO	PRO-Volksstimme
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Włochami	Włosi	LOC	GPE-Italy
+Yougov	Yougov	ORG	ORG-YouGov
+koronawirus	koronawirus	EVT	EVT-Covid-19

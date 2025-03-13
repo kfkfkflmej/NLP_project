@@ -1,0 +1,49 @@
+sl-22
+Američanom	Američani	PER	GPE-USA
+Andrew Cuomo	Andrew Cuomo	PER	PER-Andrew-Cuomo
+Arizoni	Arizona	LOC	GPE-Arizona
+Bele hiše	Bela hiša	LOC	LOC-White-House
+Beli hiši	Bela hiša	LOC	LOC-White-House
+Belo hišo	Bela hiša	LOC	LOC-White-House
+Biden	Biden	PER	PER-Joe-Biden
+Bidnom	Biden	PER	PER-Joe-Biden
+Bidnova	Biden	PER	PER-Joe-Biden
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Cuomov	Cuomo	PER	PER-Andrew-Cuomo
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+Florido	Florida	LOC	GPE-Florida
+Georgia	Georgia	LOC	GPE-Georgia-US-state
+Georgie	Georgia	LOC	GPE-Georgia-US-state
+Giulianijevi	Giuliani	PER	PER-Rudy-Giuliani
+Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+Josephu Bidnu	Joseph Biden	PER	PER-Joe-Biden
+Kalifornija	Kalifornija	LOC	GPE-California
+Michiganu	Michigan	LOC	GPE-Michigan
+Nevada	Nevada	LOC	GPE-Nevada
+New York	New York	LOC	GPE-New-York
+New Yorka	New York	LOC	GPE-New-York
+New Yorku	New York	LOC	GPE-New-York
+Newyorčanom	Newyorčani	PER	GPE-New-York
+Oregon	Oregon	LOC	GPE-Oregon
+Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Pfizerju	Pfizer	ORG	ORG-Pfizer
+Porter Wright Morris & Arthur	Porter Wright Morris & Arthur	ORG	ORG-Porter-Wright-Morris&Arthur
+Rich Azzopardi	Rich Azzopardi	PER	PER-Rich-Azzopardi
+Ron Klain	Ron Klain	PER	PER-Ron-Klain
+Rudyja Giulianija	Rudy Giuliani	PER	PER-Rudy-Giuliani
+Trump	Trump	PER	PER-Donald-Trump
+Trumpova	Trump	PER	PER-Donald-Trump
+Trumpove	Trump	PER	PER-Donald-Trump
+Trumpovi	Trump	PER	PER-Donald-Trump
+Trumpu	Trump	PER	PER-Donald-Trump
+Uprave za hrano in zdravila	Uprava za hrano in zdravila	ORG	ORG-FDA-Food-and-Drug-Administration
+Washington	Washington	LOC	GPE-WashingtonDC
+ZDA	ZDA	LOC	GPE-USA
+covida-19	covid-19	EVT	EVT-Covid-19
+demokrate	demokrati	ORG	ORG-Democratic-Party-USA
+koronavirus	koronavirus	EVT	EVT-Covid-19
+koronavirusu	koronavirus	EVT	EVT-Covid-19

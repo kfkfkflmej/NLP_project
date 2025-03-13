@@ -1,0 +1,27 @@
+ru-18
+COVAX	COVAX	ORG	ORG-Covax
+COVID-19	COVID-19	EVT	EVT-Covid-19
+COVID	COVID-19	EVT	EVT-Covid-19
+Pfizer / BioNTech	Pfizer-BioNTech	PRO	PRO-BioNTech-Vac
+Sinovac Biotech	Sinovac Biotech	PRO	PRO-SinoVac
+Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+Sinovac	Sinovac	PRO	PRO-SinoVac
+ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+Всемирной организации здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+Денис Шмыгаль	Денис Шмыгаль	PER	PER-Denis-Shmygal
+ЕС	ЕС	ORG	ORG-European-Union
+Интерфакс-Украина	Интерфакс-Украина	PRO	PRO-Interfax-Ukraine
+Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+Минздрав	Минздрав	ORG	ORG-Ministry-of-Healthcare-Ukraine
+Минздравом	Минздрав	ORG	ORG-Ministry-of-Healthcare-Ukraine
+Слуга народа	Слуга народа	ORG	ORG-Servant-Of-People
+Сніданку з 1+1	Сніданок з 1+1	PRO	PRO-"Breakfast with 1+1"
+Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+Украина	Украина	LOC	GPE-Ukraine
+Украине	Украина	LOC	GPE-Ukraine
+Украинцы	Украинцы	PER	GPE-Ukraine
+Украины	Украина	LOC	GPE-Ukraine
+Шмыгаль	Денис Шмыгаль	PER	PER-Denis-Shmygal
+коронавируса	Коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+украинцы	Украинцы	PER	GPE-Ukraine

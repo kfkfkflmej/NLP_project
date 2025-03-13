@@ -1,0 +1,49 @@
+ru-71
+Black Lives Matter	Black Lives Matter	EVT	EVT-Black-Lives-Matter
+CNN	CNN	PRO	PRO-CNN
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Fox News	Fox News	PRO	PRO-Fox-News
+realcleanpolitics.com	realcleanpolitics.com	PRO	PRO-RealClearPolitics
+Авраама Линкольна	Авраам Линкольн	PER	PER-Abraham-Lincoln
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Бараке Обаме	Барак Обама	PER	PER-Barack-Obama
+Валерий Гарбузов	Валерий Гарбузов	PER	PER-Valerii-Garbuzov
+Виктора Шокина	Виктор Шокин	PER	PER-Viktor-Shokin
+Демократ	Демократ	ORG	ORG-Democratic-Party-USA
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джо	Джо	PER	PER-Joe-Biden
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Института США и Канады РАН	Институт США и Канады РАН	ORG	ORG-Institute-for-US-and-Canadian-Studies-RAS
+Иран	Иран	LOC	GPE-Iran
+Китай	Китай	LOC	GPE-China
+Крым	Крым	LOC	GPE-Crimea
+Лужкова	Лужков	PER	PER-Yury-Luzhkov
+Москвы	Москва	LOC	GPE-Moscow
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+Путина	Путин	PER	PER-Vladimir-Putin
+России	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Техас	Техас	LOC	GPE-Texas
+Техасе	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампа	Трампа	PER	PER-Donald-Trump
+Трампом	Трамп	PER	PER-Donald-Trump
+Украине	Украина	LOC	GPE-Ukraine
+Украины	Украина	LOC	GPE-Ukraine
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+американские	американские	LOC	GPE-USA
+американской	американский	LOC	GPE-USA
+демократа	демократ	ORG	ORG-Democratic-Party-USA
+коронавирус	коронавирус	EVT	EVT-Covid-19
+республиканец	республиканец	ORG	ORG-Republican-Party-USA
+республиканца	республиканец	ORG	ORG-Republican-Party-USA
+российская	российский	LOC	GPE-Russia
+российские	российские	LOC	GPE-Russia
+украинского	украинский	LOC	GPE-Ukraine
+украинской	украинский	LOC	GPE-Ukraine

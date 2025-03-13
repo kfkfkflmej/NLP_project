@@ -1,0 +1,41 @@
+ru-198
+Александр III	Александр III	PER	PER-Alexander-III
+Александр II	Александр II	PER	PER-Alexander-II
+Александр I	Александр I	PER	PER-Alexander-I
+Американцы	американцы	PER	GPE-USA
+Америке	Америка	LOC	GPE-USA
+Америки	Америка	LOC	GPE-USA
+Буш-младший	Буш-младший	PER	PER-George-Bush-Jr
+Буш	Буш	PER	PER-George-Bush-Jr
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Вашингтонский	вашингтонский	LOC	GPE-WashingtonDC
+Вашингтону	Вашингтон	LOC	GPE-WashingtonDC
+Вирджинии	Вирджиния	LOC	GPE-Virginia
+Госдепа	Госдеп	ORG	ORG-Department-of-State-USA
+Госдепу	Госдеп	ORG	ORG-Department-of-State-USA
+Калининграде	Калининград	LOC	GPE-Kaliningrad
+Калифорнии	Калифорния	LOC	GPE-California
+Коллегии Выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+Колорадо	Колорадо	LOC	GPE-Colorado
+Колумбия	Колумбия	LOC	GPE-District-of-Columbia
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Мэриленде	Мэриленд	LOC	GPE-Maryland
+Нью-Хэмпшира	Нью-Хэмпшир	LOC	GPE-New-Hampshire
+Орегоне	Орегон	LOC	GPE-Oregon
+Политбюро	Политбюро	ORG	ORG-USSR-Politburo
+России	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Сената	Сенат	ORG	ORG-United-States-Senate
+Сенатом	Сенат	ORG	ORG-United-States-Senate
+Сиэтле	Сиэтл	LOC	GPE-Seattle
+Техас	Техас	LOC	GPE-Texas
+Флориде	Флорида	LOC	GPE-Florida
+Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+ЦК	ЦК	ORG	ORG-CPSU-Central-Committee
+Эл Гор	Эл Гор	PER	PER-Al-Gore
+американские	американские	LOC	GPE-USA
+западной	западная	LOC	LOC-West
+калифорнийских	калифорнийские	LOC	GPE-California

@@ -1,0 +1,13 @@
+311
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Krystyna Janda	Krystyna Janda	PER	PER-Krystyna-Janda
+Leszek Miller	Leszek Miller	PER	PER-Leszek-Miller
+Narodowy Program Szczepień	Narodowy Program Szczepień	PRO	PRO-Narodowy-Proram-Szczepień-Poland
+Polaków	Polacy	PER	GPE-Poland
+Polsce	Polska	LOC	GPE-Poland
+WUM	WUM	ORG	ORG-Warsaw-Medical-University
+Warszawskiego Uniwersytetu Medycznego	Warszawski Uniwersytet Medyczny	ORG	ORG-Warsaw-Medical-University
+Zbigniew Gaciong	Zbigniew Gaciong	PER	PER-Zbigniew-Gaciong
+koronawirusa	koronawirus	EVT	EVT-Covid-19
+koronawirusowi	koronawirus	EVT	EVT-Covid-19
+szpitalu WUM	szpital WUM	LOC	LOC-Medical-Hospital-Warsaw-Medical-University

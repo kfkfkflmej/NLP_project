@@ -1,0 +1,25 @@
+uk-10035
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+Becton Dickinson	Becton Dickinson	ORG	ORG-Becton-Dickinson
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+FT	FT	PRO	PRO-Financial-Times
+Financial Times	Financial Times	PRO	PRO-Financial-Times
+Moderna	Moderna	ORG	ORG-Moderna
+OraSure Technologies	OraSure Technologies	ORG	ORG-Aqoza-technologies
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Анжела Хванг	Анжела Хванг	PER	PER-Angela-Hwang
+Оксфордський університет	Оксфордський університет	ORG	ORG-Oxford-University
+Сан-Франциско	Сан-Франциско	LOC	GPE-San-Francisco
+Стефан Бансель	Стефан Бансель	PER	PER-Stephan-Bancel
+Стівен Тан	Стівен Тан	PER	PER-Stephen-Tan
+Тан	Тан	PER	PER-Stephen-Tan
+Том Полен	Том Полен	PER	PER-Tom-Pollen
+грипом	грип	EVT	EVT-Influenza
+конференції охорони здоров'я JPMorgan	конференція охорони здоров'я JPMorgan	EVT	EVT-JPMorgan-Health-Conference
+коронавірус	коронавірус	EVT	EVT-Covid-19
+коронавірусом	коронавірус	EVT	EVT-Covid-19
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+пандемія	пандемія	EVT	EVT-Covid-19
+пандемією	пандемія	EVT	EVT-Covid-19
+пандемії	пандемія	EVT	EVT-Covid-19

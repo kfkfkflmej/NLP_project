@@ -1,0 +1,26 @@
+uk-10338
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+COVAX	COVAX	PRO	PRO-Covax-initiative
+COVID-19	COVID-19	EVT	EVT-Covid-19
+LB.ua	LB.ua	PRO	PRO-LB.ua
+Moderna	Moderna	ORG	ORG-Moderna
+NVX-CoV2373	NVX-CoV2373	PRO	PRO-NVX-CoV2373
+ONLINE.UA	ONLINE.UA	PRO	PRO-ONLINE-UA
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Serum	Serum	ORG	ORG-Serum-Institute-of-India
+Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+Віктор Ляшко	Віктор Ляшко	PER	PER-Viktor-Liashko
+Глобального альянсу	Глобальний альянс	ORG	ORG-Global-Aliance-for-vaccination
+Київ	Київ	LOC	GPE-Kyiv
+Ляшко	Ляшко	PER	PER-Viktor-Liashko
+МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+Мінфіном	Мінфін	ORG	ORG-Ministry-of-Finance-Ukraine
+Міністерства охорони здоров’я	Міністерство охорони здоров’я	ORG	ORG-Ministry-of-Healthcare-Ukraine
+Національною службою здоров’я	Національна служба здоров’я	ORG	ORG-National-Health-Service-of-Ukraine
+Україна	Україна	LOC	GPE-Ukraine
+України	Україна	LOC	GPE-Ukraine
+Україні	Україна	LOC	GPE-Ukraine
+коронавірусу	коронавірус	EVT	EVT-Covid-19
+мРНК-вакцина	мРНК-вакцина	PRO	PRO-mRNA-Vaccine
+мРНК-вакцину	мРНК-вакцина	PRO	PRO-mRNA-Vaccine

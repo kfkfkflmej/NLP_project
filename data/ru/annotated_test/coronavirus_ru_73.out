@@ -1,0 +1,50 @@
+ru-73
+BioNTech	BioNTech	ORG	ORG-BioNTech
+JCVI	JCVI	ORG	ORG-JCVI-Joint-Committee-on-Vaccination-and-Immunisation-UK
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Австралия	Австралия	LOC	GPE-Australia
+Австрии	Австрия	LOC	GPE-Austria
+Америке	Америка	LOC	GPE-USA
+Англии	Англия	LOC	GPE-Great-Britain
+Англия	Англия	LOC	GPE-Great-Britain
+Белом доме	Белый дом	ORG	ORG-The-White-House
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Британии	Британия	LOC	GPE-Great-Britain
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Германии	Германия	LOC	GPE-Germany
+Германия	Германия	LOC	GPE-Germany
+Дауна	Даун	PER	PER-John-Langdon-Down
+Джером Адамс	Джером Адамс	PER	PER-Jerome-Michael-Adams
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джонсон	Джонсон	PER	PER-Boris-Johnson
+Еврокомиссия	Еврокомиссия	ORG	ORG-European-Commission
+Евросоюз	Евросоюз	ORG	ORG-European-Union
+Евросоюза	Евросоюз	ORG	ORG-European-Union
+Италия	Италия	LOC	GPE-Italy
+Карл Густав XVI	Карл Густав XVI	PER	PER-Carl-XVI-Gustaf
+Коронавирус	Коронавирус	EVT	EVT-Covid-19
+Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+Нидерландах	Нидерланды	LOC	GPE-Holland
+Нидерланды	Нидерланды	LOC	GPE-Holland
+Нового Южного Уэльса	Новый Южный Уэльс	LOC	GPE-New-South-Wales
+Объединенный комитет по вакцинации и иммунизации Великобритании	Объединенный комитет по вакцинации и иммунизации Великобритании	ORG	ORG-JCVI-Joint-Committee-on-Vaccination-and-Immunisation-UK
+Пенса	Пенс	PER	PER-Mike-Pence
+Правительство Швеции	Правительство Швеции	ORG	ORG-Government-of-Sweden
+Рождества	Рождество	EVT	EVT-Christmas
+США	США	LOC	GPE-USA
+Северной Ирландии	Северная Ирландия	LOC	GPE-Northern-Ireland
+Сиднея	Сидней	LOC	GPE-Sydney
+Уэльса	Уэльс	LOC	GPE-Wales
+Уэльсе	Уэльс	LOC	GPE-Wales
+Швеции	Швеция	LOC	GPE-Sweden
+Швеция	Швеция	LOC	GPE-Sweden
+Шотландии	Шотландия	LOC	GPE-Scotland
+австралийцев	австралийцы	PER	GPE-Australia
+американцев	американцы	PER	GPE-USA
+британскими	британские	PER	GPE-Great-Britain
+итальянцам	итальянцы	PER	GPE-Italia
+ковид	ковид	EVT	EVT-Covid-19
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19

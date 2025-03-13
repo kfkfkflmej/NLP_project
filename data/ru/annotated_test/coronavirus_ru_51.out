@@ -1,0 +1,15 @@
+ru-51
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COCID-19	COCID-19	EVT	EVT-Covid-19
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Moderna	Moderna	ORG	ORG-Moderna
+Nature	Nature	PRO	PRO-Nature-(journal)
+Nature	Nature	PRO	PRO-Nature-(journal)
+Pfizer	Pfizer	ORG	ORG-Pfizer
+REUTERS	REUTERS	ORG	ORG-Reuters
+ИноСМИ	ИноСМИ	PRO	PRO-InoSMI
+Линдси Байден	Линдси Байден	PER	PER-Lindsey-R-Baden
+США	США	LOC	GPE-USA
+УНИАН	УНИАН	PRO	PRO-UNIAN
+Хана Эль Сали	Хана Эль Сали	PER	PER-Hana-El-Sahly
+коронавируса	коронавирус	EVT	EVT-Covid-19

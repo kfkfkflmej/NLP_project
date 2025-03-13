@@ -1,0 +1,23 @@
+231
+Alexandra Ocasio-Cortez	Alexandra Ocasio-Cortez	PER	PER-Alexandria-Ocasio-Cortez
+Ameryka	Ameryka	LOC	GPE-USA
+Amerykanie	Amerykanie	PER	GPE-USA
+Arizonie	Arizona	LOC	GPE-Arizona
+Biden	Biden	PER	PER-Joe-Biden
+Demokratom	Demokraci	ORG	ORG-Democratic-Party-USA
+Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donaldowi Trumpowi	Donald Trump	PER	PER-Donald-Trump
+Dystrykcie Kolumbii	Dystrykt Kolumbia	LOC	GPE-District-of-Columbia
+Florydzie	Floryda	LOC	GPE-Florida
+Izby Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+Joe Biden	Joe Biden	PER	PER-Joe-Biden
+Minnesotę	Minnesota	LOC	GPE-Minnesota
+Ohio	Ohio	LOC	GPE-Ohio
+Senatu	Senat	ORG	ORG-United-States-Senate
+Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+Teksasu	Teksas	LOC	GPE-Texas
+Trump	Trump	PER	PER-Donald-Trump
+Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+wyborach prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+wyborów prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election

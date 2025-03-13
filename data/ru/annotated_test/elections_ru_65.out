@@ -1,0 +1,40 @@
+ru-65
+NYT	NYT	PRO	PRO-The-New-York-Times
+«Нью-Йорк таймс»	Нью-Йорк Таймс	PRO	PRO-The-New-York-Times
+«Уолл-стрит джорнел»	Уолл-стрит джорнел	PRO	PRO-Wall-Street-Journal
+Агентство ТАСС	Агентство ТАСС	ORG	ORG-TASS-Agency
+Америкой	Америка	LOC	GPE-USA
+Байдена	Байден	PER	PER-Joe-Biden
+Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+Виктора Ющенко	Виктор Ющенко	PER	PER-Viktor-Yushchenko
+Владимир Зеленский	Владимир Зеленский	PER	PER-Volodymyr-Zelensky
+Грузии	Грузия	LOC	GPE-Georgia
+Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+ЕС	ЕС	LOC	ORG-European-Union
+Зеленский	Зеленский	PER	PER-Volodymyr-Zelensky
+Зеленского	Зеленский	PER	PER-Volodymyr-Zelensky
+Йенс Столтенберг	Йенс Столтенберг	PER	PER-Jens-Stoltenberg
+Капитолии	Капитолии	ORG	ORG-United-States-Congress
+Капитолий	Капитолий	ORG	ORG-United-States-Congress
+Капитолия	Капитолия	ORG	ORG-United-States-Congress
+Киев	Киев	LOC	GPE-Kiev
+Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+Конгресс	Конгресс США	ORG	ORG-United-States-Congress
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Меркель	Меркель	PER	PER-Angela-Merkel
+НАТО	НАТО	ORG	ORG-NATO
+СССР	СССР	LOC	GPE-USSR
+США	США	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Украина	Украина	LOC	GPE-Ukraine
+Украине	Украина	LOC	GPE-Ukraine
+Украины	Украина	LOC	GPE-Ukraine
+американского Майдана	американский Майдан	EVT	EVT-2021-storming-of -the-United-States-Capitol
+американского	американский	LOC	GPE-USA
+в Белоруссии в 2020-м году	выборы в Белоруссии в 2020-м году	EVT	EVT-2020-Belarus-Presidential-election
+в Грузии в 2003-м году	выборы в Грузии в 2003-м году	EVT	EVT-2003-Georgia-Presidential-election
+выборов на Украине в 2004 году	выборы на Украине в 2004 году	EVT	EVT-2004-Ukraine-Presidential-Election
+победу Байдена	победа Байдена	EVT	EVT-2020-United-States-Presidential-Election
+президентских выборах 3 ноября 2020 года	президентские выборы 3 ноября 2020 года	EVT	EVT-2020-United-States-Presidential-Election

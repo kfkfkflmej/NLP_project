@@ -1,0 +1,83 @@
+ru-37
+Calmette	Calmette	PER	PER-Albert-Calmette
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Guérin	Guérin	PER	PER-Camille-Guérin
+Lancet	Lancet	PRO	PRO-The-Lancet
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Science	Science	PRO	PRO-Science-journal
+Ааби	Ааби	PER	PER-Peter-Aaby
+Австралии	Австралия	LOC	GPE-Australia
+Андреем Илларионовым	Андрей Илларионов	PER	PER-Andrey-Illarionov
+Анча Баранова	Анна Баранова	PER	PER-Anna-Baranova
+БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+Бельгии	Бельгия	LOC	GPE-Belgium
+Бельгия	Бельгия	LOC	GPE-Belgium
+Бенн	Бенн	PER	PER-Christine-Stabell-Benn
+Би-би-си	Би-би-си	ORG	ORG-BBC-Ltd
+Болгария	Болгария	LOC	GPE-Bulgaria
+ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+Венгрия	Венгрия	LOC	GPE-Hungary
+Гвинее-Бисау	Гвинея-Бисау	LOC	GPE-Guinea-Bissau
+Герена	Герен	PER	PER-Camille-Guérin
+Германия	Германия	LOC	GPE-Germany
+Гонконг	Гонконг	LOC	GPE-China
+Дмитрий Купраш	Дмитрий Купраш	PER	PER-‪Dmitry-Kuprash
+ЕС	ЕС	ORG	ORG-European-Union
+ИБР РАН	ИБР РАН	ORG	ORG-Institute-of-Developmental-Biology
+ИБР	ИБР	ORG	ORG-Institute-of-Developmental-Biology
+Илларионова	Илларионова	PER	PER-Andrey-Illarionov
+Индонезия	Индонезия	LOC	GPE-Indonesia
+Института биологии развития	Институт биологии развития	ORG	ORG-Institute-of-Developmental-Biology
+Институте экономического анализа	Институт экономического анализа	ORG	ORG-Institute-for-Economic-Analysis
+Институтом	Институт	ORG	ORG-Institute-of-Microbiology-BAS
+Ирина Лядова	Ирина Лядова	PER	PER-Irina-Lyadova
+Испания	Испания	LOC	GPE-Spain
+Италии	Италия	LOC	GPE-Italy
+Италия	Италия	LOC	GPE-Italy
+Казахстан	Казахстан	LOC	GPE-Kazakhstan
+Кальмета	Кальмет	PER	PER-Albert-Calmette
+Канада	Канада	LOC	GPE-Canada
+Китае	Китай	LOC	GPE-China
+Китай	Китай	LOC	GPE-China
+Кристина Стабелл Бенн	Кристина Стабелл Бенн	PER	PER-Christine-Stabell-Benn
+Латвия	Латвия	LOC	GPE-Latvia
+Ливан	Ливан	LOC	GPE-Lebanon
+Лядова	Лядова	PER	PER-Irina-Lyadova
+МГУ	МГУ	ORG	ORG-Moscow-State-University
+Мексика	Мексика	LOC	GPE-Mexico
+НИИ вакцин и сывороток	НИИ вакцин и сывороток	ORG	ORG-Scientific-Research-Institute-of-Vaccines-and-Serums
+Нидерландов	Нидерланды	LOC	GPE-Holland
+Нидерланды	Нидерланды	LOC	GPE-Holland
+Николай Воронин	Николай Воронин	PER	PER-Nikolai-Voronin
+Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+Оксана Свитич	Оксана Свитич	PER	PER-Oksana-Svitich
+Петер Ааби	Петер Ааби	PER	PER-Peter-Aaby
+Польша	Польша	LOC	GPE-Poland
+РАН	РАН	ORG	ORG-Russian-Academy-of-Sciences
+России	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+Румыния	Румыния	LOC	GPE-Romania
+США	США	LOC	GPE-USA
+Свитич	Свитич	PER	PER-Oksana-Svitich
+Словакия	Словакия	LOC	GPE-Slovakia
+Таиланд	Таиланд	LOC	GPE-Thailand
+Таиланде	Таиланд	LOC	GPE-Thailand
+Университета Назарбаева	Университет Назарбаева	ORG	ORG-Nazarbayev-University
+Университета Техаса	Университет Техаса	ORG	ORG-University-of-Texas
+Университете Джорджа Мэнсона	Университет Джорджа Мэнсона	ORG	ORG-George-Mason-University
+Филиппины	Филиппины	LOC	GPE-Republic-of-the-Philippines
+Франции	Франция	LOC	GPE-France
+Швейцария	Швейцария	LOC	GPE-Switzerland
+Школы системной биологии	Школа системной биологии	ORG	ORG-School-of-Systems-Biology
+Южная Корея	Южная Корея	LOC	GPE-South-Korea
+Японии	Япония	LOC	GPE-Japan
+Японию	Япония	LOC	GPE-Japan
+Япония	Япония	LOC	GPE-Japan
+американском	американский	PER	GPE-USA
+датчане	датчане	PER	GPE-Denmark
+казахстанского	казахстанский	PER	GPE-Kazakhstan
+коронавирус	коронавирус	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+российском	российский	PER	GPE-Russia

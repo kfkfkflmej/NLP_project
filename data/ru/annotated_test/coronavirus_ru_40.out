@@ -1,0 +1,39 @@
+ru-40
+COVID-19	COVID-19	EVT	EVT-Covid-19
+IRK.ru	IRK.ru	PRO	PRO-IRK
+«Гам-КОВИД-Вак»	Гам-КОВИД-Вак	PRO	PRO-Gam-COVID-Vac
+«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+«Спутник-V»	Спутник-V	PRO	PRO-Sputnik-V
+Ангарске	Ангарск	LOC	GPE-Angarsk
+Бодайбо	Бодайбо	LOC	GPE-Bodaybo
+Бохане	Бохан	LOC	GPE-Bokhan
+Братске	Братск	LOC	GPE-Bratsk
+В Иркутской области	Иркутская область	LOC	GPE-Irkutsk-Region
+Госуслуги	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+Иркутске	Иркутск	LOC	GPE-Irkutsk
+Иркутской области	Иркутская область	LOC	GPE-Irkutsk-Region
+Куйтуне	Куйтун	LOC	GPE-Kuytun
+МСЧ ИАПО	МСЧ ИАПО	ORG	ORG-Ministry-of-Emergency-Situatuons
+Нижнеудинске	Нижнеудинск	LOC	GPE-Nizhneudinsk
+РФ	РФ	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Тайшете	Тайшет	LOC	GPE-Tayshet
+Татьяна Голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+Тулуне	Тулун	LOC	GPE-Tulun
+Усть-Илимске	Усть-Илимск	LOC	GPE-Ust-Ilimsk
+Усть-Куте	Усть-Кут	LOC	GPE-Ust-Cut
+Усть-Ордынский	Усть-Ордынский	LOC	GPE-Ust-Ordynsky
+Шелехове	Шелехов	LOC	GPE-Shelekhov
+Якова Сандакова	Яков Сандаков	PER	PER-Yakov-Sandakov
+больницы № 3	больница №3	LOC	GPE-Irkutsk-City-Clinical-Hospital-No.3
+больницы № 9	больница №9	LOC	GPE-Irkutsk-City-Clinical-Hospital-No.9
+кврачу38.рф	кврачу38.рф	PRO	PRO-Kvrachu38
+ковида	ковид	EVT	EVT-Covid-19
+ковидом	ковид	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусная	коронавирус	EVT	EVT-Covid-19
+коронавирусу	коронавирус	EVT	EVT-Covid-19
+минздрава	минздрав	ORG	ORG-Ministry-of-Health-Russia
+поликлиника № 11	поликлиника №11	LOC	GPE-Irkutsk-City-Polyclinic-No.11
+поликлиника № 17	поликлиника №17	LOC	GPE-Irkutsk-City-Polyclinic-No.17
+стопкоронавирус.рф	стопкоронавирус.рф	PRO	PRO-Stop-Coronavirus

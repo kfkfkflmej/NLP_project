@@ -1,0 +1,45 @@
+sl-222
+3M	3M	ORG	ORG-3M
+Američanom	Američani	PER	GPE-USA
+Ameriški center za nadzor nad boleznimi	Ameriški center za nadzor nad boleznimi	ORG	ORG-Centers-for-Disease-Control
+Andrew Cuomo	Andrew Cuomo	PER	PER-Andrew-Cuomo
+Bill de Blasio	Bill de Blasio	PER	PER-Bill-de-Blasio
+Boston	Boston	LOC	GPE-Boston
+CDC	CDC	ORG	ORG-Centers-for-Disease-Control
+Charlie Baker	Charlie Baker	PER	PER-Charlie-Baker
+Chuckom Schumerjem	Chuck Schumer	PER	PER-Chuck-Schumer
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Detroitu	Detroit	LOC	GPE-Detroit
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Eric Garcetti	Eric Garcetti	PER	PER-Eric-Garcetti
+Facebooku	Facebook	PRO	PRO-Facebook
+Fema	Fema	ORG	ORG-Federal-Emergency-Management-Agency
+Floridi	Florida	LOC	GPE-Florida
+Fort Lauderdalu	Fort Lauderdale	LOC	LOC-Fort-Lauderdale
+Iran	Iran	LOC	GPE-Iran
+Jason Hargrove	Jason Hargrove	PER	PER-Jason-Hargrove
+Kitajskem	Kitajska	LOC	GPE-China
+Los Angelesa	Los Angeles	LOC	GPE-Los-Angeles
+Louisiana	Louisiana	LOC	GPE-Louisiana
+Massachusettsa	Massachusetts	LOC	GPE-Massachusetts
+New England Patriots	New England Patriots	ORG	ORG-New-England-Patriots
+New York	New York	LOC	GPE-New-York
+New York	New York	LOC	GPE-New-York
+New Yorka	New York	LOC	GPE-New-York
+New Yorku	New York	LOC	GPE-New-York
+Pentagon	Pentagon	ORG	ORG-The-Pentagon
+Peter Navarro	Peter Navarro	PER	PER-Peter-Navarro
+Rotterdam	Rotterdam	PRO	PRO-Rotterdam-Cruise-Ship
+Svetovna zdravstvena organizacija	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+Trump	Trump	PER	PER-Donald-Trump
+Trumpov	Trumpov	PER	PER-Donald-Trump
+WHO	WHO	ORG	ORG-World-Health-Organization
+ZDA	ZDA	LOC	GPE-USA
+Zaandam	Zaandam	PRO	PRO-Zaandam-Cruise-Ship
+Zvezna agencija za posredovanje v nesrečah	Zvezna agencija za posredovanje v nesrečah	ORG	ORG-Federal-Emergency-Management-Agency
+ameriškemu ministrstvu za domovinsko varnost	ameriško ministrstvo za domovinsko varnost	ORG	ORG-US-Department-of-Homeland-Security
+novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+zaščitnih mask N95	zaščitne maske N95	PRO	PRO-N95-Face-Mask
+zvezna vlada	zvezna vlada	ORG	LOC-White-House
+zvezno vlado	zvezna vlada	ORG	LOC-White-House

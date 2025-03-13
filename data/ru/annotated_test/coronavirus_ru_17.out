@@ -1,0 +1,25 @@
+ru-17
+COVID-19	COVID-19	EVT	EVT-Covid-19
+covid-19	COVID-19	EVT	EVT-Covid-19
+Анна Попова	Анна Попова	PER	PER-Anna-Popova
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+МОСКВА	Москва	LOC	GPE-Moscow
+МФЦ	МФЦ	ORG	ORG-Multifunctional-center
+Москве	Москва	LOC	GPE-Moscow
+РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+Роспотребнадзора	Роспотребнадзор	ORG	ORG-Federal-Service-for-Surveillance-on-Consumer-Rights-Protection-and-Human-Wellbeing
+России	Россия	LOC	GPE-Russia
+Россия 24	Россия 24	PRO	PRO-Russia-24-TV
+Татьяна Голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+владимир путин	Владимир Путин	PER	PER-Vladimir-Putin
+коронавирус	Коронавирус	EVT	EVT-Covid-19
+коронавируса	Коронавирус	EVT	EVT-Covid-19
+коронавирусы	Коронавирус	EVT	EVT-Covid-19
+москва	Москва	LOC	GPE-Moscow
+россии	Россия	LOC	GPE-Russia
+россия	Россия	LOC	GPE-Russia
+россиян	Россияне	PER	GPE-Russia
+спутник v	Спутник V	PRO	PRO-Sputnik-V
+стопкоронавирус.рф	Стопкоронавирус.рф	PRO	PRO-Stop-Coronavirus
+татьяна голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+центром Чумакова	Научный центр исследований и разработки иммунобиологических препаратов имени М.П. Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia

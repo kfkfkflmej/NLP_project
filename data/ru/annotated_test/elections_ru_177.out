@@ -1,0 +1,77 @@
+ru-177
+"Доминион"	"Доминион"	PRO	PRO-Dominion-Voting-Systems
+"Царьград"	"Царьград"	PRO	PRO-Tsargrad
+Christmas	Christmas	EVT	EVT-Christmas
+Америка	Америка	LOC	GPE-USA
+Америке	Америка	LOC	GPE-USA
+Америку	Америка	LOC	GPE-USA
+Аризоны	Аризона	LOC	GPE-Arizona
+Байдена	Байден	PER	PER-Joe-Biden
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+Верховном суде США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+Верховный суд США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+Висконсина	Висконсин	LOC	GPE-Wisconsin
+Вооружённые силы	Вооружённые силы	ORG	ORG-United-States-Armed-Forces
+Вооружённых сил	Вооружённые силы	ORG	ORG-United-States-Armed-Forces
+Генпрокуратуры	Генпрокуратура	ORG	ORG-United-States-Department-of-Justice
+Госдепа	Госдеп	ORG	ORG-Department-of-State-USA
+Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джона Рэтклиффа	Джон Рэтклифф	PER	PER-John-Ratcliffe
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+Закон о восстании (Insurrection Act)	Закон о восстании (Insurrection Act)	PRO	PRO-Insurrection-Act-of-1807
+Закон о восстании от 1807 года	Закон о восстании от 1807 года	PRO	PRO-Insurrection-Act-of-1807
+Законом о национальных чрезвычайных ситуациях (National Emergencies Act; 1976)	Закон о национальных чрезвычайных ситуациях (National Emergencies Act; 1976)	PRO	PRO-National-Emergencies-Act
+Законом о национальных чрезвычайных ситуациях	Закон о национальных чрезвычайных ситуациях	PRO	PRO-National-Emergencies-Act
+Капитолии	Капитолий	LOC	LOC-Capitol-Hill
+Конгресс	Конгресс	ORG	ORG-United-States-Congress
+Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+Конгрессу	Конгресс	ORG	ORG-United-States-Congress
+Конституцией	Конституция	PRO	PRO-The-USA-Constitution
+Конституции	Конституция	PRO	PRO-The-USA-Constitution
+Конституцию	Конституция	PRO	PRO-The-USA-Constitution
+Лос-Анджелесе	Лос-Анджелес	LOC	GPE-Los-Angeles
+Минфина	Минфин	ORG	ORG-Chancellor-of-the-Exchequer
+Минюста	Минюст	ORG	ORG-Ministry-of-Justice-Russia
+Митт Ромни	Митт Ромни	PER	PER-Mitt-Romney
+Митч Макконнелл	Митч Макконнелл	PER	PER-Mitch-McConnell
+Мичигана	Мичиган	LOC	GPE-Michigan
+Нацгвардию	Нацгвардия	ORG	ORG-United-States-National-Guard
+Национальной гвардии	Национальная гвардия	ORG	ORG-United-States-National-Guard
+Национальной разведки	Национальная разведка	ORG	ORG-National-Reconnaissance-Office
+Нацразведки	Нацразведка	ORG	ORG-National-Reconnaissance-Office
+Невады	Невада	LOC	GPE-Nevada
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Пентагон	Пентагон	ORG	ORG-The-Pentagon
+Россию	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Сенат	Сенат	ORG	ORG-United-States-Senate
+Соединённых Штатов	Соединённые Штаты	LOC	GPE-USA
+Техасом	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампом	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Царьград	Царьград	PRO	PRO-Tsargrad
+Яндекс.Дзен	Яндекс.Дзен	PRO	PRO-Yandex.Dzen
+американские выборы	американские выборы	EVT	EVT-2020-United-States-Presidential-Election
+американцев	американцы	PER	GPE-USA
+армии	армия	ORG	ORG-United-States-Army
+выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+выборы 2016 года	выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+выборы в США	выборы в США	EVT	EVT-2020-United-States-Presidential-Election
+выборы	выборы	EVT	EVT-2020-United-States-Presidential-Election
+демократам	демократы	ORG	ORG-Democratic-Party-USA
+демократами	демократы	ORG	ORG-Democratic-Party-USA
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+исполнительный указ 2018 года № 13 848	исполнительный указ 2018 года № 13 848	PRO	PRO-Executive-Order-13848
+исполнительный указ № 13 848	исполнительный указ № 13 848	PRO	PRO-Executive-Order-13848
+коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+разведывательное сообщество США	разведывательное сообщество США	ORG	ORG-United-States-Intelligence-Community
+республиканцам	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA

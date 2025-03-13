@@ -1,0 +1,72 @@
+ru-180
+Forbes	Forbes	PRO	PRO-Forbes
+RT	RT	PRO	PRO-RT-Russia-Today
+The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+Twitter	Twitter	PRO	PRO-Twitter
+Байдена	Байден	PER	PER-Joe-Biden
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белом доме	Белый дом	ORG	ORG-The-White-House
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Боровая улица	Боровая улица	LOC	LOC-Borovaya-Street
+Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+Верховном суде	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+Висконсин	Висконсин	LOC	GPE-Wisconsin
+Висконсине	Висконсин	LOC	GPE-Wisconsin
+Владимир Васильев	Владимир Васильев	PER	PER-Vladimir-Vasilyev
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+Джона Ф. Кеннеди	Джон Ф. Кеннеди	PER	PER-John-F-Kennedy
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Института США и Канады	Институт США и Канады	ORG	ORG-Institute-for-US-and-Canadian-Studies-RAN
+Кен Пакстон	Кен Пакстон	PER	PER-Ken-Paxton
+Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+Конституцию США	Конституция США	PRO	PRO-The-USA-Constitution
+Круз	Круз	PER	PER-Ted-Cruz
+Миссури	Миссури	LOC	GPE-Missouri
+Михаил Синельников-Оришак	Михаил Синельников-Оришак	PER	PER-Mikhail-Sinelnikov-Orishak
+Мичиган	Мичиган	LOC	GPE-Michigan
+Мичигане	Мичиган	LOC	GPE-Michigan
+Москва	Москва	LOC	GPE-Moscow
+Национального комитета Республиканской партии	Национальный комитет Республиканской партии	ORG	ORG-Respublican-National-Committee USA
+Нэнси Пелоси	Нэнси Пелоси	PER	PER-Nancy-Pelosi
+Огайо	Огайо	LOC	GPE-Ohio
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+РАН	РАН	ORG	ORG-Russian-Academy-of-Sciences
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+Ричард Никсон	Ричард Никсон	PER	PER-Richard-Nixon
+Роскомнадзором	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+США	США	LOC	GPE-USA
+Симоньян	Симоньян	PER	PER-Margarita-Simonyan
+Соединённых Штатов	Соединённые Штаты	LOC	GPE-USA
+Соединённых штатах	Соединённые Штаты	LOC	GPE-USA
+Теду Крузу	Тед Круз	PER	PER-Ted-Cruz
+Техас	Техас	LOC	GPE-Texas
+Техаса	Техас	LOC	GPE-Texas
+Техасу	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+Управлению общих служб США	Управление общих служб США	ORG	ORG-General-Services-Administration
+Флориде	Флорида	LOC	GPE-Florida
+Эриком Шмиттом	Эрик Шмитт	PER	PER-Eric-Schmidt
+американские	американские	LOC	GPE-USA
+американских	американский	LOC	GPE-USA
+американскую	американский	LOC	GPE-USA
+выборах 2020	выборы 2020	EVT	EVT-2020-United-States-Presidential-Election
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+демократы	демократы	ORG	ORG-Democratic-Party-USA
+коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+коллегия	коллегия	ORG	ORG-United-States-Electoral-College
+республиканских	республиканские	ORG	ORG-Republican-Party-USA
+республиканцам	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+республиканцем	республиканец	ORG	ORG-Republican-Party-USA
+техасский	техасский	LOC	GPE-Texas
+техасскому	техасский	LOC	GPE-Texas

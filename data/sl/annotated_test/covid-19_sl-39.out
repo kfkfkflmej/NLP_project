@@ -1,0 +1,16 @@
+sl-39
+AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+BioNTech	BioNTech	ORG	ORG-BioNTech
+BioNTecha	BioNTech	ORG	ORG-BioNTech
+EU	EU	ORG	ORG-European-Union
+Ema	Ema	ORG	ORG-EMA-European-Medicines-Agency
+Evropska agencija za zdravila	Evropska agencija za zdravila	ORG	ORG-EMA-European-Medicines-Agency
+Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Pfizerja	Pfizer	ORG	ORG-Pfizer
+Ursula von der Leyen	Ursula von der Leyen	PER	PER-Ursula-von-der-Leyen
+ZDA	ZDA	LOC	GPE-USA
+covidu-19	covid-19	EVT	EVT-Covid-19
+dpa	dpa	ORG	ORG-DPA

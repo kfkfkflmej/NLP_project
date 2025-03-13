@@ -1,0 +1,38 @@
+sl-19
+Arizoni	Arizona	LOC	GPE-Arizona
+Belo hišo	Bela hiša	LOC	LOC-White-House
+Biden	Biden	PER	PER-Joe-Biden
+Bidnov	Biden	PER	PER-Joe-Biden
+Bidnu	Biden	PER	PER-Joe-Biden
+Chris Krebs	Chris Krebs	PER	PER-Chris-Krebs
+Demokrati	Demokrati	PER	ORG-Democratic-Party-USA
+Detroit	Detroit	LOC	GPE-Detroit
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Georgii	Georgie	LOC	GPE-Georgia-US-state
+Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+Giulianijeva	Giulianij	PER	PER-Rudy-Giuliani
+Harvarda	Harvard	ORG	ORG-Harvard-University
+Joe Pesci	Joe Pesci	PER	PER-Joe-Pesci
+Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+Kitajske	Kitajska	LOC	GPE-China
+Kube	Kuba	LOC	GPE-Cuba
+Marc Scaringi	Marc Scaringi	PER	PER-Marc-Scaringi
+Michigana	Michigan	LOC	GPE-Michigan
+Michiganu	Michigan	LOC	GPE-Michigan
+My Cousin Vinny	My Cousin Vinny	PRO	PRO-My-Cousin-Vinny
+Nicholas Stephanopoulos	Nicholas Stephanopoulos	PER	PER-Nicholas-Stephanopoulos
+Novi Mehiki	Nova Mehika	LOC	GPE-New-Mexico
+Rudyja Giulianija	Rudy Giuliani	PER	PER-Rudy-Giuliani
+Tanzaniji	Tanzanija	LOC	GPE-Tanzania
+Trump	Trump	PER	PER-Donald-Trump
+Trumpove	Trump	PER	PER-Donald-Trump
+Trumpovem	Trump	PER	PER-Donald-Trump
+Trumpovi	Trump	PER	PER-Donald-Trump
+Trumpovo	Trump	PER	PER-Donald-Trump
+Venezuele	Venezuela	LOC	GPE-Venezuela
+Wayne	Wayne	LOC	GPE-Wayne
+Wilmingtonu	Wilmington	LOC	GPE-Wilmington
+ZDA	ZDA	LOC	GPE-USA
+koronavirusa	koronavirus	EVT	EVT-Covid-19
+republikance	republikanci	PER	ORG-Republican-Party-USA
+republikancev	republikanci	PER	ORG-Republican-Party-USA

@@ -1,0 +1,17 @@
+266
+COVID-a	COVID	EVT	EVT-Covid-19
+COVID-owa	COVID	EVT	EVT-Covid-19
+COVID019	COVID019	EVT	EVT-Covid-19
+Chinach	Chiny	LOC	GPE-China
+Europy	Europa	LOC	LOC-Europe
+Hitchcocka	Hitchcock	PER	PER-Alfred-Hitchcock
+Koronawirus	koronawirus	EVT	EVT-Covid-19
+Państwie Środka	Państwo Środka	LOC	GPE-China
+Polaków	Polacy	PER	GPE-Poland
+Rzymu	Rzym	LOC	GPE-Rome
+SANEPID	SANEPID	ORG	ORG-Sanepid
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Sanepidu	Sanepid	ORG	ORG-Sanepid
+Wuhan	Wuhan	LOC	GPE-Wuhan
+Włoszech	Włochy	LOC	GPE-Italy
+koronawirus	koronawirus	EVT	EVT-Covid-19

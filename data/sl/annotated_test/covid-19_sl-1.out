@@ -1,0 +1,45 @@
+sl-1
+Allbirds	Allbirds	ORG	ORG-Allbirds
+Amazon	Amazon	ORG	ORG-Amazon
+American Airlines	American Airlines	ORG	ORG-American-Airlines
+Američani	Američani	PER	GPE-USA
+Američanom	Američani	PER	GPE-USA
+Andrew Cuomo	Andrew Cuomo	PER	PER-Andrew-Cuomo
+Anthony Fauci	Anthony Fauci	PER	PER-Anthony-Fauci
+Apple	Apple	ORG	ORG-Apple
+Avstraliji	Avstralija	LOC	GPE-Australia
+Bill DeBlasio	Bill DeBlasio	PER	PER-Bill-DeBiasio
+CDC	CDC	ORG	ORG-Centers-for-Disease-Control
+Center za nadzor nad nalezljivimi boleznimi	Center za nadzor nad nalezljivimi boleznimi	ORG	ORG-Centers-for-Disease-Control
+DeBlasio	DeBlasio	PER	PER-Bill-DeBiasio
+Delta	Delta	ORG	ORG-Delta-Airlines
+Evropo	Evropa	LOC	LOC-Europe
+Glossier	Glossier	ORG	ORG-Glossier
+Irsko	Irska	LOC	GPE-Ireland
+Japonskem	Japonska	LOC	GPE-Japan
+Južna Karolina	Južna Karolina	LOC	GPE-South-Carolina-US-State
+Južni Koreji	Južna Koreja	LOC	GPE-South-Korea
+Kalifornija	Kalifornija	LOC	GPE-California
+Kanadi	Kanada	LOC	GPE-Canada
+Kitajskem	Kitajska	LOC	GPE-China
+Melanie Trump	Melania Trump	PER	PER-Melania-Trump
+Moderna	Moderna	ORG	ORG-Moderna
+Nacionalnega inštituta za zdravje	Nacionalni inštitut za zdravje	ORG	ORG-National-Institute-of-Health
+New York	New York	LOC	GPE-New-York
+New Yorka	New York	LOC	GPE-New-York
+New Yorku	New York	LOC	GPE-New-York
+Newyorčan	Newyorčan	PER	GPE-New-York
+Nike	Nike	ORG	ORG-Nike
+Novi Zelandiji	Nova Zelandija	LOC	GPE-New-Zealand
+Ohiu	Ohio	LOC	GPE-Ohio
+Patagonia	Patagonia	ORG	ORG-Patagonia
+Seattlu	Seattle	LOC	GPE-Seattle
+Steven Mnuchin	Steven Mnuchin	PER	PER-Steven-Mnuchin
+Trump	Trump	PER	PER-Donald-Trump
+United	United	ORG	ORG-United-Airlines
+Urban Outfitters	Urban Outfitters	ORG	ORG-Urban-Outfitters
+Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+Vermont	Vermont	LOC	GPE-Vermont
+Warby Parker	Warby Parker	ORG	ORG-Warby-Parker
+ZDA	ZDA	LOC	GPE-USA
+zahodni Evropi	zahodna Evropa	LOC	LOC-Western-Europe

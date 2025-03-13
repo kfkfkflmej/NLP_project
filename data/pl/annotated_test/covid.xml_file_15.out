@@ -1,0 +1,21 @@
+15
+Astra Zeneca	Astra Zeneca	ORG	GPE-AstraZeneсa
+COVID-19	COVID-19	EVT	EVT-Covid-19
+CureVac	CureVac	ORG	ORG-CureVac
+Jedynce	Jedynka	PRO	PRO-Polish-Radio-1
+Johnson&Johnson	Johnson&Johnson	ORG	ORG-Johnson-&-Johnson
+Katarzyną Gójską	Katarzyna Gójska	PER	PER-Katarzyna-Grójska
+Krzysztof Kucharczyk	Krzysztof Kucharczyk	PER	PER-Krzysztof-Kucharczyk
+Kucharczyk	Kucharczyk	PER	PER-Krzysztof-Kucharczyk
+Moderny	Moderna	ORG	ORG-Moderna
+Narodowym Programie Szczepień	Narodowy Program Szczepień	PRO	PRO-Narodowy-Proram-Szczepień-Poland
+Pfizer&BioNTech	Pfizer&BioNTech	ORG	ORG-Pfizer-BioNTech
+Pfizera i BioNTechu	Pfizer i BioNTech	ORG	ORG-Pfizer-BioNTech
+Pfizera	Pfizer	ORG	ORG-Pfizer
+Polsce	Polska	LOC	GPE-Poland
+Polski Związek Higieny	Polski Związek Higieny	ORG	ORG-National-Institute-of-Public-Health-National-Institute-of-Hygiene-Poland
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+Uniwersytet Oksfordzki	Uniwersytet Oksfordzki	ORG	ORG-University-of-Oxford
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+koronawirusa SARS-CoV-2	koronawirus SARS-CoV-2	EVT	EVT-Covid-19
+koronawirusem	koronawirus	EVT	EVT-Covid-19

@@ -1,0 +1,95 @@
+ru-36
+Африка	Африка	LOC	LOC-Africa
+Афганистана	Афганистан	LOC	GPE-Afghanistan
+Байден	Байден	PER	PER-Joe-Biden
+Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+Гватемалой	Гватемала	LOC	GPE-Guatemala
+Ким Чен Ыном	Ким Чен Ын	PER	PER-Kim-Jong-Un
+Китая	Китай	LOC	GPE-China
+Объединенными Арабскими Эмиратами	Объединённые Арабские Эмираты	LOC	GPE-United-Arab-Emirates
+России	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+коронавируса	короновирус	EVT	EVT-Covid-19
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Facebook	Facebook	PRO	PRO-Facebook
+TikTok	TikTok	ORG	PRO-TikTok
+WeChat	WeChat	ORG	ORG-WeChat
+«Твиттере»	Твиттер	PRO	PRO-Twitter
+Америка	Америка	LOC	GPE-USA
+Америка	Америка	LOC	GPE-USA
+Афганистан	Афганистан	LOC	GPE-Afghanistan
+Афганистане	Афганистан	LOC	GPE-Afghanistan
+Байден	Байден	PER	PER-Joe-Biden
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байденом	Байден	PER	PER-Joe-Biden
+Бахрейном	Бахрейн	LOC	GPE-Kingdom-of-Bahrain
+Биньямина Нетаньяху	Биньямин Нетаньяху	PER	PER-Benjamin-Netanyahu
+ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+Владимиру Путину	Владимиру Путину	PER	PER-Vladimir-Putin
+Восточном Иерусалиме	Восточный Иерусалим	LOC	LOC-East-Jerusalem
+Всемирной организации здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+Германии	Германия	LOC	GPE-Germany
+Гондурасом	Гондурас	LOC	GPE-Honduras
+Гонконге	Гонконг	LOC	GPE-China
+Джо Байден	Джо Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Иерусалим	Иерусалим	LOC	GPE-Jerusalem
+Израилем	Израиль	LOC	GPE-Israel
+Израиль	Израиль	LOC	GPE-Israel
+Израиля	Израиль	LOC	GPE-Israel
+Иран	Иран	LOC	GPE-Iran
+Иран	Иран	LOC	GPE-Iran
+Ирана	Иран	LOC	GPE-Iran
+Ираном	Иран	LOC	GPE-Iran
+КНР	КНР	LOC	GPE-China
+Камала Харрис	Камала Харрис	PER	PER-Kamala-Harris
+Ким Чен Ыном	Ким Чен Ын	PER	PER-Kim-Jong-Un
+Китае	Китай	LOC	GPE-China
+Китай	Китай	LOC	GPE-China
+Китаю	Китай	LOC	GPE-China
+Корейского полуострова	Корейский полуостров	LOC	LOC-Korean-peninsula
+Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+Мексики	Мексика	LOC	GPE-Mexico
+НАТО	НАТО	ORG	ORG-NATO
+Нигерию	Нигерия	LOC	GPE-Nigeria
+Парижского соглашения по климату	Парижское соглашение по климату	PRO	PRO-Paris-Agreement
+Парижское соглашение	Парижское соглашение	PRO	PRO-Paris-Agreement
+Пекин	Пекин	LOC	GPE-Beijing
+Пенсом	Пенс	PER	PER-Mike-Pence
+Путину	Путин	PER	PER-Vladimir-Putin
+Пхеньян	Пхеньян	LOC	GPE-Pyongyang
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+США	США	LOC	GPE-USA
+Сальвадором	Сальвадор	LOC	GPE-El-Salvador
+Северная Корея	Северная Корея	LOC	GPE-North-Korea
+Северной Кореи	Северная Корея	LOC	GPE-North-Korea
+Си Цзиньпином	Си Цзиньпин	PER	PER-Xi-Jinping
+Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+Сомали	Сомали	LOC	GPE-Somalia
+Стивен Миллер	Стивен Миллер	PER	PER-Stephen-Miller
+Судан	Судан	LOC	GPE-Sudan
+ТТП	ТТП	PRO	PRO-Trans-Pacific-Partnership
+Тель-Авива	Тель-Авив	LOC	LOC-Tel-Aviv
+Трамп	Трамп	PER	PER-Donald-Trump
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампом	Трамп	PER	PER-Donald-Trump
+Харрис	Харрис	PER	PER-Kamala-Harris
+Центральная Америка	Центральная Америка	LOC	GPE-Central-America
+американских	американский	LOC	GPE-USA
+американцев	американцы	PER	GPE-USA
+африканскими	африканский	LOC	LOC-Africa
+демократов	демократ	ORG	ORG-Democratic-Party-USA
+китайских	китайский	PER	GPE-China
+палестинцами	палестинцы	PER	GPE-Palestine
+переговоров по Транстихоокеанскому партнерству	переговоры по Транстихоокеанскому партнерству	EVT	EVT-Trans-Pacific-Partnership-negotiations
+посольство США в Израиле	посольство США в Израиле	ORG	ORG-United-States-Embassy-in-Israel
+северокорейским	северокорейский	LOC	GPE-North-Korea

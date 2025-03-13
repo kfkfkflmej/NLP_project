@@ -1,0 +1,33 @@
+ru-64
+"Гам Ковид Вак"	Гам Ковид Вак	PRO	PRO-Gam-COVID-Vac
+"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
+"Спутник Лайт"	Спутник Лайт	PRO	PRO-Sputnik-Light
+"Спутник"	Спутник	PRO	PRO-Sputnik-V
+"Спутника V"	Спутник V	PRO	PRO-Sputnik-V
+"Спутнике"	Спутник	PRO	PRO-Sputnik-V
+"Спутником V"	Спутник V	PRO	PRO-Sputnik-V
+"Центре гигиены и эпидемиологии в Тверской области"	Центр гигиены и эпидемиологии в Тверской области	ORG	ORG-Center-of-Hygiene-and-Epidemiology-in-the-Tver-region
+"ЭпиВакКорона"	"ЭпиВакКорона"	PRO	PRO-EpiVacCorona
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Александр Раздорский	Александр Раздорский	PER	PER-Alexander-Razdorsky
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Минздрав	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+Минздрава РФ	Минздрав РФ	ORG	ORG-Ministry-of-Health-Russia
+Минздрава Тверской области	Минздрав Тверской области	ORG	ORG-Ministry-of-Health-of-the-Tver-Region
+Министерства здравоохранения Тверской области	Министерство здравоохранения Тверской области	ORG	ORG-Ministry-of-Health-of-the-Tver-Region
+Министерство здравоохранения России	Министерство здравоохранения России	ORG	ORG-Ministry-of-Health-Russia
+Роспотребнадзора	Роспотребнадзор	ORG	ORG-Federal-Service-for-Surveillance-on-Consumer-Rights-Protection-and-Human-Wellbeing
+России	Россия	LOC	GPE-Russia
+Тверской области	Тверская область	LOC	GPE-Tver-region
+Тверской областной клинической больнице	Тверская областная клиническая больница	ORG	ORG-Tver-Regional-Clinical-Hospital
+ФБУН "Государственный научный центр вирусологии и биотехнологии "Вектор"	ФБУН "Государственный научный центр вирусологии и биотехнологии "Вектор"	ORG	ORG-State-Scientific-Center-of-Virology-and-Biotechnology-Vector
+Центра по профилактике и борьбе со СПИД и инфекционными заболеваниями	Центр по профилактике и борьбе со СПИД и инфекционными заболеваниями	ORG	ORG-Center-for-the-Prevention-and-Control-of-AIDS-and-Infectious-Diseases
+институт им. М. П. Чумакова	институт им. М. П. Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+институт имени Н. Ф. Гамалеи	институт имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+институтом имени Н. Ф. Гамалеи	Институт имени Н. Ф. Гамалеи	ORG	ORG-Institute-named-after-N-F-Gamalei
+ковида	ковид	EVT	EVT-Covid-19
+ковидным	ковидный	EVT	EVT-Covid-19
+коронавируса	коронавирус	EVT	EVT-Covid-19
+коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+коронавирусом	коронавирус	EVT	EVT-Covid-19
+медицинском Центре им. В.П. Аваева	медицинский центр им. В.П. Аваева	ORG	ORG-Avaev-Medical-Center

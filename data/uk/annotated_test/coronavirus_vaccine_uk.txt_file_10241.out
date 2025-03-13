@@ -1,0 +1,12 @@
+uk-10241
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Moderna	Moderna	ORG	ORG-Moderna
+Pfizer	Pfizer	ORG	ORG-Pfizer
+ЄС	ЄС	LOC	ORG-European-Union
+Європейського Союзу	Європейський Союз	ORG	ORG-European-Union
+Інституті Роберта Коха	Інститут Роберта Коха	ORG	ORG-Robert-Koch-Institute
+Меркель	Меркель	PER	PER-Angela-Merkel
+Німеччина	Німеччина	LOC	GPE-Germany
+Німеччини	Німеччина	LOC	GPE-Germany
+Німеччині	Німеччина	LOC	GPE-Germany

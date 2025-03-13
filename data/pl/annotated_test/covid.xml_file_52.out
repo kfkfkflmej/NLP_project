@@ -1,0 +1,15 @@
+52
+ARM	ARM	ORG	ORG-The-Materials-Reserves-Agency-Poland
+Agencja Rezerw Materiałowych	Agencja Rezerw Materiałowych	ORG	ORG-The-Materials-Reserves-Agency-Poland
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Kuczmierowski	Kuczmierowski	PER	PER-Michał-Kuczmierowski
+Michał Kuczmierowski	Michał Kuczmierowski	PER	PER-Michał-Kuczmierowski
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Polsce	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Tomaszowem Mazowieckim	Tomaszów Mazowiecki	LOC	GPE-Tomaszów-Mazowiecki
+Warszawy	Warszawa	LOC	GPE-Warsaw
+Wąwale	Wąwal	LOC	GPE-Wąwal
+koronawirusowi	koronawirus	EVT	EVT-Covid-19

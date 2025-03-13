@@ -1,0 +1,25 @@
+ru-156
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Гавайев	Гавайи	LOC	GPE-Hawaii
+Гавайях	Гавайи	LOC	GPE-Hawaii
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Калифорнии	Калифорния	LOC	GPE-California
+Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+Колумбия	Колумбия	LOC	GPE-District-of-Columbia
+Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+Палаты представителей Конгресса США	Палата представителей Конгресса США	ORG	ORG-United-States-House-of-Representatives
+США	США	LOC	GPE-USA
+Сената	Сенат	ORG	ORG-United-States-Senate
+Техаса	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Флориды	Флорида	LOC	GPE-Florida
+американцев	американцы	PER	GPE-USA
+демократа	демократ	ORG	ORG-Democratic-Party-USA
+коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College

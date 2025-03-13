@@ -1,0 +1,43 @@
+ru-135
+AP	AP	PRO	PRO-Assosiated-Press
+Fox News	Fox News	PRO	PRO-Fox-News
+OBOZREVATEL	OBOZREVATEL	PRO	PRO-Obozrevatel
+Аризоны	Аризона	LOC	GPE-Arizona
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Байдену	Байден	PER	PER-Joe-Biden
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Вермонт	Вермонт	LOC	GPE-Vermont
+Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+Гавайев	Гавайи	LOC	GPE-Hawaii
+Гавайи	Гавайи	LOC	GPE-Hawaii
+Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Калифорнии	Калифорния	LOC	GPE-California
+Камале Харрис	Камала Харрис	PER	PER-Kamala-Harris
+Конгресса	Конгресс	ORG	ORG-United-States-Congress
+Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+Конституция	Конституция	PRO	PRO-The-USA-Constitution
+Невады	Невада	LOC	GPE-Nevada
+Орегоны	Орегон	LOC	GPE-Oregon
+Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+Республиканская партия	Республиканская партия	ORG	ORG-Republican-Party-USA
+Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+США	США	LOC	GPE-USA
+Техаса	Техас	LOC	GPE-Texas
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+американских	американский	LOC	GPE-USA
+выборах президента США	выборах президента США	EVT	EVT-2020-United-States-Presidential-Election
+выборов президента	выборы президента	EVT	EVT-2020-United-States-Presidential-Election
+выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+выборы президента США	выборы президента США	EVT	EVT-2020-United-States-Presidential-Election
+демократов	демократы	ORG	ORG-Democratic-Party-USA
+округа Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia
+республиканца	республиканец	ORG	ORG-Republican-Party-USA

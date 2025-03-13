@@ -1,0 +1,91 @@
+sl-163
+Ameriko	Amerika	LOC	GPE-USA
+Američanko	Američan	PER	GPE-USA
+Američanom	Američani	PER	GPE-USA
+Atlantic Cityju	Atlantic City	LOC	LOC-Atlantic-City
+Barack Obama	Barack Obama	PER	PER-Barack-Obama
+Barrona	Barron	PER	PER-Barron-Trump
+Beli hiši	Bela hiša	LOC	LOC-White-House
+Belo hišo	Bela hiša	LOC	LOC-White-House
+Bidna	Biden	PER	PER-Joe-Biden
+Bidnom	Biden	PER	PER-Joe-Biden
+Bill Clinton	Bill Clinton	PER	PER-Bill-Clinton
+Clevelandu	Cleveland	LOC	GPE-Cleveland
+Clintonovi	Clinton	PER	PER-Hillary-Clinton
+Donald John Trump	Donald John Trump	PER	PER-Donald-Trump
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donald	Donald	PER	PER-Donald-Trump
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Donalda mlajšega	Donald mlajši	PER	PER-Donald-Trump-Jr.
+Erica	Eric	PER	PER-Eric-Trump
+Floride	Florida	LOC	GPE-Florida
+Floridi	Florida	LOC	GPE-Florida
+Fordham	Fordham	ORG	ORG-Fordham-University
+Fred	Fred	PER	PER-Fred-Trump-Jr
+Freda	Fred	PER	PER-Fred-Trump-Jr
+Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+Hillary	Hillary	PER	PER-Hillary-Clinton
+Islamska država	Islamska država	ORG	ORG-ISIS-Islamic-State-of-Iraq-and-the-Levant
+Ivanko	Ivanka	PER	PER-Ivanka-Trump
+Ivano Zelničkovo	Ivana Zelničkova	PER	PER-Ivana-Trump
+Izraela	Izrael	LOC	GPE-Israel
+Izraelom	Izrael	LOC	GPE-Israel
+Jareda Kushnerja	Jared Kushner	PER	PER-Jared-Kushner
+Jeruzalem	Jeruzalem	LOC	GPE-Jerusalem
+Josephu Bidnu	Joseph Biden	PER	PER-Joe-Biden
+Kitajsko	Kitajska	LOC	GPE-China
+Manhattnu	Manhattan	LOC	LOC-Manhattan
+Mar-a-Lago	Mar-a-Lago	LOC	LOC-Mar-a-Lago
+Marlo Maples	Marla Maples	PER	PER-Marla-Maples
+Mary Anne MacLeod	Mary Anne MacLeod	PER	PER-Mary-Anne-MacLeod
+Mary	Mary	PER	PER-Mary-Trump
+Maryanne Barry	Maryanne Barry	PER	PER-Maryanne-Trump-Barry
+Mehika	Mehika	LOC	GPE-Mexico
+Mehiko	Mehika	LOC	GPE-Mexico
+Melanijo Knavs	Melanija Knavs	PER	PER-Melania-Trump
+Melanio Trump	Melania Trump	PER	PER-Melania-Trump
+Miss Teen USA	Miss Teen USA	EVT	EVT-Miss-Teen-USA
+Miss USA	Miss USA	EVT	EVT-Miss-USA
+Miss Universe	Miss Universe	EVT	EVT-Miss-Universe
+NBC	NBC	PRO	PRO-National-Broadcasting-Company
+Natu	Nato	ORG	ORG-NATO
+New York Times	New York Times	PRO	PRO-The-New-York-Times
+New Yorka	New York	LOC	GPE-New-York
+New Yorku	New York	LOC	GPE-New-York
+Obama	Obama	PER	PER-Barack-Obama
+Obamovega	Obama	PER	PER-Barack-Obama
+Obamovo	Obama	PER	PER-Barack-Obama
+Pensilvanijo	Pensilvanija	LOC	GPE-Pennsylvania
+Queensu	Queens	LOC	LOC-Queens
+Robert	Robert	PER	PER-Robert-Trump
+Rusi	Rusi	PER	GPE-Russia
+Rusiji	Rusija	LOC	GPE-Russia
+Severno Korejo	Severna Koreja	LOC	GPE-North-Korea
+Siriji	Sirija	LOC	GPE-Syria
+Steva Bannona	Steve Bannon	PER	PER-Steve-Bannon
+Steve Bannon	Steve Bannon	PER	PER-Steve-Bannon
+Tiffany	Tiffany	PER	PER-Tiffany-Trump
+Trump	Trump	PER	PER-Donald-Trump
+Trumpov	Trump	PER	PER-Donald-Trump
+Trumpove	Trump	PER	PER-Donald-Trump
+Trumpovega	Trump	PER	PER-Donald-Trump
+Trumpovi	Trump	PER	PER-Donald-Trump
+Trumpovo organizacijo	Trumpova organizacija	ORG	ORG-The-Trump-Organization
+Ukrajino	Ukrajina	LOC	GPE-Ukraine
+Vajenec	Vajenec	PRO	PRO-The-Apprentice
+Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+Wharton	Wharton	ORG	ORG-Wharton-School-of-the-University-of-Pennsylvania
+ZDA	ZDA	LOC	GPE-USA
+Združenimi arabskimi emirati	Združeni arabski emirati	LOC	GPE-UEA-United-Arab-Emirates
+demokrat	demokrat	ORG	ORG-Democratic-Party-USA
+demokrat	demokrat	PER	ORG-Democratic-Party-USA
+iranskega jedrskega sporazuma	iranski jedrski sporazum	PRO	PRO-Iran-nuclear-deal
+koronavirus	koronavirus	EVT	EVT-Covid-19
+novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+pariškega podnebnega sporazuma	pariški podnebni sporazum	PRO	PRO-Paris-Agreement
+republikanec	republikanec	ORG	ORG-Republican-Party-USA
+republikanec	republikanec	PER	ORG-Republican-Party-USA
+univerzi Fordham v Bronxu	univerza Fordham v Bronxu	ORG	ORG-Fordham-University
+univerzi Pensilvanija	univerza Pensilvanija	ORG	ORG-University-of-Pennsylvania
+vietnamski vojni	vietnamska vojna	EVT	EVT-Vietnam-War
+Čehinjo	Čeh	PER	GPE-Czech-Republic

@@ -1,0 +1,15 @@
+16
+AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+BioNTech	BioNTech	ORG	ORG-BioNTech
+Britové	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Evropě	Evropa	LOC	LOC-Europe
+Francie	Francie	LOC	GPE-France
+Koronavirová nákaza	Koronavirová nákaza	EVT	EVT-Covid-19
+Koronavirus	Koronavirus	EVT	EVT-Covid-19
+Oxfordské univerzity	Oxfordská univerzita	ORG	ORG-University-of-Oxford
+Pfizer	Pfizer	ORG	ORG-Pfizer
+SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+covid	covid	EVT	EVT-Covid-19
+Česko	Česko	LOC	GPE-Czech-Republic

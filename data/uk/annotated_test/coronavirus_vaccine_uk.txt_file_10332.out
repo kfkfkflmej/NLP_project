@@ -1,0 +1,12 @@
+uk-10332
+BioNTech	BioNTech	ORG	ORG-BioNTech
+COVID-19	COVID-19	EVT	EVT-Covid-19
+Pfizer Inc.	Pfizer Inc.	ORG	ORG-Pfizer
+Pfizer	Pfizer	ORG	ORG-Pfizer
+Telegram	Telegram	PRO	PRO-Telegram
+ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+Всесвітньої організації охорони здоров'я	Всесвітня організація охорони здоров'я	ORG	ORG-World-Health-Organization
+Каліфорнії	Каліфорнія	LOC	GPE-California
+УП. Кляті питання	УП. Кляті питання	PRO	PRO-UP.Kliati-pytannia-Ukraine
+Українська правда	Українська правда	PRO	PRO-Ukrainian-Pravda
+коронавірусу	коронавірус	EVT	EVT-Covid-19

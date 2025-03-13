@@ -1,0 +1,75 @@
+ru-86
+Solar Winds	Solar Winds	PRO	PRO-SolarWinds
+SolarWinds	SolarWinds	PRO	PRO-SolarWinds
+The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
+Американские	американские	LOC	GPE-USA
+Афганистане	Афганистан	LOC	GPE-Afghanistan
+Байден	Байден	PER	PER-Joe-Biden
+Байдена	Байден	PER	PER-Joe-Biden
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белого дома	Белый дом	ORG	ORG-The-White-House
+Белом доме	Белый дом	ORG	ORG-The-White-House
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Белый дом	Белый дом	ORG	ORG-The-White-House
+Белым домом	Белый дом	ORG	ORG-The-White-House
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Джейк Салливан	Джейк Салливан	PER	PER-Jacob-Sullivan
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Думой	Дума	ORG	ORG-Russia-The-State-Duma
+Запад	Запад	LOC	LOC-West
+Западе	Запад	LOC	LOC-West
+ИноСМИ	ИноСМИ	PRO	PRO-InoSMI
+Института международных исследований имени Фримана Спольи	Институт международных исследований имени Фримана Спольи	ORG	ORG-The-Freeman-Spoli-Institute-for-International-Studies
+КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+Китай	Китай	LOC	GPE-China
+Китайские	китайские	LOC	GPE-China
+Китайцы	китайцы	PER	GPE-China
+Китая	Китай	LOC	GPE-China
+Кремлем	Кремль	ORG	ORG-Kremlin
+Кремль	Кремль	ORG	ORG-Kremlin
+Леонид Волков	Леонид Волков	PER	PER-Leonid-Volkov
+Майкл Макфол	Майкл Макфол	PER	PER-Michael-McFaul
+Макфол	Макфол	PER	PER-Michael-McFaul
+Навального	Навальный	PER	PER-Alexei-Navalny
+Навальном	Навальный	PER	PER-Alexei-Navalny
+Навальный	Навальный	PER	PER-Alexei-Navalny
+Обамой	Обама	PER	PER-Barack-Obama
+Одноклассниках	Одноклассники	PRO	PRO-Odnoklassniki
+Путин	Путин	PER	PER-Vladimir-Putin
+Путина	Путин	PER	PER-Vladimir-Putin
+Путину	Путин	PER	PER-Vladimir-Putin
+Путиным	Путин	PER	PER-Vladimir-Putin
+РФ	РФ	LOC	GPE-Russia
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Россия	Россия	LOC	GPE-Russia
+СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+США	США	LOC	GPE-USA
+Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+Стэнфордском университете	Стэнфордский университет	ORG	ORG-Stanford-University
+Твиттере	Твиттер	PRO	PRO-Twitter
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трам	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+Трампу	Трамп	PER	PER-Donald-Trump
+ЦРУ	ЦРУ	ORG	ORG-CIA-Central-Intelligence-Agency
+американские выборы в 2020 году	американские выборы 2020	EVT	EVT-2020-United-States-Presidential-Election
+американские	американские	LOC	GPE-USA
+американских	американские	LOC	GPE-USA
+американских	американский	LOC	GPE-USA
+американскому	американский	LOC	GPE-USA
+выборами 2020 года	выборы 2020	EVT	EVT-2020-United-States-Presidential-Election
+договора РСМД	договор РСМД	PRO	PRO-INF-Intermediate-Range-Nuclear-Forces-Treaty
+кремлевского	кремлевский	LOC	LOC-Kremlin
+кремлевском	кремлевский	LOC	LOC-Kremlin
+путинского	путинский	PER	PER-Vladimir-Putin
+российские	российские	LOC	GPE-Russia
+российских	российские	LOC	GPE-Russia
+российских	российский	LOC	GPE-Russia
+российской	российский	LOC	GPE-Russia
+российском	российский	LOC	GPE-Russia
+российскому	российский	LOC	GPE-Russia
+русских	русские	PER	GPE-Russia
+техасская	техасская	LOC	GPE-Texas

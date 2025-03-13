@@ -1,0 +1,30 @@
+sl-224
+Covid-19	Covid-19	EVT	EVT-Covid-19
+Jelko Kacin	Jelko Kacin	PER	PER-Jelko-Kacin
+Kacin	Kacin	PER	PER-Jelko-Kacin
+Kliniki Golnik	Klinika Golnik	LOC	ORG-Hospital-Golnik
+Sloveniji	Slovenija	LOC	GPE-Slovenia
+Splošne bolnišnice Slovenj Gradec	Splošna bolnišnica Slovenj Gradec	LOC	ORG-Slovenj-Gradec-General-Hospital
+Splošni bolnišnici Celje	Splošna bolnišnica Celje	LOC	LOC-Celje-General-Hospital
+Splošni bolnišnici Slovenj Gradec	Splošna bolnišnica Slovenj Gradec	LOC	ORG-Slovenj-Gradec-General-Hospital
+Twitterju	Twitter	PRO	PRO-Twitter
+UKC Maribor	UKC Maribor	LOC	LOC-University-Medical-Centre-Maribor
+Univerzitetnem kliničnem centru (UKC) Ljubljana	Univerzitetni klinični center Ljubljana	LOC	ORG-University-Medical-Centre-Ljubljana
+covid-19	covid-19	EVT	EVT-Covid-19
+covida-19	covid-19	EVT	EVT-Covid-19
+covidom-19	covid-19	EVT	EVT-Covid-19
+gorenjske	gorenjska	LOC	GPE-Gorenjska-statistical-region
+goriške	goriška	LOC	GPE-Gorizia-statistical-region
+jugovzhodne Slovenije	jugovzhodna Slovenija	LOC	GPE-Southwest-Slovenia
+koronavirusom	koronavirus	EVT	EVT-Covid-19
+koroške	koroška	LOC	GPE-Carinthia-statistical-region
+novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+obalno-kraške	obalno-kraška	LOC	GPE-Coastal-Karst-statistical-region
+osrednjeslovenske statistične regije	osrednjeslovenska statistična regija	LOC	GPE-Central-Slovenia-statistical-region
+podravske	podravska	LOC	GPE-Drava-statistical-region
+pomurske	pomurska	LOC	GPE-Pomurje-statistical-region
+posavske regije	posavska regija	LOC	GPE-Lower-Sava-statistical-region
+primorsko-notranjske	primorsko-notranjska	LOC	GPE-Littoral-Inner-Carniola-statistical-region
+savinjske	savinjska	LOC	GPE-Savinja-statistical-region
+sloveniji	Slovenija	LOC	GPE-Slovenia
+zasavske	zasavska	LOC	GPE-Central-Sava-statistical-region
