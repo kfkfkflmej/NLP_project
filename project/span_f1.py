@@ -7,7 +7,7 @@ def readNlu(path):
     # third column (index 2), following universalNER.
     annotations = []
     cur_annotation = []
-    for line in open(path):
+    for line in open(path, encoding='utf-8'):
         line = line.strip()
         if line == '':
             annotations.append(cur_annotation)
