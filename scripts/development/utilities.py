@@ -1,5 +1,5 @@
 from datasets import DatasetDict,Dataset
-import stanza
+#import stanza
 import re
 from transformers import AutoTokenizer
 
