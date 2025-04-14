@@ -1,7 +1,6 @@
 from datasets import DatasetDict,Dataset
 import stanza
 import re
-from datasets import DatasetDict, Dataset
 from transformers import AutoTokenizer
 
 def parse_iob2(file_path):
@@ -31,9 +30,9 @@ def parse_iob2(file_path):
 
 def generate_data_files(language_code: str) -> dict:
     return {
-        "train": f"data/train/{language_code}.txt",
-        "validation": f"data/val/{language_code}.txt",
-        "test": f"data/test/{language_code}.txt"
+        "train": f"data/train/lemmatized_{language_code}.txt",
+        "validation": f"data/val/lemmatized_{language_code}.txt",
+        "test": f"data/test/lemmatized_{language_code}.txt"
     }
 
 # Convert labels to integers
@@ -41,7 +40,8 @@ def convert_labels(dataset,label2id):
     dataset["ner_tags"] = [[label2id[tag] for tag in tags] for tags in dataset["ner_tags"]]
     return dataset
 
-def load_data(language_code: str):
+def load_data(language_code: str) :
+    
     data_files = generate_data_files(language_code)
     dataset_dict = {}
     all_labels = set()
@@ -203,34 +203,34 @@ def tokenize_and_align_labels(examples, tokenizer):
     return tokenized_inputs
 
 
-def preprocess(language_code: str, model_name: str):
-
-    from transformers import AutoTokenizer
+def preprocess(language_code: str, model_name: str, cyrillic: bool = False):
 
     # Lemmatize
-    for split in ["train", "validation", "test"]:
-        original = f"data/{split}/{language_code}.txt"
-        lemmatized = f"data/{split}/lemmatized_{language_code}.txt"
-        lemmatize_file(original, lemmatized, language_code)
+    #for split in ["train", "validation", "test"]:
+        #original = f"data/{split}/{language_code}.txt"
+        #lemmatized = f"data/{split}/lemmatized_{language_code}.txt"
+        #lemmatize_file(original, lemmatized, language_code)
 
     # Optional transliteration
-    if language_code == "sl":
-        for split in ["train", "validation", "test"]:
-            lemma_file = f"data/{split}/lemmatized_{language_code}.txt"
-            translit_file = f"data/{split}/{language_code}.txt"
-            transliterate_file(lemma_file, translit_file)
-    else:
-        for split in ["train", "validation", "test"]:
-            lemma_file = f"data/{split}/lemmatized_{language_code}.txt"
-            final_file = f"data/{split}/{language_code}.txt"
-            import shutil
-            shutil.copyfile(lemma_file, final_file)
+    #if language_code == "sl":
+    #    for split in ["train", "validation", "test"]:
+    #        lemma_file = f"data/{split}/lemmatized_{language_code}.txt"
+    #        translit_file = f"data/{split}/{language_code}.txt"
+    #        transliterate_file(lemma_file, translit_file)
+    #else:
+    #    for split in ["train", "validation", "test"]:
+    #        lemma_file = f"data/{split}/lemmatized_{language_code}.txt"
+    #        final_file = f"data/{split}/{language_code}.txt"
+    #        import shutil
+    #        shutil.copyfile(lemma_file, final_file)
 
     # Load dataset
+    if language_code=="sl" and cyrillic:
+       language_code+="_cyrilic"
     raw_datasets, label_list, label2id, id2label = load_data(language_code)
 
     # Tokenize
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     tokenized_datasets = raw_datasets.map(lambda x: tokenize_and_align_labels(x, tokenizer), batched=True)
 
-    return tokenized_datasets, label_list, label2id, id2label
+    return tokenized_datasets, label_list, label2id, id2label, tokenizer
