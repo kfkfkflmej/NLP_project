@@ -40,23 +40,28 @@ def convert_labels(dataset,label2id):
     dataset["ner_tags"] = [[label2id[tag] for tag in tags] for tags in dataset["ner_tags"]]
     return dataset
 
-def load_data(language_code: str) :
+def load_data(language_code: str, train: bool) :
     
     data_files = generate_data_files(language_code)
     dataset_dict = {}
     all_labels = set()
-    for split, file in data_files.items():
-        parsed_data, labels = parse_iob2(file)
-        if language_code in ['bg', 'ru']:
-            dataset_dict[split] = parsed_data
-        else:
-            if "test" not in dataset_dict:
-                dataset_dict["test"] = parsed_data  # Initialize 'test' split if it doesn't exist
-            else:
-                # Append parsed_data to the 'test' split
-                dataset_dict["test"]["tokens"].extend(parsed_data["tokens"])
-                dataset_dict["test"]["ner_tags"].extend(parsed_data["ner_tags"])
-        all_labels.update(labels)
+    #for _,file in data_files.items():
+    if train:
+      splits=["train","validation"]
+    else:
+      splits=["test"]
+    for split in splits:
+      parsed_data, labels = parse_iob2(data_files[split])
+      if language_code in ['bg', 'ru']:
+          dataset_dict[split] = parsed_data
+      else:
+          if "test" not in dataset_dict:
+              dataset_dict["test"] = parsed_data  # Initialize 'test' split if it doesn't exist
+          else:
+              # Append parsed_data to the 'test' split
+              dataset_dict["test"]["tokens"].extend(parsed_data["tokens"])
+              dataset_dict["test"]["ner_tags"].extend(parsed_data["ner_tags"])
+      all_labels.update(labels)
 
     # Convert label list to mapping
     label_list = sorted(all_labels)  # Ensure consistent order
@@ -70,15 +75,14 @@ def load_data(language_code: str) :
 
     return raw_datasets, label_list, label2id, id2label
 
-
 # Lemmatization
 
-def ensure_stanza_model(lang: str):
-    try:
-        return stanza.Pipeline(lang, processors="tokenize,lemma", verbose=False)
-    except:
-        stanza.download(lang)
-        return stanza.Pipeline(lang, processors="tokenize,lemma", verbose=False)
+#def ensure_stanza_model(lang: str):
+#    try:
+#        return stanza.Pipeline(lang, processors="tokenize,lemma", verbose=False)
+#    except:
+#        stanza.download(lang)
+#        return stanza.Pipeline(lang, processors="tokenize,lemma", verbose=False)
 
 def lemmatize_token(token, nlp):
     doc = nlp(token)
@@ -89,25 +93,25 @@ def lemmatize_token(token, nlp):
         return lemma.upper()
     return lemma.lower()
 
-def lemmatize_file(input_file, output_file, lang):
-    nlp = ensure_stanza_model(lang)
+#def lemmatize_file(input_file, output_file, lang):
+#    nlp = ensure_stanza_model(lang)
 
-    with open(input_file, "r", encoding="utf-8") as infile, \
-         open(output_file, "w", encoding="utf-8") as outfile:
+#    with open(input_file, "r", encoding="utf-8") as infile, \
+#         open(output_file, "w", encoding="utf-8") as outfile:
 
-        lines = infile.readlines()
-        for line in lines:
-            stripped = line.strip()
-            if stripped.startswith("#"):
-                outfile.write(f"{stripped}\n")
-            elif stripped:
-                parts = stripped.split()
-                if len(parts) >= 2:
-                    token, tag = parts[0], parts[1]
-                    lemma = lemmatize_token(token, nlp)
-                    outfile.write(f"{lemma}\t{tag}\n")
-            else:
-                outfile.write("\n")
+#        lines = infile.readlines()
+#        for line in lines:
+#            stripped = line.strip()
+#            if stripped.startswith("#"):
+#                outfile.write(f"{stripped}\n")
+#            elif stripped:
+#                parts = stripped.split()
+#                if len(parts) >= 2:
+#                    token, tag = parts[0], parts[1]
+#                    lemma = lemmatize_token(token, nlp)
+#                    outfile.write(f"{lemma}\t{tag}\n")
+#            else:
+#                outfile.write("\n")
 
 # Transliteration
 
@@ -203,7 +207,7 @@ def tokenize_and_align_labels(examples, tokenizer):
     return tokenized_inputs
 
 
-def preprocess(language_code: str, model_name: str, cyrillic: bool = False):
+def preprocess(language_code: str, model_name: str, train:bool, cyrillic: bool = False):
 
     # Lemmatize
     #for split in ["train", "validation", "test"]:
@@ -227,7 +231,7 @@ def preprocess(language_code: str, model_name: str, cyrillic: bool = False):
     # Load dataset
     if language_code=="sl" and cyrillic:
        language_code+="_cyrilic"
-    raw_datasets, label_list, label2id, id2label = load_data(language_code)
+    raw_datasets, label_list, label2id, id2label = load_data(language_code,train)
 
     # Tokenize
     tokenizer = AutoTokenizer.from_pretrained(model_name)
