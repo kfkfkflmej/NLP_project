@@ -1,1 +1,8 @@
+# Ignore saved models
+test-ner/
+*.bin
+*.pt
+*.ckpt
 
+# HuggingFace cache
+*.cache/
