@@ -1,5 +1,6 @@
 # Ignore saved models
 test-ner/
+scripts/development/my_ner_model/
 *.bin
 *.pt
 *.ckpt

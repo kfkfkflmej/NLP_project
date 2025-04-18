@@ -1,7 +1,17 @@
 from datasets import DatasetDict,Dataset
 #import stanza
 import re
-from transformers import AutoTokenizer
+import numpy as np
+import evaluate
+
+from transformers import (
+    AutoTokenizer,
+    AutoModelForTokenClassification,
+    AutoConfig,
+    TrainingArguments,
+    Trainer,
+    DataCollatorForTokenClassification
+)
 
 def parse_iob2(file_path):
     sentences, labels = [], []
@@ -238,3 +248,97 @@ def preprocess(language_code: str, model_name: str, train:bool, cyrillic: bool =
     tokenized_datasets = raw_datasets.map(lambda x: tokenize_and_align_labels(x, tokenizer), batched=True)
 
     return tokenized_datasets, label_list, label2id, id2label, tokenizer
+
+
+def save_preds(trainer,language_code:  str, target_language: str, tokenized_dataset, id2label):
+  predictions=trainer.predict(tokenized_dataset["test"])
+  predictions = predictions.predictions.argmax(2)
+
+  converted_predictions_labels = [
+      [id2label[p] for p in sentence] for sentence in predictions
+  ]
+  iob_predictions=[]
+  for sent_idx, final_pred in enumerate(converted_predictions_labels):
+
+      tokens = tokenized_dataset["test"]["tokens"][sent_idx]  # Tokens from your dataset
+      sentence_iob = []
+      pred_label_cleaned = final_pred[1:len(final_pred) - 1] # Adjusting slicing to align with tokens
+
+      # Ensure both lists have the same length for proper iteration
+      min_len = min(len(tokens), len(pred_label_cleaned))
+      for token_idx in range(min_len):
+          pred_label = pred_label_cleaned[token_idx]  # Get the label from final_predictions
+          sentence_iob.append(f"{token_idx+1}\t{tokens[token_idx]}\t{pred_label}")
+
+      iob_predictions.append(sentence_iob)
+
+
+  with open(f"preds/{language_code}_{target_language}_predictions.iob", "w") as f:
+    for sentence in iob_predictions:
+        for line in sentence:
+            f.write(f"{line}\n")
+        f.write("\n")  # Separate sentences with a blank line
+
+
+def compute_metrics(eval_preds):
+    """
+    Function to compute the evaluation metrics for Named Entity Recognition (NER) tasks.
+    The function computes precision, recall, F1 score and accuracy.
+
+    Parameters:
+    eval_preds (tuple): A tuple containing the predicted logits and the true labels.
+
+    Returns:
+    A dictionary containing the precision, recall, F1 score and accuracy.
+    """
+    metric = evaluate.load("seqeval")
+    pred_logits, labels = eval_preds
+
+    pred_logits = np.argmax(pred_logits, axis=2)
+    # the logits and the probabilities are in the same order,
+    # so we don’t need to apply the softmax
+
+    # We remove all the values where the label is -100
+    predictions = [
+        [label_list[eval_preds] for (eval_preds, l) in zip(prediction, label) if l != -100]
+        for prediction, label in zip(pred_logits, labels)
+    ]
+
+    true_labels = [
+      [label_list[l] for (eval_preds, l) in zip(prediction, label) if l != -100]
+       for prediction, label in zip(pred_logits, labels)
+   ]
+    results = metric.compute(predictions=predictions, references=true_labels)
+    return {
+   "precision": results["overall_precision"],
+   "recall": results["overall_recall"],
+   "f1": results["overall_f1"],
+  "accuracy": results["overall_accuracy"],
+  }
+
+def build_model(model_parameters, data):
+    model_name=model_parameters["model_name"]
+    tokenized_dataset, label_list, label2id, id2label, tokenizer= data
+    config = AutoConfig.from_pretrained(model_name, num_labels=len(label_list) , id2label=id2label, label2id=label2id)
+    model = AutoModelForTokenClassification.from_config(config)
+    data_collator = DataCollatorForTokenClassification(tokenizer)
+    args = TrainingArguments(
+        output_dir=model_parameters["out_dir"],
+        learning_rate=model_parameters["learning_rate"],
+        per_device_train_batch_size=model_parameters["per_device_train_batch_size"],
+        per_device_eval_batch_size=model_parameters["per_device_eval_batch_size"],
+        num_train_epochs=model_parameters["num_train_epochs"],
+        weight_decay=model_parameters["weight_decay"]
+    )
+
+    trainer = Trainer(
+    model,
+    args,
+    train_dataset=tokenized_dataset["train"],
+    eval_dataset=tokenized_dataset["validation"],
+    data_collator=data_collator,
+    tokenizer=tokenizer,
+    compute_metrics=compute_metrics
+    )
+    
+    return model, trainer
