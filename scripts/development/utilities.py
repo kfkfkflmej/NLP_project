@@ -279,48 +279,49 @@ def save_preds(trainer,language_code:  str, target_language: str, tokenized_data
             f.write(f"{line}\n")
         f.write("\n")  # Separate sentences with a blank line
 
+def get_compute_metrics(label_list):
+    def compute_metrics(eval_preds):
+        """
+        Function to compute the evaluation metrics for Named Entity Recognition (NER) tasks.
+        The function computes precision, recall, F1 score and accuracy.
 
-def compute_metrics(eval_preds):
-    """
-    Function to compute the evaluation metrics for Named Entity Recognition (NER) tasks.
-    The function computes precision, recall, F1 score and accuracy.
+        Parameters:
+        eval_preds (tuple): A tuple containing the predicted logits and the true labels.
 
-    Parameters:
-    eval_preds (tuple): A tuple containing the predicted logits and the true labels.
+        Returns:
+        A dictionary containing the precision, recall, F1 score and accuracy.
+        """
+        metric = evaluate.load("seqeval")
+        pred_logits, labels = eval_preds
 
-    Returns:
-    A dictionary containing the precision, recall, F1 score and accuracy.
-    """
-    metric = evaluate.load("seqeval")
-    pred_logits, labels = eval_preds
+        pred_ids = np.argmax(pred_logits, axis=2)
+        # the logits and the probabilities are in the same order,
+        # so we don’t need to apply the softmax
 
-    pred_logits = np.argmax(pred_logits, axis=2)
-    # the logits and the probabilities are in the same order,
-    # so we don’t need to apply the softmax
-
-    # We remove all the values where the label is -100
-    predictions = [
-        [label_list[eval_preds] for (eval_preds, l) in zip(prediction, label) if l != -100]
-        for prediction, label in zip(pred_logits, labels)
-    ]
-
-    true_labels = [
-      [label_list[l] for (eval_preds, l) in zip(prediction, label) if l != -100]
-       for prediction, label in zip(pred_logits, labels)
-   ]
-    results = metric.compute(predictions=predictions, references=true_labels)
-    return {
-   "precision": results["overall_precision"],
-   "recall": results["overall_recall"],
-   "f1": results["overall_f1"],
-  "accuracy": results["overall_accuracy"],
-  }
+        # We remove all the values where the label is -100
+        true_predictions = [
+            [label_list[p] for p, l in zip(prediction, label) if l != -100]
+            for prediction, label in zip(pred_ids, labels)
+        ]
+        true_labels = [
+            [label_list[l] for p, l in zip(prediction, label) if l != -100]
+            for prediction, label in zip(pred_ids, labels)
+        ]
+        results = metric.compute(predictions=true_predictions, references=true_labels)        
+        return {
+                "precision": results["overall_precision"],
+                "recall": results["overall_recall"],
+                "f1": results["overall_f1"],
+                "accuracy": results["overall_accuracy"],
+                }
+    return compute_metrics
 
 def build_model(model_parameters, data):
     model_name=model_parameters["model_name"]
     tokenized_dataset, label_list, label2id, id2label, tokenizer= data
     config = AutoConfig.from_pretrained(model_name, num_labels=len(label_list) , id2label=id2label, label2id=label2id)
-    model = AutoModelForTokenClassification.from_config(config)
+    compute_metrics = get_compute_metrics(label_list)
+    model = AutoModelForTokenClassification.from_config(model_name, config)
     data_collator = DataCollatorForTokenClassification(tokenizer)
     args = TrainingArguments(
         output_dir=model_parameters["out_dir"],
@@ -328,7 +329,15 @@ def build_model(model_parameters, data):
         per_device_train_batch_size=model_parameters["per_device_train_batch_size"],
         per_device_eval_batch_size=model_parameters["per_device_eval_batch_size"],
         num_train_epochs=model_parameters["num_train_epochs"],
-        weight_decay=model_parameters["weight_decay"]
+        weight_decay=model_parameters["weight_decay"],
+        max_seq_length=model_parameters["max_seq_length"],
+        warmup_ratio=model_parameters["warmup_ratio"],
+        lr_scheduler_type=model_parameters["lr_scheduler_type"],
+        evaluation_strategy=model_parameters["evaluation_strategy"],
+        save_strategy=model_parameters["save_strategy"],
+        load_best_model_at_end=model_parameters["load_best_model_at_end"],
+        metric_for_best_model=model_parameters["metric_for_best_model"],
+        seed=model_parameters["seed"]
     )
 
     trainer = Trainer(
