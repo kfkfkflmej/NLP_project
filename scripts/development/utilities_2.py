@@ -92,9 +92,9 @@ def parse_iob2(file_path):
                 continue
             parts = line.split()  # Split by whitespace
             if len(parts) >= 2:
-                words.append(parts[0])  # First column: token
-                tags.append(parts[1])  # Second column: label
-                unique_labels.add(parts[1])
+                words.append(parts[1])  # First column: token
+                tags.append(parts[2])  # Second column: label
+                unique_labels.add(parts[2])
         if words:
             sentences.append(words)
             labels.append(tags)
