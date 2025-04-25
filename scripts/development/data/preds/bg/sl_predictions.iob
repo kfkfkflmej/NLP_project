@@ -222,7 +222,7 @@
 
 1	Trump	B-PER
 2	biti	O
-3	Bidna	O
+3	Bidna	B-PER
 4	prekinjal	O
 5	do	O
 6	ta	O
@@ -445,7 +445,7 @@
 18	prevar	O
 19	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	hoteti	O
 4	odgovoriti	O
@@ -463,7 +463,7 @@
 16	kar	O
 17	razmišljati	O
 18	nekateri	O
-19	demokrat	O
+19	demokrat	B-PER
 20	,	O
 21	ker	O
 22	se	O
@@ -513,7 +513,7 @@
 23	,	O
 24	nasproti	O
 25	trditev	O
-26	Bidna	O
+26	Bidna	B-PER
 27	,	O
 28	da	O
 29	imeti	O
@@ -796,7 +796,7 @@
 4	čas	O
 5	,	O
 6	senaten	O
-7	republikanec	B-PER
+7	republikanec	O
 8	pa	O
 9	se	O
 10	pripravljati	O
@@ -896,7 +896,7 @@
 6	njen	O
 7	stališče	O
 8	biti	O
-9	republikanec	B-PER
+9	republikanec	O
 10	po	O
 11	pričakovanje	O
 12	trditi	O
@@ -960,7 +960,7 @@
 11	ravnanje	O
 12	Trumpa	B-PER
 13	in	O
-14	republikanec	B-PER
+14	republikanec	O
 15	glede	O
 16	imenovanje	O
 17	nov	O
@@ -1287,12 +1287,12 @@
 22	biti	O
 23	Joe	B-PER
 24	iz	O
-25	Scranton	O
+25	Scranton	B-PRO
 26	46	O
 27	.	O
 
 1	predsednik	O
-2	Združen	O
+2	Združen	B-LOC
 3	država	I-LOC
 4	Amerika	I-LOC
 5	.	O
@@ -1405,7 +1405,7 @@
 31	zavlačeval	O
 32	in	O
 33	spodkopavalo	O
-34	Bidna	O
+34	Bidna	B-PER
 35	od	O
 36	trenutek	O
 37	,	O
@@ -1422,7 +1422,7 @@
 3	do	O
 4	zdaj	O
 5	do	O
-6	Bidna	O
+6	Bidna	B-PER
 7	biti	O
 8	pokazati	O
 9	niti	O
@@ -1433,7 +1433,7 @@
 14	pomeniti	O
 15	jasen	O
 16	sporočilo	O
-17	Evropa	O
+17	Evropa	B-LOC
 18	Trumpa	B-PER
 19	resda	O
 20	biti	O
@@ -1605,7 +1605,7 @@
 12	.	O
 
 1	Pridobiti	O
-2	republikance	O
+2	republikance	B-PER
 3	na	O
 4	svoj	O
 5	stran	O
@@ -1690,7 +1690,7 @@
 3	biti	O
 4	ta	O
 5	storiti	O
-6	Oba	O
+6	Oba	B-PER
 7	,	O
 8	in	O
 9	ta	O
@@ -1886,7 +1886,7 @@
 6	ta	O
 7	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	verjetno	O
 4	ravnati	O
@@ -1940,8 +1940,8 @@
 30	med	O
 31	Evropa	B-LOC
 32	in	O
-33	Združen	O
-34	država	O
+33	Združen	B-LOC
+34	država	I-LOC
 35	v	O
 36	strateški	O
 37	in	O
@@ -2073,9 +2073,9 @@
 7	črpanje	O
 8	nafta	O
 9	v	O
-10	Arktičen	B-LOC
+10	Arktičen	O
 11	naraven	I-ORG
-12	rezervat	I-LOC
+12	rezervat	I-ORG
 13	za	O
 14	divji	O
 15	žival	O
@@ -2212,7 +2212,7 @@
 2	na	O
 3	ameriški	O
 4	predsednik	O
-5	Bidna	O
+5	Bidna	B-PER
 6	biti	O
 7	poguben	O
 8	.	O
@@ -2299,8 +2299,8 @@
 2	zdravnik	O
 3	novoizvoljen	O
 4	predsednik	O
-5	Kevin	O
-6	O'	O
+5	Kevin	B-PER
+6	O'	I-PER
 7	biti	O
 8	sprva	O
 9	dejati	O
@@ -2404,7 +2404,7 @@
 23	ambulanta	O
 24	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	z	O
 4	78	O
@@ -2416,15 +2416,15 @@
 10	ZDA	B-LOC
 11	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	imeti	O
 3	dva	O
 4	nemški	O
 5	ovčar	O
 6	,	O
-7	Champa	O
+7	Champa	B-PER
 8	in	O
-9	Major	O
+9	Major	B-PER
 10	,	O
 11	v	O
 12	Belo	B-LOC
@@ -2732,7 +2732,7 @@
 8	Belo	B-LOC
 9	hiša	I-LOC
 10	po	O
-11	Bidenova	B-PRO
+11	Bidenova	B-PER
 12	priseg	O
 13	20	O
 14	.	O
@@ -2787,7 +2787,7 @@
 23	dan	O
 24	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	na	O
 4	volitev	O
@@ -2809,7 +2809,7 @@
 20	milijon	O
 21	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	tudi	O
 4	osvojiti	O
@@ -2852,7 +2852,7 @@
 7	zmaga	O
 8	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	na	O
 4	volitev	O
@@ -3176,7 +3176,7 @@
 32	.	O
 
 1	Senatni	O
-2	republikanec	B-PER
+2	republikanec	O
 3	biti	O
 4	večinoma	O
 5	ne	O
@@ -3378,10 +3378,10 @@
 3	agencija	O
 4	z	O
 5	naslov	O
-6	Nadzor	B-ORG
-7	nad	I-ORG
-8	govorica	I-ORG
-9	biti	I-ORG
+6	Nadzor	O
+7	nad	O
+8	govorica	O
+9	biti	O
 10	po	O
 11	vrsta	O
 12	zavračal	O
@@ -3484,7 +3484,7 @@
 22	drug	O
 23	visok	O
 24	uradnikov	O
-25	Pentagon	B-ORG
+25	Pentagon	B-LOC
 26	,	O
 27	šef	O
 28	agencija	O
@@ -3542,7 +3542,7 @@
 11	glasovnica	O
 12	po	O
 13	ZDA	B-LOC
-14	Bidna	O
+14	Bidna	B-PER
 15	razglasiti	O
 16	za	O
 17	zmagovalec	O
@@ -3701,7 +3701,7 @@
 8	delo	O
 9	težava	O
 10	tudi	O
-11	republikanec	B-PER
+11	republikanec	O
 12	,	O
 13	kot	O
 14	biti	O
@@ -3716,23 +3716,20 @@
 2	biti	O
 3	presenetljivo	O
 4	osvojiti	O
-5	Biden	O
+5	Biden	B-PER
 6	za	O
 7	okrog	O
-8	14	O
-9	.	O
-
-1	000	O
-2	glas	O
-3	in	O
-4	oba	O
-5	senaten	O
-6	tekma	O
-7	morati	O
-8	v	O
-9	drug	O
-10	krog	O
-11	.	O
+8	14.000	O
+9	glas	O
+10	in	O
+11	oba	O
+12	senaten	O
+13	tekma	O
+14	morati	O
+15	v	O
+16	drug	O
+17	krog	O
+18	.	O
 
 1	Raffensperger	B-PER
 2	se	O
@@ -4134,7 +4131,7 @@
 5	razklan	O
 6	.	O
 
-1	Georgija	B-PER
+1	Georgija	B-LOC
 2	svoj	O
 3	elektroski	O
 4	glas	O
@@ -4329,7 +4326,7 @@
 10	obtožba	O
 11	na	O
 12	račun	O
-13	demokrat	O
+13	demokrat	B-PER
 14	,	O
 15	ampak	O
 16	tudi	O
@@ -4790,9 +4787,9 @@
 10	vlada	O
 11	.	O
 
-1	BOJ	O
-2	Z	O
-3	COVID	O
+1	BOJ	B-PER
+2	Z	I-PER
+3	COVID	I-PER
 4	19	O
 5	Mantra	O
 6	,	O
@@ -4835,7 +4832,7 @@
 13	.	O
 
 1	Poslanec	O
-2	SD	O
+2	SD	B-ORG
 3	Franc	B-PER
 4	Trček	I-PER
 5	biti	O
@@ -5349,9 +5346,9 @@
 9	hiša	I-LOC
 10	vseliti	O
 11	z	O
-12	Champom	O
+12	Champom	B-PER
 13	in	O
-14	Major	O
+14	Major	B-PER
 15	.	O
 
 1	(	O
@@ -5420,15 +5417,15 @@
 14	tudi	O
 15	nemški	O
 16	ovčar	O
-17	Major	O
+17	Major	B-PER
 18	in	O
-19	Champ	O
+19	Champ	B-PER
 20	.	O
 
 1	Medtem	O
 2	ko	O
 3	biti	O
-4	Champ	O
+4	Champ	B-PER
 5	že	O
 6	biti	O
 7	v	O
@@ -5446,7 +5443,7 @@
 
 1	Z	O
 2	posvojitvija	O
-3	Major	O
+3	Major	B-PER
 4	popraviti	O
 5	napaka	O
 6	Ko	O
@@ -5513,7 +5510,7 @@
 18	Bidnov	B-PER
 19	vnukinje	O
 20	imenovale	O
-21	Champ	O
+21	Champ	B-PER
 22	.	O
 
 1	A	O
@@ -5617,7 +5614,7 @@
 12	leto	O
 13	kasno	O
 14	pridružiti	O
-15	Major	O
+15	Major	B-PER
 16	.	O
 
 1	Prek	O
@@ -5641,7 +5638,7 @@
 19	biti	O
 20	hospitalizirani	O
 21	,	O
-22	Biden	O
+22	Biden	B-PER
 23	poslati	O
 24	kar	O
 25	hči	O
@@ -5664,7 +5661,7 @@
 14	,	O
 15	da	O
 16	biti	O
-17	Majora	O
+17	Majora	B-PER
 18	vzeti	O
 19	za	O
 20	svoj	O
@@ -5681,8 +5678,8 @@
 9	biti	O
 10	biti	O
 11	po	O
-12	James	O
-13	K	O
+12	James	B-PER
+13	K	I-PER
 14	.	O
 
 1	Polek	O
@@ -5764,8 +5761,8 @@
 1	Na	O
 2	pisalen	O
 3	miza	O
-4	Ovalne	O
-5	pisarna	O
+4	Ovalne	B-LOC
+5	pisarna	I-LOC
 6	biti	O
 7	v	O
 8	čas	O
@@ -5805,7 +5802,7 @@
 5	poimenoval	O
 6	on	O
 7	biti	O
-8	Kong	O
+8	Kong	B-PER
 9	Timahoe	O
 10	,	O
 11	biti	O
@@ -5894,7 +5891,7 @@
 6	-	O
 7	bel	O
 8	mačka	O
-9	Socki	O
+9	Socki	B-PER
 10	in	O
 11	čokoladen	O
 12	rjav	O
@@ -5902,7 +5899,7 @@
 14	Buddyja	B-PER
 15	.	O
 
-1	George	O
+1	George	B-PER
 2	«	O
 3	.	O
 
@@ -5929,7 +5926,7 @@
 21	Spota	B-PER
 22	.	O
 
-1	Obamovi	O
+1	Obamovi	B-PER
 2	pa	O
 3	biti	O
 4	se	O
@@ -5938,9 +5935,9 @@
 7	hiša	I-LOC
 8	vseliti	O
 9	z	O
-10	Boj	O
+10	Boj	B-PER
 11	in	O
-12	Sunnyji	O
+12	Sunnyji	B-PER
 13	pasme	O
 14	portugalski	O
 15	voden	O
@@ -6076,7 +6073,7 @@
 4	Velikonja	I-PER
 5	)	O
 6	Predsednik	O
-7	Republika	O
+7	Republika	B-LOC
 8	Slovenija	I-LOC
 9	Borut	B-PER
 10	Pahor	I-PER
@@ -6109,7 +6106,7 @@
 11	,	O
 12	biti	O
 13	za	O
-14	BITI	O
+14	BITI	B-ORG
 15	sporočiti	O
 16	iz	O
 17	predsednikov	O
@@ -6365,7 +6362,7 @@
 19	biti	O
 20	zapisati	O
 21	,	O
-22	republikanec	B-PER
+22	republikanec	O
 23	pa	O
 24	čestitati	O
 25	za	O
@@ -6726,7 +6723,7 @@
 13	dodati	O
 14	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	že	O
 3	čestitke	O
 4	iz	O
@@ -7211,7 +7208,7 @@
 27	.	O
 
 1	Močen	O
-2	Nato	O
+2	Nato	B-ORG
 3	biti	O
 4	dober	O
 5	tako	O
@@ -7372,7 +7369,7 @@
 19	sovražnik	O
 20	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	govor	O
 4	opraviti	O
@@ -7792,7 +7789,7 @@
 27	kateri	O
 28	podpora	O
 29	biti	O
-30	Bidna	O
+30	Bidna	B-PER
 31	poslati	O
 32	na	O
 33	pot	O
@@ -7867,7 +7864,7 @@
 4	Bidna	B-PER
 5	.	O
 
-1	Joe	B-PER
+1	Joe	O
 2	,	O
 3	Joe	B-PER
 4	se	O
@@ -8079,7 +8076,7 @@
 58	dokazati	O
 59	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	pa	O
 3	biti	O
 4	mnog	O
@@ -8129,7 +8126,7 @@
 2	po	O
 3	razglasitev	O
 4	zmaga	O
-5	Bidna	O
+5	Bidna	B-PER
 6	v	O
 7	bližina	O
 8	Bel	B-LOC
@@ -8145,7 +8142,7 @@
 
 1	Nekdanji	O
 2	diplomatka	O
-3	Ann	O
+3	Ann	B-PER
 4	biti	O
 5	ob	O
 6	pregrad	O
@@ -8283,7 +8280,7 @@
 5	biti	O
 6	osrednji	O
 7	medij	O
-8	Bidna	O
+8	Bidna	B-PER
 9	razglasiti	O
 10	za	O
 11	zmagovalec	O
@@ -8433,7 +8430,7 @@
 1	Zgodovinar	O
 2	Luka	B-PER
 3	Lisjak	I-PER
-4	Gabrijelčič	I-PER
+4	Gabrijelčič	B-PER
 5	opozarjati	O
 6	,	O
 7	da	O
@@ -8622,7 +8619,7 @@
 1	V	O
 2	bruseljski	O
 3	krog	O
-4	Biden	O
+4	Biden	B-PER
 5	veljati	O
 6	kot	O
 7	zaupanje	O
@@ -8648,7 +8645,7 @@
 11	biti	O
 12	nastati	O
 13	pod	O
-14	drug	B-EVT
+14	drug	O
 15	svetoven	I-EVT
 16	vojna	I-EVT
 17	,	O
@@ -8964,7 +8961,7 @@
 10	z	O
 11	naslov	O
 12	Slovenski	O
-13	Donald	O
+13	Donald	B-PER
 14	v	O
 15	ponedeljek	O
 16	Janša	B-PER
@@ -9032,7 +9029,7 @@
 20	svet	O
 21	,	O
 22	ocenjevati	O
-23	Spiegel	B-PRO
+23	Spiegel	B-PER
 24	.	O
 
 1	Omenja	O
@@ -9148,7 +9145,7 @@
 45	za	O
 46	zmagovalec	O
 47	razglasiti	O
-48	Bidna	O
+48	Bidna	B-PER
 49	,	O
 50	še	O
 51	preden	O
@@ -9202,7 +9199,7 @@
 22	o	O
 23	volilen	O
 24	prevar	O
-25	demokrat	O
+25	demokrat	B-PER
 26	,	O
 27	zatem	O
 28	pa	O
@@ -9497,7 +9494,7 @@
 10	članek	O
 11	Slovenski	O
 12	prijatelj	O
-13	Trumpa	O
+13	Trumpa	B-PER
 14	,	O
 15	objavljen	O
 16	v	O
@@ -9825,7 +9822,7 @@
 10	v	O
 11	Amerika	B-LOC
 12	biti	O
-13	Bruce	O
+13	Bruce	B-PER
 14	opaziti	O
 15	tudi	O
 16	sprememba	O
@@ -10015,7 +10012,7 @@
 17	stolp	I-LOC
 18	v	O
 19	New	B-LOC
-20	York	I-LOC
+20	York	B-LOC
 21	z	O
 22	svoj	O
 23	mama	O
@@ -11170,7 +11167,7 @@
 11	da	O
 12	se	O
 13	z	O
-14	Mefist	B-LOC
+14	Mefist	B-PER
 15	pogodba	O
 16	ne	O
 17	sklep	O
@@ -11356,7 +11353,7 @@
 6	Demokrat	O
 7	iz	O
 8	New	B-LOC
-9	York	I-LOC
+9	York	B-LOC
 10	,	O
 11	22	O
 12	.	O
@@ -11508,7 +11505,7 @@
 10	in	O
 11	guverner	O
 12	New	B-LOC
-13	York	I-LOC
+13	York	B-LOC
 14	.	O
 
 1	Drug	O
@@ -11575,8 +11572,8 @@
 3	biti	O
 4	odkriti	O
 5	newyorški	O
-6	Kip	B-PRO
-7	svoboda	I-PRO
+6	Kip	B-LOC
+7	svoboda	I-ORG
 8	.	O
 
 1	John	B-PER
@@ -12043,9 +12040,9 @@
 1	V	O
 2	četveroboj	O
 3	z	O
-4	demokrat	O
+4	demokrat	B-PER
 5	,	O
-6	progresivec	B-PER
+6	progresivec	O
 7	in	O
 8	socialist	O
 9	biti	O
@@ -12141,7 +12138,7 @@
 30	prvi	O
 31	generacija	O
 32	študent	O
-33	Stanforda	B-LOC
+33	Stanforda	B-ORG
 34	,	O
 35	kasno	O
 36	pa	O
@@ -12257,7 +12254,7 @@
 
 1	Jasen	O
 2	,	O
-3	Ford	B-ORG
+3	Ford	B-PER
 4	biti	O
 5	biti	O
 6	podpredsednik	O
@@ -12266,7 +12263,7 @@
 9	biti	O
 10	nastop	O
 11	namesto	O
-12	Nixona	B-ORG
+12	Nixona	B-PER
 13	zapovedovalo	O
 14	ustava	O
 15	.	O
@@ -12435,7 +12432,7 @@
 17	2002	O
 18	.	O
 
-1	George	O
+1	George	B-PER
 2	«	O
 3	.	O
 
@@ -12446,7 +12443,7 @@
 2	(	O
 3	1992	O
 4	)	O
-5	Star	O
+5	Star	B-PER
 6	Bush	B-PER
 7	(	O
 8	1924	O
@@ -12496,7 +12493,7 @@
 10	,	O
 11	tako	O
 12	da	O
-13	republikanec	B-PER
+13	republikanec	O
 14	biti	O
 15	niti	O
 16	razmišljati	O
@@ -12673,8 +12670,8 @@
 28	biti	O
 29	sporočiti	O
 30	Izvršen	B-ORG
-31	odbor	I-ORG
-32	svet	I-ORG
+31	odbor	O
+32	svet	O
 33	za	I-ORG
 34	vladen	I-ORG
 35	usklajevanje	I-ORG
@@ -12719,9 +12716,9 @@
 9	in	I-ORG
 10	infrastrukturo	I-ORG
 11	pri	O
-12	ministrstvo	O
-13	za	O
-14	domovinsko	O
+12	ministrstvo	B-ORG
+13	za	I-ORG
+14	domovinsko	I-ORG
 15	varnost	I-ORG
 16	ZDA	I-ORG
 17	(	O
@@ -12845,7 +12842,7 @@
 32	tako	O
 33	demokrat	O
 34	kot	O
-35	republikanec	B-PER
+35	republikanec	O
 36	.	O
 
 1	Noben	O
@@ -12866,7 +12863,7 @@
 5	Warner	B-ORG
 6	.	O
 
-1	Demokrati	O
+1	Demokrati	B-PER
 2	biti	O
 3	zgrožen	O
 4	nad	O
@@ -12910,7 +12907,7 @@
 1	Deloven	O
 2	skupina	O
 3	Bel	B-ORG
-4	hiša	I-ORG
+4	hiša	I-LOC
 5	za	O
 6	boj	O
 7	proti	O
@@ -12971,7 +12968,7 @@
 3	ZDA	B-LOC
 4	Barack	B-PER
 5	Oba	I-PER
-6	biti	I-PER
+6	biti	O
 7	med	O
 8	promocija	O
 9	svoj	O
@@ -12980,7 +12977,7 @@
 12	spomin	O
 13	z	O
 14	naslov	O
-15	Obljubljen	B-PRO
+15	Obljubljen	O
 16	dežela	O
 17	izraziti	O
 18	zaskrbljenost	O
@@ -13020,7 +13017,7 @@
 5	,	O
 6	biti	O
 7	dejati	O
-8	Oba	O
+8	Oba	B-PER
 9	.	O
 
 1	Mesec	O
@@ -13221,10 +13218,10 @@
 10	Pensilvanija	B-LOC
 11	,	O
 12	vendar	O
-13	republikanec	B-PER
+13	republikanec	O
 14	izpodbijaja	O
 15	zmaga	O
-16	Bidna	O
+16	Bidna	B-PER
 17	z	O
 18	trditev	O
 19	,	O
@@ -13273,7 +13270,7 @@
 
 1	Presenečenje	O
 2	minister	O
-3	Barra	O
+3	Barra	B-PER
 4	Posebej	O
 5	v	O
 6	središče	O
@@ -13439,7 +13436,7 @@
 29	oba	O
 30	senatna	O
 31	sedež	O
-32	Georgie	O
+32	Georgie	B-LOC
 33	če	O
 34	oba	O
 35	izgubiti	O
@@ -13756,7 +13753,7 @@
 8	Belo	B-LOC
 9	hiša	I-LOC
 10	po	O
-11	Bidenova	B-PRO
+11	Bidenova	B-PER
 12	priseg	O
 13	20	O
 14	.	O
@@ -13812,7 +13809,7 @@
 23	dan	O
 24	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	na	O
 4	volitev	O
@@ -13834,7 +13831,7 @@
 20	milijon	O
 21	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	tudi	O
 4	osvojiti	O
@@ -14153,7 +14150,7 @@
 32	.	O
 
 1	Senatni	O
-2	republikanec	B-PER
+2	republikanec	O
 3	biti	O
 4	večinoma	O
 5	ne	O
@@ -14324,9 +14321,9 @@
 15	.	O
 
 1	november	O
-2	Upravi	O
+2	Upravi	B-ORG
 3	splošen	I-ORG
-4	služba	O
+4	služba	I-ORG
 5	(	O
 6	GSA	B-ORG
 7	)	O
@@ -14367,7 +14364,7 @@
 2	2021	O
 3	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	namreč	O
 3	biti	O
 4	imeti	O
@@ -14483,7 +14480,7 @@
 12	sporočiti	O
 13	v	O
 14	pismo	O
-15	Biden	B-PRO
+15	Biden	B-PER
 16	.	O
 
 1	Do	O
@@ -14525,7 +14522,7 @@
 2	naj	O
 3	biti	O
 4	zmaga	O
-5	Bidna	O
+5	Bidna	B-PER
 6	med	O
 7	drug	O
 8	potrditi	O
@@ -14575,7 +14572,7 @@
 30	glasovnice	O
 31	na	O
 32	zahteva	O
-33	Turmpove	B-EVT
+33	Turmpove	O
 34	kampanja	O
 35	.	O
 
@@ -14833,7 +14830,7 @@
 19	zavračati	O
 20	sodelovanje	O
 21	z	O
-22	Bidnovo	O
+22	Bidnovo	B-PER
 23	ekipa	O
 24	in	O
 25	on	O
@@ -14886,12 +14883,9 @@
 22	točka	O
 23	ali	O
 24	za	O
-25	20	O
-26	.	O
-
-1	470	O
-2	glas	O
-3	.	O
+25	20.470	O
+26	glas	O
+27	.	O
 
 1	Vendar	O
 2	biti	O
@@ -14949,27 +14943,24 @@
 12	točka	O
 13	ali	O
 14	dober	O
-15	82	O
-16	.	O
-
-1	000	O
-2	glas	O
-3	,	O
-4	biti	O
-5	pred	O
-6	sodnik	O
-7	v	O
-8	predsednikov	O
-9	ime	O
-10	po	O
-11	dolg	O
-12	čas	O
-13	stopiti	O
-14	njegov	O
-15	odvetnik	O
-16	Rudy	B-PER
-17	Giuliani	I-PER
-18	.	O
+15	82.000	O
+16	glas	O
+17	,	O
+18	biti	O
+19	pred	O
+20	sodnik	O
+21	v	O
+22	predsednikov	O
+23	ime	O
+24	po	O
+25	dolg	O
+26	čas	O
+27	stopiti	O
+28	njegov	O
+29	odvetnik	O
+30	Rudy	B-PER
+31	Giuliani	I-PER
+32	.	O
 
 1	Na	O
 2	zaslišanje	O
@@ -15045,7 +15036,7 @@
 2	Georen	B-LOC
 3	,	O
 4	kjer	O
-5	Biden	O
+5	Biden	B-PER
 6	voditi	O
 7	za	O
 8	0	O
@@ -15055,19 +15046,16 @@
 12	točka	O
 13	ali	O
 14	dober	O
-15	12	O
-16	.	O
-
-1	000	O
-2	glas	O
-3	,	O
-4	ročen	O
-5	preštevaj	O
-6	ves	O
-7	glasovnice	O
-8	še	O
-9	enkrat	O
-10	.	O
+15	12.000	O
+16	glas	O
+17	,	O
+18	ročen	O
+19	preštevaj	O
+20	ves	O
+21	glasovnice	O
+22	še	O
+23	enkrat	O
+24	.	O
 
 1	Ob	O
 2	ta	O
@@ -15137,7 +15125,7 @@
 15	pa	O
 16	biti	O
 17	zmaga	O
-18	Bidna	O
+18	Bidna	B-PER
 19	tam	O
 20	potrditi	O
 21	soglasno	O
@@ -15158,7 +15146,7 @@
 13	da	O
 14	biti	O
 15	ulovilo	O
-16	Bidna	O
+16	Bidna	B-PER
 17	,	O
 18	sploh	O
 19	ker	O
@@ -15311,7 +15299,7 @@
 49	Kaide	I-ORG
 50	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	medtem	O
 4	predstaviti	O
@@ -15340,11 +15328,8 @@
 27	država	O
 28	priti	O
 29	do	O
-30	250	O
+30	250.000	O
 31	.	O
-
-1	000	O
-2	.	O
 
 1	Trump	B-PER
 2	pa	O
@@ -15500,7 +15485,7 @@
 17	,	O
 18	se	O
 19	biti	O
-20	demokrat	O
+20	demokrat	B-PER
 21	uspeti	O
 22	zediniti	O
 23	,	O
@@ -15746,12 +15731,9 @@
 6	zaostaja	O
 7	za	O
 8	skoraj	O
-9	150	O
-10	.	O
-
-1	000	O
-2	glas	O
-3	.	O
+9	150.000	O
+10	glas	O
+11	.	O
 
 1	Podoben	O
 2	izjava	O
@@ -15796,7 +15778,7 @@
 1	Oči	O
 2	usmerjen	O
 3	v	O
-4	Georgio	O
+4	Georgio	B-LOC
 5	V	O
 6	Georen	B-LOC
 7	,	O
@@ -15804,25 +15786,22 @@
 9	Trump	B-PER
 10	zaostaja	O
 11	za	O
-12	14	O
-13	.	O
-
-1	000	O
-2	glas	O
-3	,	O
-4	biti	O
-5	državen	O
-6	sekretar	O
-7	zaradi	O
-8	tesen	O
-9	izid	O
-10	odredi	O
-11	ponovno	O
-12	ročen	O
-13	štet	O
-14	ves	O
-15	glasovnica	O
-16	.	O
+12	14.000	O
+13	glas	O
+14	,	O
+15	biti	O
+16	državen	O
+17	sekretar	O
+18	zaradi	O
+19	tesen	O
+20	izid	O
+21	odredi	O
+22	ponovno	O
+23	ročen	O
+24	štet	O
+25	ves	O
+26	glasovnica	O
+27	.	O
 
 1	Trump	B-PER
 2	pa	O
@@ -15873,8 +15852,8 @@
 18	vodja	O
 19	Urad	B-ORG
 20	za	I-ORG
-21	splošen	O
-22	služba	O
+21	splošen	I-ORG
+22	služba	I-ORG
 23	,	O
 24	kar	O
 25	pa	O
@@ -15909,7 +15888,7 @@
 4	Chris	B-PER
 5	Wallace	I-PER
 6	z	O
-7	Fox	B-ORG
+7	Fox	B-PRO
 8	Newsa	I-ORG
 9	ocenjevati	O
 10	,	O
@@ -16076,7 +16055,7 @@
 
 1	Če	O
 2	biti	O
-3	republikanec	O
+3	republikanec	B-PER
 4	oba	O
 5	izgubiti	O
 6	,	O
@@ -16085,7 +16064,7 @@
 9	večina	O
 10	v	O
 11	senat	O
-12	demokrat	O
+12	demokrat	B-PER
 13	,	O
 14	če	O
 15	dobiti	O
@@ -16217,7 +16196,7 @@
 4	kampanj	O
 5	in	O
 6	nekateri	O
-7	republikanec	B-PER
+7	republikanec	O
 8	po	O
 9	ZDA	B-LOC
 10	vseeno	O
@@ -16243,7 +16222,7 @@
 30	poraz	O
 31	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	glede	O
 4	na	O
@@ -16443,9 +16422,9 @@
 4	v	O
 5	torek	O
 6	od	O
-7	vrhoven	O
-8	sodišče	O
-9	ZDA	B-LOC
+7	vrhoven	B-ORG
+8	sodišče	I-ORG
+9	ZDA	I-ORG
 10	pravosoden	O
 11	minister	O
 12	Teksas	B-LOC
@@ -16536,7 +16515,7 @@
 25	volilen	O
 26	pravi	O
 27	univerza	O
-28	Georgetown	B-ORG
+28	Georgetown	O
 29	Paul	B-PER
 30	Smith	I-PER
 31	.	O
@@ -16691,7 +16670,7 @@
 17	ker	O
 18	biti	O
 19	se	O
-20	republikanec	B-PER
+20	republikanec	O
 21	na	O
 22	on	O
 23	dobro	O
@@ -16809,10 +16788,10 @@
 7	buri	O
 8	duh	O
 9	Zlat	B-EVT
-10	tuši	O
+10	tuši	I-EVT
 11	v	O
 12	Las	B-LOC
-13	Vegas	I-LOC
+13	Vegas	B-LOC
 14	,	O
 15	prevaran	O
 16	Melania	B-PER
@@ -16843,8 +16822,8 @@
 14	z	O
 15	naslov	O
 16	Nelojalen	O
-17	resničen	I-PRO
-18	zgodba	I-PRO
+17	resničen	O
+18	zgodba	O
 19	nekdanji	O
 20	oseben	O
 21	odvetnik	O
@@ -17245,7 +17224,7 @@
 10	Putinom	I-PER
 11	v	O
 12	slog	O
-13	Kremenčkov	O
+13	Kremenčkov	B-PER
 14	.	O
 
 1	Varal	O
@@ -17344,7 +17323,7 @@
 10	zbiranje	O
 11	sredstvo	O
 12	Gradimo	B-EVT
-13	zid	I-EVT
+13	zid	I-ORG
 14	aretirali	O
 15	v	O
 16	četrtek	O
@@ -17440,7 +17419,7 @@
 11	jahti	O
 12	kitajski	O
 13	milijar	O
-14	Guo	B-PRO
+14	Guo	B-PER
 15	Wengu	I-PER
 16	,	O
 17	ki	O
@@ -17505,7 +17484,7 @@
 5	populističen	O
 6	ideja	O
 7	Najprej	O
-8	Amerika	B-LOC
+8	Amerika	I-LOC
 9	in	O
 10	oster	O
 11	nasprotovanje	O
@@ -17681,8 +17660,8 @@
 18	položaj	O
 19	političen	O
 20	strat	O
-21	Bel	O
-22	hiša	O
+21	Bel	B-LOC
+22	hiša	I-LOC
 23	.	O
 
 1	Trump	B-PER
@@ -17726,7 +17705,7 @@
 3	zahteva	O
 4	po	O
 5	financiranje	O
-6	Trumpov	B-LOC
+6	Trumpov	B-PER
 7	zid	O
 8	ignorirati	O
 9	,	O
@@ -18076,7 +18055,7 @@
 2	se	O
 3	biti	O
 4	od	O
-5	Bannona	O
+5	Bannona	B-PER
 6	,	O
 7	ki	O
 8	on	O
@@ -18086,7 +18065,7 @@
 12	pri	O
 13	kritičen	O
 14	knjiga	O
-15	Michaela	O
+15	Michaela	B-PER
 16	Wolffa	I-PER
 17	odpustiti	O
 18	že	O
@@ -18169,7 +18148,7 @@
 7	slogan	O
 8	Zgradimo	B-EVT
 9	ta	I-PRO
-10	zid	I-EVT
+10	zid	I-PRO
 11	iz	O
 12	kampanja	O
 13	leto	O
@@ -18181,8 +18160,8 @@
 19	spremeniti	O
 20	v	O
 21	Dokončajmo	B-EVT
-22	ta	I-EVT
-23	zid	I-EVT
+22	ta	I-PRO
+23	zid	I-PRO
 24	.	O
 
 1	Trumpova	B-PER
@@ -18210,7 +18189,7 @@
 5	naznanil	O
 6	umik	O
 7	iz	O
-8	Lincolnovig	O
+8	Lincolnovig	B-PER
 9	projekt	O
 10	.	O
 
@@ -18397,7 +18376,7 @@
 10	,	O
 11	da	O
 12	zapušč	O
-13	Lincolnov	O
+13	Lincolnov	B-PER
 14	projekt	O
 15	,	O
 16	prav	O
@@ -18434,7 +18413,7 @@
 20	volitev	O
 21	,	O
 22	navajati	O
-23	CNN	B-ORG
+23	CNN	B-PRO
 24	.	O
 
 1	V	O
@@ -18707,7 +18686,7 @@
 
 1	Po	O
 2	poročanje	O
-3	BITI	B-ORG
+3	BITI	B-PRO
 4	biti	O
 5	biti	O
 6	kritičen	O
@@ -18839,9 +18818,9 @@
 23	Trump	I-PER
 24	z	O
 25	naslov	O
-26	Preveč	O
+26	Preveč	B-PRO
 27	in	O
-28	nikoli	O
+28	nikoli	I-PRO
 29	dovolj	O
 30	kako	O
 31	biti	O
@@ -18854,8 +18833,8 @@
 38	svet	O
 39	.	O
 
-1	Bel	O
-2	hiša	O
+1	Bel	B-LOC
+2	hiša	I-LOC
 3	biti	O
 4	njen	O
 5	spomin	O
@@ -18938,7 +18917,7 @@
 10	predsednik	O
 11	na	O
 12	univerza	O
-13	v	O
+13	v	I-ORG
 14	Pensilvanija	B-LOC
 15	,	O
 16	kjer	O
@@ -18984,8 +18963,8 @@
 28	fant	O
 29	.	O
 
-1	Bel	O
-2	hiša	O
+1	Bel	B-LOC
+2	hiša	I-LOC
 3	vsebina	O
 4	posnetek	O
 5	do	O
@@ -19096,9 +19075,9 @@
 14	način	O
 15	in	O
 16	biti	O
-17	Bidna	O
+17	Bidna	B-PER
 18	ter	O
-19	demokrat	O
+19	demokrat	B-PER
 20	pozvati	O
 21	naj	O
 22	se	O
@@ -19134,14 +19113,14 @@
 25	v	O
 26	anketa	O
 27	za	O
-28	Biden	B-EVT
+28	Biden	B-PER
 29	naraščati	O
 30	,	O
 31	sumiti	O
 32	,	O
 33	da	O
 34	biti	O
-35	republikanec	B-PER
+35	republikanec	O
 36	izpodbijal	O
 37	veljavnost	O
 38	volitev	O
@@ -19150,7 +19129,7 @@
 41	izgubiti	O
 42	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	april	O
 4	napovedati	O
@@ -19171,7 +19150,7 @@
 19	razmišljati	O
 20	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	julij	O
 4	dejati	O
@@ -19227,7 +19206,7 @@
 34	.	O
 
 1	Pravnik	O
-2	Trumpove	O
+2	Trumpove	B-PER
 3	kampanja	O
 4	Matt	B-PER
 5	Morgan	I-PER
@@ -19259,7 +19238,7 @@
 4	,	O
 5	da	O
 6	želeti	O
-7	demokrat	O
+7	demokrat	B-PER
 8	radikalno	O
 9	spremeniti	O
 10	način	O
@@ -19312,7 +19291,7 @@
 26	.	O
 
 1	Med	O
-2	demokrat	O
+2	demokrat	B-PER
 3	,	O
 4	ki	O
 5	dvomiti	O
@@ -19469,7 +19448,7 @@
 31	,	O
 32	biti	O
 33	dejati	O
-34	Gora	O
+34	Gora	B-PER
 35	.	O
 
 1	Penec	B-PER
@@ -19478,7 +19457,7 @@
 4	,	O
 5	da	O
 6	v	O
-7	Bidenova	B-LOC
+7	Bidenova	B-PER
 8	Amerika	B-LOC
 9	ne	O
 10	biti	O
@@ -19666,17 +19645,14 @@
 8	vodstvo	O
 9	terjala	O
 10	življenje	O
-11	180	O
-12	.	O
-
-1	000	O
-2	Američanov	B-PER
-3	,	O
-4	biti	O
-5	nameniti	O
-6	veliko	O
-7	beseda	O
-8	.	O
+11	180.000	O
+12	Američanov	B-PER
+13	,	O
+14	biti	O
+15	nameniti	O
+16	veliko	O
+17	beseda	O
+18	.	O
 
 1	Govoriti	O
 2	biti	O
@@ -19803,7 +19779,7 @@
 14	dejati	O
 15	,	O
 16	da	O
-17	Američan	O
+17	Američan	B-PER
 18	predsednik	O
 19	morda	O
 20	res	O
@@ -19868,7 +19844,7 @@
 11	,	O
 12	biti	O
 13	dejati	O
-14	Penec	O
+14	Penec	B-PER
 15	v	O
 16	čas	O
 17	,	O
@@ -19947,7 +19923,7 @@
 34	policija	O
 35	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	ta	O
 3	ne	O
 4	podpirati	O
@@ -20038,7 +20014,7 @@
 10	,	O
 11	biti	O
 12	dejati	O
-13	Penec	O
+13	Penec	B-PER
 14	,	O
 15	ki	O
 16	biti	O
@@ -20075,7 +20051,7 @@
 23	za	O
 24	policija	O
 25	,	O
-26	demokrat	O
+26	demokrat	B-PER
 27	z	O
 28	Biden	B-PER
 29	pa	O
@@ -20122,7 +20098,7 @@
 7	in	O
 8	on	O
 9	pripisoval	O
-10	demokrat	B-PER
+10	demokrat	O
 11	,	O
 12	vendar	O
 13	ta	O
@@ -20165,7 +20141,7 @@
 2	poklicen	O
 3	nogometaš	O
 4	liga	O
-5	NFL	B-LOC
+5	NFL	B-ORG
 6	temnopolt	O
 7	Burgess	B-PER
 8	Owens	I-PER
@@ -20189,7 +20165,7 @@
 26	požigaj	O
 27	mesto	O
 28	,	O
-29	demokrat	O
+29	demokrat	B-PER
 30	pa	O
 31	populariziraja	O
 32	socializem	O
@@ -20247,7 +20223,7 @@
 16	,	O
 17	ko	O
 18	biti	O
-19	demokrat	O
+19	demokrat	B-PER
 20	obtožilo	O
 21	,	O
 22	da	O
@@ -20351,7 +20327,7 @@
 19	ki	O
 20	on	O
 21	podpirati	O
-22	demokrat	O
+22	demokrat	B-PER
 23	.	O
 
 1	Nastopila	O
@@ -20524,7 +20500,7 @@
 17	afganistanski	O
 18	oblast	O
 19	in	O
-20	talibanov	O
+20	talibanov	B-PER
 21	.	O
 
 1	Iti	O
@@ -20621,7 +20597,7 @@
 7	afganistanski	O
 8	oblast	O
 9	in	O
-10	talibani	O
+10	talibani	B-PER
 11	potekati	O
 12	za	O
 13	zaprt	O
@@ -20651,7 +20627,7 @@
 37	potem	O
 38	ko	O
 39	biti	O
-40	talibani	O
+40	talibani	B-PER
 41	dolg	O
 42	leto	O
 43	zavračali	O
@@ -20769,7 +20745,7 @@
 41	,	O
 42	vprašanje	O
 43	razorožitev	O
-44	talibanov	O
+44	talibanov	B-PER
 45	oziroma	O
 46	njihov	O
 47	vključenosti	O
@@ -20785,39 +20761,36 @@
 2	začetek	O
 3	pogajanje	O
 4	biti	O
-5	15	O
-6	.	O
-
-1	000	O
-2	Afganistank	B-PER
-3	podpisati	O
-4	peticija	O
-5	in	O
-6	on	O
-7	poslati	O
-8	Organizacija	B-ORG
-9	združen	I-ORG
-10	narod	I-ORG
-11	z	O
-12	poziv	O
-13	,	O
-14	naj	O
-15	nihče	O
-16	ne	O
-17	sklep	O
-18	dogovor	O
-19	z	O
-20	talibani	O
-21	,	O
-22	rekoč	O
-23	,	O
-24	da	O
-25	lahko	O
-26	hitro	O
-27	izgubiti	O
-28	pridobljen	O
-29	pravica	O
-30	.	O
+5	15.000	O
+6	Afganistank	B-PER
+7	podpisati	O
+8	peticija	O
+9	in	O
+10	on	O
+11	poslati	O
+12	Organizacija	B-ORG
+13	združen	I-ORG
+14	narod	I-ORG
+15	z	O
+16	poziv	O
+17	,	O
+18	naj	O
+19	nihče	O
+20	ne	O
+21	sklep	O
+22	dogovor	O
+23	z	O
+24	talibani	O
+25	,	O
+26	rekoč	O
+27	,	O
+28	da	O
+29	lahko	O
+30	hitro	O
+31	izgubiti	O
+32	pridobljen	O
+33	pravica	O
+34	.	O
 
 1	Pomenljivo	O
 2	pa	O
@@ -20961,7 +20934,7 @@
 
 1	Američan	B-PER
 2	namreč	O
-3	talibani	O
+3	talibani	B-PER
 4	ta	O
 5	pogoj	O
 6	v	O
@@ -20971,7 +20944,7 @@
 10	postaviti	O
 11	.	O
 
-1	Talibani	O
+1	Talibani	B-PER
 2	imeti	O
 3	prvi	O
 4	prednostni	O
@@ -21004,7 +20977,7 @@
 
 1	Verjetno	O
 2	imeti	O
-3	talibani	O
+3	talibani	B-PER
 4	v	O
 5	ta	O
 6	trenutek	O
@@ -21161,12 +21134,12 @@
 12	ki	O
 13	biti	O
 14	koristiti	O
-15	demokrat	O
+15	demokrat	B-PER
 16	.	O
 
 1	Noben	O
 2	od	O
-3	demokrat	O
+3	demokrat	B-PER
 4	še	O
 5	biti	O
 6	javno	O
@@ -21222,7 +21195,7 @@
 25	,	O
 26	kot	O
 27	trditi	O
-28	demokrat	O
+28	demokrat	B-PER
 29	.	O
 
 1	Dvakratno	O
@@ -21394,7 +21367,7 @@
 21	biti	O
 22	iti	O
 23	za	O
-24	demokrat	O
+24	demokrat	B-PER
 25	.	O
 
 1	Ob	O
@@ -21472,7 +21445,7 @@
 21	Biden	I-PER
 22	.	O
 
-1	Demokrati	O
+1	Demokrati	B-PER
 2	biti	O
 3	prepričan	O
 4	,	O
@@ -21536,7 +21509,7 @@
 17	.	O
 
 1	"	O
-2	Bidnov	O
+2	Bidnov	B-PER
 3	načrt	O
 4	biti	O
 5	pomiritev	O
@@ -21585,12 +21558,9 @@
 23	ZDA	B-LOC
 24	terjal	O
 25	najmanj	O
-26	185	O
-27	.	O
-
-1	000	O
-2	življenje	O
-3	.	O
+26	185.000	O
+27	življenje	O
+28	.	O
 
 1	V	O
 2	Pensilvanija	B-LOC
@@ -21768,7 +21738,7 @@
 30	zadeva	O
 31	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	po	O
 4	obisk	O
@@ -21832,7 +21802,7 @@
 11	,	O
 12	biti	O
 13	dejati	O
-14	Biden	O
+14	Biden	B-PER
 15	.	O
 
 1	"	O
@@ -21973,24 +21943,21 @@
 15	obisk	O
 16	mesto	O
 17	z	O
-18	100	O
-19	.	O
+18	100.000	O
+19	prebivalec	O
+20	pa	O
+21	se	O
+22	biti	O
+23	srečati	O
+24	z	O
+25	policist	O
+26	in	O
+27	lastnik	O
+28	uničen	O
+29	lokal	O
+30	.	O
 
-1	000	O
-2	prebivalec	O
-3	pa	O
-4	se	O
-5	biti	O
-6	srečati	O
-7	z	O
-8	policist	O
-9	in	O
-10	lastnik	O
-11	uničen	O
-12	lokal	O
-13	.	O
-
-1	Biden	O
+1	Biden	B-PER
 2	se	O
 3	z	O
 4	policist	O
@@ -22236,7 +22203,7 @@
 32	odločiti	O
 33	vrhoven	O
 34	sodišče	O
-35	ZDA	B-LOC
+35	ZDA	I-ORG
 36	.	O
 
 1	Menda	O
@@ -22318,7 +22285,7 @@
 2	predstavniški	O
 3	doma	O
 4	kongres	O
-5	demokratka	O
+5	demokratka	B-PER
 6	Nancy	B-PER
 7	Pelosi	I-PER
 8	in	O
@@ -22388,7 +22355,7 @@
 13	,	O
 14	biti	O
 15	dejati	O
-16	mcconnell	O
+16	mcconnell	B-PER
 17	.	O
 
 1	Pomiri	O
@@ -22467,9 +22434,9 @@
 33	biti	O
 34	sprejeti	O
 35	odločitev	O
-36	vrhoven	O
-37	sodišče	O
-38	ZDA	B-LOC
+36	vrhoven	B-ORG
+37	sodišče	I-ORG
+38	ZDA	I-ORG
 39	,	O
 40	četudi	O
 41	biti	O
@@ -22481,7 +22448,7 @@
 47	Bidna	B-PER
 48	.	O
 
-1	Graha	O
+1	Graha	B-PER
 2	se	O
 3	namreč	O
 4	zavedati	O
@@ -22765,7 +22732,7 @@
 4	pred	O
 5	vrhoven	O
 6	sodišče	O
-7	ZDA	B-LOC
+7	ZDA	I-ORG
 8	,	O
 9	biti	O
 10	dejati	O
@@ -23050,8 +23017,8 @@
 11	.	O
 
 1	V	O
-2	Združen	O
-3	država	O
+2	Združen	B-LOC
+3	država	I-LOC
 4	biti	O
 5	danes	O
 6	uraden	O
@@ -23205,7 +23172,7 @@
 34	Karolina	I-LOC
 35	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	imeti	O
 4	trije	O
@@ -23289,7 +23256,7 @@
 32	naokoli	O
 33	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	v	O
 4	velik	O
@@ -23357,7 +23324,7 @@
 46	biti	O
 47	biti	O
 48	zastopan	O
-49	belec	B-PER
+49	belec	O
 50	z	O
 51	nizek	O
 52	izobrazba	O
@@ -23720,26 +23687,23 @@
 13	odločalo	O
 14	o	O
 15	zahteva	O
-16	republikanec	B-PER
+16	republikanec	O
 17	za	O
 18	izločitev	O
-19	127	O
-20	.	O
-
-1	000	O
-2	glasovnica	O
-3	v	O
-4	pretežno	O
-5	demokratski	O
-6	okrožje	O
-7	,	O
-8	ker	O
-9	biti	O
-10	volilec	O
-11	glasovati	O
-12	iz	O
-13	avtomobil	O
-14	.	O
+19	127.000	O
+20	glasovnica	O
+21	v	O
+22	pretežno	O
+23	demokratski	O
+24	okrožje	O
+25	,	O
+26	ker	O
+27	biti	O
+28	volilec	O
+29	glasovati	O
+30	iz	O
+31	avtomobil	O
+32	.	O
 
 1	Senatna	O
 2	večina	O
@@ -23778,7 +23742,7 @@
 12	sprememba	O
 13	in	O
 14	biti	O
-15	demokrat	O
+15	demokrat	B-PER
 16	obdržati	O
 17	večina	O
 18	.	O
@@ -24488,7 +24452,7 @@
 4	da	O
 5	on	O
 6	načrtovati	O
-7	demokrat	O
+7	demokrat	B-PER
 8	.	O
 
 1	Prvi	O
@@ -24951,9 +24915,9 @@
 14	,	O
 15	ki	O
 16	biti	O
-17	demokrat	O
+17	demokrat	B-PER
 18	in	O
-19	Bidna	O
+19	Bidna	B-PER
 20	prisiliti	O
 21	,	O
 22	da	O
@@ -24980,7 +24944,7 @@
 10	ko	O
 11	biti	O
 12	morati	O
-13	Gora	O
+13	Gora	B-PER
 14	zaradi	O
 15	odločitev	O
 16	vrhoven	O
@@ -25083,8 +25047,8 @@
 14	biti	O
 15	televizijski	O
 16	mreža	O
-17	Fox	B-ORG
-18	News	I-ORG
+17	Fox	B-PRO
+18	News	I-PRO
 19	namesto	O
 20	konservativnig	O
 21	Murdochi	B-PER
@@ -25251,38 +25215,35 @@
 18	nepotreben	O
 19	smrt	O
 20	okoli	O
-21	230	O
-22	.	O
-
-1	000	O
-2	državljan	O
-3	dodati	O
-4	še	O
-5	nepredvidljiv	O
-6	število	O
-7	nov	O
-8	žrtev	O
-9	Trumpov	B-PER
-10	z	O
-11	razum	O
-12	sprt	O
-13	in	O
-14	kriminaln	O
-15	ignoriranje	O
-16	koronavirusen	O
-17	pandemija	O
-18	,	O
-19	zlom	O
-20	njihov	O
-21	demokracija	O
-22	,	O
-23	nazadovanje	O
-24	ekonomski	O
-25	prosperitete	O
-26	in	O
-27	globalen	O
-28	zaton	O
-29	.	O
+21	230.000	O
+22	državljan	O
+23	dodati	O
+24	še	O
+25	nepredvidljiv	O
+26	število	O
+27	nov	O
+28	žrtev	O
+29	Trumpov	B-PER
+30	z	O
+31	razum	O
+32	sprt	O
+33	in	O
+34	kriminaln	O
+35	ignoriranje	O
+36	koronavirusen	O
+37	pandemija	O
+38	,	O
+39	zlom	O
+40	njihov	O
+41	demokracija	O
+42	,	O
+43	nazadovanje	O
+44	ekonomski	O
+45	prosperitete	O
+46	in	O
+47	globalen	O
+48	zaton	O
+49	.	O
 
 1	Kdo	O
 2	biti	O
@@ -25854,7 +25815,7 @@
 4	biti	O
 5	v	O
 6	Los	B-LOC
-7	Angeles	I-LOC
+7	Angeles	B-LOC
 8	rezerviran	O
 9	za	O
 10	podelitev	O
@@ -25928,8 +25889,8 @@
 12	album	O
 13	pa	O
 14	biti	O
-15	Fine	O
-16	Lin	O
+15	Fine	B-PRO
+16	Lin	I-PRO
 17	nekdanji	O
 18	član	O
 19	skupina	O
@@ -25977,7 +25938,7 @@
 11	Lyon	I-PER
 12	v	O
 13	serija	O
-14	Empire	O
+14	Empire	B-PRO
 15	,	O
 16	se	O
 17	biti	O
@@ -26006,7 +25967,7 @@
 3	stoletje	O
 4	,	O
 5	v	O
-6	Armanijevi	B-ORG
+6	Armanijevi	B-PER
 7	svetleči	O
 8	mini	O
 9	obleka	O
@@ -26142,10 +26103,10 @@
 25	Jennifer	B-PER
 26	Lopez	I-PER
 27	,	O
-28	Dua	B-ORG
-29	Lipa	I-ORG
+28	Dua	B-PER
+29	Lipa	I-PER
 30	,	O
-31	Machine	B-ORG
+31	Machine	O
 32	Gun	I-ORG
 33	Kelly	I-ORG
 34	in	O
@@ -26282,7 +26243,7 @@
 52	boj	O
 53	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	se	O
 3	biti	O
 4	tako	O
@@ -26341,7 +26302,7 @@
 42	položaj	O
 43	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	že	O
 4	predstaviti	O
@@ -26524,10 +26485,10 @@
 42	poročati	O
 43	ameriški	O
 44	televizija	O
-45	CNN	B-ORG
+45	CNN	B-PRO
 46	.	O
 
-1	CNN	B-ORG
+1	CNN	B-PRO
 2	,	O
 3	ki	O
 4	kot	O
@@ -26746,7 +26707,7 @@
 38	Trumpa	B-PER
 39	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	tudi	O
 3	biti	O
 4	vabljen	O
@@ -26800,7 +26761,7 @@
 17	Stat	B-ORG
 18	Department	I-ORG
 19	in	O
-20	Bidnovo	O
+20	Bidnovo	B-PER
 21	ekipa	O
 22	za	O
 23	tranzicija	O
@@ -27013,7 +26974,7 @@
 21	zaslediti	O
 22	sumljiv	O
 23	predvolilen	O
-24	Bidnov	O
+24	Bidnov	B-PER
 25	kombi	O
 26	.	O
 
@@ -27214,9 +27175,9 @@
 9	biti	O
 10	glasovati	O
 11	za	O
-12	Bidna	O
+12	Bidna	B-PER
 13	Voditelj	O
-14	Fox	B-PRO
+14	Fox	B-ORG
 15	Newsa	I-ORG
 16	biti	O
 17	v	O
@@ -27489,8 +27450,8 @@
 28	biti	O
 29	sporočiti	O
 30	Izvršen	B-ORG
-31	odbor	I-ORG
-32	svet	I-ORG
+31	odbor	O
+32	svet	O
 33	za	I-ORG
 34	vladen	I-ORG
 35	usklajevanje	I-ORG
@@ -27535,9 +27496,9 @@
 9	in	I-ORG
 10	infrastrukturo	I-ORG
 11	pri	O
-12	ministrstvo	O
-13	za	O
-14	domovinsko	O
+12	ministrstvo	B-ORG
+13	za	I-ORG
+14	domovinsko	I-ORG
 15	varnost	I-ORG
 16	ZDA	I-ORG
 17	(	O
@@ -27661,7 +27622,7 @@
 32	tako	O
 33	demokrat	O
 34	kot	O
-35	republikanec	B-PER
+35	republikanec	O
 36	.	O
 
 1	Noben	O
@@ -27682,7 +27643,7 @@
 5	Warner	B-ORG
 6	.	O
 
-1	Demokrati	O
+1	Demokrati	B-PER
 2	biti	O
 3	zgrožen	O
 4	nad	O
@@ -27726,7 +27687,7 @@
 1	Deloven	O
 2	skupina	O
 3	Bel	B-ORG
-4	hiša	I-ORG
+4	hiša	I-LOC
 5	za	O
 6	boj	O
 7	proti	O
@@ -27787,7 +27748,7 @@
 3	ZDA	B-LOC
 4	Barack	B-PER
 5	Oba	I-PER
-6	biti	I-PER
+6	biti	O
 7	med	O
 8	promocija	O
 9	svoj	O
@@ -27796,7 +27757,7 @@
 12	spomin	O
 13	z	O
 14	naslov	O
-15	Obljubljen	B-PRO
+15	Obljubljen	O
 16	dežela	O
 17	izraziti	O
 18	zaskrbljenost	O
@@ -27836,10 +27797,10 @@
 5	,	O
 6	biti	O
 7	dejati	O
-8	Oba	O
+8	Oba	B-PER
 9	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	po	O
 3	osvojitvi	O
 4	Georgie	B-LOC
@@ -27884,21 +27845,18 @@
 23	z	O
 24	več	O
 25	kot	O
-26	14	O
-27	.	O
+26	14.000	O
+27	glas	O
+28	od	O
+29	skupaj	O
+30	okrog	O
+31	pet	O
+32	milijon	O
+33	oddan	O
+34	glas	O
+35	.	O
 
-1	000	O
-2	glas	O
-3	od	O
-4	skupaj	O
-5	okrog	O
-6	pet	O
-7	milijon	O
-8	oddan	O
-9	glas	O
-10	.	O
-
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	za	O
 4	zmaga	O
@@ -27993,7 +27951,7 @@
 34	elektorjev	O
 35	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	uspeti	O
 4	Trump	B-PER
@@ -28061,10 +28019,10 @@
 28	spremeniti	O
 29	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	prvi	O
-4	demokrat	B-PER
+4	demokrat	O
 5	,	O
 6	ki	O
 7	on	O
@@ -28156,7 +28114,7 @@
 27	večina	O
 28	vrhoven	O
 29	sodišče	O
-30	ZDA	B-LOC
+30	ZDA	I-ORG
 31	.	O
 
 1	Ameriški	O
@@ -28209,7 +28167,7 @@
 8	tako	O
 9	demokrat	B-PER
 10	kot	O
-11	republikanec	B-PER
+11	republikanec	O
 12	in	O
 13	doslej	O
 14	biti	O
@@ -28377,7 +28335,7 @@
 23	zmanjšati	O
 24	zaostanek	O
 25	za	O
-26	demokrat	O
+26	demokrat	B-PER
 27	in	O
 28	volitev	O
 29	v	O
@@ -28417,7 +28375,7 @@
 12	raven	O
 13	,	O
 14	kjer	O
-15	demokrat	O
+15	demokrat	B-PER
 16	biti	O
 17	uspeti	O
 18	prevzeti	O
@@ -28443,7 +28401,7 @@
 7	da	O
 8	biti	O
 9	spet	O
-10	republikanec	B-PER
+10	republikanec	O
 11	tisti	O
 12	,	O
 13	ki	O
@@ -28564,7 +28522,7 @@
 8	Belo	B-LOC
 9	hiša	I-LOC
 10	po	O
-11	Bidenova	B-PRO
+11	Bidenova	B-PER
 12	priseg	O
 13	20	O
 14	.	O
@@ -28619,7 +28577,7 @@
 23	dan	O
 24	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	na	O
 4	volitev	O
@@ -28641,7 +28599,7 @@
 20	milijon	O
 21	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	tudi	O
 4	osvojiti	O
@@ -28974,7 +28932,7 @@
 40	.	O
 
 1	Senatni	O
-2	republikanec	B-PER
+2	republikanec	O
 3	biti	O
 4	večinoma	O
 5	ne	O
@@ -29204,7 +29162,7 @@
 8	Belo	B-LOC
 9	hiša	I-LOC
 10	po	O
-11	Bidenova	B-PRO
+11	Bidenova	B-PER
 12	priseg	O
 13	20	O
 14	.	O
@@ -29260,7 +29218,7 @@
 23	dan	O
 24	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	na	O
 4	volitev	O
@@ -29282,7 +29240,7 @@
 20	milijon	O
 21	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	tudi	O
 4	osvojiti	O
@@ -29599,7 +29557,7 @@
 32	.	O
 
 1	Senatni	O
-2	republikanec	B-PER
+2	republikanec	O
 3	biti	O
 4	večinoma	O
 5	ne	O
@@ -29898,7 +29856,7 @@
 4	pred	O
 5	vrhoven	O
 6	sodišče	O
-7	ZDA	B-LOC
+7	ZDA	I-ORG
 8	,	O
 9	biti	O
 10	dejati	O
@@ -30156,7 +30114,7 @@
 23	.	O
 
 1	Medij	O
-2	Trumpova	O
+2	Trumpova	B-PER
 3	kampanj	O
 4	pripravljati	O
 5	načrt	O
@@ -30190,7 +30148,7 @@
 23	,	O
 24	kjer	O
 25	imeti	O
-26	republikanec	B-PER
+26	republikanec	O
 27	večina	O
 28	v	O
 29	državen	O
@@ -30248,7 +30206,7 @@
 30	tesen	O
 31	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	sicer	O
 3	voditi	O
 4	,	O
@@ -30266,7 +30224,7 @@
 16	svež	O
 17	anketa	O
 18	televizija	O
-19	CNN	B-ORG
+19	CNN	B-PRO
 20	dajati	O
 21	kar	O
 22	16	O
@@ -30323,7 +30281,7 @@
 11	večina	O
 12	vrhoven	O
 13	sodišče	O
-14	ZDA	B-LOC
+14	ZDA	I-ORG
 15	in	O
 16	pričakovati	O
 17	,	O
@@ -30445,8 +30403,8 @@
 25	da	O
 26	vir	O
 27	v	O
-28	republikanski	B-ORG
-29	stranka	I-ORG
+28	republikanski	O
+29	stranka	O
 30	na	O
 31	nacionalen	O
 32	in	O
@@ -30496,7 +30454,7 @@
 6	,	O
 7	da	O
 8	imeti	O
-9	republikanec	B-PER
+9	republikanec	O
 10	svoj	O
 11	guvernir	O
 12	le	O
@@ -30838,7 +30796,7 @@
 24	namestnica	O
 25	tiskovnig	O
 26	predstavnik	O
-27	Trumpove	O
+27	Trumpove	B-PER
 28	kampanja	O
 29	Thea	B-PER
 30	mcdonald	I-PER
@@ -30930,7 +30888,7 @@
 32	.	O
 
 1	Make	O
-2	America	O
+2	America	B-LOC
 3	Great	O
 4	Again	O
 5	oziroma	O
@@ -31136,8 +31094,8 @@
 16	dolgočasen	O
 17	in	O
 18	predvidljiv	O
-19	Jae	O
-20	Bidna	O
+19	Jae	B-PER
+20	Bidna	I-PER
 21	olajšanje	O
 22	ne	O
 23	samo	O
@@ -31327,7 +31285,7 @@
 12	sedem	O
 13	desetletje	O
 14	po	O
-15	drug	B-EVT
+15	drug	O
 16	svetoven	I-EVT
 17	vojna	I-EVT
 18	izkazale	O
@@ -31940,7 +31898,7 @@
 1	Ameriški	O
 2	televizijski	O
 3	hiša	O
-4	CNN	B-ORG
+4	CNN	B-PRO
 5	sklicujoč	O
 6	se	O
 7	na	O
@@ -32040,7 +31998,7 @@
 66	tisoč	O
 67	glas	O
 68	,	O
-69	demokratova	O
+69	demokratova	B-PER
 70	prednost	O
 71	pa	O
 72	biti	O
@@ -32145,7 +32103,7 @@
 7	nekdanji	O
 8	župan	O
 9	New	B-LOC
-10	York	I-LOC
+10	York	B-LOC
 11	Rudy	B-PER
 12	Giuliani	I-PER
 13	.	O
@@ -32224,7 +32182,7 @@
 28	(	O
 29	DMC	B-ORG
 30	)	O
-31	Biden	O
+31	Biden	B-PER
 32	biti	O
 33	,	O
 34	kolikor	O
@@ -32299,7 +32257,7 @@
 6	nekdno	O
 7	župan	O
 8	New	B-LOC
-9	York	I-LOC
+9	York	B-LOC
 10	pa	O
 11	biti	O
 12	priti	O
@@ -32506,7 +32464,7 @@
 33	napačno	O
 34	razglasiti	O
 35	Ala	B-PER
-36	Gora	I-LOC
+36	Gora	I-PER
 37	.	O
 
 1	Šte	O
@@ -32574,70 +32532,67 @@
 5	razglasiti	O
 6	zmagovalec	O
 7	ob	O
-8	20	O
-9	.	O
-
-1	15	O
-2	po	O
-3	vzhodnoameriški	O
-4	čas	O
-5	,	O
-6	ko	O
-7	biti	O
-8	biti	O
-9	volišče	O
-10	na	O
-11	zahod	O
-12	država	O
-13	še	O
-14	odprt	O
-15	(	O
-16	volilen	O
-17	molik	O
-18	v	O
-19	ZDA	B-LOC
-20	biti	O
-21	)	O
-22	Tako	O
-23	navajati	O
-24	Mike	B-PER
-25	Conway	I-PER
-26	,	O
-27	profesor	O
-28	novinarstvo	O
-29	na	O
-30	Univerza	B-ORG
-31	v	I-ORG
-32	Indiani	I-ORG
-33	v	O
-34	prispevek	O
-35	za	O
-36	spleten	O
-37	medijski	O
-38	portal	O
-39	The	B-PRO
-40	Conversation	I-PRO
-41	,	O
-42	in	O
-43	dodajati	O
-44	,	O
-45	da	O
-46	biti	O
-47	biti	O
-48	NBC	B-ORG
-49	tarča	O
-50	kritika	O
+8	20.15	O
+9	po	O
+10	vzhodnoameriški	O
+11	čas	O
+12	,	O
+13	ko	O
+14	biti	O
+15	biti	O
+16	volišče	O
+17	na	O
+18	zahod	O
+19	država	O
+20	še	O
+21	odprt	O
+22	(	O
+23	volilen	O
+24	molik	O
+25	v	O
+26	ZDA	B-LOC
+27	biti	O
+28	)	O
+29	Tako	O
+30	navajati	O
+31	Mike	B-PER
+32	Conway	I-PER
+33	,	O
+34	profesor	O
+35	novinarstvo	O
+36	na	O
+37	Univerza	B-ORG
+38	v	I-ORG
+39	Indiani	I-ORG
+40	v	O
+41	prispevek	O
+42	za	O
+43	spleten	O
+44	medijski	O
+45	portal	O
+46	The	B-PRO
+47	Conversation	I-PRO
+48	,	O
+49	in	O
+50	dodajati	O
 51	,	O
-52	češ	O
-53	da	O
+52	da	O
+53	biti	O
 54	biti	O
-55	lahko	O
-56	njegov	O
-57	objava	O
-58	vplivati	O
-59	na	O
-60	izid	O
-61	.	O
+55	NBC	B-ORG
+56	tarča	O
+57	kritika	O
+58	,	O
+59	češ	O
+60	da	O
+61	biti	O
+62	lahko	O
+63	njegov	O
+64	objava	O
+65	vplivati	O
+66	na	O
+67	izid	O
+68	.	O
 
 1	Televizija	O
 2	biti	O
@@ -32754,7 +32709,7 @@
 1	Konkurenčen	O
 2	biti	O
 3	AP	B-ORG
-4	votecast	I-ORG
+4	votecast	O
 5	,	O
 6	v	O
 7	kateri	O
@@ -32762,8 +32717,8 @@
 9	AP	B-ORG
 10	in	O
 11	televizija	O
-12	Fox	B-ORG
-13	News	I-ORG
+12	Fox	B-PRO
+13	News	I-PRO
 14	.	O
 
 1	Tu	O
@@ -32798,7 +32753,7 @@
 
 1	AP	B-ORG
 2	in	O
-3	Fox	B-ORG
+3	Fox	B-PRO
 4	News	I-ORG
 5	biti	O
 6	na	O
@@ -32990,7 +32945,7 @@
 15	kot	O
 16	kazati	O
 17	primer	O
-18	Gora	O
+18	Gora	B-LOC
 19	,	O
 20	po	O
 21	kateri	O
@@ -33791,7 +33746,7 @@
 13	neodgovorjen	O
 14	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	deti	O
 4	izredno	O
@@ -33974,7 +33929,7 @@
 24	preseliti	O
 25	iz	O
 26	New	B-LOC
-27	York	I-LOC
+27	York	B-LOC
 28	v	O
 29	Washington	B-LOC
 30	.	O
@@ -34445,7 +34400,7 @@
 41	zanika	O
 42	.	O
 
-1	Janša	O
+1	Janša	B-PER
 2	biti	O
 3	med	O
 4	drug	O
@@ -35102,7 +35057,7 @@
 28	.	O
 
 1	Predstavnik	O
-2	Delawara	B-LOC
+2	Delawara	B-PER
 3	v	O
 4	senat	O
 5	biti	O
@@ -35219,7 +35174,7 @@
 7	prijateljstvo	O
 8	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	on	O
 3	biti	O
 4	tako	O
@@ -35232,7 +35187,7 @@
 11	,	O
 12	ko	O
 13	biti	O
-14	Oba	O
+14	Oba	B-PER
 15	meniti	O
 16	,	O
 17	da	O
@@ -35269,7 +35224,7 @@
 7	kampanji	O
 8	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	začeti	O
 4	slabo	O
@@ -35592,7 +35547,7 @@
 6	star	O
 7	sin	O
 8	Donald	B-PER
-9	mlad	I-PER
+9	mlad	O
 10	in	O
 11	Eric	B-PER
 12	,	O
@@ -35627,14 +35582,14 @@
 19	ponižati	O
 20	Tiskovni	O
 21	predstavnik	O
-22	Trumpove	O
+22	Trumpove	B-PER
 23	kampanja	O
 24	Jason	B-PER
 25	Miller	I-PER
 26	biti	O
 27	zanikati	O
 28	poročanje	O
-29	CNN	B-ORG
+29	CNN	B-PRO
 30	,	O
 31	ki	O
 32	vztrajati	O
@@ -35688,7 +35643,7 @@
 13	televizijski	O
 14	serija	O
 15	Vajenec	O
-16	Omarose	B-PER
+16	Omarose	O
 17	Manigault	I-PER
 18	Newman	I-PER
 19	,	O
@@ -36031,7 +35986,7 @@
 8	spleten	O
 9	stran	O
 10	realclear	B-ORG
-11	Politics	I-ORG
+11	Politics	I-PRO
 12	pa	O
 13	imeti	O
 14	Trump	B-PER
@@ -36100,7 +36055,7 @@
 28	demokratski	O
 29	predsedniški	O
 30	kandidat	O
-31	Hunterja	O
+31	Hunterja	B-PER
 32	Bidna	I-PER
 33	v	O
 34	Ukrajina	B-LOC
@@ -36171,7 +36126,7 @@
 22	kopneti	O
 23	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	v	O
 4	vodstvo	O
@@ -36225,7 +36180,7 @@
 52	skopnela	O
 53	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	biti	O
 4	v	O
@@ -36303,7 +36258,7 @@
 52	iztrgati	O
 53	iz	O
 54	roka	O
-55	demokrat	O
+55	demokrat	B-PER
 56	.	O
 
 1	Voda	O
@@ -36318,7 +36273,7 @@
 10	Arizoni	B-LOC
 11	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	celo	O
 3	rahlo	O
 4	voditi	O
@@ -36486,7 +36441,7 @@
 8	volivka	O
 9	.	O
 
-1	Bidna	O
+1	Bidna	B-PER
 2	podpirati	O
 3	skoraj	O
 4	dvakrat	O
@@ -36928,7 +36883,7 @@
 20	vojaški	O
 21	akademija	O
 22	New	B-LOC
-23	York	I-LOC
+23	York	B-LOC
 24	,	O
 25	kjer	O
 26	biti	O
@@ -36946,7 +36901,7 @@
 5	študirati	O
 6	na	O
 7	univerza	O
-8	Fordham	O
+8	Fordham	I-ORG
 9	v	O
 10	Bronx	B-LOC
 11	,	O
@@ -36960,7 +36915,7 @@
 19	na	O
 20	posloven	O
 21	šola	O
-22	Wharton	B-LOC
+22	Wharton	B-ORG
 23	študirati	O
 24	nepremičninski	O
 25	posel	O
@@ -36996,14 +36951,14 @@
 28	sprejemne	O
 29	izpit	O
 30	za	O
-31	Fordham	B-LOC
+31	Fordham	B-PER
 32	narediti	O
 33	nekdo	O
 34	drug	O
 35	,	O
 36	posloven	O
 37	šola	O
-38	Wharton	B-LOC
+38	Wharton	B-PER
 39	pa	O
 40	razen	O
 41	nekaj	O
@@ -37312,7 +37267,7 @@
 12	utaj	O
 13	v	O
 14	New	B-LOC
-15	York	I-LOC
+15	York	B-LOC
 16	in	O
 17	drug	O
 18	preiskava	O
@@ -37356,14 +37311,14 @@
 4	lastništvo	O
 5	lepotnih	O
 6	tekmovanje	O
-7	Miss	B-ORG
+7	Miss	B-EVT
 8	USA	I-ORG
 9	,	O
 10	Miss	B-ORG
 11	Teen	I-ORG
 12	USA	I-ORG
 13	in	O
-14	Miss	B-ORG
+14	Miss	B-EVT
 15	Universe	I-ORG
 16	,	O
 17	od	O
@@ -37531,8 +37486,8 @@
 8	predsednik	O
 9	kot	O
 10	član	O
-11	reformne	B-ORG
-12	stranka	I-ORG
+11	reformne	O
+12	stranka	O
 13	,	O
 14	z	O
 15	kandidaturo	O
@@ -37626,7 +37581,7 @@
 16	da	O
 17	biti	O
 18	biti	O
-19	Oba	O
+19	Oba	B-PER
 20	rojen	O
 21	v	O
 22	ZDA	B-LOC
@@ -37924,7 +37879,7 @@
 68	volitev	O
 69	z	O
 70	preiskava	O
-71	Bidna	B-EVT
+71	Bidna	B-PER
 72	.	O
 
 1	Zaradi	O
@@ -38111,7 +38066,7 @@
 8	v	O
 9	anketa	O
 10	za	O
-11	Biden	B-EVT
+11	Biden	B-PER
 12	,	O
 13	v	O
 14	spomin	O
@@ -38311,7 +38266,7 @@
 18	da	O
 19	biti	O
 20	se	O
-21	Rus	B-LOC
+21	Rus	B-PER
 22	res	O
 23	vpletali	O
 24	na	O
@@ -38325,7 +38280,7 @@
 2	biti	O
 3	poročen	O
 4	z	O
-5	Američanko	O
+5	Američanko	B-PER
 6	slovenski	O
 7	rod	O
 8	Melanio	B-PER
@@ -38485,7 +38440,7 @@
 3	govoriti	O
 4	v	O
 5	prid	O
-6	Biden	B-LOC
+6	Biden	B-PER
 7	,	O
 8	ki	O
 9	voditi	O
@@ -38526,7 +38481,7 @@
 15	uresničiti	O
 16	strahov	O
 17	nekateri	O
-18	demokrat	O
+18	demokrat	B-PER
 19	,	O
 20	da	O
 21	se	O
@@ -38538,7 +38493,7 @@
 27	izgubiti	O
 28	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	biti	O
 4	celo	O
@@ -38623,7 +38578,7 @@
 37	on	O
 38	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	proti	O
 4	konec	O
@@ -38693,7 +38648,7 @@
 11	posvetiti	O
 12	napad	O
 13	na	O
-14	Bidna	B-LOC
+14	Bidna	B-PER
 15	.	O
 
 1	Ta	O
@@ -38800,7 +38755,7 @@
 7	se	O
 8	norču	O
 9	iz	O
-10	Bidna	B-LOC
+10	Bidna	B-PER
 11	,	O
 12	ker	O
 13	on	O
@@ -38849,7 +38804,7 @@
 40	priti	O
 41	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	med	O
 4	debata	O
@@ -38857,21 +38812,18 @@
 6	na	O
 7	več	O
 8	kot	O
-9	200	O
-10	.	O
-
-1	000	O
-2	mrtev	O
-3	v	O
-4	ZDA	B-LOC
-5	zaradi	O
-6	covid	O
-7	-	O
-8	19	O
-9	pod	O
-10	Trumpov	B-PER
-11	vodstvo	O
-12	.	O
+9	200.000	O
+10	mrtev	O
+11	v	O
+12	ZDA	B-LOC
+13	zaradi	O
+14	covid	O
+15	-	O
+16	19	O
+17	pod	O
+18	Trumpov	B-PER
+19	vodstvo	O
+20	.	O
 
 1	Predsednik	O
 2	biti	O
@@ -38890,7 +38842,7 @@
 15	mrtev	O
 16	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	pa	O
 3	biti	O
 4	očitati	O
@@ -38902,7 +38854,7 @@
 10	gripe	O
 11	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	se	O
 3	biti	O
 4	nekajkrat	O
@@ -38991,7 +38943,7 @@
 10	neumnostmi	O
 11	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	pa	O
 3	biti	O
 4	tik	O
@@ -39014,7 +38966,7 @@
 21	poživite	O
 22	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	pred	O
 4	soočenji	O
@@ -39028,20 +38980,14 @@
 12	Jill	B-PER
 13	lani	O
 14	plačati	O
-15	300	O
-16	.	O
-
-1	000	O
-2	dolar	O
-3	dohodnina	O
-4	na	O
-5	950	O
-6	.	O
-
-1	000	O
-2	dolar	O
-3	dohodek	O
-4	.	O
+15	300.000	O
+16	dolar	O
+17	dohodnina	O
+18	na	O
+19	950.000	O
+20	dolar	O
+21	dohodek	O
+22	.	O
 
 1	Trumpa	B-PER
 2	biti	O
@@ -39135,7 +39081,7 @@
 27	izid	O
 28	volitev	O
 29	,	O
-30	Bidna	O
+30	Bidna	B-PER
 31	pa	O
 32	prisiliti	O
 33	v	O
@@ -39156,10 +39102,10 @@
 10	levica	O
 11	,	O
 12	biti	O
-13	Biden	O
+13	Biden	B-PER
 14	v	O
 15	slog	O
-16	Ludvik	O
+16	Ludvik	B-PER
 17	14	O
 18	.	O
 
@@ -39237,7 +39183,7 @@
 3	,	O
 4	da	O
 5	imeti	O
-6	republikanec	B-PER
+6	republikanec	O
 7	Belo	B-LOC
 8	hiša	I-LOC
 9	in	O
@@ -39251,7 +39197,7 @@
 17	želeti	O
 18	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	dejati	O
 4	,	O
@@ -39352,7 +39298,7 @@
 18	on	O
 19	.	O
 
-1	Bidna	O
+1	Bidna	B-PER
 2	biti	O
 3	napadal	O
 4	,	O
@@ -39417,7 +39363,7 @@
 26	policija	O
 27	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	predlagati	O
 3	povečanje	O
 4	sredstvo	O
@@ -39437,7 +39383,7 @@
 18	temnopolt	O
 19	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	obsodilo	O
 4	ves	O
@@ -39554,7 +39500,7 @@
 11	prevara	O
 12	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	seja	O
 3	braniti	O
 4	po	O
@@ -39613,7 +39559,7 @@
 8	,	O
 9	poznati	O
 10	pa	O
-11	Hunterja	O
+11	Hunterja	B-PER
 12	in	O
 13	sprožiti	O
 14	ognjevit	O
@@ -39632,7 +39578,7 @@
 27	Rusija	B-LOC
 28	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	le	O
 4	nemočno	O
@@ -39956,7 +39902,7 @@
 5	ponoven	O
 6	zmaga	O
 7	republikanec	O
-8	George	O
+8	George	B-PER
 9	«	O
 10	.	O
 
@@ -40862,8 +40808,8 @@
 23	na	O
 24	Trg	B-LOC
 25	Kim	I-LOC
-26	Il	I-PRO
-27	Sun	I-PRO
+26	Il	I-LOC
+27	Sun	I-LOC
 28	v	O
 29	Pjongjang	B-LOC
 30	,	O
@@ -40931,7 +40877,7 @@
 6	tranzicija	O
 7	.	O
 
-1	Bidna	O
+1	Bidna	B-PER
 2	najbolj	O
 3	skrbeti	O
 4	,	O
@@ -41024,7 +40970,7 @@
 23	prevara	O
 24	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	on	O
 3	pustiti	O
 4	pri	O
@@ -41080,7 +41026,7 @@
 23	v	O
 24	torek	O
 25	povedati	O
-26	Biden	O
+26	Biden	B-PER
 27	12	O
 28	nekdanji	O
 29	državen	O
@@ -41095,7 +41041,7 @@
 38	diplomacija	O
 39	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	sedaj	O
 4	že	O
@@ -41255,7 +41201,7 @@
 26	in	O
 27	sodelovati	O
 28	z	O
-29	Bidnovo	B-EVT
+29	Bidnovo	B-PER
 30	tranzicija	O
 31	.	O
 
@@ -41271,7 +41217,7 @@
 10	o	O
 11	koronavirus	O
 12	z	O
-13	Bidnovo	O
+13	Bidnovo	B-PER
 14	tranzicija	O
 15	,	O
 16	pisati	O
@@ -41334,11 +41280,8 @@
 23	biti	O
 24	več	O
 25	kot	O
-26	248	O
+26	248.500	O
 27	.	O
-
-1	500	O
-2	.	O
 
 1	Med	O
 2	okužen	O
@@ -41352,7 +41295,7 @@
 10	leten	O
 11	republikanec	O
 12	iz	O
-13	Iow	O
+13	Iow	B-LOC
 14	Chuck	B-PER
 15	Grassley	I-PER
 16	,	O
@@ -41499,15 +41442,12 @@
 24	Giuliani	I-PER
 25	zahtevati	O
 26	zase	O
-27	20	O
-28	.	O
-
-1	000	O
-2	dolar	O
-3	honorarje	O
-4	na	O
-5	dan	O
-6	.	O
+27	20.000	O
+28	dolar	O
+29	honorarje	O
+30	na	O
+31	dan	O
+32	.	O
 
 1	Giuliani	B-PER
 2	ta	O
@@ -41529,7 +41469,7 @@
 18	Pensilvanija	B-LOC
 19	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	v	O
 4	svoj	O
@@ -41616,8 +41556,8 @@
 12	biti	O
 13	direktorica	O
 14	urad	O
-15	Bel	O
-16	hiša	O
+15	Bel	B-LOC
+16	hiša	I-LOC
 17	za	O
 18	medvladne	O
 19	zadeva	O
@@ -41668,18 +41608,18 @@
 19	Urugvaj	B-LOC
 20	J	O
 21	ulisso	O
-22	Reynoso	O
-23	Pantaleon	O
+22	Reynoso	I-PER
+23	Pantaleon	I-PER
 24	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	tudi	O
 3	po	O
 4	ponoven	O
 5	štetje	O
 6	zmagovalec	O
 7	v	O
-8	Georen	B-EVT
+8	Georen	B-LOC
 9	,	O
 10	Trump	B-PER
 11	z	O
@@ -41711,38 +41651,35 @@
 18	Bidna	I-PER
 19	.	O
 
-1	Demokrat	O
+1	Demokrat	B-PER
 2	biti	O
 3	uspeti	O
 4	zbrati	O
-5	12	O
-6	.	O
-
-1	294	O
-2	glas	O
-3	več	O
-4	kot	O
-5	republikanski	O
-6	predsednik	O
-7	ZDA	B-LOC
-8	Donaldo	B-PER
-9	Trump	I-PER
-10	,	O
-11	biti	O
-12	v	O
-13	četrtek	O
-14	sporočiti	O
-15	pristojen	O
-16	sekretar	O
-17	Brad	B-PER
-18	Raffensperger	I-PER
-19	.	O
+5	12.294	O
+6	glas	O
+7	več	O
+8	kot	O
+9	republikanski	O
+10	predsednik	O
+11	ZDA	B-LOC
+12	Donaldo	B-PER
+13	Trump	I-PER
+14	,	O
+15	biti	O
+16	v	O
+17	četrtek	O
+18	sporočiti	O
+19	pristojen	O
+20	sekretar	O
+21	Brad	B-PER
+22	Raffensperger	I-PER
+23	.	O
 
 1	Georgia	B-LOC
 2	biti	O
 3	zmaga	O
 4	Jae	B-PER
-5	Bidna	O
+5	Bidna	I-PER
 6	uradno	O
 7	predvidoma	O
 8	potrditi	O
@@ -41760,22 +41697,19 @@
 9	prednost	O
 10	za	O
 11	okoli	O
-12	14	O
-13	.	O
-
-1	000	O
-2	glas	O
-3	,	O
-4	po	O
-5	ročen	O
-6	štetje	O
-7	pa	O
-8	se	O
-9	biti	O
-10	prednost	O
-11	rahlo	O
-12	zmanjšati	O
-13	.	O
+12	14.000	O
+13	glas	O
+14	,	O
+15	po	O
+16	ročen	O
+17	štetje	O
+18	pa	O
+19	se	O
+20	biti	O
+21	prednost	O
+22	rahlo	O
+23	zmanjšati	O
+24	.	O
 
 1	Med	O
 2	drug	O
@@ -42072,7 +42006,7 @@
 
 1	Izid	O
 2	okrožje	O
-3	Wayne	O
+3	Wayne	B-LOC
 4	biti	O
 5	biti	O
 6	sicer	O
@@ -42086,7 +42020,7 @@
 14	komisija	O
 15	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	imeti	O
 4	v	O
@@ -42106,7 +42040,7 @@
 18	in	O
 19	molk	O
 20	večina	O
-21	republikanec	B-PER
+21	republikanec	O
 22	.	O
 
 1	Vprašali	O
@@ -42128,7 +42062,7 @@
 17	tranzicija	O
 18	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	odgovoriti	O
 4	,	O
@@ -42219,7 +42153,7 @@
 17	Biden	B-PER
 18	.	O
 
-1	Demokrati	O
+1	Demokrati	B-PER
 2	kot	O
 3	dokaz	O
 4	neodgovornost	O
@@ -42283,7 +42217,7 @@
 9	potrditi	O
 10	vodja	O
 11	agencija	O
-12	Trumpove	O
+12	Trumpove	B-PER
 13	vlada	O
 14	,	O
 15	zadolžene	O
@@ -42411,7 +42345,7 @@
 16	komedija	O
 17	My	B-PRO
 18	Cousin	I-PRO
-19	Vinny	O
+19	Vinny	I-PRO
 20	,	O
 21	ki	O
 22	on	O
@@ -42706,7 +42640,7 @@
 11	uvesti	O
 12	skozi	O
 13	preuranjen	O
-14	Janševo	O
+14	Janševo	B-PER
 15	čestitka	O
 16	ameriški	O
 17	predsedniški	O
@@ -42987,7 +42921,7 @@
 28	.	O
 
 1	Poslanec	O
-2	SD	O
+2	SD	B-ORG
 3	Franc	B-PER
 4	Trček	I-PER
 5	biti	O
@@ -43355,8 +43289,8 @@
 6	elektorski	O
 7	glas	O
 8	za	O
-9	Jae	O
-10	Bidna	O
+9	Jae	B-PER
+10	Bidna	I-PER
 11	biti	O
 12	Kalifornija	B-LOC
 13	demokratski	O
@@ -43873,7 +43807,7 @@
 18	večina	O
 19	,	O
 20	nekateri	O
-21	demokrat	O
+21	demokrat	B-PER
 22	omenjati	O
 23	zakon	O
 24	iz	O
@@ -43900,7 +43834,7 @@
 7	1985	O
 8	v	O
 9	primer	O
-10	Indiane	B-LOC
+10	Indiane	B-PER
 11	,	O
 12	opazovalec	O
 13	pa	O
@@ -43911,7 +43845,7 @@
 18	niti	O
 19	v	O
 20	New	B-LOC
-21	York	I-LOC
+21	York	B-LOC
 22	,	O
 23	če	O
 24	biti	O
@@ -44187,7 +44121,7 @@
 13	džihadist	O
 14	iz	O
 15	Al	B-LOC
-16	Šababa	I-LOC
+16	Šababa	I-ORG
 17	,	O
 18	filiale	O
 19	Al	B-ORG
@@ -44383,7 +44317,7 @@
 21	vladen	O
 22	vojska	O
 23	proti	O
-24	Al	B-LOC
+24	Al	B-ORG
 25	Šabab	I-ORG
 26	.	O
 
@@ -44742,8 +44676,8 @@
 5	ostro	O
 6	napasti	O
 7	guvernir	O
-8	Georgie	O
-9	Briana	I-PER
+8	Georgie	B-LOC
+9	Briana	B-PER
 10	Kempa	I-PER
 11	,	O
 12	ki	O
@@ -44758,7 +44692,7 @@
 
 1	Trump	B-PER
 2	biti	O
-3	Kempa	O
+3	Kempa	B-PER
 4	po	O
 5	volitev	O
 6	poklicati	O
@@ -44799,7 +44733,7 @@
 9	podpreti	O
 10	.	O
 
-1	Kemp	O
+1	Kemp	B-PER
 2	biti	O
 3	podvomilo	O
 4	v	O
@@ -44822,12 +44756,9 @@
 21	Trumpa	B-PER
 22	za	O
 23	okrog	O
-24	12	O
-25	.	O
-
-1	000	O
-2	glas	O
-3	.	O
+24	12.000	O
+25	glas	O
+26	.	O
 
 1	Še	O
 2	naprej	O
@@ -45113,7 +45044,7 @@
 32	.	O
 
 1	Vrh	O
-2	G20	O
+2	G20	B-ORG
 3	za	O
 4	pravičen	O
 5	distribucija	O
@@ -45467,7 +45398,7 @@
 22	priskrbeti	O
 23	svoj	O
 24	cepivo	O
-25	Sputnik	O
+25	Sputnik	B-PRO
 26	V	O
 27	drug	O
 28	država	O
@@ -46151,7 +46082,7 @@
 2	svetovalec	O
 3	novoizvoljen	O
 4	predsednik	O
-5	Bidna	O
+5	Bidna	B-PER
 6	se	O
 7	biti	O
 8	v	O
@@ -46246,7 +46177,7 @@
 19	naprej	O
 20	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	že	O
 4	napovedati	O
@@ -46382,7 +46313,7 @@
 23	simptom	O
 24	.	O
 
-1	Burgum	B-LOC
+1	Burgum	B-PER
 2	biti	O
 3	biti	O
 4	deležen	O
@@ -46407,7 +46338,7 @@
 23	zbiranj	O
 24	.	O
 
-1	Nedeljski	B-PRO
+1	Nedeljski	O
 2	dnevnik	O
 3	Nemčija	B-LOC
 4	spet	O
@@ -46454,7 +46385,7 @@
 35	dnevnik	I-PRO
 36	v	O
 37	rubrika	O
-38	Šepet	O
+38	Šepet	B-PRO
 39	pisati	O
 40	Aleksander	B-PER
 41	Luc	I-PER
@@ -46777,8 +46708,8 @@
 24	prevzeti	O
 25	predsedovanje	O
 26	Slovenija	B-LOC
-27	Svet	O
-28	EU	B-ORG
+27	Svet	B-ORG
+28	EU	I-ORG
 29	in	O
 30	se	O
 31	biti	O
@@ -47093,7 +47024,7 @@
 8	naš	O
 9	ponudba	O
 10	Združen	O
-11	država	O
+11	država	I-LOC
 12	za	O
 13	namestitev	O
 14	rotacijski	O
@@ -47477,27 +47408,24 @@
 4	biti	O
 5	njegov	O
 6	plačilo	O
-7	130	O
-8	.	O
-
-1	000	O
-2	dolar	O
-3	pornografski	O
-4	igralki	O
-5	Stormy	B-PER
-6	Daniels	I-PER
-7	za	O
-8	molk	O
-9	o	O
-10	spolen	O
-11	odnos	O
-12	z	O
-13	Trumpom	B-PER
-14	pred	O
-15	volitev	O
-16	leto	O
-17	2016	O
-18	.	O
+7	130.000	O
+8	dolar	O
+9	pornografski	O
+10	igralki	O
+11	Stormy	B-PER
+12	Daniels	I-PER
+13	za	O
+14	molk	O
+15	o	O
+16	spolen	O
+17	odnos	O
+18	z	O
+19	Trumpom	B-PER
+20	pred	O
+21	volitev	O
+22	leto	O
+23	2016	O
+24	.	O
 
 1	Trump	B-PER
 2	ta	O
@@ -47598,43 +47526,37 @@
 11	v	O
 12	obrok	O
 13	po	O
-14	35	O
-15	.	O
-
-1	000	O
-2	dolar	O
-3	,	O
-4	kar	O
-5	biti	O
-6	prikazati	O
-7	kot	O
-8	odvetniški	O
-9	strošek	O
-10	in	O
-11	potem	O
-12	na	O
-13	ta	O
-14	način	O
-15	uveljaviti	O
-16	davčen	O
-17	olajšava	O
-18	,	O
-19	zaradi	O
-20	kar	O
-21	biti	O
-22	imeti	O
-23	tudi	O
-24	po	O
-25	plačilo	O
-26	130	O
-27	.	O
-
-1	000	O
-2	dolar	O
-3	na	O
-4	konec	O
-5	profit	O
-6	.	O
+14	35.000	O
+15	dolar	O
+16	,	O
+17	kar	O
+18	biti	O
+19	prikazati	O
+20	kot	O
+21	odvetniški	O
+22	strošek	O
+23	in	O
+24	potem	O
+25	na	O
+26	ta	O
+27	način	O
+28	uveljaviti	O
+29	davčen	O
+30	olajšava	O
+31	,	O
+32	zaradi	O
+33	kar	O
+34	biti	O
+35	imeti	O
+36	tudi	O
+37	po	O
+38	plačilo	O
+39	130.000	O
+40	dolar	O
+41	na	O
+42	konec	O
+43	profit	O
+44	.	O
 
 1	Cohen	B-PER
 2	jaz	O
@@ -47940,7 +47862,7 @@
 10	vsak	O
 11	tekmovalko	O
 12	na	O
-13	Miss	O
+13	Miss	B-EVT
 14	Universe	I-ORG
 15	.	O
 
@@ -48016,7 +47938,7 @@
 7	,	O
 8	da	O
 9	biti	O
-10	Mehičan	B-LOC
+10	Mehičan	B-PER
 11	kriminalec	O
 12	in	O
 13	posiljevalec	O
@@ -48247,7 +48169,7 @@
 1	november	O
 2	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	objaviti	O
 3	ime	O
 4	članovnove	O
@@ -48305,7 +48227,7 @@
 6	obveščevalen	O
 7	dejavnost	O
 8	nameravati	O
-9	Biden	O
+9	Biden	B-PER
 10	imenovati	O
 11	Avril	B-PER
 12	Haines	I-PER
@@ -48383,16 +48305,16 @@
 15	za	O
 16	afriški	O
 17	zadeva	O
-18	Lindo	O
-19	Thomas	I-PER
+18	Lindo	B-ORG
+19	Thomas	B-PER
 20	Greenfield	I-PER
 21	.	O
 
 1	Položaj	O
 2	veleposlanik	O
 3	pri	O
-4	ZN	B-LOC
-5	Biden	O
+4	ZN	B-ORG
+5	Biden	B-PER
 6	tudi	O
 7	vračati	O
 8	na	O
@@ -48413,7 +48335,7 @@
 3	nacionalno	O
 4	varnost	O
 5	ZDA	B-LOC
-6	Biden	O
+6	Biden	B-PER
 7	biti	O
 8	na	O
 9	volitev	O
@@ -48421,7 +48343,7 @@
 11	.	O
 
 1	november	O
-2	republikanec	B-PER
+2	republikanec	O
 3	Donalda	B-PER
 4	Trumpa	I-PER
 5	premagati	O
@@ -48562,7 +48484,7 @@
 26	.	O
 
 1	Zato	O
-2	republikance	B-PER
+2	republikance	O
 3	v	O
 4	kongres	O
 5	pozivati	O
@@ -48791,9 +48713,9 @@
 15	.	O
 
 1	november	O
-2	Upravi	O
+2	Upravi	B-ORG
 3	splošen	I-ORG
-4	služba	O
+4	služba	I-ORG
 5	(	O
 6	GSA	B-ORG
 7	)	O
@@ -48834,7 +48756,7 @@
 2	2021	O
 3	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	namreč	O
 3	biti	O
 4	imeti	O
@@ -48949,7 +48871,7 @@
 11	sporočiti	O
 12	v	O
 13	pismo	O
-14	Biden	B-PRO
+14	Biden	B-PER
 15	.	O
 
 1	Do	O
@@ -48991,7 +48913,7 @@
 2	naj	O
 3	biti	O
 4	zmaga	O
-5	Bidna	O
+5	Bidna	B-PER
 6	med	O
 7	drug	O
 8	potrditi	O
@@ -49041,7 +48963,7 @@
 30	glasovnice	O
 31	na	O
 32	zahteva	O
-33	Turmpove	B-EVT
+33	Turmpove	O
 34	kampanja	O
 35	.	O
 
@@ -49208,7 +49130,7 @@
 27	vlada	O
 28	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	namreč	O
 3	biti	O
 4	imeti	O
@@ -49306,7 +49228,7 @@
 24	sekretar	O
 25	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	že	O
 4	pretekel	O
@@ -49416,7 +49338,7 @@
 14	biti	O
 15	biti	O
 16	ta	O
-17	Obamov	O
+17	Obamov	B-PER
 18	podpredsednik	O
 19	.	O
 
@@ -49470,7 +49392,7 @@
 6	obveščevalen	O
 7	dejavnost	O
 8	nameravati	O
-9	Biden	O
+9	Biden	B-PER
 10	imenovati	O
 11	Avril	B-PER
 12	Haines	I-PER
@@ -49501,7 +49423,7 @@
 6	oblast	O
 7	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	namreč	O
 3	biti	O
 4	imeti	O
@@ -49616,7 +49538,7 @@
 11	sporočiti	O
 12	v	O
 13	pismo	O
-14	Biden	B-PRO
+14	Biden	B-PER
 15	.	O
 
 1	Do	O
@@ -49650,7 +49572,7 @@
 2	naj	O
 3	biti	O
 4	zmaga	O
-5	Bidna	O
+5	Bidna	B-PER
 6	med	O
 7	drug	O
 8	potrditi	O
@@ -49700,7 +49622,7 @@
 30	glasovnice	O
 31	na	O
 32	zahteva	O
-33	Turmpove	B-EVT
+33	Turmpove	O
 34	kampanja	O
 35	.	O
 
@@ -49868,7 +49790,7 @@
 27	vlada	O
 28	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	predstaviti	O
 3	zunanjepolitičen	O
 4	ekipa	O
@@ -50066,7 +49988,7 @@
 20	biti	O
 21	imeti	O
 22	v	O
-23	Obamovi	O
+23	Obamovi	B-PER
 24	vlada	O
 25	med	O
 26	drug	O
@@ -50080,7 +50002,7 @@
 34	Iran	B-LOC
 35	.	O
 
-1	Sullivan	B-PER
+1	Sullivan	O
 2	biti	O
 3	kariera	O
 4	začeti	O
@@ -50137,7 +50059,7 @@
 18	leto	O
 19	namestnica	O
 20	direktor	O
-21	Cie	O
+21	Cie	B-ORG
 22	.	O
 
 1	Bo	O
@@ -50209,7 +50131,7 @@
 26	zadeva	O
 27	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	ta	O
 4	položaj	O
@@ -50260,7 +50182,7 @@
 2	imenovanje	O
 3	prihodnji	O
 4	teden	O
-5	Biden	O
+5	Biden	B-PER
 6	biti	O
 7	tako	O
 8	pričakovan	O
@@ -50582,7 +50504,7 @@
 2	z	O
 3	ves	O
 4	stran	O
-5	Biden	O
+5	Biden	B-PER
 6	biti	O
 7	že	O
 8	prej	O
@@ -50635,7 +50557,7 @@
 55	Obame	B-PER
 56	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	omenjati	O
 4	,	O
@@ -50646,7 +50568,7 @@
 9	morda	O
 10	povabiti	O
 11	kakšen	O
-12	republikanec	B-PER
+12	republikanec	O
 13	,	O
 14	levo	O
 15	krilo	O
@@ -50728,7 +50650,7 @@
 12	staroselec	O
 13	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	uradno	O
 3	v	O
 4	roka	O
@@ -50797,7 +50719,7 @@
 18	Trumpa	I-PER
 19	na	O
 20	vlada	O
-21	Bidna	O
+21	Bidna	B-PER
 22	,	O
 23	ki	O
 24	biti	O
@@ -50871,11 +50793,11 @@
 2	se	O
 3	biti	O
 4	srečanje	O
-5	Bidnov	O
+5	Bidnov	B-PER
 6	ekipa	O
 7	z	O
 8	predstavnik	O
-9	Trumpove	O
+9	Trumpove	B-PER
 10	vlada	O
 11	,	O
 12	ki	O
@@ -50925,7 +50847,7 @@
 14	oblast	O
 15	biti	O
 16	za	O
-17	Bidna	B-ORG
+17	Bidna	B-PER
 18	pomemben	O
 19	,	O
 20	da	O
@@ -50967,7 +50889,7 @@
 56	«	O
 57	.	O
 
-1	Murphy	O
+1	Murphy	B-PER
 2	,	O
 3	kar	O
 4	biti	O
@@ -51085,7 +51007,7 @@
 30	verjeten	O
 31	zmagovalec	O
 32	,	O
-33	Bidna	O
+33	Bidna	B-PER
 34	,	O
 35	oziroma	O
 36	da	O
@@ -51170,7 +51092,7 @@
 14	potrditi	O
 15	volilen	O
 16	zmaga	O
-17	Bidna	B-EVT
+17	Bidna	B-PER
 18	,	O
 19	včeraj	O
 20	pa	O
@@ -51235,7 +51157,7 @@
 54	Chavez	I-PER
 55	.	O
 
-1	Bidnova	O
+1	Bidnova	B-PER
 2	ekipa	O
 3	biti	O
 4	hkrati	O
@@ -51550,7 +51472,7 @@
 11	poseben	O
 12	tvit	O
 13	in	O
-14	Bidna	O
+14	Bidna	B-PER
 15	obtožilo	O
 16	,	O
 17	da	O
@@ -51665,9 +51587,9 @@
 17	nov	O
 18	film	O
 19	Borata	B-PRO
-20	Sache	O
-21	Barona	O
-22	Cohena	O
+20	Sache	I-PRO
+21	Barona	B-PER
+22	Cohena	I-PER
 23	in	O
 24	z	O
 25	vrsta	O
@@ -51848,7 +51770,7 @@
 14	sramoti	O
 15	.	O
 
-1	Janša	O
+1	Janša	B-PER
 2	biti	O
 3	z	O
 4	veselje	O
@@ -52055,7 +51977,7 @@
 8	naš	O
 9	ponudba	O
 10	Združen	O
-11	država	O
+11	država	I-LOC
 12	za	O
 13	namestitev	O
 14	rotacijski	O
@@ -52416,7 +52338,7 @@
 
 1	Izid	O
 2	okrožje	O
-3	Wayne	O
+3	Wayne	B-LOC
 4	biti	O
 5	biti	O
 6	sicer	O
@@ -52430,7 +52352,7 @@
 14	komisija	O
 15	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	imeti	O
 4	v	O
@@ -52450,7 +52372,7 @@
 18	in	O
 19	molk	O
 20	večina	O
-21	republikanec	B-PER
+21	republikanec	O
 22	.	O
 
 1	Vprašali	O
@@ -52472,7 +52394,7 @@
 17	tranzicija	O
 18	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	odgovoriti	O
 4	,	O
@@ -52563,7 +52485,7 @@
 17	Biden	B-PER
 18	.	O
 
-1	Demokrati	O
+1	Demokrati	B-PER
 2	kot	O
 3	dokaz	O
 4	neodgovornost	O
@@ -52623,7 +52545,7 @@
 5	potrditi	O
 6	vodja	O
 7	agencija	O
-8	Trumpove	O
+8	Trumpove	B-PER
 9	vlada	O
 10	,	O
 11	zadolžene	O
@@ -53162,7 +53084,7 @@
 17	konflikt	O
 18	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	Trump	B-PER
 4	prisodilo	O
@@ -53229,7 +53151,7 @@
 17	uspešno	O
 18	testiranje	O
 19	in	O
-20	Biden	B-ORG
+20	Biden	B-PER
 21	lahko	O
 22	zaradi	O
 23	uspešen	O
@@ -53307,7 +53229,7 @@
 38	Trump	I-PER
 39	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	se	O
 3	po	O
 4	leto	O
@@ -53355,8 +53277,8 @@
 29	dolar	O
 30	vreden	O
 31	program	O
-32	Kupujma	O
-33	ameriški	O
+32	Kupujma	B-PRO
+33	ameriški	I-PRO
 34	.	O
 
 1	Z	O
@@ -53438,7 +53360,7 @@
 25	CO2	O
 26	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	novinarje	O
 4	odgovarjati	O
@@ -53477,7 +53399,7 @@
 1	V	O
 2	boniteten	O
 3	hiša	O
-4	moody	O
+4	moody	B-ORG
 5	biti	O
 6	njegov	O
 7	predlog	O
@@ -53560,7 +53482,7 @@
 
 1	Republikanec	B-PER
 2	očitati	O
-3	demokrat	O
+3	demokrat	B-PER
 4	načrtovan	O
 5	pomoč	O
 6	mesto	O
@@ -53642,7 +53564,7 @@
 31	odpuščen	O
 32	obramben	O
 33	minister	O
-34	Esper	B-PER
+34	Esper	O
 35	.	O
 
 1	Washington	B-LOC
@@ -53688,8 +53610,8 @@
 25	direktorica	O
 26	obveščevalen	O
 27	agencija	O
-28	Cia	O
-29	Gino	I-PER
+28	Cia	B-ORG
+29	Gino	I-ORG
 30	Haspel	I-PER
 31	.	O
 
@@ -53773,7 +53695,7 @@
 2	.	O
 
 1	Direktor	O
-2	FBI	O
+2	FBI	B-ORG
 3	-	O
 4	ja	O
 5	Christopher	B-PER
@@ -53823,14 +53745,14 @@
 39	.	O
 
 1	Voditelj	O
-2	FBI	O
+2	FBI	B-ORG
 3	-	O
 4	ja	O
 5	in	O
-6	Cie	O
-7	Wray	O
+6	Cie	B-PER
+7	Wray	I-PER
 8	in	O
-9	Haspelov	O
+9	Haspelov	B-PER
 10	pa	O
 11	naj	O
 12	biti	O
@@ -53950,7 +53872,7 @@
 26	Pfizer	B-ORG
 27	in	O
 28	nemški	O
-29	bionbech	O
+29	bionbech	B-ORG
 30	.	O
 
 1	Ameriški	O
@@ -54252,7 +54174,7 @@
 9	Trump	B-PER
 10	v	O
 11	Ovalen	B-LOC
-12	pisarna	O
+12	pisarna	I-LOC
 13	sprejeti	O
 14	ruski	O
 15	zunanji	O
@@ -54418,8 +54340,8 @@
 21	za	I-ORG
 22	nacionalno	I-ORG
 23	varnost	I-ORG
-24	Michaela	I-ORG
-25	Haydena	I-PER
+24	Michaela	O
+25	Haydena	I-ORG
 26	Larry	B-PER
 27	Pfeiffer	I-PER
 28	.	O
@@ -54479,7 +54401,7 @@
 31	skrivnost	O
 32	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	lahko	O
 3	Trump	B-PER
 4	zavrn	O
@@ -54826,12 +54748,9 @@
 6	zaostaja	O
 7	za	O
 8	skoraj	O
-9	150	O
-10	.	O
-
-1	000	O
-2	glas	O
-3	.	O
+9	150.000	O
+10	glas	O
+11	.	O
 
 1	Podoben	O
 2	izjava	O
@@ -54876,7 +54795,7 @@
 1	Oči	O
 2	usmerjen	O
 3	v	O
-4	Georgio	O
+4	Georgio	B-LOC
 5	V	O
 6	Georen	B-LOC
 7	,	O
@@ -54884,25 +54803,22 @@
 9	Trump	B-PER
 10	zaostaja	O
 11	za	O
-12	14	O
-13	.	O
-
-1	000	O
-2	glas	O
-3	,	O
-4	biti	O
-5	državen	O
-6	sekretar	O
-7	zaradi	O
-8	tesen	O
-9	izid	O
-10	odredi	O
-11	ponovno	O
-12	ročen	O
-13	štet	O
-14	ves	O
-15	glasovnica	O
-16	.	O
+12	14.000	O
+13	glas	O
+14	,	O
+15	biti	O
+16	državen	O
+17	sekretar	O
+18	zaradi	O
+19	tesen	O
+20	izid	O
+21	odredi	O
+22	ponovno	O
+23	ročen	O
+24	štet	O
+25	ves	O
+26	glasovnica	O
+27	.	O
 
 1	Trump	B-PER
 2	pa	O
@@ -54953,8 +54869,8 @@
 18	vodja	O
 19	Urad	B-ORG
 20	za	I-ORG
-21	splošen	O
-22	služba	O
+21	splošen	I-ORG
+22	služba	I-ORG
 23	,	O
 24	kar	O
 25	pa	O
@@ -54989,7 +54905,7 @@
 4	Chris	B-PER
 5	Wallace	I-PER
 6	z	O
-7	Fox	B-ORG
+7	Fox	B-PRO
 8	Newsa	I-ORG
 9	ocenjevati	O
 10	,	O
@@ -55156,7 +55072,7 @@
 
 1	Če	O
 2	biti	O
-3	republikanec	O
+3	republikanec	B-PER
 4	oba	O
 5	izgubiti	O
 6	,	O
@@ -55165,7 +55081,7 @@
 9	večina	O
 10	v	O
 11	senat	O
-12	demokrat	O
+12	demokrat	B-PER
 13	,	O
 14	če	O
 15	dobiti	O
@@ -55361,10 +55277,10 @@
 3	agencija	O
 4	z	O
 5	naslov	O
-6	Nadzor	B-ORG
-7	nad	I-ORG
-8	govorica	I-ORG
-9	biti	I-ORG
+6	Nadzor	O
+7	nad	O
+8	govorica	O
+9	biti	O
 10	po	O
 11	vrsta	O
 12	zavračal	O
@@ -55395,7 +55311,7 @@
 12	,	O
 13	kar	O
 14	biti	O
-15	Krebs	O
+15	Krebs	B-PER
 16	oseben	O
 17	zavrniti	O
 18	kot	O
@@ -55527,7 +55443,7 @@
 11	glasovnica	O
 12	po	O
 13	ZDA	B-LOC
-14	Bidna	O
+14	Bidna	B-PER
 15	razglasiti	O
 16	za	O
 17	zmagovalec	O
@@ -55702,23 +55618,20 @@
 2	biti	O
 3	presenetljivo	O
 4	osvojiti	O
-5	Biden	O
+5	Biden	B-PER
 6	za	O
 7	okrog	O
-8	14	O
-9	.	O
-
-1	000	O
-2	glas	O
-3	in	O
-4	oba	O
-5	senaten	O
-6	tekma	O
-7	morati	O
-8	v	O
-9	drug	O
-10	krog	O
-11	.	O
+8	14.000	O
+9	glas	O
+10	in	O
+11	oba	O
+12	senaten	O
+13	tekma	O
+14	morati	O
+15	v	O
+16	drug	O
+17	krog	O
+18	.	O
 
 1	Raffensperger	B-PER
 2	se	O
@@ -56012,7 +55925,7 @@
 19	zavračati	O
 20	sodelovanje	O
 21	z	O
-22	Bidnovo	O
+22	Bidnovo	B-PER
 23	ekipa	O
 24	in	O
 25	on	O
@@ -56065,12 +55978,9 @@
 22	točka	O
 23	ali	O
 24	za	O
-25	20	O
-26	.	O
-
-1	470	O
-2	glas	O
-3	.	O
+25	20.470	O
+26	glas	O
+27	.	O
 
 1	Vendar	O
 2	biti	O
@@ -56128,27 +56038,24 @@
 12	točka	O
 13	ali	O
 14	dober	O
-15	82	O
-16	.	O
-
-1	000	O
-2	glas	O
-3	,	O
-4	biti	O
-5	pred	O
-6	sodnik	O
-7	v	O
-8	predsednikov	O
-9	ime	O
-10	po	O
-11	dolg	O
-12	čas	O
-13	stopiti	O
-14	njegov	O
-15	odvetnik	O
-16	Rudy	B-PER
-17	Giuliani	I-PER
-18	.	O
+15	82.000	O
+16	glas	O
+17	,	O
+18	biti	O
+19	pred	O
+20	sodnik	O
+21	v	O
+22	predsednikov	O
+23	ime	O
+24	po	O
+25	dolg	O
+26	čas	O
+27	stopiti	O
+28	njegov	O
+29	odvetnik	O
+30	Rudy	B-PER
+31	Giuliani	I-PER
+32	.	O
 
 1	Na	O
 2	zaslišanje	O
@@ -56224,7 +56131,7 @@
 2	Georen	B-LOC
 3	,	O
 4	kjer	O
-5	Biden	O
+5	Biden	B-PER
 6	voditi	O
 7	za	O
 8	0	O
@@ -56234,19 +56141,16 @@
 12	točka	O
 13	ali	O
 14	dober	O
-15	12	O
-16	.	O
-
-1	000	O
-2	glas	O
-3	,	O
-4	ročen	O
-5	preštevaj	O
-6	ves	O
-7	glasovnice	O
-8	še	O
-9	enkrat	O
-10	.	O
+15	12.000	O
+16	glas	O
+17	,	O
+18	ročen	O
+19	preštevaj	O
+20	ves	O
+21	glasovnice	O
+22	še	O
+23	enkrat	O
+24	.	O
 
 1	Ob	O
 2	ta	O
@@ -56316,7 +56220,7 @@
 15	pa	O
 16	biti	O
 17	zmaga	O
-18	Bidna	O
+18	Bidna	B-PER
 19	tam	O
 20	potrditi	O
 21	soglasno	O
@@ -56337,7 +56241,7 @@
 13	da	O
 14	biti	O
 15	ulovilo	O
-16	Bidna	O
+16	Bidna	B-PER
 17	,	O
 18	sploh	O
 19	ker	O
@@ -56490,7 +56394,7 @@
 49	Kaide	I-ORG
 50	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	medtem	O
 4	predstaviti	O
@@ -56519,11 +56423,8 @@
 27	država	O
 28	priti	O
 29	do	O
-30	250	O
+30	250.000	O
 31	.	O
-
-1	000	O
-2	.	O
 
 1	Trump	B-PER
 2	pa	O
@@ -56679,7 +56580,7 @@
 17	,	O
 18	se	O
 19	biti	O
-20	demokrat	O
+20	demokrat	B-PER
 21	uspeti	O
 22	zediniti	O
 23	,	O
@@ -56867,7 +56768,7 @@
 5	biti	O
 6	palestinsko	O
 7	gibanje	O
-8	BDS	B-ORG
+8	BDS	B-EVT
 9	v	O
 10	Washington	B-LOC
 11	označiti	O
@@ -56968,7 +56869,7 @@
 8	ki	O
 9	imeti	O
 10	gibanje	O
-11	BDS	B-ORG
+11	BDS	B-EVT
 12	za	O
 13	rakasto	O
 14	tvorbo	O
@@ -57068,7 +56969,7 @@
 15	na	O
 16	volitev	O
 17	razburjati	O
-18	Palestinec	O
+18	Palestinec	B-PER
 19	tudi	O
 20	z	O
 21	napovedan	O
@@ -57178,7 +57079,7 @@
 7	izjava	O
 8	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	po	O
 4	ponoven	O
@@ -57261,7 +57162,7 @@
 4	pod	O
 5	vodstvo	O
 6	Rud	B-PER
-7	Giulianija	B-PER
+7	Giulianija	I-PER
 8	biti	O
 9	imeti	O
 10	v	O
@@ -57640,7 +57541,7 @@
 
 1	Izid	O
 2	okrožje	O
-3	Wayne	O
+3	Wayne	B-LOC
 4	biti	O
 5	biti	O
 6	sicer	O
@@ -57687,24 +57588,21 @@
 1	Da	O
 2	biti	O
 3	zbrati	O
-4	12	O
-5	.	O
-
-1	294	O
-2	glas	O
-3	več	O
-4	kot	O
-5	Trump	B-PER
-6	,	O
-7	biti	O
-8	v	O
-9	četrtek	O
-10	sporočiti	O
-11	pristojen	O
-12	sekretar	O
-13	Brad	B-PER
-14	Raffensperger	I-PER
-15	.	O
+4	12.294	O
+5	glas	O
+6	več	O
+7	kot	O
+8	Trump	B-PER
+9	,	O
+10	biti	O
+11	v	O
+12	četrtek	O
+13	sporočiti	O
+14	pristojen	O
+15	sekretar	O
+16	Brad	B-PER
+17	Raffensperger	I-PER
+18	.	O
 
 1	Pred	O
 2	ponovitvijo	O
@@ -57717,22 +57615,19 @@
 9	prednost	O
 10	za	O
 11	okoli	O
-12	14	O
-13	.	O
-
-1	000	O
-2	glas	O
-3	,	O
-4	po	O
-5	ročen	O
-6	štetje	O
-7	pa	O
-8	se	O
-9	biti	O
-10	prednost	O
-11	rahlo	O
-12	zmanjšati	O
-13	.	O
+12	14.000	O
+13	glas	O
+14	,	O
+15	po	O
+16	ročen	O
+17	štetje	O
+18	pa	O
+19	se	O
+20	biti	O
+21	prednost	O
+22	rahlo	O
+23	zmanjšati	O
+24	.	O
 
 1	Med	O
 2	drug	O
@@ -57782,7 +57677,7 @@
 1	Georgia	B-LOC
 2	biti	O
 3	zmaga	O
-4	Bidna	O
+4	Bidna	B-PER
 5	uradno	O
 6	predvidoma	O
 7	potrditi	O
@@ -57866,7 +57761,7 @@
 4	skočiti	O
 5	z	O
 6	republikanski	O
-7	Titanika	B-PRO
+7	Titanika	O
 8	.	O
 
 1	Potem	O
@@ -58509,12 +58404,12 @@
 3	veleposlanik	O
 4	v	O
 5	Združen	B-LOC
-6	država	O
+6	država	I-LOC
 7	,	O
 8	ki	O
 9	trenutno	O
 10	predsedu	O
-11	Münchenski	B-ORG
+11	Münchenski	B-EVT
 12	varnosten	I-EVT
 13	konferenca	I-EVT
 14	,	O
@@ -58738,7 +58633,7 @@
 
 1	Izid	O
 2	okrožje	O
-3	Wayne	O
+3	Wayne	B-LOC
 4	biti	O
 5	biti	O
 6	sicer	O
@@ -58752,7 +58647,7 @@
 14	komisija	O
 15	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	imeti	O
 4	v	O
@@ -58772,7 +58667,7 @@
 18	in	O
 19	molk	O
 20	večina	O
-21	republikanec	B-PER
+21	republikanec	O
 22	.	O
 
 1	Vprašali	O
@@ -58794,7 +58689,7 @@
 17	tranzicija	O
 18	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	odgovoriti	O
 4	,	O
@@ -58884,7 +58779,7 @@
 17	Biden	B-PER
 18	.	O
 
-1	Demokrati	O
+1	Demokrati	B-PER
 2	kot	O
 3	dokaz	O
 4	neodgovornost	O
@@ -58943,7 +58838,7 @@
 5	potrditi	O
 6	vodja	O
 7	agencija	O
-8	Trumpove	O
+8	Trumpove	B-PER
 9	vlada	O
 10	,	O
 11	zadolžene	O
@@ -59290,7 +59185,7 @@
 16	pa	O
 17	biti	O
 18	glede	O
-19	tirkov	O
+19	tirkov	B-PER
 20	prvi	O
 21	televizijski	O
 22	soočenji	O
@@ -59513,9 +59408,9 @@
 2	biti	O
 3	pod	O
 4	pritisk	O
-5	Wallaca	B-LOC
+5	Wallaca	B-PER
 6	in	O
-7	Bidna	O
+7	Bidna	B-PER
 8	,	O
 9	naj	O
 10	obsod	O
@@ -59692,7 +59587,7 @@
 
 1	Trump	B-PER
 2	biti	O
-3	Wallaca	O
+3	Wallaca	B-PER
 4	,	O
 5	ki	O
 6	se	O
@@ -59718,8 +59613,8 @@
 5	simbol	O
 6	izdaja	O
 7	televizija	O
-8	Fox	B-ORG
-9	News	I-ORG
+8	Fox	B-PRO
+9	News	I-PRO
 10	,	O
 11	za	O
 12	kateri	O
@@ -59753,7 +59648,7 @@
 17	voditelj	O
 18	na	O
 19	stran	O
-20	Bidna	O
+20	Bidna	B-PER
 21	.	O
 
 1	V	O
@@ -59790,7 +59685,7 @@
 15	soočenji	O
 16	tvitnil	O
 17	član	O
-18	Trumpove	O
+18	Trumpove	B-PER
 19	ekipa	O
 20	Mike	B-PER
 21	Hahn	I-PER
@@ -60072,7 +59967,7 @@
 7	predsednik	O
 8	,	O
 9	pa	O
-10	trumpizem	O
+10	trumpizem	B-PER
 11	ostajati	O
 12	.	O
 
@@ -60127,7 +60022,7 @@
 26	na	O
 27	mandat	O
 28	republikanec	O
-29	George	O
+29	George	B-PER
 30	«	O
 31	.	O
 
@@ -60303,7 +60198,7 @@
 38	Varufakis	B-PER
 39	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	zame	O
 4	samo	O
@@ -60467,7 +60362,7 @@
 23	.	O
 
 1	Toda	O
-2	Združen	B-LOC
+2	Združen	O
 3	država	I-LOC
 4	nujno	O
 5	potrebovati	O
@@ -60811,7 +60706,7 @@
 32	strniti	O
 33	vrsta	O
 34	okoli	O
-35	Bidna	B-LOC
+35	Bidna	B-PER
 36	,	O
 37	ker	O
 38	se	O
@@ -61117,8 +61012,8 @@
 1	Mash	B-PER
 2	Gessen	I-PER
 3	v	O
-4	New	B-PRO
-5	Sorker	I-PRO
+4	New	B-LOC
+5	Sorker	I-LOC
 6	citira	O
 7	pojem	O
 8	avtokratski	O
@@ -61346,7 +61241,7 @@
 19	.	O
 
 1	New	B-LOC
-2	York	I-LOC
+2	York	B-LOC
 3	biti	O
 4	izpljuniti	O
 5	Ivanko	B-PER
@@ -61382,7 +61277,7 @@
 7	zaželen	O
 8	v	O
 9	New	B-LOC
-10	York	I-LOC
+10	York	B-LOC
 11	,	O
 12	veliko	O
 13	packo	O
@@ -61710,8 +61605,8 @@
 22	nagrajenec	O
 23	Richard	B-PER
 24	Russo	I-PER
-25	Empire	O
-26	Falls	O
+25	Empire	B-PRO
+26	Falls	I-PRO
 27	,	O
 28	ki	O
 29	govoriti	O
@@ -61891,9 +61786,9 @@
 2	Trump	I-PER
 3	,	O
 4	ameriški	O
-5	Marija	O
-6	Antoaneta	O
-7	Lysandra	I-PER
+5	Marija	B-PER
+6	Antoaneta	I-PER
+7	Lysandra	B-PER
 8	Ohrstrom	I-PER
 9	od	O
 10	Donalda	B-PER
@@ -62057,7 +61952,7 @@
 36	.	O
 
 1	New	B-LOC
-2	York	I-LOC
+2	York	B-LOC
 3	biti	O
 4	par	O
 5	odgovoriti	O
@@ -62114,7 +62009,7 @@
 5	v	O
 6	osrčje	O
 7	New	B-LOC
-8	York	I-LOC
+8	York	B-LOC
 9	,	O
 10	na	O
 11	Times	B-LOC
@@ -62136,7 +62031,7 @@
 27	umrl	O
 28	v	O
 29	New	B-LOC
-30	York	I-LOC
+30	York	B-LOC
 31	in	O
 32	ZDA	B-LOC
 33	zaradi	O
@@ -62185,7 +62080,7 @@
 22	poslati	O
 23	na	O
 24	naslov	O
-25	Trumpov	O
+25	Trumpov	B-PER
 26	zaseben	O
 27	klub	O
 28	Mar	O
@@ -62227,7 +62122,7 @@
 14	se	O
 15	namreč	O
 16	spraševati	O
-17	Newyorčan	O
+17	Newyorčan	B-PER
 18	,	O
 19	ki	O
 20	mačehovski	O
@@ -62254,7 +62149,7 @@
 7	praviti	O
 8	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	slava	O
 3	,	O
 4	Trump	B-PER
@@ -62671,7 +62566,7 @@
 4	biti	O
 5	udeleženec	O
 6	milijonski	O
-7	MAGA	O
+7	MAGA	B-EVT
 8	marš	O
 9	danes	O
 10	zavzeti	O
@@ -62689,7 +62584,7 @@
 7	njegov	O
 8	politika	O
 9	Narediti	O
-10	Amerika	B-LOC
+10	Amerika	I-ORG
 11	spet	O
 12	véliko	O
 13	ne	O
@@ -62774,7 +62669,7 @@
 6	pred	O
 7	množica	O
 8	z	O
-9	Trumpovi	O
+9	Trumpovi	B-PER
 10	in	O
 11	ameriški	O
 12	zastava	O
@@ -62798,7 +62693,7 @@
 3	biti	O
 4	biti	O
 5	tudi	O
-6	konservativec	B-PER
+6	konservativec	O
 7	iz	O
 8	skupnost	O
 9	temnopolt	O
@@ -63059,7 +62954,7 @@
 31	napet	O
 32	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	danes	O
 3	po	O
 4	telefon	O
@@ -63109,7 +63004,7 @@
 13	F	O
 14	.	O
 
-1	Kennedyo	O
+1	Kennedyo	B-PER
 2	,	O
 3	se	O
 4	biti	O
@@ -63169,7 +63064,7 @@
 5	po	O
 6	sodelovanje	O
 7	z	O
-8	Frančiškom	B-LOC
+8	Frančiškom	B-PER
 9	,	O
 10	da	O
 11	biti	O
@@ -63203,7 +63098,7 @@
 39	priseljenec	O
 40	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	po	O
 4	volilen	O
@@ -63327,7 +63222,7 @@
 3	opazovanje	O
 4	volitev	O
 5	pri	O
-6	Ovsej	B-LOC
+6	Ovsej	O
 7	,	O
 8	veleposlanica	O
 9	Urszulje	B-PER
@@ -63373,10 +63268,10 @@
 7	,	O
 8	ker	O
 9	biti	O
-10	demokrat	O
+10	demokrat	B-PER
 11	vesel	O
 12	,	O
-13	republikanec	B-PER
+13	republikanec	O
 14	pa	O
 15	še	O
 16	upati	O
@@ -63466,7 +63361,7 @@
 4	,	O
 5	ki	O
 6	predsedu	O
-7	Starostam	B-ORG
+7	Starostam	O
 8	,	O
 9	Mary	B-PER
 10	Robinson	I-PER
@@ -63544,7 +63439,7 @@
 
 1	Časopis	O
 2	Las	O
-3	Vedas	O
+3	Vedas	I-PRO
 4	Review	O
 5	-	O
 6	Journal	O
@@ -63666,8 +63561,8 @@
 19	z	O
 20	slogan	O
 21	Milijon	B-EVT
-22	MAGA	O
-23	pohod	O
+22	MAGA	I-PRO
+23	pohod	I-EVT
 24	.	O
 
 1	MAGA	O
@@ -63676,7 +63571,7 @@
 4	Trumpov	B-PER
 5	geslo	O
 6	Narediti	O
-7	Amerika	O
+7	Amerika	B-LOC
 8	spet	O
 9	veliko	O
 10	(	O
@@ -63688,9 +63583,9 @@
 16	Tiskovna	O
 17	predstavnica	O
 18	Bel	O
-19	hiša	I-LOC
+19	hiša	O
 20	Kayleigh	B-PER
-21	mcenany	O
+21	mcenany	I-PER
 22	biti	O
 23	napovedati	O
 24	množično	O
@@ -63812,10 +63707,10 @@
 14	država	O
 15	.	O
 
-1	Demokrati	O
+1	Demokrati	B-PER
 2	zaenkrat	O
 3	prekašajo	O
-4	republikance	O
+4	republikance	B-PER
 5	.	O
 
 1	Od	O
@@ -63895,7 +63790,7 @@
 13	,	O
 14	nacionalen	O
 15	odbor	O
-16	republikanski	B-ORG
+16	republikanski	O
 17	stranka	I-ORG
 18	in	O
 19	celo	O
@@ -63950,7 +63845,7 @@
 
 1	V	O
 2	New	B-LOC
-3	York	I-LOC
+3	York	B-LOC
 4	lahko	O
 5	predčasno	O
 6	voliti	O
@@ -64048,7 +63943,7 @@
 1	V	O
 2	mesto	O
 3	New	B-LOC
-4	York	I-LOC
+4	York	B-LOC
 5	biti	O
 6	v	O
 7	dva	O
@@ -64058,21 +63953,18 @@
 11	živ	O
 12	oddalo	O
 13	skoraj	O
-14	200	O
-15	.	O
-
-1	000	O
-2	človek	O
-3	,	O
-4	predčasen	O
-5	volitev	O
-6	pa	O
-7	v	O
-8	država	O
-9	trajati	O
-10	do	O
-11	1	O
-12	.	O
+14	200.000	O
+15	človek	O
+16	,	O
+17	predčasen	O
+18	volitev	O
+19	pa	O
+20	v	O
+21	država	O
+22	trajati	O
+23	do	O
+24	1	O
+25	.	O
 
 1	november	O
 2	.	O
@@ -64130,7 +64022,7 @@
 33	36	O
 34	odstotek	O
 35	registriran	O
-36	republikanec	B-PER
+36	republikanec	O
 37	.	O
 
 1	Leto	O
@@ -64153,39 +64045,33 @@
 18	glasovnica	O
 19	.	O
 
-1	Demokrati	O
+1	Demokrati	B-PER
 2	biti	O
 3	do	O
 4	nedelja	O
 5	na	O
 6	Floridi	B-LOC
 7	oddati	O
-8	596	O
-9	.	O
-
-1	000	O
-2	glasovnica	O
-3	po	O
-4	pošta	O
-5	več	O
-6	kot	O
-7	republikanec	B-PER
-8	,	O
-9	republikanec	B-PER
-10	pa	O
-11	biti	O
-12	oddati	O
-13	230	O
-14	.	O
-
-1	000	O
-2	glasovnica	O
-3	več	O
-4	v	O
-5	živ	O
-6	kot	O
-7	demokrat	O
-8	.	O
+8	596.000	O
+9	glasovnica	O
+10	po	O
+11	pošta	O
+12	več	O
+13	kot	O
+14	republikanec	B-PER
+15	,	O
+16	republikanec	B-PER
+17	pa	O
+18	biti	O
+19	oddati	O
+20	230.000	O
+21	glasovnica	O
+22	več	O
+23	v	O
+24	živ	O
+25	kot	O
+26	demokrat	B-PER
+27	.	O
 
 1	V	O
 2	Nevada	B-LOC
@@ -64194,28 +64080,22 @@
 5	prednost	O
 6	po	O
 7	pošta	O
-8	97	O
-9	.	O
-
-1	500	O
-2	,	O
-3	v	O
-4	živ	O
-5	pa	O
-6	republikanec	B-PER
-7	voditi	O
-8	za	O
-9	42	O
-10	.	O
-
-1	600	O
-2	kar	O
-3	biti	O
-4	podoben	O
-5	kot	O
-6	leto	O
-7	2016	O
-8	.	O
+8	97.500	O
+9	,	O
+10	v	O
+11	živ	O
+12	pa	O
+13	republikanec	O
+14	voditi	O
+15	za	O
+16	42.600	O
+17	kar	O
+18	biti	O
+19	podoben	O
+20	kot	O
+21	leto	O
+22	2016	O
+23	.	O
 
 1	V	O
 2	Pensilvanija	B-LOC
@@ -64418,7 +64298,7 @@
 6	dajati	O
 7	ugleden	O
 8	časnik	O
-9	Economist	B-PRO
+9	Economist	O
 10	Joe	B-PER
 11	Biden	I-PER
 12	.	O
@@ -64554,7 +64434,7 @@
 8	,	O
 9	da	O
 10	želeti	O
-11	demokrat	O
+11	demokrat	B-PER
 12	"	O
 13	izbrisati	O
 14	ameriški	O
@@ -64590,7 +64470,7 @@
 9	vpletenost	O
 10	Bidnov	B-PER
 11	sin	O
-12	Hunterja	O
+12	Hunterja	B-PER
 13	v	O
 14	domnevno	O
 15	koruptivne	O
@@ -64786,7 +64666,7 @@
 2	,	O
 3	biti	O
 4	zapisati	O
-5	Atlas	O
+5	Atlas	B-PER
 6	,	O
 7	eden	O
 8	Trumpov	B-PER
@@ -64828,7 +64708,7 @@
 11	pravilo	O
 12	in	O
 13	priporočilo	O
-14	Trumpove	O
+14	Trumpove	B-PER
 15	administracija	O
 16	glede	O
 17	nošnji	O
@@ -65193,7 +65073,7 @@
 
 1	Javno	O
 2	tribuna	O
-3	Bidna	O
+3	Bidna	B-PER
 4	v	O
 5	Philadelphia	B-LOC
 6	,	O
@@ -65238,7 +65118,7 @@
 45	slednji	O
 46	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	tudi	O
 3	sicer	O
 4	v	O
@@ -65300,7 +65180,7 @@
 6	Arizoni	B-LOC
 7	z	O
 8	podpora	O
-9	demokrat	O
+9	demokrat	B-PER
 10	.	O
 
 1	Stavil	O
@@ -65817,7 +65697,7 @@
 9	biti	O
 10	tenen	O
 11	vez	O
-12	mcsallyev	O
+12	mcsallyev	B-PER
 13	z	O
 14	Trumpom	B-PER
 15	dejansko	O
@@ -65953,8 +65833,8 @@
 3	za	O
 4	spleten	O
 5	stran	O
-6	Arizona	B-ORG
-7	Central	I-ORG
+6	Arizona	B-PRO
+7	Central	I-PRO
 8	povedati	O
 9	22	O
 10	-	O
@@ -66178,7 +66058,7 @@
 18	predsednik	O
 19	,	O
 20	biti	O
-21	demokrat	O
+21	demokrat	B-PER
 22	skušati	O
 23	ukrasti	O
 24	volitev	O
@@ -66222,9 +66102,9 @@
 8	skušati	O
 9	odvzeti	O
 10	naveza	O
-11	Trump	O
+11	Trump	B-PER
 12	-	O
-13	Penec	O
+13	Penec	B-PER
 14	zmaga	O
 15	,	O
 16	zato	O
@@ -66652,8 +66532,8 @@
 2	zmagovalec	O
 3	biti	O
 4	razglasiti	O
-5	Ala	B-LOC
-6	Gora	I-LOC
+5	Ala	B-PER
+6	Gora	I-PER
 7	,	O
 8	ki	O
 9	biti	O
@@ -66666,7 +66546,7 @@
 16	Bush	B-PER
 17	.	O
 
-1	Republikanec	B-PER
+1	Republikanec	O
 2	biti	O
 3	že	O
 4	hoteti	O
@@ -66717,7 +66597,7 @@
 5	zmagovalec	O
 6	ponovno	O
 7	razglasiti	O
-8	Gora	O
+8	Gora	B-LOC
 9	.	O
 
 1	Potem	O
@@ -66781,7 +66661,7 @@
 7	biti	O
 8	najbrž	O
 9	zmagati	O
-10	Gora	O
+10	Gora	B-PER
 11	,	O
 12	biti	O
 13	na	O
@@ -66924,7 +66804,7 @@
 9	svoj	O
 10	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	že	O
 3	sredi	O
 4	noč	O
@@ -67082,7 +66962,7 @@
 33	doslej	O
 34	imeti	O
 35	večina	O
-36	republikanec	B-PER
+36	republikanec	O
 37	.	O
 
 1	A	O
@@ -67112,7 +66992,7 @@
 12	kateri	O
 13	biti	O
 14	on	O
-15	republikanec	B-PER
+15	republikanec	O
 16	skušati	O
 17	ubraniti	O
 18	23	O
@@ -67165,7 +67045,7 @@
 41	z	O
 42	kar	O
 43	imeti	O
-44	republikanec	B-PER
+44	republikanec	O
 45	v	O
 46	senat	O
 47	odtlej	O
@@ -67202,7 +67082,7 @@
 78	,	O
 79	da	O
 80	biti	O
-81	demokrat	O
+81	demokrat	B-PER
 82	nadzi	O
 
 1	Enako	O
@@ -67230,7 +67110,7 @@
 8	iskati	O
 9	kompromis	O
 10	z	O
-11	demokrat	O
+11	demokrat	B-PER
 12	.	O
 
 1	Oba	O
@@ -67250,7 +67130,7 @@
 1	Po	O
 2	ocena	O
 3	družba	O
-4	Kantor	O
+4	Kantor	B-ORG
 5	biti	O
 6	biti	O
 7	za	O
@@ -67282,7 +67162,7 @@
 
 1	Ker	O
 2	biti	O
-3	demokrat	O
+3	demokrat	B-PER
 4	v	O
 5	predvolilen	O
 6	merjenji	O
@@ -67334,7 +67214,7 @@
 4	stočlanski	O
 5	senat	O
 6	morati	O
-7	republikanec	B-PER
+7	republikanec	O
 8	odvzeti	O
 9	trije	O
 10	senatorski	O
@@ -67413,7 +67293,7 @@
 15	,	O
 16	a	O
 17	biti	O
-18	republikanec	B-PER
+18	republikanec	O
 19	v	O
 20	pet	O
 21	od	O
@@ -67456,7 +67336,7 @@
 15	republikanec	O
 16	pa	O
 17	biti	O
-18	demokrat	O
+18	demokrat	B-PER
 19	vzeti	O
 20	sedež	O
 21	,	O
@@ -67509,7 +67389,7 @@
 17	kjer	O
 18	biti	O
 19	sicer	O
-20	demokrat	O
+20	demokrat	B-PER
 21	v	O
 22	kampanja	O
 23	svoj	O
@@ -67568,7 +67448,7 @@
 11	214	O
 12	mesto	O
 13	,	O
-14	republikanec	B-PER
+14	republikanec	O
 15	pa	O
 16	182	O
 17	,	O
@@ -67604,7 +67484,7 @@
 9	181	O
 10	sedež	O
 11	,	O
-12	republikanec	B-PER
+12	republikanec	O
 13	pa	O
 14	171	O
 15	.	O
@@ -67688,7 +67568,7 @@
 5	Bidna	I-PER
 6	.	O
 
-1	Demokrat	O
+1	Demokrat	B-PER
 2	biti	O
 3	že	O
 4	čestitati	O
@@ -67770,7 +67650,7 @@
 40	ostati	O
 41	v	O
 42	New	B-LOC
-43	York	I-LOC
+43	York	B-LOC
 44	,	O
 45	razumeti	O
 46	kot	O
@@ -68826,7 +68706,7 @@
 22	za	I-ORG
 23	politološki	I-ORG
 24	raziskava	I-ORG
-25	pri	I-ORG
+25	pri	O
 26	Fakulteta	B-ORG
 27	za	I-ORG
 28	družben	I-ORG
@@ -68843,7 +68723,7 @@
 5	ZDA	B-LOC
 6	?	O
 
-1	Bidna	O
+1	Bidna	B-PER
 2	do	O
 3	zmaga	O
 4	ločiti	O
@@ -68988,8 +68868,8 @@
 5	primer	O
 6	Bush	B-PER
 7	in	O
-8	Ala	O
-9	Gora	O
+8	Ala	B-LOC
+9	Gora	I-LOC
 10	,	O
 11	ko	O
 12	biti	O
@@ -69108,7 +68988,7 @@
 9	sledeč	O
 10	velik	O
 11	večina	O
-12	demokrat	O
+12	demokrat	B-PER
 13	biti	O
 14	glasovati	O
 15	po	O
@@ -69723,7 +69603,7 @@
 17	na	O
 18	čelo	O
 19	ZDA	B-LOC
-20	Oba	O
+20	Oba	B-PER
 21	,	O
 22	se	O
 23	biti	O
@@ -69751,7 +69631,7 @@
 4	odnos	O
 5	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	v	O
 3	ključen	O
 4	država	O
@@ -69882,8 +69762,8 @@
 11	AP	B-ORG
 12	in	O
 13	televizija	O
-14	Fox	B-ORG
-15	News	I-ORG
+14	Fox	B-PRO
+15	News	I-PRO
 16	,	O
 17	da	O
 18	biti	O
@@ -70038,7 +69918,7 @@
 21	da	O
 22	on	O
 23	skušati	O
-24	demokrat	O
+24	demokrat	B-PER
 25	ukrasti	O
 26	zmaga	O
 27	na	O
@@ -70118,7 +69998,7 @@
 18	noč	O
 19	razen	O
 20	preko	O
-21	Twitterja	O
+21	Twitterja	B-PRO
 22	biti	O
 23	oglasiti	O
 24	.	O
@@ -70262,7 +70142,7 @@
 18	v	O
 19	vrhoven	O
 20	sodišče	O
-21	ZDA	B-LOC
+21	ZDA	I-ORG
 22	z	O
 23	konservativno	O
 24	večina	O
@@ -70285,7 +70165,7 @@
 4	Milwaukee	B-LOC
 5	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	zmanjševati	O
 3	zaostanek	O
 4	v	O
@@ -70302,29 +70182,26 @@
 15	)	O
 16	za	O
 17	okrog	O
-18	70	O
-19	.	O
-
-1	000	O
-2	glas	O
-3	in	O
-4	biti	O
-5	verjetno	O
-6	zmagati	O
-7	,	O
-8	vendar	O
-9	pa	O
-10	tam	O
-11	glasovnice	O
-12	po	O
-13	pošta	O
-14	šteti	O
-15	še	O
-16	12	O
-17	dan	O
-18	po	O
-19	volitev	O
-20	.	O
+18	70.000	O
+19	glas	O
+20	in	O
+21	biti	O
+22	verjetno	O
+23	zmagati	O
+24	,	O
+25	vendar	O
+26	pa	O
+27	tam	O
+28	glasovnice	O
+29	po	O
+30	pošta	O
+31	šteti	O
+32	še	O
+33	12	O
+34	dan	O
+35	po	O
+36	volitev	O
+37	.	O
 
 1	V	O
 2	Georen	B-LOC
@@ -70351,16 +70228,13 @@
 23	biti	O
 24	še	O
 25	okrog	O
-26	10	O
-27	.	O
-
-1	000	O
-2	glasovnica	O
-3	iz	O
-4	večinoma	O
-5	demokratski	O
-6	okrožij	O
-7	.	O
+26	10.000	O
+27	glasovnica	O
+28	iz	O
+29	večinoma	O
+30	demokratski	O
+31	okrožij	O
+32	.	O
 
 1	Trump	B-PER
 2	biti	O
@@ -70378,7 +70252,7 @@
 14	Arizoni	B-LOC
 15	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	do	O
 4	četrtka	O
@@ -70392,17 +70266,14 @@
 12	na	O
 13	več	O
 14	kot	O
-15	11	O
-16	.	O
-
-1	000	O
-2	glas	O
-3	z	O
-4	okrog	O
-5	8000	O
-6	v	O
-7	sreda	O
-8	.	O
+15	11.000	O
+16	glas	O
+17	z	O
+18	okrog	O
+19	8000	O
+20	v	O
+21	sreda	O
+22	.	O
 
 1	V	O
 2	Arizoni	B-LOC
@@ -70414,12 +70285,9 @@
 8	zaostanek	O
 9	na	O
 10	okoli	O
-11	40	O
-12	.	O
-
-1	000	O
-2	glas	O
-3	.	O
+11	40.000	O
+12	glas	O
+13	.	O
 
 1	Joe	B-PER
 2	Biden	I-PER
@@ -70448,7 +70316,7 @@
 7	iztekla	O
 8	v	O
 9	korist	O
-10	Bidna	O
+10	Bidna	B-PER
 11	,	O
 12	biti	O
 13	ves	O
@@ -70505,7 +70373,7 @@
 7	minister	O
 8	ZDA	B-LOC
 9	Mark	B-PER
-10	Esper	I-PER
+10	Esper	O
 11	biti	O
 12	pripraviti	O
 13	odstopno	O
@@ -70554,7 +70422,7 @@
 27	ta	O
 28	prebrati	O
 29	na	O
-30	Twitter	O
+30	Twitter	B-PRO
 31	.	O
 
 1	Bo	O
@@ -71229,9 +71097,9 @@
 4	imeti	O
 5	po	O
 6	anketi	O
-7	Des	B-ORG
-8	Moines	I-ORG
-9	Register	I-ORG
+7	Des	B-PRO
+8	Moines	I-PRO
+9	Register	I-PRO
 10	Trump	B-PER
 11	sedem	O
 12	odstoten	O
@@ -71365,7 +71233,7 @@
 15	njegov	O
 16	zaostanek	O
 17	za	O
-18	Bidenom	B-LOC
+18	Bidenom	B-PER
 19	majhen	O
 20	.	O
 
@@ -71784,7 +71652,7 @@
 22	posebej	O
 23	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	biti	O
 4	v	O
@@ -71891,7 +71759,7 @@
 4	demokrat	O
 5	leto	O
 6	2016	O
-7	Biden	O
+7	Biden	B-PER
 8	hoteti	O
 9	prepustiti	O
 10	nič	O
@@ -71945,32 +71813,29 @@
 11	,	O
 12	kjer	O
 13	biti	O
-14	konservativen	B-ORG
-15	zvezen	I-ORG
+14	konservativen	O
+15	zvezen	O
 16	sodnik	O
 17	zavrniti	O
 18	tožba	O
-19	republikanec	O
+19	republikanec	B-PER
 20	,	O
 21	naj	O
 22	se	O
 23	razveljava	O
-24	127	O
-25	.	O
-
-1	000	O
-2	glasovnica	O
-3	v	O
-4	Houston	B-LOC
-5	,	O
-6	ker	O
-7	biti	O
-8	človek	O
-9	glasovati	O
-10	iz	O
-11	svoj	O
-12	avtomobil	O
-13	.	O
+24	127.000	O
+25	glasovnica	O
+26	v	O
+27	Houston	B-LOC
+28	,	O
+29	ker	O
+30	biti	O
+31	človek	O
+32	glasovati	O
+33	iz	O
+34	svoj	O
+35	avtomobil	O
+36	.	O
 
 1	Volilen	O
 2	oblast	O
@@ -72041,7 +71906,7 @@
 4	Lichtman	I-PER
 5	z	O
 6	univerza	O
-7	Washington	B-LOC
+7	Washington	I-ORG
 8	biti	O
 9	znan	O
 10	po	O
@@ -72059,10 +71924,10 @@
 22	on	O
 23	biti	O
 24	poimenoval	O
-25	Ključ	O
-26	do	O
+25	Ključ	B-PRO
+26	do	I-PRO
 27	Bel	O
-28	hiša	O
+28	hiša	I-LOC
 29	,	O
 30	točno	O
 31	napovedati	O
@@ -72189,7 +72054,7 @@
 12	,	O
 13	ko	O
 14	biti	O
-15	George	O
+15	George	B-PER
 16	«	O
 17	.	O
 
@@ -72314,7 +72179,7 @@
 16	volitev	O
 17	.	O
 
-1	Lichtman	O
+1	Lichtman	B-PER
 2	in	O
 3	Keilis	O
 4	-	O
@@ -72511,7 +72376,7 @@
 15	Bidena	I-PER
 16	,	O
 17	kandidat	O
-18	demokrat	O
+18	demokrat	B-PER
 19	in	O
 20	nekdanji	O
 21	podpredsednik	O
@@ -72577,8 +72442,9 @@
 6	o	O
 7	varnost	O
 8	omrežje	O
-9	5g	O
-10	.	O
+9	5	O
+10	G	O
+11	.	O
 
 1	Slovenski	O
 2	zunanji	O
@@ -72600,8 +72466,9 @@
 18	o	O
 19	varnost	O
 20	omrežje	O
-21	5g	O
-22	.	O
+21	5	O
+22	G	O
+23	.	O
 
 1	Po	O
 2	navedba	O
@@ -72618,36 +72485,37 @@
 13	in	O
 14	odporen	O
 15	ekosistem	O
-16	5g	O
-17	terjati	O
-18	temeljito	O
-19	ocena	O
-20	dobavitelj	O
-21	in	O
-22	dobaven	O
-23	verig	O
-24	ter	O
-25	dosleden	O
-26	upoštevanje	O
-27	načelo	O
-28	vladavina	O
-29	pravi	O
-30	,	O
-31	varnosten	O
-32	okolje	O
-33	,	O
-34	etičen	O
-35	praks	O
-36	in	O
-37	skladnosti	O
-38	dobavitelj	O
-39	z	O
-40	varnosteni	O
-41	standard	O
-42	in	O
-43	dober	O
-44	praksa	O
-45	.	O
+16	5	O
+17	G	O
+18	terjati	O
+19	temeljito	O
+20	ocena	O
+21	dobavitelj	O
+22	in	O
+23	dobaven	O
+24	verig	O
+25	ter	O
+26	dosleden	O
+27	upoštevanje	O
+28	načelo	O
+29	vladavina	O
+30	pravi	O
+31	,	O
+32	varnosten	O
+33	okolje	O
+34	,	O
+35	etičen	O
+36	praks	O
+37	in	O
+38	skladnosti	O
+39	dobavitelj	O
+40	z	O
+41	varnosteni	O
+42	standard	O
+43	in	O
+44	dober	O
+45	praksa	O
+46	.	O
 
 1	Kot	O
 2	biti	O
@@ -72679,7 +72547,7 @@
 28	Londonski	B-PRO
 29	deklaracija	I-PRO
 30	zveza	O
-31	Nato	B-LOC
+31	Nato	O
 32	sprejeti	O
 33	vodja	O
 34	država	O
@@ -72698,17 +72566,18 @@
 47	,	O
 48	tudi	O
 49	tehnologija	O
-50	5g	O
-51	,	O
-52	ki	O
-53	morati	O
-54	temeljiti	O
-55	na	O
-56	varen	O
-57	in	O
-58	odporen	O
-59	sistem	O
-60	.	O
+50	5	O
+51	G	O
+52	,	O
+53	ki	O
+54	morati	O
+55	temeljiti	O
+56	na	O
+57	varen	O
+58	in	O
+59	odporen	O
+60	sistem	O
+61	.	O
 
 1	Podpis	O
 2	skupen	O
@@ -72773,10 +72642,10 @@
 24	januar	O
 25	2020	O
 26	objavljen	O
-27	Bel	O
-28	knjiga	O
-29	o	O
-30	obramba	O
+27	Bel	B-PRO
+28	knjiga	I-PRO
+29	o	I-PRO
+30	obramba	I-PRO
 31	.	O
 
 1	Potek	O
@@ -72786,7 +72655,7 @@
 5	vključevanje	O
 6	Slovenija	B-LOC
 7	v	O
-8	Natov	B-ORG
+8	Natov	O
 9	center	O
 10	odličnost	O
 11	za	O
@@ -72907,7 +72776,7 @@
 22	z	O
 23	premierje	O
 24	J	B-PER
-25	anez	B-PER
+25	anez	O
 26	Janša	I-PER
 27	,	O
 28	zdaj	O
@@ -73170,7 +73039,7 @@
 2	biti	O
 3	pohvalilo	O
 4	tudi	O
-5	Pompea	B-LOC
+5	Pompea	B-PER
 6	oseben	O
 7	in	O
 8	predsednik	O
@@ -73414,7 +73283,7 @@
 8	priprava	O
 9	na	O
 10	predsedovanje	O
-11	Svet	O
+11	Svet	B-ORG
 12	EU	I-ORG
 13	prihodnji	O
 14	leto	O
@@ -73466,30 +73335,31 @@
 20	o	O
 21	varnost	O
 22	omrežje	O
-23	5g	O
-24	,	O
-25	da	O
-26	pri	O
-27	gradnja	O
-28	ta	O
-29	omrežje	O
-30	ne	O
-31	biti	O
-32	moči	O
-33	sodelovati	O
-34	podjetje	O
-35	,	O
-36	ki	O
-37	,	O
-38	kot	O
-39	biti	O
-40	poudariti	O
-41	Pompeo	B-PER
-42	,	O
-43	biti	O
-44	vreden	O
-45	zaupanje	O
-46	.	O
+23	5	O
+24	G	O
+25	,	O
+26	da	O
+27	pri	O
+28	gradnja	O
+29	ta	O
+30	omrežje	O
+31	ne	O
+32	biti	O
+33	moči	O
+34	sodelovati	O
+35	podjetje	O
+36	,	O
+37	ki	O
+38	,	O
+39	kot	O
+40	biti	O
+41	poudariti	O
+42	Pompeo	B-PER
+43	,	O
+44	biti	O
+45	vreden	O
+46	zaupanje	O
+47	.	O
 
 1	Čeprav	O
 2	izjava	O
@@ -73564,28 +73434,29 @@
 5	da	O
 6	biti	O
 7	Slovenija	B-LOC
-8	5g	O
-9	varen	O
-10	država	O
-11	,	O
-12	biti	O
-13	tudi	O
-14	pomagati	O
-15	slovenski	O
-16	tehnološki	O
-17	podjetje	O
-18	pri	O
-19	njihov	O
-20	razvoj	O
-21	in	O
-22	odpiranje	O
-23	posloven	O
-24	priložnost	O
-25	,	O
-26	biti	O
-27	prepričan	O
-28	Pompeo	B-PER
-29	.	O
+8	5	O
+9	G	O
+10	varen	O
+11	država	O
+12	,	O
+13	biti	O
+14	tudi	O
+15	pomagati	O
+16	slovenski	O
+17	tehnološki	O
+18	podjetje	O
+19	pri	O
+20	njihov	O
+21	razvoj	O
+22	in	O
+23	odpiranje	O
+24	posloven	O
+25	priložnost	O
+26	,	O
+27	biti	O
+28	prepričan	O
+29	Pompeo	B-PER
+30	.	O
 
 1	Oba	O
 2	z	O
@@ -73668,12 +73539,12 @@
 21	.	O
 
 1	Z	O
-2	Janša	O
+2	Janša	B-PER
 3	biti	O
 4	spomnilo	O
 5	na	O
-6	Pobudo	B-EVT
-7	trije	I-EVT
+6	Pobudo	B-PRO
+7	trije	I-PRO
 8	morij	I-EVT
 9	,	O
 10	ki	O
@@ -73900,8 +73771,8 @@
 1	Predsednica	O
 2	predstavniški	O
 3	doma	O
-4	ameriški	O
-5	kongres	O
+4	ameriški	B-ORG
+5	kongres	I-ORG
 6	Nancy	B-PER
 7	Pelosi	I-PER
 8	biti	O
@@ -73965,9 +73836,9 @@
 
 1	Odbor	B-ORG
 2	za	I-ORG
-3	vladni	I-ORG
+3	vladni	O
 4	nadzor	I-ORG
-5	in	I-ORG
+5	in	O
 6	reforma	O
 7	predstavniški	O
 8	doma	O
@@ -74005,7 +73876,7 @@
 
 1	Trumpov	B-PER
 2	donator	O
-3	deldoy	O
+3	deldoy	B-PER
 4	biti	O
 5	priti	O
 6	na	O
@@ -74149,7 +74020,7 @@
 15	ki	O
 16	biti	O
 17	koristiti	O
-18	demokrat	O
+18	demokrat	B-PER
 19	.	O
 
 1	Skupaj	O
@@ -74207,7 +74078,7 @@
 30	pandemija	O
 31	,	O
 32	ker	O
-33	demokrat	O
+33	demokrat	B-PER
 34	zahtevati	O
 35	nekaj	O
 36	milijarda	O
@@ -74266,7 +74137,7 @@
 37	Sanders	I-PER
 38	.	O
 
-1	Demokrati	O
+1	Demokrati	B-PER
 2	poudarjaja	O
 3	,	O
 4	da	O
@@ -74306,7 +74177,7 @@
 15	demokracija	O
 16	.	O
 
-1	deldoy	O
+1	deldoy	B-PER
 2	biti	O
 3	sostorilec	O
 4	volilen	O
@@ -74411,58 +74282,55 @@
 1	Zaradi	O
 2	zaplet	O
 3	biti	O
-4	300	O
-5	.	O
-
-1	000	O
-2	-	O
-3	članski	O
-4	sindikat	O
-5	pošten	O
-6	delavec	O
-7	konec	O
-8	pretekel	O
-9	teden	O
-10	podpreti	O
-11	Bidnovo	B-PER
-12	kandidaturo	O
-13	za	O
-14	predsednik	O
-15	,	O
-16	težava	O
-17	z	O
-18	ta	O
-19	,	O
-20	kar	O
-21	delo	O
+4	300.000	O
+5	-	O
+6	članski	O
+7	sindikat	O
+8	pošten	O
+9	delavec	O
+10	konec	O
+11	pretekel	O
+12	teden	O
+13	podpreti	O
+14	Bidnovo	B-PER
+15	kandidaturo	O
+16	za	O
+17	predsednik	O
+18	,	O
+19	težava	O
+20	z	O
+21	ta	O
 22	,	O
-23	pa	O
-24	biti	O
-25	potem	O
-26	v	O
-27	sobota	O
-28	priznati	O
-29	tudi	O
-30	Trump	B-PER
-31	,	O
-32	ko	O
-33	biti	O
-34	zagotoviti	O
-35	,	O
-36	da	O
-37	ne	O
-38	nasprotovati	O
-39	dodaten	O
-40	sredstvo	O
-41	za	O
-42	pošta	O
-43	,	O
-44	ampak	O
-45	ta	O
-46	menda	O
-47	delati	O
-48	demokrat	O
-49	.	O
+23	kar	O
+24	delo	O
+25	,	O
+26	pa	O
+27	biti	O
+28	potem	O
+29	v	O
+30	sobota	O
+31	priznati	O
+32	tudi	O
+33	Trump	B-PER
+34	,	O
+35	ko	O
+36	biti	O
+37	zagotoviti	O
+38	,	O
+39	da	O
+40	ne	O
+41	nasprotovati	O
+42	dodaten	O
+43	sredstvo	O
+44	za	O
+45	pošta	O
+46	,	O
+47	ampak	O
+48	ta	O
+49	menda	O
+50	delati	O
+51	demokrat	O
+52	.	O
 
 1	Nekdanji	O
 2	predsednik	O
@@ -74643,7 +74511,7 @@
 32	šef	O
 33	Trumpov	B-PER
 34	kabineti	O
-35	Meadows	O
+35	Meadows	B-PER
 36	.	O
 
 1	Ameriški	O
@@ -74868,7 +74736,7 @@
 16	pa	O
 17	biti	O
 18	glede	O
-19	tirkov	O
+19	tirkov	B-PER
 20	prvi	O
 21	televizijski	O
 22	soočenji	O
@@ -75091,9 +74959,9 @@
 2	biti	O
 3	pod	O
 4	pritisk	O
-5	Wallaca	B-LOC
+5	Wallaca	B-PER
 6	in	O
-7	Bidna	O
+7	Bidna	B-PER
 8	,	O
 9	naj	O
 10	obsod	O
@@ -75270,7 +75138,7 @@
 
 1	Trump	B-PER
 2	biti	O
-3	Wallaca	O
+3	Wallaca	B-PER
 4	,	O
 5	ki	O
 6	se	O
@@ -75296,8 +75164,8 @@
 5	simbol	O
 6	izdaja	O
 7	televizija	O
-8	Fox	B-ORG
-9	News	I-ORG
+8	Fox	B-PRO
+9	News	I-PRO
 10	,	O
 11	za	O
 12	kateri	O
@@ -75331,7 +75199,7 @@
 17	voditelj	O
 18	na	O
 19	stran	O
-20	Bidna	O
+20	Bidna	B-PER
 21	.	O
 
 1	V	O
@@ -75368,7 +75236,7 @@
 15	soočenji	O
 16	tvitnil	O
 17	član	O
-18	Trumpove	O
+18	Trumpove	B-PER
 19	ekipa	O
 20	Mike	B-PER
 21	Hahn	I-PER
@@ -75509,7 +75377,7 @@
 18	vodstvo	O
 19	nekdanji	O
 20	šef	O
-21	Trumpove	B-EVT
+21	Trumpove	B-PER
 22	kampanja	O
 23	Brada	B-PER
 24	Parsca	I-PER
@@ -75680,7 +75548,7 @@
 12	biti	O
 13	poimenoval	O
 14	projekt	O
-15	Alamo	B-ORG
+15	Alamo	B-PRO
 16	in	O
 17	biti	O
 18	delovati	O
@@ -75691,7 +75559,7 @@
 23	Teksas	B-LOC
 24	.	O
 
-1	Alamo	B-ORG
+1	Alamo	B-PRO
 2	biti	O
 3	biti	O
 4	trdnjava	O
@@ -75798,7 +75666,7 @@
 22	volivec	O
 23	.	O
 
-1	Parscali	O
+1	Parscali	B-PER
 2	biti	O
 3	pred	O
 4	kratek	O
@@ -75880,7 +75748,7 @@
 17	primer	O
 18	,	O
 19	kako	O
-20	republikanec	B-PER
+20	republikanec	O
 21	na	O
 22	ves	O
 23	možen	O
@@ -75947,22 +75815,19 @@
 
 1	"	O
 2	Imeti	O
-3	35	O
-4	.	O
-
-1	000	O
-2	zaposlen	O
-3	za	O
-4	zagotavljanje	O
-5	integriteti	O
-6	naš	O
-7	platforma	O
-8	in	O
-9	obramba	O
-10	volitev	O
-11	po	O
-12	svet	O
-13	.	O
+3	35.000	O
+4	zaposlen	O
+5	za	O
+6	zagotavljanje	O
+7	integriteti	O
+8	naš	O
+9	platforma	O
+10	in	O
+11	obramba	O
+12	volitev	O
+13	po	O
+14	svet	O
+15	.	O
 
 1	Imeti	O
 2	tudi	O
@@ -75997,7 +75862,7 @@
 6	,	O
 7	groziti	O
 8	New	B-LOC
-9	York	I-LOC
+9	York	B-LOC
 10	,	O
 11	da	O
 12	ne	O
@@ -76073,7 +75938,7 @@
 17	domač	O
 18	država	O
 19	New	B-LOC
-20	York	I-LOC
+20	York	B-LOC
 21	zagroziti	O
 22	,	O
 23	da	O
@@ -76204,7 +76069,7 @@
 5	doslej	O
 6	brez	O
 7	uspeh	O
-8	Trumpova	O
+8	Trumpova	B-PER
 9	kampanj	O
 10	biti	O
 11	v	O
@@ -76246,11 +76111,11 @@
 8	velik	O
 9	pravniški	O
 10	faz	O
-11	Porter	B-ORG
-12	Wright	I-ORG
-13	Morris	I-ORG
-14	&	I-ORG
-15	Arthur	I-ORG
+11	Porter	B-PER
+12	Wright	I-PER
+13	Morris	B-PER
+14	&	O
+15	Arthur	B-PER
 16	.	O
 
 1	Trumpovi	B-PER
@@ -76285,7 +76150,7 @@
 12	,	O
 13	kar	O
 14	pomirje	O
-15	demokrat	O
+15	demokrat	B-PER
 16	,	O
 17	ki	O
 18	biti	O
@@ -76319,10 +76184,10 @@
 16	cepivo	O
 17	z	O
 18	ime	O
-19	Operacija	O
-20	hiter	O
-21	od	O
-22	svetloba	O
+19	Operacija	B-PRO
+20	hiter	I-PRO
+21	od	I-PRO
+22	svetloba	I-PRO
 23	.	O
 
 1	Pfizer	B-ORG
@@ -76437,7 +76302,7 @@
 16	z	O
 17	nemški	O
 18	podjetje	O
-19	biontec	O
+19	biontec	B-ORG
 20	,	O
 21	dobiti	O
 22	zelen	O
@@ -76473,7 +76338,7 @@
 13	ves	O
 14	razen	O
 15	New	B-LOC
-16	York	I-LOC
+16	York	B-LOC
 17	.	O
 
 1	Newyorški	O
@@ -76615,21 +76480,18 @@
 35	z	O
 36	več	O
 37	kot	O
-38	14	O
-39	.	O
+38	14.000	O
+39	glas	O
+40	od	O
+41	skupaj	O
+42	okrog	O
+43	pet	O
+44	milijon	O
+45	oddan	O
+46	glas	O
+47	.	O
 
-1	000	O
-2	glas	O
-3	od	O
-4	skupaj	O
-5	okrog	O
-6	pet	O
-7	milijon	O
-8	oddan	O
-9	glas	O
-10	.	O
-
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	za	O
 4	zmaga	O
@@ -76755,7 +76617,7 @@
 35	ne	O
 36	biti	O
 37	deliti	O
-38	Newyorčan	B-PER
+38	Newyorčan	O
 39	,	O
 40	dokler	O
 41	ne	O
@@ -76777,7 +76639,7 @@
 11	Trump	B-PER
 12	.	O
 
-1	Cuomov	O
+1	Cuomov	B-PER
 2	svetovalec	O
 3	Rich	B-PER
 4	Azzopardi	I-PER
@@ -76929,11 +76791,8 @@
 46	smrt	O
 47	več	O
 48	kot	O
-49	244	O
+49	244.000	O
 50	.	O
-
-1	000	O
-2	.	O
 
 1	Trump	B-PER
 2	biti	O
@@ -77101,17 +76960,14 @@
 23	dan	O
 24	presegati	O
 25	po	O
-26	100	O
-27	.	O
-
-1	000	O
-2	primer	O
-3	na	O
-4	dan	O
-5	in	O
-6	rasti	O
-7	naprej	O
-8	.	O
+26	100.000	O
+27	primer	O
+28	na	O
+29	dan	O
+30	in	O
+31	rasti	O
+32	naprej	O
+33	.	O
 
 1	Bolnišnica	O
 2	v	O
@@ -77348,7 +77204,7 @@
 32	odločiti	O
 33	vrhoven	O
 34	sodišče	O
-35	ZDA	B-LOC
+35	ZDA	I-ORG
 36	.	O
 
 1	Menda	O
@@ -77430,7 +77286,7 @@
 2	predstavniški	O
 3	doma	O
 4	kongres	O
-5	demokratka	O
+5	demokratka	B-PER
 6	Nancy	B-PER
 7	Pelosi	I-PER
 8	in	O
@@ -77500,7 +77356,7 @@
 13	,	O
 14	biti	O
 15	dejati	O
-16	mcconnell	O
+16	mcconnell	B-PER
 17	.	O
 
 1	Pomiri	O
@@ -77579,9 +77435,9 @@
 33	biti	O
 34	sprejeti	O
 35	odločitev	O
-36	vrhoven	O
-37	sodišče	O
-38	ZDA	B-LOC
+36	vrhoven	B-ORG
+37	sodišče	I-ORG
+38	ZDA	I-ORG
 39	,	O
 40	četudi	O
 41	biti	O
@@ -77593,7 +77449,7 @@
 47	Bidna	B-PER
 48	.	O
 
-1	Graha	O
+1	Graha	B-PER
 2	se	O
 3	namreč	O
 4	zavedati	O
@@ -77984,8 +77840,8 @@
 5	ostro	O
 6	napasti	O
 7	guvernir	O
-8	Georgie	O
-9	Briana	I-PER
+8	Georgie	B-LOC
+9	Briana	B-PER
 10	Kempa	I-PER
 11	,	O
 12	ki	O
@@ -78000,7 +77856,7 @@
 
 1	Trump	B-PER
 2	biti	O
-3	Kempa	O
+3	Kempa	B-PER
 4	po	O
 5	volitev	O
 6	poklicati	O
@@ -78041,7 +77897,7 @@
 9	podpreti	O
 10	.	O
 
-1	Kemp	O
+1	Kemp	B-PER
 2	biti	O
 3	podvomilo	O
 4	v	O
@@ -78064,12 +77920,9 @@
 21	Trumpa	B-PER
 22	za	O
 23	okrog	O
-24	12	O
-25	.	O
-
-1	000	O
-2	glas	O
-3	.	O
+24	12.000	O
+25	glas	O
+26	.	O
 
 1	Še	O
 2	naprej	O
@@ -78428,7 +78281,7 @@
 36	v	O
 37	Georen	B-LOC
 38	nekateri	O
-39	republikanec	B-PER
+39	republikanec	O
 40	opozarjati	O
 41	,	O
 42	da	O
@@ -78548,10 +78401,10 @@
 10	Pensilvanija	B-LOC
 11	,	O
 12	vendar	O
-13	republikanec	B-PER
+13	republikanec	O
 14	izpodbijaja	O
 15	zmaga	O
-16	Bidna	O
+16	Bidna	B-PER
 17	z	O
 18	trditev	O
 19	,	O
@@ -78600,7 +78453,7 @@
 
 1	Presenečenje	O
 2	minister	O
-3	Barra	O
+3	Barra	B-PER
 4	Posebej	O
 5	v	O
 6	središče	O
@@ -78766,7 +78619,7 @@
 29	oba	O
 30	senatna	O
 31	sedež	O
-32	Georgie	O
+32	Georgie	B-LOC
 33	če	O
 34	oba	O
 35	izgubiti	O
@@ -79057,7 +78910,7 @@
 13	se	O
 14	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	objaviti	O
 3	ime	O
 4	članovnove	O
@@ -79115,7 +78968,7 @@
 6	obveščevalen	O
 7	dejavnost	O
 8	nameravati	O
-9	Biden	O
+9	Biden	B-PER
 10	imenovati	O
 11	Avril	B-PER
 12	Haines	I-PER
@@ -79193,16 +79046,16 @@
 15	za	O
 16	afriški	O
 17	zadeva	O
-18	Lindo	O
-19	Thomas	I-PER
+18	Lindo	B-ORG
+19	Thomas	B-PER
 20	Greenfield	I-PER
 21	.	O
 
 1	Položaj	O
 2	veleposlanik	O
 3	pri	O
-4	ZN	B-LOC
-5	Biden	O
+4	ZN	B-ORG
+5	Biden	B-PER
 6	tudi	O
 7	vračati	O
 8	na	O
@@ -79223,7 +79076,7 @@
 3	nacionalno	O
 4	varnost	O
 5	ZDA	B-LOC
-6	Biden	O
+6	Biden	B-PER
 7	biti	O
 8	na	O
 9	volitev	O
@@ -79231,7 +79084,7 @@
 11	.	O
 
 1	november	O
-2	republikanec	B-PER
+2	republikanec	O
 3	Donalda	B-PER
 4	Trumpa	I-PER
 5	premagati	O
@@ -79372,7 +79225,7 @@
 26	.	O
 
 1	Zato	O
-2	republikance	B-PER
+2	republikance	O
 3	v	O
 4	kongres	O
 5	pozivati	O
@@ -79594,7 +79447,7 @@
 30	država	O
 31	.	O
 
-1	Logar	O
+1	Logar	B-PER
 2	se	O
 3	biti	O
 4	z	O
@@ -79619,8 +79472,8 @@
 6	zunanji	O
 7	minister	O
 8	v	O
-9	Stat	B-LOC
-10	Department	O
+9	Stat	B-ORG
+10	Department	I-ORG
 11	od	O
 12	leto	O
 13	2018	O
@@ -79658,8 +79511,9 @@
 18	o	O
 19	varnost	O
 20	omrežje	O
-21	5g	O
-22	.	O
+21	5	O
+22	G	O
+23	.	O
 
 1	Kot	O
 2	biti	O
@@ -79737,7 +79591,7 @@
 25	senat	O
 26	.	O
 
-1	Vrtovec	O
+1	Vrtovec	B-PER
 2	pa	O
 3	biti	O
 4	v	O
@@ -79759,7 +79613,7 @@
 4	nedelja	O
 5	dejati	O
 6	za	O
-7	BITI	B-ORG
+7	BITI	B-PRO
 8	,	O
 9	memorandum	O
 10	biti	O
@@ -79789,8 +79643,8 @@
 3	biti	O
 4	predviden	O
 5	na	O
-6	Stat	O
-7	Department	O
+6	Stat	B-ORG
+7	Department	I-ORG
 8	,	O
 9	v	O
 10	ime	O
@@ -80070,8 +79924,8 @@
 8	in	O
 9	restavracija	O
 10	Comet	B-ORG
-11	Ping	O
-12	Pong	O
+11	Ping	I-ORG
+12	Pong	I-ORG
 13	v	O
 14	Washington	B-LOC
 15	D.	I-LOC
@@ -80121,7 +79975,7 @@
 24	ki	O
 25	on	O
 26	Združen	O
-27	država	O
+27	država	I-LOC
 28	žal	O
 29	še	O
 30	predobro	O
@@ -80188,18 +80042,19 @@
 6	na	O
 7	razvpiti	O
 8	forum	O
-9	4chan	B-PRO
-10	objaviti	O
-11	,	O
-12	da	O
-13	biti	O
-14	Hillary	B-PER
-15	Clinton	I-PER
-16	članica	O
-17	pedofilski	O
-18	združba	O
-19	satanistov	O
-20	.	O
+9	4	B-PRO
+10	chan	I-PRO
+11	objaviti	O
+12	,	O
+13	da	O
+14	biti	O
+15	Hillary	B-PER
+16	Clinton	I-PER
+17	članica	O
+18	pedofilski	O
+19	združba	O
+20	satanistov	O
+21	.	O
 
 1	Pod	O
 2	ime	O
@@ -80277,9 +80132,9 @@
 34	.	O
 
 1	V	O
-2	Comet	B-LOC
-3	Ping	O
-4	Pong	O
+2	Comet	B-ORG
+3	Ping	I-ORG
+4	Pong	I-ORG
 5	biti	O
 6	priti	O
 7	razkrinkat	O
@@ -80325,7 +80180,7 @@
 8	razbrali	O
 9	,	O
 10	da	O
-11	demokrat	O
+11	demokrat	B-PER
 12	voditi	O
 13	trgovina	O
 14	z	O
@@ -80403,8 +80258,9 @@
 20	razvpit	O
 21	svobodnjaški	O
 22	forum	O
-23	4chan	B-PRO
-24	.	O
+23	4	B-PRO
+24	chan	I-PRO
+25	.	O
 
 1	Njegov	O
 2	značilnost	O
@@ -80549,16 +80405,17 @@
 12	,	O
 13	kot	O
 14	biti	O
-15	4chan	B-PRO
-16	,	O
-17	in	O
-18	običajno	O
-19	neslavno	O
-20	ponikno	O
-21	v	O
-22	črnina	O
-23	internet	O
-24	.	O
+15	4	O
+16	chan	O
+17	,	O
+18	in	O
+19	običajno	O
+20	neslavno	O
+21	ponikno	O
+22	v	O
+23	črnina	O
+24	internet	O
+25	.	O
 
 1	Toda	O
 2	z	O
@@ -80608,33 +80465,35 @@
 2	kakšen	O
 3	mesec	O
 4	na	O
-5	4chan	B-PRO
-6	,	O
-7	nato	O
-8	se	O
-9	biti	O
-10	prestavilo	O
-11	v	O
-12	zloglasno	O
-13	greznico	O
-14	internet	O
-15	,	O
-16	forum	O
-17	8chan	B-PRO
-18	,	O
-19	kjer	O
-20	biti	O
-21	med	O
-22	drug	O
-23	objavljal	O
-24	tudi	O
-25	strelec	O
-26	iz	O
-27	Christchurch	B-LOC
-28	,	O
-29	Brenton	B-PER
-30	Tarrant	I-PER
-31	.	O
+5	4	B-PRO
+6	chan	I-PRO
+7	,	O
+8	nato	O
+9	se	O
+10	biti	O
+11	prestavilo	O
+12	v	O
+13	zloglasno	O
+14	greznico	O
+15	internet	O
+16	,	O
+17	forum	O
+18	8	B-PRO
+19	chan	I-PRO
+20	,	O
+21	kjer	O
+22	biti	O
+23	med	O
+24	drug	O
+25	objavljal	O
+26	tudi	O
+27	strelec	O
+28	iz	O
+29	Christchurch	B-LOC
+30	,	O
+31	Brenton	B-PER
+32	Tarrant	I-PER
+33	.	O
 
 1	Če	O
 2	biti	O
@@ -80658,36 +80517,37 @@
 20	pa	O
 21	biti	O
 22	na	O
-23	8chan	B-PRO
-24	začeti	O
-25	dobivati	O
-26	resničen	O
-27	privrženec	O
-28	čistokrvne	O
-29	teoretik	O
-30	zarota	O
-31	,	O
-32	ki	O
-33	biti	O
-34	trditev	O
-35	zares	O
-36	verjeti	O
-37	in	O
-38	vsak	O
-39	dan	O
-40	razburjeno	O
-41	pričakovati	O
-42	nov	O
-43	objava	O
-44	,	O
-45	ki	O
-46	se	O
-47	on	O
-48	biti	O
-49	prijeti	O
-50	ime	O
-51	Qdrops	O
-52	.	O
+23	8	O
+24	chan	O
+25	začeti	O
+26	dobivati	O
+27	resničen	O
+28	privrženec	O
+29	čistokrvne	O
+30	teoretik	O
+31	zarota	O
+32	,	O
+33	ki	O
+34	biti	O
+35	trditev	O
+36	zares	O
+37	verjeti	O
+38	in	O
+39	vsak	O
+40	dan	O
+41	razburjeno	O
+42	pričakovati	O
+43	nov	O
+44	objava	O
+45	,	O
+46	ki	O
+47	se	O
+48	on	O
+49	biti	O
+50	prijeti	O
+51	ime	O
+52	Qdrops	B-PRO
+53	.	O
 
 1	Rodilo	O
 2	se	O
@@ -80749,45 +80609,47 @@
 3	,	O
 4	prvoten	O
 5	stvaritelj	O
-6	8chana	B-PRO
-7	,	O
-8	trditi	O
-9	,	O
-10	da	O
-11	specifika	O
-12	njegov	O
-13	programski	O
-14	koda	O
-15	kazati	O
-16	,	O
-17	da	O
-18	biti	O
+6	8	B-PRO
+7	chana	O
+8	,	O
+9	trditi	O
+10	,	O
+11	da	O
+12	specifika	O
+13	njegov	O
+14	programski	O
+15	koda	O
+16	kazati	O
+17	,	O
+18	da	O
 19	biti	O
-20	prvoten	O
-21	Q	O
-22	verjetno	O
-23	Paul	B-PER
-24	Furber	I-PER
-25	,	O
-26	sicer	O
-27	moderator	O
-28	oddelek	O
-29	na	O
-30	8chan	B-PRO
-31	,	O
-32	kjer	O
-33	biti	O
-34	Q	O
-35	sprva	O
-36	objavljal	O
-37	,	O
-38	in	O
-39	eden	O
-40	prvi	O
-41	vodja	O
-42	gibanje	O
-43	qanon	O
-44	.	O
+20	biti	O
+21	prvoten	O
+22	Q	B-PRO
+23	verjetno	O
+24	Paul	B-PER
+25	Furber	I-PER
+26	,	O
+27	sicer	O
+28	moderator	O
+29	oddelek	O
+30	na	O
+31	8	B-PRO
+32	chan	O
+33	,	O
+34	kjer	O
+35	biti	O
+36	Q	B-PRO
+37	sprva	O
+38	objavljal	O
+39	,	O
+40	in	O
+41	eden	O
+42	prvi	O
+43	vodja	O
+44	gibanje	O
+45	qanon	O
+46	.	O
 
 1	Nato	O
 2	pa	O
@@ -80800,10 +80662,11 @@
 9	prevzeti	O
 10	lastnik	O
 11	forum	O
-12	8chan	B-PRO
-13	Jim	B-PER
-14	Watkins	I-PER
-15	.	O
+12	8	O
+13	chan	O
+14	Jim	B-PER
+15	Watkins	I-PER
+16	.	O
 
 1	Ta	O
 2	se	O
@@ -80841,8 +80704,9 @@
 10	služba	O
 11	dobiček	O
 12	lastnik	O
-13	8chana	O
-14	.	O
+13	8	O
+14	chana	O
+15	.	O
 
 1	Ampak	O
 2	ta	O
@@ -80915,7 +80779,7 @@
 13	pogovoren	O
 14	portal	O
 15	,	O
-16	reddit	B-PRO
+16	reddit	O
 17	.	O
 
 1	Ta	O
@@ -80964,14 +80828,14 @@
 11	,	O
 12	kot	O
 13	biti	O
-14	facebook	B-PRO
+14	facebook	O
 15	in	O
 16	twitter	O
 17	,	O
 18	biti	O
 19	namreč	O
 20	postulati	O
-21	qanona	O
+21	qanona	B-PER
 22	postati	O
 23	dostopni	O
 24	tudi	O
@@ -81108,53 +80972,50 @@
 2	imeti	O
 3	več	O
 4	kot	O
-5	30	O
-6	.	O
-
-1	000	O
-2	član	O
-3	oče	O
-4	,	O
-5	mati	O
-6	,	O
-7	otrok	O
-8	nekoč	O
-9	radoživi	O
-10	posameznik	O
-11	,	O
-12	ki	O
-13	pa	O
-14	zadnji	O
-15	čas	O
-16	večina	O
-17	čas	O
-18	preživeti	O
-19	za	O
-20	računalnik	O
-21	ob	O
-22	interpretacija	O
-23	nov	O
-24	Qdropov	O
-25	,	O
-26	nadležen	O
-27	širjenje	O
-28	nauk	O
-29	o	O
-30	globok	O
-31	demokratski	O
-32	država	O
-33	,	O
-34	ki	O
-35	krasti	O
-36	otrok	O
+5	30.000	O
+6	član	O
+7	oče	O
+8	,	O
+9	mati	O
+10	,	O
+11	otrok	O
+12	nekoč	O
+13	radoživi	O
+14	posameznik	O
+15	,	O
+16	ki	O
+17	pa	O
+18	zadnji	O
+19	čas	O
+20	večina	O
+21	čas	O
+22	preživeti	O
+23	za	O
+24	računalnik	O
+25	ob	O
+26	interpretacija	O
+27	nov	O
+28	Qdropov	O
+29	,	O
+30	nadležen	O
+31	širjenje	O
+32	nauk	O
+33	o	O
+34	globok	O
+35	demokratski	O
+36	država	O
 37	,	O
-38	in	O
-39	včasih	O
-40	celo	O
-41	snovanje	O
-42	oborožen	O
-43	akcija	O
-44	.	O
+38	ki	O
+39	krasti	O
+40	otrok	O
+41	,	O
+42	in	O
+43	včasih	O
+44	celo	O
+45	snovanje	O
+46	oborožen	O
+47	akcija	O
+48	.	O
 
 1	Petnojsti	O
 2	junij	O
@@ -81340,7 +81201,7 @@
 50	popularen	O
 51	moto	O
 52	Where	O
-53	we	O
+53	we	I-PRO
 54	go	O
 55	one	O
 56	,	O
@@ -81349,13 +81210,13 @@
 59	ali	O
 60	ali	O
 61	okrajšano	O
-62	WWGAGBA	B-ORG
+62	WWGAGBA	B-PRO
 63	.	O
 
 1	Oziroma	O
 2	po	O
 3	slovenski	O
-4	Kamor	O
+4	Kamor	B-LOC
 5	iti	O
 6	eden	O
 7	,	O
@@ -81380,7 +81241,7 @@
 15	ves	O
 16	oziroma	O
 17	okrajšava	O
-18	WWGAGBA	B-ORG
+18	WWGAGBA	B-PRO
 19	biti	O
 20	eden	O
 21	od	O
@@ -81586,7 +81447,7 @@
 6	objavljanje	O
 7	z	O
 8	ključnik	O
-9	WWGAGBA	O
+9	WWGAGBA	B-PRO
 10	in	O
 11	načelen	O
 12	nasprotovanje	O
@@ -81685,7 +81546,7 @@
 13	biti	O
 14	biti	O
 15	17	O
-16	republikanec	B-PER
+16	republikanec	O
 17	in	O
 18	en	O
 19	neodvisen	O
@@ -81737,7 +81598,7 @@
 27	40	O
 28	odstotek	O
 29	vprašani	O
-30	republikanec	B-PER
+30	republikanec	O
 31	mnenje	O
 32	,	O
 33	da	O
@@ -81762,35 +81623,32 @@
 
 1	Teorija	O
 2	zar	O
-3	2	O
-4	.	O
-
-1	0	O
-2	Toda	O
-3	qanon	O
-4	biti	O
-5	v	O
-6	pandemični	O
-7	čas	O
-8	postati	O
-9	veliko	O
-10	več	O
-11	kot	O
-12	samo	O
-13	ameriški	O
-14	posebnost	O
-15	,	O
-16	ki	O
-17	biti	O
-18	on	O
-19	Evropejec	B-PER
-20	nejeveren	O
-21	opazovati	O
-22	zgolj	O
-23	na	O
-24	televizijski	O
-25	zaslon	O
-26	.	O
+3	2.0	O
+4	Toda	O
+5	qanon	O
+6	biti	O
+7	v	O
+8	pandemični	O
+9	čas	O
+10	postati	O
+11	veliko	O
+12	več	O
+13	kot	O
+14	samo	O
+15	ameriški	O
+16	posebnost	O
+17	,	O
+18	ki	O
+19	biti	O
+20	on	O
+21	Evropejec	B-PER
+22	nejeveren	O
+23	opazovati	O
+24	zgolj	O
+25	na	O
+26	televizijski	O
+27	zaslon	O
+28	.	O
 
 1	V	O
 2	Velik	B-LOC
@@ -81826,7 +81684,7 @@
 32	črka	O
 33	Q	O
 34	in	O
-35	WWGAGBA	O
+35	WWGAGBA	B-PRO
 36	.	O
 
 1	Obenem	O
@@ -82022,8 +81880,9 @@
 21	ali	O
 22	nasprotovanje	O
 23	omrežje	O
-24	5g	O
-25	.	O
+24	5	O
+25	G	O
+26	.	O
 
 1	Q	O
 2	-	O
@@ -82168,7 +82027,7 @@
 4	twitter	B-PRO
 5	začeti	O
 6	odstranjevati	O
-7	qanonove	B-PER
+7	qanonove	O
 8	profil	O
 9	,	O
 10	september	O
@@ -82219,18 +82078,20 @@
 2	on	O
 3	biti	O
 4	seveda	O
-5	8kun	B-PRO
-6	preimenovan	O
-7	8chan	B-PRO
-8	,	O
-9	in	O
-10	parler	O
-11	,	O
-12	družben	O
-13	omrežje	O
-14	skrajen	O
-15	desnica	O
-16	.	O
+5	8	O
+6	kun	O
+7	preimenovan	O
+8	8	O
+9	chan	O
+10	,	O
+11	in	O
+12	parler	O
+13	,	O
+14	družben	O
+15	omrežje	O
+16	skrajen	O
+17	desnica	O
+18	.	O
 
 1	Ki	O
 2	on	O
@@ -82478,23 +82339,17 @@
 11	prejeti	O
 12	1	O
 13	,	O
-14	630	O
-15	.	O
+14	630.389	O
+15	glas	O
+16	,	O
+17	Trump	B-PER
+18	pa	O
+19	1	O
+20	,	O
+21	609.879	O
+22	.	O
 
-1	389	O
-2	glas	O
-3	,	O
-4	Trump	B-PER
-5	pa	O
-6	1	O
-7	,	O
-8	609	O
-9	.	O
-
-1	879	O
-2	.	O
-
-1	Biden	O
+1	Biden	B-PER
 2	naj	O
 3	biti	O
 4	biti	O
@@ -82648,7 +82503,7 @@
 15	rahlo	O
 16	nagniti	O
 17	na	O
-18	Bidnovo	O
+18	Bidnovo	B-PER
 19	stran	O
 20	.	O
 
@@ -82782,7 +82637,7 @@
 17	biti	O
 18	sporočiti	O
 19	šefica	O
-20	Bidnov	B-EVT
+20	Bidnov	B-PER
 21	kampanja	O
 22	Jen	B-PER
 23	O'	I-PER
@@ -82811,7 +82666,7 @@
 20	dodati	O
 21	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	sicer	O
 4	nastopiti	O
@@ -82955,7 +82810,7 @@
 23	odstotek	O
 24	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	tako	O
 3	v	O
 4	država	O
@@ -82975,12 +82830,9 @@
 18	nekaj	O
 19	manj	O
 20	kot	O
-21	21	O
-22	.	O
-
-1	000	O
-2	glas	O
-3	.	O
+21	21.000	O
+22	glas	O
+23	.	O
 
 1	Na	O
 2	še	O
@@ -83050,12 +82902,9 @@
 4	biti	O
 5	biti	O
 6	okoli	O
-7	10	O
-8	.	O
-
-1	000	O
-2	glas	O
-3	.	O
+7	10.000	O
+8	glas	O
+9	.	O
 
 1	Razlika	O
 2	v	O
@@ -83118,7 +82967,7 @@
 30	odstoten	O
 31	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	imeti	O
 4	manj	O
@@ -83188,7 +83037,7 @@
 6	bolj	O
 7	glasovati	O
 8	volivec	O
-9	demokrat	O
+9	demokrat	B-PER
 10	,	O
 11	medtem	O
 12	ko	O
@@ -83526,7 +83375,7 @@
 13	demokrat	B-PER
 14	in	O
 15	173	O
-16	republikanec	B-PER
+16	republikanec	O
 17	.	O
 
 1	Republikanski	O
@@ -83616,7 +83465,7 @@
 5	AP	B-ORG
 6	biti	O
 7	imeti	O
-8	republikanec	B-PER
+8	republikanec	O
 9	do	O
 10	srede	O
 11	do	O
@@ -83931,7 +83780,7 @@
 
 1	O	O
 2	zasedba	O
-3	Bel	O
+3	Bel	B-LOC
 4	hiša	I-LOC
 5	po	O
 6	12	O
@@ -84010,19 +83859,16 @@
 25	slaviti	O
 26	z	O
 27	komaj	O
-28	44	O
-29	.	O
-
-1	292	O
-2	glas	O
-3	več	O
-4	od	O
-5	demokratski	O
-6	predsedniški	O
-7	kandidatka	O
-8	Hillary	B-PER
-9	Clinton	I-PER
-10	.	O
+28	44.292	O
+29	glas	O
+30	več	O
+31	od	O
+32	demokratski	O
+33	predsedniški	O
+34	kandidatka	O
+35	Hillary	B-PER
+36	Clinton	I-PER
+37	.	O
 
 1	Predsednik	O
 2	biti	O
@@ -84045,13 +83891,10 @@
 19	zmagati	O
 20	z	O
 21	komaj	O
-22	20	O
-23	.	O
-
-1	000	O
-2	glas	O
-3	večina	O
-4	.	O
+22	20.000	O
+23	glas	O
+24	večina	O
+25	.	O
 
 1	Trump	B-PER
 2	biti	O
@@ -84151,22 +83994,19 @@
 33	tožba	O
 34	z	O
 35	domneven	O
-36	10	O
-37	.	O
-
-1	000	O
-2	glasovnica	O
-3	,	O
-4	ki	O
-5	naj	O
-6	biti	O
-7	on	O
-8	oddati	O
-9	človek	O
-10	brez	O
-11	tamkajšnji	O
-12	prebivališče	O
-13	.	O
+36	10.000	O
+37	glasovnica	O
+38	,	O
+39	ki	O
+40	naj	O
+41	biti	O
+42	on	O
+43	oddati	O
+44	človek	O
+45	brez	O
+46	tamkajšnji	O
+47	prebivališče	O
+48	.	O
 
 1	Na	O
 2	tiskoven	O
@@ -84321,14 +84161,14 @@
 6	predsednik	O
 7	V	O
 8	New	B-LOC
-9	York	I-LOC
+9	York	B-LOC
 10	,	O
 11	Portland	B-LOC
 12	,	O
 13	Seattlu	B-LOC
 14	,	O
 15	Los	B-LOC
-16	Angeles	I-LOC
+16	Angeles	B-LOC
 17	,	O
 18	Čikag	B-LOC
 19	,	O
@@ -84420,7 +84260,7 @@
 7	Filadelfijii	B-LOC
 8	.	O
 
-1	Demokrati	O
+1	Demokrati	B-PER
 2	misliti	O
 3	,	O
 4	da	O
@@ -84516,11 +84356,8 @@
 16	on	O
 17	biti	O
 18	odposlal	O
-19	100	O
+19	100.000	O
 20	.	O
-
-1	000	O
-2	.	O
 
 1	Odločilne	O
 2	zvezen	O
@@ -84537,7 +84374,7 @@
 8	Biden	B-PER
 9	,	O
 10	se	O
-11	demokrat	O
+11	demokrat	B-PER
 12	biti	O
 13	posrečiti	O
 14	dobiti	O
@@ -84640,8 +84477,8 @@
 30	Cortez	O
 31	.	O
 
-1	Ala	O
-2	Gora	O
+1	Ala	B-LOC
+2	Gora	I-LOC
 3	biti	O
 4	leto	O
 5	2000	O
@@ -84682,7 +84519,7 @@
 40	biti	O
 41	star	O
 42	od	O
-43	Bidna	O
+43	Bidna	B-PER
 44	zdaj	O
 45	.	O
 
@@ -84830,7 +84667,7 @@
 38	proti	O
 39	republikanski	O
 40	tekmec	O
-41	George	O
+41	George	B-PER
 42	«	O
 43	.	O
 
@@ -84877,7 +84714,7 @@
 33	od	O
 34	republikanski	O
 35	nasprotnik	O
-36	George	O
+36	George	B-PER
 37	«	O
 38	.	O
 
@@ -84917,7 +84754,7 @@
 23	dom	O
 24	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	krepek	O
 3	zmanjšati	O
 4	zaostanek	O
@@ -85041,7 +84878,7 @@
 15	in	O
 16	televizija	O
 17	Fox	B-PRO
-18	News	I-ORG
+18	News	I-PRO
 19	ter	O
 20	zmaga	O
 21	tudi	O
@@ -85248,9 +85085,9 @@
 17	up	O
 18	polag	O
 19	v	O
-20	vrhoven	O
-21	sodišče	O
-22	ZDA	B-LOC
+20	vrhoven	B-ORG
+21	sodišče	I-ORG
+22	ZDA	I-ORG
 23	z	O
 24	konservativno	O
 25	večina	O
@@ -85325,12 +85162,9 @@
 42	narasti	O
 43	na	O
 44	okoli	O
-45	150	O
-46	.	O
-
-1	000	O
-2	glas	O
-3	.	O
+45	150.000	O
+46	glas	O
+47	.	O
 
 1	Trump	B-PER
 2	sicer	O
@@ -85338,7 +85172,7 @@
 4	vedno	O
 5	voditi	O
 6	v	O
-7	Georzi	O
+7	Georzi	B-LOC
 8	,	O
 9	a	O
 10	se	O
@@ -85409,7 +85243,7 @@
 48	dokaz	O
 49	.	O
 
-1	Trumpova	O
+1	Trumpova	B-PER
 2	kampanj	O
 3	biti	O
 4	napovedati	O
@@ -85418,7 +85252,7 @@
 7	v	O
 8	okrožje	O
 9	Nevad	B-LOC
-10	Clark	O
+10	Clark	I-LOC
 11	,	O
 12	ki	O
 13	zajemati	O
@@ -85726,11 +85560,11 @@
 20	tretjina	O
 21	od	O
 22	sto	O
-23	senatorjev	B-PER
+23	senatorjev	O
 24	in	O
 25	ves	O
 26	435	O
-27	kongresnikov	B-PER
+27	kongresnikov	O
 28	,	O
 29	torej	O
 30	poslanec	O
@@ -85815,7 +85649,7 @@
 14	Trumpa	I-PER
 15	bodisi	O
 16	za	O
-17	Bidna	O
+17	Bidna	B-PER
 18	,	O
 19	naj	O
 20	biti	O
@@ -85934,7 +85768,7 @@
 21	Florido	B-LOC
 22	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	dosti	O
 4	manj	O
@@ -86123,7 +85957,7 @@
 6	,	O
 7	da	O
 8	imeti	O
-9	republikanec	B-PER
+9	republikanec	O
 10	v	O
 11	zvezen	O
 12	vrhoven	O
@@ -86211,8 +86045,8 @@
 10	z	O
 11	cesta	O
 12	avtobus	O
-13	Bidnov	B-EVT
-14	kampanja	I-EVT
+13	Bidnov	B-PER
+14	kampanja	O
 15	,	O
 16	po	O
 17	ameriški	O
@@ -86307,11 +86141,11 @@
 3	L	I-PER
 4	.	O
 
-1	Conti	B-PER
+1	Conti	O
 2	Reuters	B-ORG
 3	Združen	O
 4	država	I-LOC
-5	Amerika	I-LOC
+5	Amerika	B-LOC
 6	biti	O
 7	v	O
 8	pričakovanje	O
@@ -86391,7 +86225,7 @@
 10	biti	O
 11	ponoči	O
 12	na	O
-13	slovenskenovica	O
+13	slovenskenovica	B-PRO
 14	.	O
 
 1	se	O
@@ -86452,7 +86286,7 @@
 5	Reuters	B-ORG
 6	Kot	O
 7	pisati	O
-8	CNN	B-ORG
+8	CNN	B-PRO
 9	,	O
 10	biti	O
 11	sedanji	O
@@ -86645,7 +86479,7 @@
 4	nič	O
 5	prepustiti	O
 6	naključje	O
-7	Tudi	O
+7	Tudi	B-PER
 8	Biden	B-PER
 9	,	O
 10	za	O
@@ -86765,8 +86599,8 @@
 12	,	O
 13	kjer	O
 14	biti	O
-15	konservativen	B-ORG
-16	zvezen	I-ORG
+15	konservativen	O
+16	zvezen	O
 17	sodnik	O
 18	zavrniti	O
 19	tožba	O
@@ -86775,22 +86609,19 @@
 22	naj	O
 23	se	O
 24	razveljava	O
-25	127	O
-26	.	O
-
-1	000	O
-2	glasovnica	O
-3	v	O
-4	Houston	B-LOC
-5	,	O
-6	ker	O
-7	biti	O
-8	človek	O
-9	glasovati	O
-10	iz	O
-11	svoj	O
-12	avtomobil	O
-13	.	O
+25	127.000	O
+26	glasovnica	O
+27	v	O
+28	Houston	B-LOC
+29	,	O
+30	ker	O
+31	biti	O
+32	človek	O
+33	glasovati	O
+34	iz	O
+35	svoj	O
+36	avtomobil	O
+37	.	O
 
 1	Demokrati	O
 2	se	O
@@ -86897,7 +86728,7 @@
 4	in	O
 5	množično	O
 6	udeležba	O
-7	demokrat	O
+7	demokrat	B-PER
 8	na	O
 9	predčasen	O
 10	volitev	O
@@ -87183,7 +87014,7 @@
 20	ves	O
 21	pričakovati	O
 22	zmaga	O
-23	demokratke	B-PER
+23	demokratke	O
 24	Hillary	B-PER
 25	Clinton	I-PER
 26	,	O
@@ -87196,7 +87027,7 @@
 
 1	(	O
 2	vir	O
-3	BITI	B-ORG
+3	BITI	B-PRO
 4	)	O
 5	V	O
 6	strah	O
@@ -87841,7 +87672,7 @@
 3	govoriti	O
 4	v	O
 5	prid	O
-6	Biden	B-LOC
+6	Biden	B-PER
 7	,	O
 8	ki	O
 9	voditi	O
@@ -87882,7 +87713,7 @@
 15	uresničiti	O
 16	strahov	O
 17	nekateri	O
-18	demokrat	O
+18	demokrat	B-PER
 19	,	O
 20	da	O
 21	se	O
@@ -87894,7 +87725,7 @@
 27	izgubiti	O
 28	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	biti	O
 4	celo	O
@@ -87989,7 +87820,7 @@
 7	povedati	O
 8	nič	O
 9	nov	O
-10	Biden	O
+10	Biden	B-PER
 11	biti	O
 12	proti	O
 13	konec	O
@@ -88059,7 +87890,7 @@
 11	posvetiti	O
 12	napad	O
 13	na	O
-14	Bidna	B-LOC
+14	Bidna	B-PER
 15	.	O
 
 1	Ta	O
@@ -88166,7 +87997,7 @@
 7	se	O
 8	norču	O
 9	iz	O
-10	Bidna	B-LOC
+10	Bidna	B-PER
 11	,	O
 12	ker	O
 13	on	O
@@ -88215,7 +88046,7 @@
 40	priti	O
 41	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	med	O
 4	debata	O
@@ -88223,21 +88054,18 @@
 6	na	O
 7	več	O
 8	kot	O
-9	200	O
-10	.	O
-
-1	000	O
-2	mrtev	O
-3	v	O
-4	ZDA	B-LOC
-5	zaradi	O
-6	covid	O
-7	-	O
-8	19	O
-9	pod	O
-10	Trumpov	B-PER
-11	vodstvo	O
-12	.	O
+9	200.000	O
+10	mrtev	O
+11	v	O
+12	ZDA	B-LOC
+13	zaradi	O
+14	covid	O
+15	-	O
+16	19	O
+17	pod	O
+18	Trumpov	B-PER
+19	vodstvo	O
+20	.	O
 
 1	Predsednik	O
 2	biti	O
@@ -88256,7 +88084,7 @@
 15	mrtev	O
 16	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	pa	O
 3	biti	O
 4	očitati	O
@@ -88268,7 +88096,7 @@
 10	gripe	O
 11	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	se	O
 3	biti	O
 4	nekajkrat	O
@@ -88371,7 +88199,7 @@
 10	neumnostmi	O
 11	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	pa	O
 3	biti	O
 4	tik	O
@@ -88394,7 +88222,7 @@
 21	poživite	O
 22	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	pred	O
 4	soočenji	O
@@ -88408,20 +88236,14 @@
 12	Jill	B-PER
 13	lani	O
 14	plačati	O
-15	300	O
-16	.	O
-
-1	000	O
-2	dolar	O
-3	dohodnina	O
-4	na	O
-5	950	O
-6	.	O
-
-1	000	O
-2	dolar	O
-3	dohodek	O
-4	.	O
+15	300.000	O
+16	dolar	O
+17	dohodnina	O
+18	na	O
+19	950.000	O
+20	dolar	O
+21	dohodek	O
+22	.	O
 
 1	Trumpa	B-PER
 2	biti	O
@@ -88515,7 +88337,7 @@
 27	izid	O
 28	volitev	O
 29	,	O
-30	Bidna	O
+30	Bidna	B-PER
 31	pa	O
 32	prisiliti	O
 33	v	O
@@ -88536,10 +88358,10 @@
 10	levica	O
 11	,	O
 12	biti	O
-13	Biden	O
+13	Biden	B-PER
 14	v	O
 15	slog	O
-16	Ludvik	O
+16	Ludvik	B-PER
 17	14	O
 18	.	O
 
@@ -88617,7 +88439,7 @@
 3	,	O
 4	da	O
 5	imeti	O
-6	republikanec	B-PER
+6	republikanec	O
 7	Belo	B-LOC
 8	hiša	I-LOC
 9	in	O
@@ -88631,7 +88453,7 @@
 17	želeti	O
 18	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	dejati	O
 4	,	O
@@ -88732,7 +88554,7 @@
 18	on	O
 19	.	O
 
-1	Bidna	O
+1	Bidna	B-PER
 2	biti	O
 3	napadal	O
 4	,	O
@@ -88798,7 +88620,7 @@
 26	policija	O
 27	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	predlagati	O
 3	povečanje	O
 4	sredstvo	O
@@ -88941,7 +88763,7 @@
 11	prevara	O
 12	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	seja	O
 3	braniti	O
 4	po	O
@@ -89000,7 +88822,7 @@
 8	,	O
 9	poznati	O
 10	pa	O
-11	Hunterja	O
+11	Hunterja	B-PER
 12	in	O
 13	sprožiti	O
 14	ognjevit	O
@@ -89019,7 +88841,7 @@
 27	Rusija	B-LOC
 28	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	le	O
 4	nemočno	O
@@ -89535,23 +89357,20 @@
 13	tork	O
 14	in	O
 15	ob	O
-16	2	O
-17	.	O
-
-1	29	O
-2	zjutraj	O
-3	po	O
-4	vzhodnoameriški	O
-5	čas	O
-6	biti	O
-7	tiskoven	O
-8	agencija	O
-9	AP	B-ORG
-10	razglasiti	O
-11	zmagovalec	O
-12	predsedniški	O
-13	volitev	O
-14	.	O
+16	2.29	O
+17	zjutraj	O
+18	po	O
+19	vzhodnoameriški	O
+20	čas	O
+21	biti	O
+22	tiskoven	O
+23	agencija	O
+24	AP	B-ORG
+25	razglasiti	O
+26	zmagovalec	O
+27	predsedniški	O
+28	volitev	O
+29	.	O
 
 1	Tako	O
 2	biti	O
@@ -90048,7 +89867,7 @@
 
 1	Državen	O
 2	sekretarka	O
-3	Pensilvanje	O
+3	Pensilvanje	B-LOC
 4	Kathy	B-PER
 5	Boockvar	I-PER
 6	pričakovati	O
@@ -90134,7 +89953,7 @@
 1	Stotine	O
 2	tožba	O
 3	Tako	O
-4	republikanec	B-PER
+4	republikanec	O
 5	kot	O
 6	demokrat	B-PER
 7	biti	O
@@ -90251,41 +90070,38 @@
 33	biti	O
 34	lahko	O
 35	pomeniti	O
-36	100	O
-37	.	O
-
-1	000	O
-2	neveljaven	O
-3	goli	O
-4	glasovnica	O
-5	)	O
-6	Po	O
-7	volitev	O
-8	biti	O
-9	tako	O
-10	mogoč	O
-11	pričakovati	O
-12	mnog	O
-13	pravdanje	O
-14	o	O
-15	veljavnost	O
-16	glasovnica	O
-17	po	O
-18	pošta	O
-19	,	O
-20	o	O
-21	oviranje	O
-22	volilec	O
-23	pri	O
-24	udeležba	O
-25	,	O
-26	o	O
-27	morebiten	O
-28	nepravilnost	O
-29	in	O
-30	tako	O
-31	naprej	O
-32	.	O
+36	100.000	O
+37	neveljaven	O
+38	goli	O
+39	glasovnica	O
+40	)	O
+41	Po	O
+42	volitev	O
+43	biti	O
+44	tako	O
+45	mogoč	O
+46	pričakovati	O
+47	mnog	O
+48	pravdanje	O
+49	o	O
+50	veljavnost	O
+51	glasovnica	O
+52	po	O
+53	pošta	O
+54	,	O
+55	o	O
+56	oviranje	O
+57	volilec	O
+58	pri	O
+59	udeležba	O
+60	,	O
+61	o	O
+62	morebiten	O
+63	nepravilnost	O
+64	in	O
+65	tako	O
+66	naprej	O
+67	.	O
 
 1	Predsednik	O
 2	Trump	B-PER
@@ -90421,7 +90237,7 @@
 5	razglasiti	O
 6	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	pozvati	O
 4	Američan	B-PER
@@ -90682,7 +90498,7 @@
 
 1	Trump	B-PER
 2	biti	O
-3	Bidna	O
+3	Bidna	B-PER
 4	v	O
 5	tvit	O
 6	nekaj	O
@@ -90946,8 +90762,8 @@
 21	prednost	O
 22	.	O
 
-1	Republikanski	B-ORG
-2	stranka	I-ORG
+1	Republikanski	O
+2	stranka	O
 3	biti	O
 4	tako	O
 5	v	O
@@ -91030,48 +90846,45 @@
 23	zaostajal	O
 24	za	O
 25	dober	O
-26	13	O
-27	.	O
-
-1	000	O
-2	glas	O
-3	ali	O
-4	0	O
-5	,	O
-6	2	O
-7	odstotne	O
-8	točka	O
-9	)	O
-10	Sodnik	O
-11	ameriški	O
-12	vrhoven	O
-13	sodišče	I-ORG
-14	Samuel	B-PER
-15	Alito	I-PER
-16	biti	O
-17	včeraj	O
-18	zavrniti	O
-19	zahteva	O
-20	pensilvanski	O
-21	republikanec	O
-22	,	O
-23	da	O
-24	biti	O
-25	takoj	O
-26	ustaviti	O
-27	štet	O
-28	glasovnica	O
-29	v	O
-30	Pensilvanija	B-LOC
-31	,	O
-32	ki	O
-33	biti	O
-34	prispeti	O
-35	po	O
-36	torkov	O
-37	predsedniški	O
-38	volitev	O
-39	.	O
+26	13.000	O
+27	glas	O
+28	ali	O
+29	0	O
+30	,	O
+31	2	O
+32	odstotne	O
+33	točka	O
+34	)	O
+35	Sodnik	O
+36	ameriški	O
+37	vrhoven	O
+38	sodišče	O
+39	Samuel	B-PER
+40	Alito	I-PER
+41	biti	O
+42	včeraj	O
+43	zavrniti	O
+44	zahteva	O
+45	pensilvanski	O
+46	republikanec	O
+47	,	O
+48	da	O
+49	biti	O
+50	takoj	O
+51	ustaviti	O
+52	štet	O
+53	glasovnica	O
+54	v	O
+55	Pensilvanija	B-LOC
+56	,	O
+57	ki	O
+58	biti	O
+59	prispeti	O
+60	po	O
+61	torkov	O
+62	predsedniški	O
+63	volitev	O
+64	.	O
 
 1	Biti	O
 2	pa	O
@@ -91385,7 +91198,7 @@
 11	,	O
 12	Nisconsin	B-LOC
 13	in	O
-14	Georen	O
+14	Georen	B-LOC
 15	ključen	O
 16	država	O
 17	,	O
@@ -91427,7 +91240,7 @@
 13	zmanjševal	O
 14	zaostanek	O
 15	za	O
-16	Biden	B-LOC
+16	Biden	B-PER
 17	.	O
 
 1	(	O
@@ -91443,7 +91256,7 @@
 11	še	O
 12	šteti	O
 13	,	O
-14	Biden	O
+14	Biden	B-PER
 15	povečevati	O
 16	prednost	O
 17	v	O
@@ -91477,18 +91290,15 @@
 13	nekaj	O
 14	manj	O
 15	kot	O
-16	28	O
-17	.	O
-
-1	900	O
-2	glas	O
-3	,	O
-4	poročati	O
-5	ameriški	O
-6	tiskoven	O
-7	agencija	O
-8	AP	B-ORG
-9	.	O
+16	28.900	O
+17	glas	O
+18	,	O
+19	poročati	O
+20	ameriški	O
+21	tiskoven	O
+22	agencija	O
+23	AP	B-ORG
+24	.	O
 
 1	V	O
 2	Georen	B-LOC
@@ -91504,7 +91314,7 @@
 12	tisoč	O
 13	glasovnica	O
 14	,	O
-15	Biden	O
+15	Biden	B-PER
 16	biti	O
 17	voditi	O
 18	za	O
@@ -91552,47 +91362,38 @@
 6	še	O
 7	več	O
 8	kot	O
-9	200	O
-10	.	O
-
-1	000	O
-2	glasovnica	O
-3	,	O
-4	Biden	B-PER
-5	biti	O
-6	voditi	O
-7	za	O
-8	približno	O
-9	40	O
-10	.	O
-
-1	000	O
-2	glas	O
-3	.	O
+9	200.000	O
+10	glasovnica	O
+11	,	O
+12	Biden	B-PER
+13	biti	O
+14	voditi	O
+15	za	O
+16	približno	O
+17	40.000	O
+18	glas	O
+19	.	O
 
 1	V	O
 2	Nevada	B-LOC
 3	biti	O
-4	Biden	O
+4	Biden	B-PER
 5	voditi	O
 6	za	O
-7	20	O
-8	.	O
-
-1	000	O
-2	glas	O
-3	,	O
-4	biti	O
-5	pa	O
-6	biti	O
-7	jasen	O
-8	,	O
-9	koliko	O
-10	delo	O
-11	biti	O
-12	še	O
-13	ostati	O
-14	.	O
+7	20.000	O
+8	glas	O
+9	,	O
+10	biti	O
+11	pa	O
+12	biti	O
+13	jasen	O
+14	,	O
+15	koliko	O
+16	delo	O
+17	biti	O
+18	še	O
+19	ostati	O
+20	.	O
 
 1	Štetje	O
 2	glasovnica	O
@@ -91734,7 +91535,7 @@
 39	.	O
 
 1	Analitiki	O
-2	Biden	O
+2	Biden	B-PER
 3	biti	O
 4	osredotočen	O
 5	na	O
@@ -91904,13 +91705,13 @@
 6	odnos	O
 7	na	O
 8	fakulteta	O
-9	za	O
-10	družben	O
+9	za	I-ORG
+10	družben	I-ORG
 11	veda	I-ORG
 12	(	O
 13	FDV	B-ORG
 14	)	O
-15	Biden	O
+15	Biden	B-PER
 16	biti	O
 17	bistveno	O
 18	težko	O
@@ -91961,7 +91762,7 @@
 10	rešitev	I-ORG
 11	,	O
 12	zmaga	O
-13	Bidna	O
+13	Bidna	B-PER
 14	ne	O
 15	pomeniti	O
 16	konec	O
@@ -92119,7 +91920,7 @@
 20	ta	O
 21	proizvod	O
 22	iz	O
-23	Unija	O
+23	Unija	B-LOC
 24	ogrožal	O
 25	nacionalno	O
 26	varnost	O
@@ -92145,7 +91946,7 @@
 12	in	O
 13	pariški	O
 14	podneben	O
-15	sporazum	O
+15	sporazum	I-PRO
 16	,	O
 17	k	O
 18	kateri	O
@@ -92176,7 +91977,7 @@
 
 1	Zmaga	O
 2	Jae	B-PER
-3	Bidna	O
+3	Bidna	I-PER
 4	pomeniti	O
 5	gotovo	O
 6	premik	O
@@ -92238,7 +92039,7 @@
 9	FDV	B-ORG
 10	.	O
 
-1	Kračun	O
+1	Kračun	B-PER
 2	biti	O
 3	prepričan	O
 4	,	O
@@ -92316,8 +92117,8 @@
 14	v	O
 15	čas	O
 16	slovenski	B-EVT
-17	predsedovanje	O
-18	EU	B-ORG
+17	predsedovanje	I-EVT
+18	EU	I-EVT
 19	zdaj	O
 20	majhen	O
 21	.	O
@@ -92559,7 +92360,7 @@
 12	,	O
 13	biti	O
 14	predsednikovanje	O
-15	Bidna	O
+15	Bidna	B-PER
 16	prinesti	O
 17	več	O
 18	prijateljstvo	O
@@ -92746,7 +92547,7 @@
 27	volitev	O
 28	,	O
 29	pristavlje	O
-30	Hegedus	B-PRO
+30	Hegedus	B-PER
 31	.	O
 
 1	Velik	O
@@ -92797,7 +92598,7 @@
 21	jedrski	O
 22	oborožitev	O
 23	,	O
-24	Biden	O
+24	Biden	B-PER
 25	pa	O
 26	biti	O
 27	ZDA	B-LOC
@@ -92952,44 +92753,45 @@
 14	,	O
 15	kot	O
 16	biti	O
-17	5g	O
-18	tehnologija	O
-19	,	O
-20	ZDA	B-LOC
-21	zaostajati	O
-22	za	O
-23	Kitajska	B-LOC
-24	,	O
-25	praviti	O
-26	Šabič	B-PER
-27	in	O
-28	dodajati	O
-29	,	O
-30	da	O
-31	biti	O
-32	že	O
-33	sedaj	O
-34	priča	O
-35	tekma	O
-36	dva	O
-37	država	O
-38	,	O
-39	dva	O
-40	različen	O
-41	kultur	O
-42	in	O
-43	dva	O
-44	različen	O
-45	ideologija	O
-46	,	O
-47	ki	O
-48	se	O
-49	borit	O
-50	za	O
-51	prevlada	O
-52	na	O
-53	svet	O
-54	.	O
+17	5	O
+18	G	O
+19	tehnologija	O
+20	,	O
+21	ZDA	B-LOC
+22	zaostajati	O
+23	za	O
+24	Kitajska	B-LOC
+25	,	O
+26	praviti	O
+27	Šabič	B-PER
+28	in	O
+29	dodajati	O
+30	,	O
+31	da	O
+32	biti	O
+33	že	O
+34	sedaj	O
+35	priča	O
+36	tekma	O
+37	dva	O
+38	država	O
+39	,	O
+40	dva	O
+41	različen	O
+42	kultur	O
+43	in	O
+44	dva	O
+45	različen	O
+46	ideologija	O
+47	,	O
+48	ki	O
+49	se	O
+50	borit	O
+51	za	O
+52	prevlada	O
+53	na	O
+54	svet	O
+55	.	O
 
 1	Melania	B-PER
 2	odštev	O
@@ -93141,7 +92943,7 @@
 23	Bel	B-LOC
 24	hiša	I-LOC
 25	Omoros	B-PER
-26	Manigault	O
+26	Manigault	B-PER
 27	Newman	I-PER
 28	za	O
 29	The	B-PRO
@@ -93261,7 +93063,7 @@
 11	preseliti	O
 12	iz	O
 13	New	B-LOC
-14	York	I-LOC
+14	York	B-LOC
 15	v	O
 16	Washington	B-LOC
 17	,	O
@@ -93281,7 +93083,7 @@
 31	šolanje	O
 32	v	O
 33	New	B-LOC
-34	York	I-LOC
+34	York	B-LOC
 35	,	O
 36	temveč	O
 37	da	O
@@ -93362,7 +93164,7 @@
 14	hiša	I-LOC
 15	in	O
 16	na	O
-17	Bidnovo	O
+17	Bidnovo	B-PER
 18	prisego	O
 19	januar	O
 20	naslednji	O
@@ -93388,7 +93190,7 @@
 8	biti	O
 9	se	O
 10	tako	O
-11	Omoros	O
+11	Omoros	B-PER
 12	,	O
 13	ki	O
 14	biti	O
@@ -93617,7 +93419,7 @@
 23	,	O
 24	in	O
 25	nasploh	O
-26	demokrat	B-PER
+26	demokrat	O
 27	,	O
 28	ki	O
 29	se	O
@@ -93645,7 +93447,7 @@
 9	tudi	O
 10	ves	O
 11	435	O
-12	kongresnikov	B-PER
+12	kongresnikov	O
 13	,	O
 14	ki	O
 15	imeti	O
@@ -93723,7 +93525,7 @@
 11	-	O
 12	leten	O
 13	Bader	B-PER
-14	Ginsburgove	O
+14	Ginsburgove	I-PER
 15	ne	O
 16	glede	O
 17	na	O
@@ -93749,8 +93551,8 @@
 37	biti	O
 38	predlagati	O
 39	predsednik	O
-40	Barack	O
-41	Oba	O
+40	Barack	B-PER
+41	Oba	I-PER
 42	-	O
 43	z	O
 44	argument	O
@@ -93891,7 +93693,7 @@
 
 1	Amy	B-PER
 2	Coney	I-PER
-3	Barrett	I-PER
+3	Barrett	B-PER
 4	biti	O
 5	šele	O
 6	peti	O
@@ -94274,9 +94076,9 @@
 4	dejati	O
 5	,	O
 6	da	O
-7	vrhoven	O
-8	sodišče	O
-9	ZDA	B-LOC
+7	vrhoven	B-ORG
+8	sodišče	I-ORG
+9	ZDA	I-ORG
 10	predsednik	O
 11	država	O
 12	ne	O
@@ -94398,9 +94200,9 @@
 30	zakonodajen	O
 31	.	O
 
-1	Ameriške	O
-2	predsedniški	O
-3	volitev	O
+1	Ameriške	B-EVT
+2	predsedniški	I-EVT
+3	volitev	I-EVT
 4	Kronični	O
 5	lažnivec	O
 6	proti	O
@@ -94439,8 +94241,8 @@
 29	.	O
 
 1	Ameriške	O
-2	predsedniški	O
-3	volitev	O
+2	predsedniški	I-EVT
+3	volitev	I-EVT
 4	biti	O
 5	vsak	O
 6	štirje	O
@@ -95215,9 +95017,9 @@
 
 1	Zvest	O
 2	sopotnik	O
-3	Mike	O
-4	Če	O
-5	Trump	B-PER
+3	Mike	B-PER
+4	Če	I-PER
+5	Trump	I-PER
 6	zmaga	O
 7	,	O
 8	on	O
@@ -95263,7 +95065,7 @@
 25	.	O
 
 1	Prepričan	O
-2	konservativec	B-PER
+2	konservativec	O
 3	in	O
 4	človek	O
 5	globok	O
@@ -95520,7 +95322,7 @@
 40	mogotec	O
 41	v	O
 42	New	B-LOC
-43	York	I-LOC
+43	York	B-LOC
 44	)	O
 45	zmeraj	O
 46	delovati	O
@@ -95543,7 +95345,7 @@
 5	kar	O
 6	on	O
 7	očitati	O
-8	republikanec	B-PER
+8	republikanec	O
 9	,	O
 10	in	O
 11	ZDA	B-LOC
@@ -95573,7 +95375,7 @@
 11	socialdemokrat	O
 12	.	O
 
-1	Bidnovo	O
+1	Bidnovo	B-PER
 2	vodilo	O
 3	Priznaj	O
 4	napaka	O
@@ -95733,7 +95535,7 @@
 10	tesno	O
 11	prijateljstvo	O
 12	in	O
-13	Oba	O
+13	Oba	B-PER
 14	biti	O
 15	letos	O
 16	stopiti	O
@@ -95768,10 +95570,10 @@
 18	biti	O
 19	zakonski	O
 20	par	O
-21	Barack	O
+21	Barack	B-PER
 22	-	O
-23	Michelle	O
-24	Oba	B-PER
+23	Michelle	B-PER
+24	Oba	I-PER
 25	v	O
 26	ZDA	B-LOC
 27	še	O
@@ -95919,7 +95721,7 @@
 24	biti	O
 25	izgubiti	O
 26	proti	O
-27	George	O
+27	George	B-PER
 28	«	O
 29	.	O
 
@@ -95952,7 +95754,7 @@
 24	biti	O
 25	porazilo	O
 26	prav	O
-27	Oba	O
+27	Oba	B-PER
 28	.	O
 
 1	Tokrat	O
@@ -96147,7 +95949,7 @@
 1	Tudi	O
 2	če	O
 3	biti	O
-4	Biden	O
+4	Biden	B-PER
 5	postati	O
 6	46	O
 7	.	O
@@ -96179,7 +95981,7 @@
 9	hiša	I-LOC
 10	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	uradno	O
 3	v	O
 4	roka	O
@@ -96252,7 +96054,7 @@
 18	Trumpa	I-PER
 19	na	O
 20	vlada	O
-21	Bidna	O
+21	Bidna	B-PER
 22	,	O
 23	ki	O
 24	biti	O
@@ -96326,11 +96128,11 @@
 2	se	O
 3	biti	O
 4	srečanje	O
-5	Bidnov	O
+5	Bidnov	B-PER
 6	ekipa	O
 7	z	O
 8	predstavnik	O
-9	Trumpove	O
+9	Trumpove	B-PER
 10	vlada	O
 11	,	O
 12	ki	O
@@ -96380,7 +96182,7 @@
 14	oblast	O
 15	biti	O
 16	za	O
-17	Bidna	B-ORG
+17	Bidna	B-PER
 18	pomemben	O
 19	,	O
 20	da	O
@@ -96422,7 +96224,7 @@
 56	«	O
 57	.	O
 
-1	Murphy	O
+1	Murphy	B-PER
 2	,	O
 3	kar	O
 4	biti	O
@@ -96540,7 +96342,7 @@
 30	verjeten	O
 31	zmagovalec	O
 32	,	O
-33	Bidna	O
+33	Bidna	B-PER
 34	,	O
 35	oziroma	O
 36	da	O
@@ -96625,7 +96427,7 @@
 14	potrditi	O
 15	volilen	O
 16	zmaga	O
-17	Bidna	B-EVT
+17	Bidna	B-PER
 18	,	O
 19	včeraj	O
 20	pa	O
@@ -96690,7 +96492,7 @@
 54	Chavez	I-PER
 55	.	O
 
-1	Bidnova	O
+1	Bidnova	B-PER
 2	ekipa	O
 3	biti	O
 4	hkrati	O
@@ -96788,7 +96590,7 @@
 25	drug	O
 26	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	predstaviti	O
 3	zunanjepolitičen	O
 4	ekipa	O
@@ -96990,7 +96792,7 @@
 20	biti	O
 21	imeti	O
 22	v	O
-23	Obamovi	O
+23	Obamovi	B-PER
 24	vlada	O
 25	med	O
 26	drug	O
@@ -97004,7 +96806,7 @@
 34	Iran	B-LOC
 35	.	O
 
-1	Sullivan	B-PER
+1	Sullivan	O
 2	biti	O
 3	kariera	O
 4	začeti	O
@@ -97061,7 +96863,7 @@
 18	leto	O
 19	namestnica	O
 20	direktor	O
-21	Cie	O
+21	Cie	B-ORG
 22	.	O
 
 1	Bo	O
@@ -97133,7 +96935,7 @@
 26	zadeva	O
 27	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	ta	O
 4	položaj	O
@@ -97184,7 +96986,7 @@
 2	imenovanje	O
 3	prihodnji	O
 4	teden	O
-5	Biden	O
+5	Biden	B-PER
 6	biti	O
 7	tako	O
 8	pričakovan	O
@@ -97506,7 +97308,7 @@
 2	z	O
 3	ves	O
 4	stran	O
-5	Biden	O
+5	Biden	B-PER
 6	biti	O
 7	že	O
 8	prej	O
@@ -97559,7 +97361,7 @@
 55	Obame	B-PER
 56	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	omenjati	O
 4	,	O
@@ -97570,7 +97372,7 @@
 9	morda	O
 10	povabiti	O
 11	kakšen	O
-12	republikanec	B-PER
+12	republikanec	O
 13	,	O
 14	levo	O
 15	krilo	O
@@ -97824,7 +97626,7 @@
 4	pred	O
 5	vrhoven	O
 6	sodišče	O
-7	ZDA	B-LOC
+7	ZDA	I-ORG
 8	,	O
 9	biti	O
 10	dejati	O
@@ -98097,7 +97899,7 @@
 23	.	O
 
 1	New	B-LOC
-2	York	I-LOC
+2	York	B-LOC
 3	biti	O
 4	izpljuniti	O
 5	Ivanko	B-PER
@@ -98216,7 +98018,7 @@
 7	zaželen	O
 8	v	O
 9	New	B-LOC
-10	York	I-LOC
+10	York	B-LOC
 11	,	O
 12	veliko	O
 13	packo	O
@@ -98544,8 +98346,8 @@
 22	nagrajenec	O
 23	Richard	B-PER
 24	Russo	I-PER
-25	Empire	O
-26	Falls	O
+25	Empire	B-PRO
+26	Falls	I-PRO
 27	,	O
 28	ki	O
 29	govoriti	O
@@ -98725,9 +98527,9 @@
 2	Trump	I-PER
 3	,	O
 4	ameriški	O
-5	Marija	O
-6	Antoaneta	O
-7	Lysandra	I-PER
+5	Marija	B-PER
+6	Antoaneta	I-PER
+7	Lysandra	B-PER
 8	Ohrstrom	I-PER
 9	od	O
 10	Donalda	B-PER
@@ -98891,7 +98693,7 @@
 36	.	O
 
 1	New	B-LOC
-2	York	I-LOC
+2	York	B-LOC
 3	biti	O
 4	par	O
 5	odgovoriti	O
@@ -98948,7 +98750,7 @@
 5	v	O
 6	osrčje	O
 7	New	B-LOC
-8	York	I-LOC
+8	York	B-LOC
 9	,	O
 10	na	O
 11	Times	B-LOC
@@ -98970,7 +98772,7 @@
 27	umrl	O
 28	v	O
 29	New	B-LOC
-30	York	I-LOC
+30	York	B-LOC
 31	in	O
 32	ZDA	B-LOC
 33	zaradi	O
@@ -99019,7 +98821,7 @@
 22	poslati	O
 23	na	O
 24	naslov	O
-25	Trumpov	O
+25	Trumpov	B-PER
 26	zaseben	O
 27	klub	O
 28	Mar	O
@@ -99061,7 +98863,7 @@
 14	se	O
 15	namreč	O
 16	spraševati	O
-17	Newyorčan	O
+17	Newyorčan	B-PER
 18	,	O
 19	ki	O
 20	mačehovski	O
@@ -99160,10 +98962,10 @@
 3	agencija	O
 4	z	O
 5	naslov	O
-6	Nadzor	B-ORG
-7	nad	I-ORG
-8	govorica	I-ORG
-9	biti	I-ORG
+6	Nadzor	O
+7	nad	O
+8	govorica	O
+9	biti	O
 10	po	O
 11	vrsta	O
 12	zavračal	O
@@ -99266,7 +99068,7 @@
 22	drug	O
 23	visok	O
 24	uradnikov	O
-25	Pentagon	B-ORG
+25	Pentagon	B-LOC
 26	,	O
 27	šef	O
 28	agencija	O
@@ -99324,7 +99126,7 @@
 11	glasovnica	O
 12	po	O
 13	ZDA	B-LOC
-14	Bidna	O
+14	Bidna	B-PER
 15	razglasiti	O
 16	za	O
 17	zmagovalec	O
@@ -99483,7 +99285,7 @@
 8	delo	O
 9	težava	O
 10	tudi	O
-11	republikanec	B-PER
+11	republikanec	O
 12	,	O
 13	kot	O
 14	biti	O
@@ -99498,23 +99300,20 @@
 2	biti	O
 3	presenetljivo	O
 4	osvojiti	O
-5	Biden	O
+5	Biden	B-PER
 6	za	O
 7	okrog	O
-8	14	O
-9	.	O
-
-1	000	O
-2	glas	O
-3	in	O
-4	oba	O
-5	senaten	O
-6	tekma	O
-7	morati	O
-8	v	O
-9	drug	O
-10	krog	O
-11	.	O
+8	14.000	O
+9	glas	O
+10	in	O
+11	oba	O
+12	senaten	O
+13	tekma	O
+14	morati	O
+15	v	O
+16	drug	O
+17	krog	O
+18	.	O
 
 1	Raffensperger	B-PER
 2	se	O
@@ -99723,7 +99522,7 @@
 21	policija	O
 22	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	kot	O
 3	prvi	O
 4	demokrat	O
@@ -99731,7 +99530,7 @@
 6	28	O
 7	leto	O
 8	dobiti	O
-9	Georgio	O
+9	Georgio	B-LOC
 10	in	O
 11	imeti	O
 12	sedaj	O
@@ -99864,7 +99663,7 @@
 19	republikance	O
 20	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	z	O
 4	današnji	O
@@ -99911,7 +99710,7 @@
 20	.	O
 
 1	Zadnji	O
-2	demokrat	B-PER
+2	demokrat	O
 3	,	O
 4	ki	O
 5	biti	O
@@ -99928,7 +99727,7 @@
 16	1992	O
 17	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	biti	O
 3	tako	O
 4	letos	O
@@ -100193,8 +99992,8 @@
 28	biti	O
 29	sporočiti	O
 30	Izvršen	B-ORG
-31	odbor	I-ORG
-32	svet	I-ORG
+31	odbor	O
+32	svet	O
 33	za	I-ORG
 34	vladen	I-ORG
 35	usklajevanje	I-ORG
@@ -100228,7 +100027,7 @@
 63	zgodovina	O
 64	.	O
 
-1	Biden	O
+1	Biden	B-PER
 2	za	O
 3	vodja	O
 4	kabineti	O
@@ -100390,7 +100189,7 @@
 7	biti	O
 8	sreda	O
 9	objaviti	O
-10	Bidnova	B-ORG
+10	Bidnova	B-PER
 11	tranzicijski	O
 12	ekipa	O
 13	,	O
@@ -100401,7 +100200,7 @@
 18	da	O
 19	imenovanje	O
 20	za	O
-21	Bidnov	O
+21	Bidnov	B-PER
 22	vodja	O
 23	kabineti	O
 24	Bel	B-LOC
@@ -100670,7 +100469,7 @@
 24	,	O
 25	da	O
 26	lahko	O
-27	demokrat	O
+27	demokrat	B-PER
 28	zmagajo	O
 29	le	O
 30	z	O
@@ -100844,7 +100643,7 @@
 27	tudi	O
 28	nekaj	O
 29	znan	O
-30	republikanec	B-PER
+30	republikanec	O
 31	.	O
 
 1	Nekdanji	O
@@ -100880,7 +100679,7 @@
 3	zagotoviti	O
 4	,	O
 5	da	O
-6	Biden	O
+6	Biden	B-PER
 7	država	O
 8	ne	O
 9	biti	O
@@ -100901,10 +100700,10 @@
 4	nekdanji	O
 5	republikanski	O
 6	guvernerka	O
-7	New	O
+7	New	B-LOC
 8	Jersi	I-LOC
-9	Christie	O
-10	Todd	B-PER
+9	Christie	B-PER
+10	Todd	I-PER
 11	Whitman	I-PER
 12	,	O
 13	nekdanji	O
@@ -100948,7 +100747,7 @@
 13	pripadnost	O
 14	in	O
 15	voliti	O
-16	Bidna	O
+16	Bidna	B-PER
 17	.	O
 
 1	Teme	O
@@ -101155,7 +100954,7 @@
 8	iz	O
 9	primer	O
 10	New	B-LOC
-11	York	I-LOC
+11	York	B-LOC
 12	biti	O
 13	nič	O
 14	naučiti	O
@@ -101207,7 +101006,7 @@
 44	kongresnik	O
 45	Beto	B-PER
 46	O	I-PER
-47	Rourke	O
+47	Rourke	I-PER
 48	,	O
 49	poslovnež	O
 50	Tom	B-PER
@@ -101225,7 +101024,7 @@
 62	drug	O
 63	.	O
 
-1	Demokratov	O
+1	Demokratov	B-PER
 2	biti	O
 3	enostavno	O
 4	poenotiti	O
@@ -101349,7 +101148,7 @@
 37	zamer	O
 38	in	O
 39	voliti	O
-40	Bidna	O
+40	Bidna	B-PER
 41	,	O
 42	ker	O
 43	biti	O
@@ -101800,7 +101599,7 @@
 27	Bidna	I-PER
 28	.	O
 
-1	deldoy	O
+1	deldoy	B-PER
 2	biti	O
 3	obtožba	O
 4	v	O
@@ -101884,7 +101683,7 @@
 2	biti	O
 3	zavračali	O
 4	obtožba	O
-5	demokrat	O
+5	demokrat	B-PER
 6	o	O
 7	zarota	O
 8	za	O
@@ -101983,7 +101782,7 @@
 10	on	O
 11	biti	O
 12	voditi	O
-13	demokrat	O
+13	demokrat	B-PER
 14	v	O
 15	predstavniški	O
 16	dom	O
