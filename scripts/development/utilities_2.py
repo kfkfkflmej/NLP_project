@@ -1,4 +1,5 @@
 from datasets import DatasetDict,Dataset
+from collections import defaultdict
 #import stanza
 import re, os
 import numpy as np
@@ -630,3 +631,89 @@ def evaluate_f1(gold, pred):
     f1 = 0.0 if prec+rec == 0.0 else 2 * (prec * rec) / (prec + rec)
     print('l_slot-f1:  ', f1)
 
+from collections import defaultdict
+
+def evaluate_f1_classwise_all(gold, pred):
+    gold_ners = readNlu(gold)
+    pred_ners = readNlu(pred)
+
+    # Strict
+    tp_strict = defaultdict(int)
+    fp_strict = defaultdict(int)
+    fn_strict = defaultdict(int)
+
+    # Loose
+    tp_loose = defaultdict(int)
+    fp_loose = defaultdict(int)
+    fn_loose = defaultdict(int)
+
+    # Unlabeled (span-only)
+    tp_unlabeled = defaultdict(int)
+    fp_unlabeled = defaultdict(int)
+    fn_unlabeled = defaultdict(int)
+
+    def get_label(span): return span.split(':')[1]
+    def get_span_id(span): return span.split(':')[0]
+
+    for gold_ner, pred_ner in zip(gold_ners, pred_ners):
+        gold_spans = toSpans(gold_ner)
+        pred_spans = toSpans(pred_ner)
+
+        # Strict
+        for label in set([get_label(s) for s in gold_spans] + [get_label(s) for s in pred_spans]):
+            g = {s for s in gold_spans if get_label(s) == label}
+            p = {s for s in pred_spans if get_label(s) == label}
+            tp = len(g & p)
+            fp = len(p - g)
+            fn = len(g - p)
+            tp_strict[label] += tp
+            fp_strict[label] += fp
+            fn_strict[label] += fn
+
+        # Unlabeled
+        gold_span_ids = {get_span_id(s): get_label(s) for s in gold_spans}
+        pred_span_ids = {get_span_id(s): get_label(s) for s in pred_spans}
+        matched_ids = set(gold_span_ids.keys()) & set(pred_span_ids.keys())
+        for sid in matched_ids:
+            label = gold_span_ids[sid]
+            tp_unlabeled[label] += 1
+        for sid in set(pred_span_ids.keys()) - matched_ids:
+            label = pred_span_ids[sid]
+            fp_unlabeled[label] += 1
+        for sid in set(gold_span_ids.keys()) - matched_ids:
+            label = gold_span_ids[sid]
+            fn_unlabeled[label] += 1
+
+        # Loose
+        matched_gold = set()
+        matched_pred = set()
+        for g in gold_spans:
+            g_beg, g_end = getBegEnd(g)
+            g_label = get_label(g)
+            for p in pred_spans:
+                p_beg, p_end = getBegEnd(p)
+                p_label = get_label(p)
+                if g_label != p_label:
+                    continue
+                if (p_beg <= g_end and p_end >= g_beg):  # Overlap
+                    tp_loose[g_label] += 1
+                    matched_gold.add(g)
+                    matched_pred.add(p)
+                    break
+        for p in pred_spans - matched_pred:
+            fp_loose[get_label(p)] += 1
+        for g in gold_spans - matched_gold:
+            fn_loose[get_label(g)] += 1
+
+    def print_table(tp, fp, fn, label):
+        print(f"\n {label} F1 per class")
+        all_labels = sorted(set(tp.keys()) | set(fp.keys()) | set(fn.keys()))
+        for c in all_labels:
+            p = tp[c] / (tp[c] + fp[c]) if (tp[c] + fp[c]) > 0 else 0.0
+            r = tp[c] / (tp[c] + fn[c]) if (tp[c] + fn[c]) > 0 else 0.0
+            f1 = 2*p*r/(p+r) if (p+r) > 0 else 0.0
+            print(f"{c:10s}  |  Prec: {p:.2f}  Rec: {r:.2f}  F1: {f1:.2f}")
+
+    print_table(tp_strict, fp_strict, fn_strict, "STRICT")
+    print_table(tp_unlabeled, fp_unlabeled, fn_unlabeled, "UNLABELED")
+    print_table(tp_loose, fp_loose, fn_loose, "LOOSE")
