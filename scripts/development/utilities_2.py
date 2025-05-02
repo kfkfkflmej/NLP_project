@@ -1,6 +1,7 @@
-from datasets import DatasetDict,Dataset
+from datasets import DatasetDict,Dataset, concatenate_datasets
 from collections import defaultdict
 #import stanza
+import pandas as pd
 import re, os
 import numpy as np
 import evaluate
@@ -114,7 +115,7 @@ def convert_labels(dataset,label2id):
     dataset["ner_tags"] = [[label2id[tag] for tag in tags] for tags in dataset["ner_tags"]]
     return dataset
 
-def load_data(language_code: str, train: bool) :
+def load_data(language_code: str, train=True):
     
     data_files = generate_data_files(language_code)
     dataset_dict = {}
@@ -122,19 +123,13 @@ def load_data(language_code: str, train: bool) :
     #for _,file in data_files.items():
     if train:
       splits=["train","validation"]
+    elif train=="all":
+        splits=["train","validation","test"]
     else:
       splits=["test"]
     for split in splits:
       parsed_data, labels = parse_iob2(data_files[split])
-      if language_code in ['bg', 'ru']:
-          dataset_dict[split] = parsed_data
-      else:
-          if "test" not in dataset_dict:
-              dataset_dict["test"] = parsed_data  # Initialize 'test' split if it doesn't exist
-          else:
-              # Append parsed_data to the 'test' split
-              dataset_dict["test"]["tokens"].extend(parsed_data["tokens"])
-              dataset_dict["test"]["ner_tags"].extend(parsed_data["ner_tags"])
+      dataset_dict[split] = parsed_data
       all_labels.update(labels)
 
     # Convert label list to mapping
@@ -389,11 +384,7 @@ def create_model_init(model_name, data, device):
 def get_f1_score(model, dataset):
     return model.predict(dataset).metrics["test_f1"]
 
-def evaluate_lang_performance(lang, trainer):
-    panx_ds = encode_dataset(panx_ds_combined[lang])
-    return get_f1_score(trainer, panx_ds["test"])
-
-def fine_tuning_training_on_single_corpus(dataset, num_samples):
+def fine_tuning_training_on_single_corpus(dataset, num_samples, training_args, model_init, data_collator, xlmr_tokenizer,compute_metrics, batch_size=16):
     """
     Function to train the model on a single corpus of data.
 
@@ -404,6 +395,7 @@ def fine_tuning_training_on_single_corpus(dataset, num_samples):
     Returns:
     results (pd.DataFrame): A pandas DataFrame containing the number of training samples used and the F1 score on the test set.
     """
+    
     # Shuffle the training data and select the first 'num_samples' examples.
     train_ds = dataset["train"].shuffle(seed=42).select(range(num_samples))
     # The validation and test sets are not shuffled or truncated.
@@ -631,8 +623,6 @@ def evaluate_f1(gold, pred):
     f1 = 0.0 if prec+rec == 0.0 else 2 * (prec * rec) / (prec + rec)
     print('l_slot-f1:  ', f1)
 
-from collections import defaultdict
-
 def evaluate_f1_classwise_all(gold, pred):
     gold_ners = readNlu(gold)
     pred_ners = readNlu(pred)
@@ -717,3 +707,30 @@ def evaluate_f1_classwise_all(gold, pred):
     print_table(tp_strict, fp_strict, fn_strict, "STRICT")
     print_table(tp_unlabeled, fp_unlabeled, fn_unlabeled, "UNLABELED")
     print_table(tp_loose, fp_loose, fn_loose, "LOOSE")
+
+def concatenate_splits(corpora):
+    """
+    Function to concatenate multiple corpora together, and shuffle the result.
+
+    Parameters:
+    corpora (list): A list of corpora, where each corpus is an instance of DatasetDict from the HuggingFace `datasets` library.
+                     Each DatasetDict should contain the same train/validation/test splits.
+
+    Returns:
+    multi_corpus (DatasetDict): A DatasetDict containing the concatenated and shuffled datasets.
+    """
+
+    # Initialize an empty DatasetDict to hold the concatenated datasets.
+    multi_corpus = DatasetDict()
+
+    # For each split (train, validation, test) in the first corpus in the list...
+    for train_val_test_split in corpora[0].keys():
+
+        # Concatenate the corresponding split from all corpora in the list.
+        # The `concatenate_datasets` function from HuggingFace `datasets` is used here.
+        # The concatenated dataset is then shuffled with a fixed seed for reproducibility.
+        multi_corpus[train_val_test_split] = concatenate_datasets(
+            [corpus[train_val_test_split] for corpus in corpora]).shuffle(seed=42)
+
+    # Return the concatenated and shuffled DatasetDict.
+    return multi_corpus
