@@ -360,9 +360,16 @@ def get_compute_metrics(id2label):
         # so we don’t need to apply the softmax
 
         # We remove all the values where the label is -100
+        metric = evaluate.load("seqeval")
         y_pred, y_true = generate_list_for_compute_metrics(eval_preds.predictions, 
                                         eval_preds.label_ids, id2label)
-        return {"f1": f1_score(y_true, y_pred)}
+        results = metric.compute(predictions=y_pred, references=y_true) 
+        return { 
+   "precision": results["overall_precision"], 
+   "recall": results["overall_recall"], 
+   "f1": results["overall_f1"], 
+  "accuracy": results["overall_accuracy"], 
+  } 
     return compute_metrics
 
 def get_config(model_name,label_list, id2label, label2id):
