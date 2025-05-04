@@ -4,7 +4,7 @@ scripts/development/my_ner_model/
 *.bin
 *.pt
 *.ckpt
-
+dump_this/
 # HuggingFace cache
 *.cache/
 

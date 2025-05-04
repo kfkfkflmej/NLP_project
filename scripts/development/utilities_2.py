@@ -121,7 +121,7 @@ def load_data(language_code: str, train=True):
     dataset_dict = {}
     all_labels = set()
     #for _,file in data_files.items():
-    if train:
+    if train==True:
       splits=["train","validation"]
     elif train=="all":
         splits=["train","validation","test"]
@@ -410,7 +410,7 @@ def fine_tuning_training_on_single_corpus(dataset, num_samples, training_args, m
     test_ds = dataset["test"]
 
     # Update the logging steps in the training arguments to log progress after each batch.
-    training_args.logging_steps = len(train_ds) // batch_size
+    #training_args.logging_steps = len(train_ds) // batch_size
 
     # Initialize a Trainer instance. This is a HuggingFace class that handles training.
     trainer = Trainer(model_init=model_init, args=training_args,
@@ -419,14 +419,14 @@ def fine_tuning_training_on_single_corpus(dataset, num_samples, training_args, m
     
     # Train the model.
     trainer.train()
-
+    
     # If the training arguments specify to push the model to the HuggingFace model hub, do so with a commit message.
     if training_args.push_to_hub:
         trainer.push_to_hub(commit_message="Training completed!")
     
     # After training, compute the F1 score on the test set.
     f1_score = get_f1_score(trainer, test_ds)
-
+    free_gpu_memory(trainer.model)
     # Return the results as a pandas DataFrame.
     return pd.DataFrame.from_dict(
         {"num_samples": [len(train_ds)], "f1_score": [f1_score]})
@@ -741,3 +741,9 @@ def concatenate_splits(corpora):
 
     # Return the concatenated and shuffled DatasetDict.
     return multi_corpus
+
+def free_gpu_memory(model):
+    import gc
+    del model
+    gc.collect()
+    torch.cuda.empty_cache()
