@@ -22,6 +22,7 @@ from transformers import (
     Trainer,
     DataCollatorForTokenClassification
 )
+import gc
 
 class XLMRobertaForTokenClassification(RobertaPreTrainedModel):
     """
@@ -426,7 +427,7 @@ def fine_tuning_training_on_single_corpus(dataset, num_samples, training_args, m
     
     # After training, compute the F1 score on the test set.
     f1_score = get_f1_score(trainer, test_ds)
-    free_gpu_memory(trainer.model)
+    free_gpu_memory(trainer, train_ds, valid_ds, test_ds)
     # Return the results as a pandas DataFrame.
     return pd.DataFrame.from_dict(
         {"num_samples": [len(train_ds)], "f1_score": [f1_score]})
@@ -742,8 +743,25 @@ def concatenate_splits(corpora):
     # Return the concatenated and shuffled DatasetDict.
     return multi_corpus
 
-def free_gpu_memory(model):
-    import gc
-    del model
+def free_gpu_memory(trainer, *objects_to_delete):
+    """
+    Properly free all GPU memory used by the trainer and its model.
+    """
+    # Delete trainer components if they exist
+    if trainer is not None:
+        if hasattr(trainer, "model"):
+            del trainer.model
+        if hasattr(trainer, "optimizer"):
+            del trainer.optimizer
+        if hasattr(trainer, "lr_scheduler"):
+            del trainer.lr_scheduler
+
+    # Manually delete trainer itself
+    for obj in objects_to_delete:
+        del obj
+
+    # Run garbage collection
     gc.collect()
+    
+    # Empty CUDA cache
     torch.cuda.empty_cache()
